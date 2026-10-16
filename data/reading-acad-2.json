@@ -1,0 +1,735 @@
+{
+  "kind": "reading",
+  "id": "acad-2",
+  "module": "academic",
+  "title": "Academic Reading — Test 2",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Light Across the Water",
+      "intro": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+      "texts": [
+        {
+          "heading": "Light Across the Water",
+          "subheading": "How engineers taught a small flame to reach far out to sea",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For most of history, the only warning a sailor received of a dangerous coast at night was a fire. Wood, and later coal, was burned in open iron baskets on towers and headlands, but such fires were a wasteful source of light: most of their glow escaped into the sky or fell uselessly on the land behind, and rain or wind could reduce them to embers just when they were most needed. During the seventeenth and eighteenth centuries, a growing number of towers were instead topped with a glazed room, or lantern, in which candles or oil lamps burned out of the weather. Their light, however, was weak, and the glass soon blackened with smoke."
+            },
+            {
+              "label": "B",
+              "text": "Two inventions of the late eighteenth century brought real progress. The first was an oil lamp with a hollow, circular wick inside a glass chimney. Because air reached both the inner and outer surfaces of the flame, it burned far more brightly than earlier lamps and produced much less smoke. The second was the reflector, a polished bowl of silver-coated copper that threw a lamp's light forward in a concentrated beam. Large lighthouses were soon fitted with a dozen or more lamps, each with its own reflector. Yet even polished metal absorbs much of the light that strikes it, and the reflectors tarnished so quickly that keepers had to clean them daily, gradually wearing away the thin silver coating."
+            },
+            {
+              "label": "C",
+              "text": "The breakthrough came from France. In the early 1820s, the physicist Augustin Fresnel, then advising on the country's coastal lights, turned his attention to lenses. A lens loses far less light than a metal reflector, but an ordinary lens large enough for a lighthouse would have been impossibly thick and heavy. The idea of a lens built in steps had been proposed before, but Fresnel made it practical. Since light is bent only where it enters and leaves glass, he reasoned, the thick body of a lens merely adds weight. He therefore divided the lens into concentric rings, each keeping just a thin slice of the original curve, so that it focused light almost as well while using a fraction of the glass. The first was installed in a French lighthouse in 1823, and within decades the design had spread worldwide."
+            },
+            {
+              "label": "D",
+              "text": "In its fully developed form, the lens was a glass cage surrounding the lamp, the largest examples standing taller than a person. The flame had to sit precisely at the focus of the lens, the single point at which every part of it was aimed. Light leaving the flame roughly horizontally passed through a central band of glass, which bent it into a level beam. Light heading steeply upwards or downwards would have missed this band altogether, so above and below it were rings of triangular prisms. Rather than simply bending this light, the prisms reflected it inside the glass, turning it until it too emerged horizontally. According to the maritime historian Dr Isobel Penhallow, one lamp inside such a lens could outshine the largest reflector systems while burning far less oil."
+            },
+            {
+              "label": "E",
+              "text": "So that sailors could tell one lighthouse from another, many lights were given a distinctive pattern of flashes, often by rotating the lens. Its central band was divided into several panels, each concentrating the light into a narrow beam, so that as the lens turned, the beams swept across the sea like the spokes of a wheel and a sailor saw a flash each time one passed. A large lens could weigh several tonnes, so from the 1890s many were floated on a bath of mercury, a liquid metal that reduced friction almost to nothing. The turning itself was usually done by clockwork, driven by heavy weights that slowly descended through the centre of the tower and had to be wound back up by hand every few hours."
+            },
+            {
+              "label": "F",
+              "text": "Running such a light demanded constant attention. The lamp was lit at sunset, and through the night the keeper on watch trimmed the wicks to stop the flame smoking, rewound the clockwork and checked that the light was showing its correct pattern. In the morning, soot had to be wiped from the lens and windows, and fresh oil carried up the tower. By day, curtains were drawn around the lantern, since the lens could concentrate the sun's rays as effectively as a lamp's. \"People assume the worst of it was the loneliness,\" says Gideon Fairlie, who kept lights for nineteen years before automation. \"But the real test was monotony: the same tasks, in the same order, done perfectly every day.\""
+            },
+            {
+              "label": "G",
+              "text": "The end of this way of life came gradually. Electric lamps became widespread in the twentieth century, removing the need to trim wicks or carry oil. Smaller lights were fitted with gas burners controlled by a valve that responded to daylight, lighting the flame at dusk and putting it out at dawn. Later came devices that replaced failed bulbs automatically, and radio links that allowed one control centre to monitor dozens of lights. By the end of the century, keepers had been withdrawn in many countries, and many great lenses have since given way to compact LED lanterns. Satellite navigation has made ships far less dependent on lighthouses, yet many remain in service: electronic systems can fail, and a light on a headland is still a simple, reliable check on a ship's position."
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "acad2-s1-g1",
+          "type": "tfng",
+          "range": [
+            1,
+            5
+          ],
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "n": 1,
+              "text": "Coal fires gave a brighter light than wood fires.",
+              "answer": "NOT GIVEN",
+              "loc": "A",
+              "explanation": "Paragraph A says wood and later coal were burned, but it never compares how brightly the two fuels burned."
+            },
+            {
+              "n": 2,
+              "text": "Most of the light produced by an open fire was wasted.",
+              "answer": "TRUE",
+              "loc": "A",
+              "explanation": "Paragraph A calls such fires \"a wasteful source of light\": most of their glow escaped into the sky or fell on the land."
+            },
+            {
+              "n": 3,
+              "text": "The lamp with a circular wick was smokier than the lamps it replaced.",
+              "answer": "FALSE",
+              "loc": "B",
+              "explanation": "Paragraph B says the new lamp burned more brightly than earlier lamps and \"produced much less smoke\"."
+            },
+            {
+              "n": 4,
+              "text": "Regular cleaning eventually damaged the reflectors.",
+              "answer": "TRUE",
+              "loc": "B",
+              "explanation": "Paragraph B: keepers cleaned the reflectors daily, \"gradually wearing away the thin silver coating\"."
+            },
+            {
+              "n": 5,
+              "text": "Fresnel was the first person to suggest building a lens in steps.",
+              "answer": "FALSE",
+              "loc": "C",
+              "explanation": "Paragraph C says the idea \"had been proposed before\"; Fresnel made it practical but did not originate it."
+            }
+          ]
+        },
+        {
+          "id": "acad2-s1-g2",
+          "type": "diagram_labelling",
+          "range": [
+            6,
+            9
+          ],
+          "instructions": "Label the diagram below. Choose ONE WORD ONLY from the passage for each answer.",
+          "limit": "ONE WORD ONLY",
+          "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 400\" role=\"img\" aria-label=\"Diagram: cross-section of a rotating lighthouse lens, labels 6 to 9\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\"><rect x=\"0\" y=\"0\" width=\"600\" height=\"400\" fill=\"#ffffff\"/><text x=\"20\" y=\"26\" font-size=\"16\" fill=\"#222\" font-weight=\"bold\">Cross-section of a rotating lighthouse lens</text><line x1=\"330.0\" y1=\"166.0\" x2=\"388.0\" y2=\"146.0\" stroke=\"#222\" stroke-width=\"1.1\"/><line x1=\"388.0\" y1=\"146.0\" x2=\"463.0\" y2=\"146.0\" stroke=\"#222\" stroke-width=\"1.1\"/><polygon points=\"470.0,146.0 462.0,142.0 462.0,150.0\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><line x1=\"330.0\" y1=\"166.0\" x2=\"388.0\" y2=\"166.0\" stroke=\"#222\" stroke-width=\"1.1\"/><line x1=\"388.0\" y1=\"166.0\" x2=\"463.0\" y2=\"166.0\" stroke=\"#222\" stroke-width=\"1.1\"/><polygon points=\"470.0,166.0 462.0,162.0 462.0,170.0\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><line x1=\"330.0\" y1=\"166.0\" x2=\"388.0\" y2=\"186.0\" stroke=\"#222\" stroke-width=\"1.1\"/><line x1=\"388.0\" y1=\"186.0\" x2=\"463.0\" y2=\"186.0\" stroke=\"#222\" stroke-width=\"1.1\"/><polygon points=\"470.0,186.0 462.0,182.0 462.0,190.0\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><line x1=\"330.0\" y1=\"166.0\" x2=\"398.6\" y2=\"128.4\" stroke=\"#222\" stroke-width=\"1.1\"/><line x1=\"398.6\" y1=\"128.4\" x2=\"463.0\" y2=\"128.4\" stroke=\"#222\" stroke-width=\"1.1\"/><polygon points=\"470.0,128.4 462.0,124.4 462.0,132.4\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><line x1=\"330.0\" y1=\"166.0\" x2=\"385.5\" y2=\"110.4\" stroke=\"#222\" stroke-width=\"1.1\"/><line x1=\"385.5\" y1=\"110.4\" x2=\"463.0\" y2=\"110.4\" stroke=\"#222\" stroke-width=\"1.1\"/><polygon points=\"470.0,110.4 462.0,106.4 462.0,114.4\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><line x1=\"330.0\" y1=\"166.0\" x2=\"368.0\" y2=\"96.7\" stroke=\"#222\" stroke-width=\"1.1\"/><line x1=\"368.0\" y1=\"96.7\" x2=\"463.0\" y2=\"96.7\" stroke=\"#222\" stroke-width=\"1.1\"/><polygon points=\"470.0,96.7 462.0,92.7 462.0,100.7\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><line x1=\"330.0\" y1=\"166.0\" x2=\"398.6\" y2=\"203.6\" stroke=\"#222\" stroke-width=\"1.1\"/><line x1=\"398.6\" y1=\"203.6\" x2=\"463.0\" y2=\"203.6\" stroke=\"#222\" stroke-width=\"1.1\"/><polygon points=\"470.0,203.6 462.0,199.6 462.0,207.6\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><line x1=\"330.0\" y1=\"166.0\" x2=\"385.5\" y2=\"221.6\" stroke=\"#222\" stroke-width=\"1.1\"/><line x1=\"385.5\" y1=\"221.6\" x2=\"463.0\" y2=\"221.6\" stroke=\"#222\" stroke-width=\"1.1\"/><polygon points=\"470.0,221.6 462.0,217.6 462.0,225.6\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><line x1=\"330.0\" y1=\"166.0\" x2=\"368.0\" y2=\"235.3\" stroke=\"#222\" stroke-width=\"1.1\"/><line x1=\"368.0\" y1=\"235.3\" x2=\"463.0\" y2=\"235.3\" stroke=\"#222\" stroke-width=\"1.1\"/><polygon points=\"470.0,235.3 462.0,231.3 462.0,239.3\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><polygon points=\"390.6,135.4 408.6,135.4 408.6,119.4\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"269.4,135.4 251.4,135.4 251.4,119.4\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"377.5,117.4 395.5,117.4 395.5,101.4\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"282.5,117.4 264.5,117.4 264.5,101.4\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"360.0,103.7 378.0,103.7 378.0,87.7\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"300.0,103.7 282.0,103.7 282.0,87.7\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"390.6,196.6 408.6,196.6 408.6,212.6\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"269.4,196.6 251.4,196.6 251.4,212.6\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"377.5,214.6 395.5,214.6 395.5,230.6\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"282.5,214.6 264.5,214.6 264.5,230.6\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"360.0,228.3 378.0,228.3 378.0,244.3\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"300.0,228.3 282.0,228.3 282.0,244.3\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"388.0,138.0 396.0,138.0 396.0,146.0 402.0,146.0 402.0,156.0 406.0,156.0 406.0,176.0 402.0,176.0 402.0,186.0 396.0,186.0 396.0,194.0 388.0,194.0\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><polygon points=\"272.0,138.0 264.0,138.0 264.0,146.0 258.0,146.0 258.0,156.0 254.0,156.0 254.0,176.0 258.0,176.0 258.0,186.0 264.0,186.0 264.0,194.0 272.0,194.0\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"330.0\" y1=\"196.0\" x2=\"330.0\" y2=\"246.0\" stroke=\"#222\" stroke-width=\"1.5\"/><rect x=\"322\" y=\"176\" width=\"16\" height=\"20\" fill=\"#eef2f6\" stroke=\"#222\" stroke-width=\"1.2\"/><path d=\"M330,150 C337,158 339,167 330,176 C321,167 323,158 330,150 Z\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.2\"/><rect x=\"238\" y=\"258\" width=\"184\" height=\"22\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><rect x=\"250\" y=\"246\" width=\"160\" height=\"16\" fill=\"#eef2f6\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"330.0\" y1=\"280.0\" x2=\"330.0\" y2=\"298.0\" stroke=\"#222\" stroke-width=\"2.0\"/><rect x=\"294\" y=\"298\" width=\"72\" height=\"34\" fill=\"#eef2f6\" stroke=\"#222\" stroke-width=\"1.2\"/><circle cx=\"316\" cy=\"315\" r=\"11\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.2\"/><circle cx=\"316\" cy=\"315\" r=\"3\" fill=\"#222\"/><circle cx=\"343\" cy=\"315\" r=\"8\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.2\"/><circle cx=\"343\" cy=\"315\" r=\"2.5\" fill=\"#222\"/><text x=\"374\" y=\"320\" font-size=\"14\" fill=\"#222\">clockwork</text><line x1=\"358.0\" y1=\"332.0\" x2=\"358.0\" y2=\"350.0\" stroke=\"#222\" stroke-width=\"1.2\"/><rect x=\"346\" y=\"350\" width=\"24\" height=\"16\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><rect x=\"346\" y=\"366\" width=\"24\" height=\"16\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"386.0\" y1=\"352.0\" x2=\"386.0\" y2=\"373.0\" stroke=\"#222\" stroke-width=\"1.3\"/><polygon points=\"386.0,381.0 382.0,373.0 390.0,373.0\" fill=\"#222\" stroke=\"#222\" stroke-width=\"0.5\"/><text x=\"478\" y=\"162\" font-size=\"14\" fill=\"#222\">level beam</text><text x=\"478\" y=\"179\" font-size=\"14\" fill=\"#222\">out to sea</text><text x=\"48\" y=\"160\" font-size=\"14\" fill=\"#222\">central band bends light</text><text x=\"48\" y=\"177\" font-size=\"14\" fill=\"#222\">into a level beam</text><line x1=\"226.0\" y1=\"166.0\" x2=\"254.0\" y2=\"166.0\" stroke=\"#222\" stroke-width=\"1.0\"/><circle cx=\"254.0\" cy=\"166.0\" r=\"2.2\" fill=\"#222\"/><text x=\"590\" y=\"394\" font-size=\"13\" fill=\"#222\" text-anchor=\"end\">rays shown on one side only</text><rect x=\"178\" y=\"42\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"191\" y=\"58\" font-size=\"15\" fill=\"#222\" text-anchor=\"middle\" font-weight=\"bold\">6</text><text x=\"212\" y=\"58\" font-size=\"14\" fill=\"#222\">flame sits exactly at the ........</text><text x=\"212\" y=\"75\" font-size=\"14\" fill=\"#222\">(the point all the glass is aimed at)</text><line x1=\"330.0\" y1=\"82.0\" x2=\"330.0\" y2=\"148.0\" stroke=\"#222\" stroke-width=\"1.0\"/><circle cx=\"330.0\" cy=\"148.0\" r=\"2.2\" fill=\"#222\"/><rect x=\"14\" y=\"92\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"27\" y=\"108\" font-size=\"15\" fill=\"#222\" text-anchor=\"middle\" font-weight=\"bold\">7</text><text x=\"48\" y=\"102\" font-size=\"14\" fill=\"#222\">rings of glass ........</text><text x=\"48\" y=\"119\" font-size=\"14\" fill=\"#222\">redirect steep rays</text><line x1=\"206.0\" y1=\"110.0\" x2=\"251.4\" y2=\"127.0\" stroke=\"#222\" stroke-width=\"1.0\"/><circle cx=\"251.4\" cy=\"127.0\" r=\"2.2\" fill=\"#222\"/><rect x=\"14\" y=\"262\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"27\" y=\"278\" font-size=\"15\" fill=\"#222\" text-anchor=\"middle\" font-weight=\"bold\">8</text><text x=\"48\" y=\"272\" font-size=\"14\" fill=\"#222\">lens floats on ........</text><text x=\"48\" y=\"289\" font-size=\"14\" fill=\"#222\">(a liquid metal)</text><line x1=\"204.0\" y1=\"268.0\" x2=\"238.0\" y2=\"268.0\" stroke=\"#222\" stroke-width=\"1.0\"/><circle cx=\"238.0\" cy=\"268.0\" r=\"2.2\" fill=\"#222\"/><rect x=\"14\" y=\"350\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"27\" y=\"366\" font-size=\"15\" fill=\"#222\" text-anchor=\"middle\" font-weight=\"bold\">9</text><text x=\"48\" y=\"360\" font-size=\"14\" fill=\"#222\">clockwork powered by</text><text x=\"48\" y=\"377\" font-size=\"14\" fill=\"#222\">slowly falling ........</text><line x1=\"212.0\" y1=\"372.0\" x2=\"346.0\" y2=\"372.0\" stroke=\"#222\" stroke-width=\"1.0\"/><circle cx=\"346.0\" cy=\"372.0\" r=\"2.2\" fill=\"#222\"/></svg>",
+          "questions": [
+            {
+              "n": 6,
+              "text": "flame sits exactly at the ____ (the point all the glass is aimed at)",
+              "answer": "focus",
+              "loc": "D",
+              "explanation": "Paragraph D: the flame had to sit \"precisely at the focus of the lens\", the single point that every part of the lens was aimed at."
+            },
+            {
+              "n": 7,
+              "text": "rings of glass ____ redirect steep rays",
+              "answer": "prisms",
+              "loc": "D",
+              "explanation": "Paragraph D: light heading steeply up or down met \"rings of triangular prisms\", which turned it horizontal. Panels belong to the central band."
+            },
+            {
+              "n": 8,
+              "text": "lens floats on ____ (a liquid metal)",
+              "answer": "mercury",
+              "loc": "E",
+              "explanation": "Paragraph E: many lenses \"were floated on a bath of mercury, a liquid metal\" that cut friction."
+            },
+            {
+              "n": 9,
+              "text": "clockwork powered by slowly falling ____",
+              "answer": "weights",
+              "loc": "E",
+              "explanation": "Paragraph E: the clockwork was \"driven by heavy weights that slowly descended\" through the tower."
+            }
+          ]
+        },
+        {
+          "id": "acad2-s1-g3",
+          "type": "short_answer",
+          "range": [
+            10,
+            13
+          ],
+          "instructions": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+          "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "questions": [
+            {
+              "n": 10,
+              "text": "In what year was one of Fresnel's lenses first fitted in a lighthouse?",
+              "answer": "1823",
+              "loc": "C",
+              "explanation": "Paragraph C: \"The first was installed in a French lighthouse in 1823\"; the early 1820s is only when Fresnel began his work.",
+              "accept": [
+                "in 1823"
+              ]
+            },
+            {
+              "n": 11,
+              "text": "What did a sailor at sea observe whenever one of the beams from a rotating lens went by?",
+              "answer": "a flash",
+              "loc": "E",
+              "explanation": "Paragraph E: as the beams swept across the sea, \"a sailor saw a flash each time one passed\".",
+              "accept": [
+                "flash"
+              ]
+            },
+            {
+              "n": 12,
+              "text": "What did Gideon Fairlie regard as the most demanding aspect of a keeper's job?",
+              "answer": "monotony",
+              "loc": "F",
+              "explanation": "Paragraph F: Fairlie says people assume the worst part was loneliness, \"But the real test was monotony\".",
+              "accept": [
+                "the monotony"
+              ]
+            },
+            {
+              "n": 13,
+              "text": "What technology has reduced ships' reliance on lighthouses?",
+              "answer": "satellite navigation",
+              "loc": "G",
+              "explanation": "Paragraph G: \"Satellite navigation has made ships far less dependent on lighthouses\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Farming Upwards",
+      "intro": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.",
+      "texts": [
+        {
+          "heading": "Farming Upwards",
+          "subheading": "Can stacking crops indoors ever pay its way?",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In a converted warehouse on the edge of a city, lettuces grow in trays stacked ten layers high, their roots trailing in water and their leaves bathed in purple-pink light. There is no soil and no sunlight, but also no bad weather, few pests and no need for pesticides. Supporters of vertical farming, as the approach is known, argue that it could transform the way cities are fed: crops can be harvested all year round on a fraction of the land that fields require, and delivered to shops within hours of being picked. During the 2010s, such promises attracted enormous sums from investors. The results, however, have been decidedly mixed, and the industry's short history offers clear lessons about which of those promises can be kept."
+            },
+            {
+              "label": "B",
+              "text": "Most vertical farms rely on hydroponics, in which plants are grown without soil and their roots are supplied with water containing dissolved nutrients. In a common arrangement, seedlings are held in shallow channels along which a thin film of nutrient solution flows continuously. Because the solution is recirculated rather than allowed to drain away, very little water is lost, and operators frequently claim to use up to 95 per cent less than conventional farms. The principal weakness of the method is that every plant in the system shares the same water, so a root disease that finds its way in can spread rapidly from one tray to the next."
+            },
+            {
+              "label": "C",
+              "text": "A more radical technique, aeroponics, does away with standing water altogether. The roots hang in the air inside a closed chamber and are sprayed at regular intervals with a fine mist of nutrient solution. Because roots surrounded by air receive more oxygen than those immersed in liquid, many crops grow faster, and water use falls further still. The method is, however, unforgiving. The misting nozzles can become blocked by mineral deposits, and if the pumps stop, the exposed roots begin to dry out within hours. Hollowmere Farms, an early aeroponic grower, discovered this at great cost when a power failure one weekend went unnoticed: by Monday morning, a month's crop had wilted beyond recovery. The company never regained the confidence of its buyers and closed the following year."
+            },
+            {
+              "label": "D",
+              "text": "It is in lighting that the technology has advanced most dramatically. Early indoor growers relied on the high-pressure lamps used in greenhouses, which ran so hot that they had to hang well above the plants, wasting valuable space. Light-emitting diodes (LEDs) have changed this. They convert electricity into light more efficiently and radiate much less heat towards the plants, so they can be positioned just centimetres above the leaves, allowing more layers to be fitted into the same building. LEDs can also be tuned to the wavelengths plants use most in photosynthesis, mainly red and blue, which is why so many vertical farms glow an unearthly pink. Some growers go further, altering the light shortly before harvest to deepen the colour of red lettuce or sharpen the flavour of herbs."
+            },
+            {
+              "label": "E",
+              "text": "Yet replacing the sun remains expensive. Even efficient LEDs consume large amounts of electricity, and because almost all of that energy eventually ends up as heat, farms must also run powerful cooling systems to remove it. According to the agricultural economist Dr Ilse Brandvold, electricity can account for a third or more of a vertical farm's running costs – a burden that field growers, whose light is free, do not bear. This is why vertical farms concentrate on leafy greens and herbs, which grow quickly, sell at high prices and are mostly water by weight. Staple crops are another matter. Brandvold calculates that a loaf made from indoor-grown wheat would cost many times more than an ordinary one, since wheat takes months to ripen and much of the plant cannot be eaten."
+            },
+            {
+              "label": "F",
+              "text": "These economics have proved fatal to companies that tried to grow too big too quickly. Lumenfield, founded in 2015, raised vast sums on the promise that it would sell salad leaves to mainstream supermarkets at prices matching those of field-grown produce. It opened large farms in four cities in rapid succession, only to be caught out when electricity prices rose sharply in the early 2020s; soon it was selling each bag of lettuce for less than it cost to grow. Within eighteen months it had closed three of its four sites, and in 2023 it ceased trading altogether. Lumenfield was far from alone. A wave of closures swept the industry during the same period, and many investors who had been told that vertical farming would soon rival conventional agriculture quietly withdrew."
+            },
+            {
+              "label": "G",
+              "text": "The survivors tend to share a more modest outlook. Pellworth Growers, which runs a single farm in a former printing works, has been profitable for six years. It has prospered by serving a niche: it grows microgreens, herbs and edible flowers for restaurants and specialist shops that will pay a premium for produce harvested only hours earlier. Crucially, it also signed a long-term agreement to buy electricity at a fixed price from a nearby wind farm, which protected it when energy costs soared. Vertical farming has also found firmer ground in desert states and crowded island cities, where land and fresh water are scarce, most vegetables are imported and governments often treat local production as a matter of food security. \"The question was never whether we could grow lettuce in a warehouse,\" says Pellworth's founder, Amara Lindqvist. \"It was what made sense to grow there, and where.\""
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "acad2-s2-g1",
+          "type": "matching_info",
+          "range": [
+            14,
+            18
+          ],
+          "instructions": "Reading Passage 2 has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "key": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "a reference to investors losing confidence in vertical farming",
+              "answer": "F",
+              "loc": "F",
+              "explanation": "Paragraph F says many investors \"quietly withdrew\". Paragraph C mentions lost confidence, but that of buyers, not investors."
+            },
+            {
+              "n": 15,
+              "text": "a reason why one growing method may speed up plant growth",
+              "answer": "C",
+              "loc": "C",
+              "explanation": "Paragraph C: roots in air \"receive more oxygen\", so \"many crops grow faster\". The LEDs in D save space rather than speed growth."
+            },
+            {
+              "n": 16,
+              "text": "an explanation for the unusual appearance of many vertical farms",
+              "answer": "D",
+              "loc": "D",
+              "explanation": "Paragraph D says LEDs are tuned to red and blue, \"which is why\" farms glow pink. Paragraph A only describes the light."
+            },
+            {
+              "n": 17,
+              "text": "a reason why certain crops are unsuitable for vertical farming",
+              "answer": "E",
+              "loc": "E",
+              "explanation": "Paragraph E: indoor wheat would be far too costly because it ripens slowly and much of the plant is inedible."
+            },
+            {
+              "n": 18,
+              "text": "an example of a business that failed after a problem went undetected",
+              "answer": "C",
+              "loc": "C",
+              "explanation": "Paragraph C: Hollowmere's power failure \"went unnoticed\" and the company later closed. Lumenfield (F) failed for economic reasons."
+            }
+          ]
+        },
+        {
+          "id": "acad2-s2-g2",
+          "type": "table_completion",
+          "range": [
+            19,
+            23
+          ],
+          "instructions": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
+          "limit": "ONE WORD ONLY",
+          "title": "Technologies used in vertical farming",
+          "table": {
+            "headers": [
+              "Technology",
+              "How it works",
+              "Benefits",
+              "Drawbacks"
+            ],
+            "rows": [
+              [
+                "Hydroponics",
+                "young plants sit in shallow {{19}}, with a thin film of liquid running past their roots",
+                "the nutrient solution is {{20}}, so very little water is wasted",
+                "root diseases spread easily because all the plants share the same water"
+              ],
+              [
+                "Aeroponics",
+                "roots are suspended in air and regularly sprayed with a fine {{21}}",
+                "extra {{22}} reaches the roots, so many crops grow faster",
+                "blocked nozzles or failed pumps can quickly ruin a crop"
+              ],
+              [
+                "LED lighting",
+                "light can be tuned to the red and blue wavelengths that plants use most",
+                "lamps give off little {{23}} in the direction of the crop, so they can be mounted just above the leaves",
+                "high electricity use; cooling systems are needed"
+              ]
+            ]
+          },
+          "questions": [
+            {
+              "n": 19,
+              "text": "",
+              "answer": "channels",
+              "loc": "B",
+              "explanation": "Paragraph B: seedlings are held \"in shallow channels\" along which a thin film of solution flows. The trays in paragraph A are simply where crops are stacked."
+            },
+            {
+              "n": 20,
+              "text": "",
+              "answer": "recirculated",
+              "loc": "B",
+              "explanation": "Paragraph B: the solution \"is recirculated rather than allowed to drain away\", so little water is lost.",
+              "accept": [
+                "re-circulated"
+              ]
+            },
+            {
+              "n": 21,
+              "text": "",
+              "answer": "mist",
+              "loc": "C",
+              "explanation": "Paragraph C: roots are sprayed \"with a fine mist of nutrient solution\"."
+            },
+            {
+              "n": 22,
+              "text": "",
+              "answer": "oxygen",
+              "loc": "C",
+              "explanation": "Paragraph C: roots surrounded by air \"receive more oxygen\", so many crops grow faster. Air surrounds the roots, but oxygen is what increases."
+            },
+            {
+              "n": 23,
+              "text": "",
+              "answer": "heat",
+              "loc": "D",
+              "explanation": "Paragraph D: LEDs \"radiate much less heat towards the plants\", so they can sit just above the leaves."
+            }
+          ]
+        },
+        {
+          "id": "acad2-s2-g3",
+          "type": "mcq_multi",
+          "range": [
+            24,
+            25
+          ],
+          "instructions": "Choose TWO letters, A–E.",
+          "questions": [
+            {
+              "n": [
+                24,
+                25
+              ],
+              "text": "Which TWO factors are given as reasons for the success of Pellworth Growers?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It operates farms in several different cities."
+                },
+                {
+                  "key": "B",
+                  "text": "Its buyers are willing to pay more for very fresh produce."
+                },
+                {
+                  "key": "C",
+                  "text": "It receives financial support from the government."
+                },
+                {
+                  "key": "D",
+                  "text": "It uses aeroponics to keep its water consumption low."
+                },
+                {
+                  "key": "E",
+                  "text": "It has secured a guaranteed price for its power supply."
+                }
+              ],
+              "answer": [
+                "B",
+                "E"
+              ],
+              "loc": "G",
+              "explanation": "Paragraph G: it serves buyers who \"will pay a premium\" for just-harvested produce, and a fixed-price electricity deal protected it. Several cities describes Lumenfield (paragraph F); government support and aeroponics are never linked to Pellworth."
+            }
+          ]
+        },
+        {
+          "id": "acad2-s2-g4",
+          "type": "mcq",
+          "range": [
+            26,
+            26
+          ],
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 26,
+              "text": "What point is Amara Lindqvist making in the final paragraph?",
+              "answer": "C",
+              "loc": "G",
+              "explanation": "Lindqvist says the real question was \"what made sense to grow there, and where\". Matching field-grown prices was Lumenfield's failed aim (paragraph F).",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "Vertical farms have now overcome most of their technical difficulties."
+                },
+                {
+                  "key": "B",
+                  "text": "Indoor-grown produce will soon compete with field crops on price."
+                },
+                {
+                  "key": "C",
+                  "text": "Success depends on choosing appropriate crops and locations."
+                },
+                {
+                  "key": "D",
+                  "text": "Governments should do more to encourage local food production."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Who Owns Your Attention?",
+      "intro": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.",
+      "texts": [
+        {
+          "heading": "Who Owns Your Attention?",
+          "subheading": "The business of distraction, and what to do about it",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Every free app is paid for in a currency we rarely count. More than half a century ago, an economist observed that an abundance of information creates a scarcity of attention. Since then, information has become effectively limitless while the hours in a day have not, and an enormous industry now competes for what remains. To speak of an 'attention economy' is no longer a figure of speech: some of the world's largest technology companies earn most of their revenue from advertising, so every extra minute we spend with their products can be converted directly into income."
+            },
+            {
+              "label": "B",
+              "text": "Competition for attention is hardly new. Newspapers have long relied on sensational headlines, and broadcasters learned decades ago to place a cliffhanger before the advertisements. What has changed is precision and scale. A newspaper editor could only guess at what readers wanted; a modern platform can measure, to the second, how each user responds to every element on the screen, and adjust what it shows accordingly – for hundreds of millions of people at once."
+            },
+            {
+              "label": "C",
+              "text": "The techniques this makes possible are familiar. Infinite scroll removes the natural stopping points, such as the bottom of a page, at which we might otherwise pause and decide whether to continue. Autoplay does the same for video, making continuing the default and stopping a decision. Notifications, often marked with a small red badge, summon us back to applications we had no intention of opening. Most powerful of all is unpredictability. Laboratory studies of animal behaviour in the mid-twentieth century showed that rewards delivered at irregular intervals sustain behaviour far more stubbornly than predictable ones, and a feed that occasionally offers something delightful, and more often nothing much, works on exactly this principle. Critics like to compare refreshing a feed to pulling the lever of a slot machine. The comparison is overdrawn, since nobody loses their savings by scrolling, but the underlying mechanism is the same."
+            },
+            {
+              "label": "D",
+              "text": "From such observations, a dramatic narrative of harm has emerged: we are 'addicted' to our phones, our capacity for concentration is collapsing, and a generation of teenagers is suffering. I am sceptical of much of this. Addiction is a clinical condition with demanding criteria, and while a minority of users may meet them, applying the word to everyone who checks a phone too often trivialises genuine addiction – and flatters the companies by exaggerating their power. Nor is the evidence on wellbeing as clear as the headlines suggest. When the psychologist Anouk Verhaegen and her colleagues re-examined several large surveys of adolescents, they found that the association between screen use and wellbeing was consistently negative but very small, and that the data could not reveal whether heavy use caused unhappiness or unhappy teenagers simply spent more time on their screens."
+            },
+            {
+              "label": "E",
+              "text": "The technology companies, for their part, offer a simple defence: nobody is forced to use their products, and the billions who do so evidently find them valuable. There is something in this. The same feeds that swallow our evenings also keep families in touch across continents, and to portray users as helpless victims is both inaccurate and condescending. Yet the argument from free choice assumes a contest between equals, and this is not one. On one side sits an individual, tired at the end of a working day; on the other, teams of engineers equipped with data from billions of interactions and paid to discover whatever will keep that individual watching a few minutes longer."
+            },
+            {
+              "label": "F",
+              "text": "What strikes me most, however, is how little of this requires bad intentions. Consider how a typical feature evolves. A designer proposes a minor change – a different colour for a button, a slightly shorter pause before the next video begins. The new version is shown to a small fraction of users, selected at random, while everyone else continues to see the original. After a few days the two groups are compared, and whichever version has produced more 'engagement' – a measure of how long and how often people use the product – is adopted, while the other is discarded. Repeated thousands of times, this process yields products of extraordinary holding power, even though no one ever set out to capture anybody. The system optimises for what it measures, and what it measures is time, not value."
+            },
+            {
+              "label": "G",
+              "text": "This is why I believe the familiar advice – switch off notifications, leave the phone in another room, exercise more self-control – misses the point. Such tactics may help individuals, but they treat a structural problem as a personal failing. Banning particular features is scarcely more promising: prohibit infinite scroll, and an equally effective substitute will appear for as long as the underlying incentives remain unchanged. The reforms most likely to succeed are those that alter the incentives themselves. Companies could be required to report not merely how much time people spend on their products but whether users, on reflection, consider that time well spent. And settings that protect attention – limits on notifications, a chronological feed, an end to autoplay – should be the default, rather than options buried in a menu."
+            },
+            {
+              "label": "H",
+              "text": "The question posed in the title therefore has an uncomfortable answer. At present, our attention belongs to whoever can capture it most efficiently, and the most efficient captors are systems refined, through countless small experiments, to do little else. Reclaiming it will require neither panic nor resignation, but rules that make respecting our time more profitable than consuming it."
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "acad2-s3-g1",
+          "type": "ynng",
+          "range": [
+            27,
+            31
+          ],
+          "instructions": "Do the following statements agree with the views of the writer in Reading Passage 3? Write YES if the statement agrees with the views of the writer, NO if the statement contradicts the views of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "Attempts to capture the public's attention are a relatively recent phenomenon.",
+              "answer": "NO",
+              "loc": "B",
+              "explanation": "Paragraph B: \"Competition for attention is hardly new\"; newspapers and broadcasters competed for it long ago. Only precision and scale are new."
+            },
+            {
+              "n": 28,
+              "text": "Infinite scroll deprives users of moments at which they might choose to stop.",
+              "answer": "YES",
+              "loc": "C",
+              "explanation": "Paragraph C: infinite scroll \"removes the natural stopping points\" where we might decide whether to continue."
+            },
+            {
+              "n": 29,
+              "text": "Notifications marked in red are more effective at drawing users back than other notifications.",
+              "answer": "NOT GIVEN",
+              "loc": "C",
+              "explanation": "Paragraph C mentions red badges on notifications but never compares their effect with that of other notifications."
+            },
+            {
+              "n": 30,
+              "text": "It is accurate to describe anyone who checks their phone frequently as an addict.",
+              "answer": "NO",
+              "loc": "D",
+              "explanation": "Paragraph D: using the word for everyone who checks a phone too often \"trivialises genuine addiction\"."
+            },
+            {
+              "n": 31,
+              "text": "The products discussed in the passage can bring genuine benefits to their users.",
+              "answer": "YES",
+              "loc": "E",
+              "explanation": "Paragraph E: \"There is something in this\"; the same feeds \"keep families in touch across continents\"."
+            }
+          ]
+        },
+        {
+          "id": "acad2-s3-g2",
+          "type": "mcq",
+          "range": [
+            32,
+            35
+          ],
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 32,
+              "text": "What does the writer say about the comparison between a feed and a slot machine?",
+              "answer": "B",
+              "loc": "C",
+              "explanation": "Paragraph C: the comparison \"is overdrawn\" but \"the underlying mechanism is the same\". The animal research supports the mechanism, and critics, not companies, make the comparison.",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It has been disproved by laboratory research on animals."
+                },
+                {
+                  "key": "B",
+                  "text": "It is exaggerated, although both rely on the same principle."
+                },
+                {
+                  "key": "C",
+                  "text": "It applies only to people who spend money while using apps."
+                },
+                {
+                  "key": "D",
+                  "text": "It was first made by the technology companies themselves."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "What does the writer report about the research by Anouk Verhaegen's team?",
+              "answer": "D",
+              "loc": "D",
+              "explanation": "Paragraph D: the link was \"consistently negative but very small\", and the data could not show which caused which. The surveys were large.",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It showed that heavy screen use makes teenagers unhappy."
+                },
+                {
+                  "key": "B",
+                  "text": "It found no connection between screen use and wellbeing."
+                },
+                {
+                  "key": "C",
+                  "text": "It involved too few participants to be reliable."
+                },
+                {
+                  "key": "D",
+                  "text": "It found a weak link but could not show which factor caused the other."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "Why does the writer refer to 'a contest between equals'?",
+              "answer": "A",
+              "loc": "E",
+              "explanation": "Paragraph E contrasts a tired individual with \"teams of engineers\" armed with data. The writer rejects both the free-choice defence and the idea of helpless victims.",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "to emphasise the unequal resources of users and companies"
+                },
+                {
+                  "key": "B",
+                  "text": "to support the companies' argument that users choose freely"
+                },
+                {
+                  "key": "C",
+                  "text": "to show that users are helpless victims of technology"
+                },
+                {
+                  "key": "D",
+                  "text": "to suggest that engineers are not to blame for the problem"
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "What is the writer's main purpose in Reading Passage 3?",
+              "answer": "C",
+              "loc": "G",
+              "explanation": "Paragraphs G and H argue that reforms must \"alter the incentives themselves\". Options A and B cover only parts of the argument, and D is rejected in paragraph G.",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "to explain how persuasive design techniques work"
+                },
+                {
+                  "key": "B",
+                  "text": "to show that concerns about technology are largely exaggerated"
+                },
+                {
+                  "key": "C",
+                  "text": "to argue that the problem requires changing what companies are rewarded for"
+                },
+                {
+                  "key": "D",
+                  "text": "to encourage readers to take more responsibility for their screen time"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "acad2-s3-g3",
+          "type": "flowchart_completion",
+          "range": [
+            36,
+            38
+          ],
+          "instructions": "Complete the flow-chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "limit": "NO MORE THAN TWO WORDS",
+          "title": "How a typical product feature evolves",
+          "template": "-> A minor design change is proposed, such as a new button colour\n-> The altered version is tried out on a randomly chosen {{36}} of users\n-> After a few days, the behaviour of the two groups is compared\n-> The version that generates more {{37}} (longer and more frequent use) is kept\n-> The less successful version is {{38}}\n-> Over thousands of repetitions, the product becomes extremely good at holding attention",
+          "questions": [
+            {
+              "n": 36,
+              "text": "",
+              "answer": "small fraction",
+              "loc": "F",
+              "explanation": "Paragraph F: the new version \"is shown to a small fraction of users, selected at random\".",
+              "accept": [
+                "fraction"
+              ]
+            },
+            {
+              "n": 37,
+              "text": "",
+              "answer": "engagement",
+              "loc": "F",
+              "explanation": "Paragraph F: the version that produced more \"engagement\", meaning longer and more frequent use, is adopted."
+            },
+            {
+              "n": 38,
+              "text": "",
+              "answer": "discarded",
+              "loc": "F",
+              "explanation": "Paragraph F: the winning version is adopted, \"while the other is discarded\"."
+            }
+          ]
+        },
+        {
+          "id": "acad2-s3-g4",
+          "type": "sentence_completion",
+          "range": [
+            39,
+            40
+          ],
+          "instructions": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+          "limit": "ONE WORD ONLY",
+          "questions": [
+            {
+              "n": 39,
+              "text": "The writer predicts that banning infinite scroll would simply lead to the appearance of a ____ that worked just as well.",
+              "answer": "substitute",
+              "loc": "G",
+              "explanation": "Paragraph G: \"prohibit infinite scroll, and an equally effective substitute will appear\" while incentives stay the same."
+            },
+            {
+              "n": 40,
+              "text": "According to the writer, options that help to protect people's attention ought to be the ____, not something users have to search for.",
+              "answer": "default",
+              "loc": "G",
+              "explanation": "Paragraph G: these settings \"should be the default, rather than options buried in a menu\"."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

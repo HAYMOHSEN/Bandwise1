@@ -1,0 +1,1906 @@
+{
+ "kind": "strategies",
+ "questionTypes": {
+  "tfng": {
+   "name": "True / False / Not Given",
+   "skill": "reading",
+   "en": {
+    "what": "You decide whether each statement agrees with the factual information in the passage (TRUE), contradicts it (FALSE), or cannot be checked because the passage does not say (NOT GIVEN).",
+    "steps": [
+     "Underline the key words in the statement, especially names, numbers and words that are hard to paraphrase.",
+     "Use those words to find the right part of the passage: the statements follow the order of the text.",
+     "Read the relevant sentences closely and compare the meaning, not individual words.",
+     "Check qualifiers such as all, some, only, always, mainly and comparatives: one changed word can turn TRUE into FALSE.",
+     "Choose NOT GIVEN when the passage says nothing about that specific claim, even if the general topic is mentioned.",
+     "If you are stuck, make your best guess and move on: wrong answers do not lose marks."
+    ],
+    "traps": [
+     "Using your own knowledge: judge only by what the passage says, even if the statement is true in real life.",
+     "Word matching: the same words can appear in the passage while the meaning is different.",
+     "Confusing FALSE and NOT GIVEN: FALSE needs a clear contradiction; NOT GIVEN means the information is simply not there.",
+     "Spending too long on one statement: the answers are in order, so find the next one and come back later."
+    ]
+   },
+   "ar": {
+    "name": "صح / خطأ / غير مذكور",
+    "what": "تحدّد هل تتفق كل عبارة مع المعلومات الواردة في النص (TRUE)، أم تناقضها (FALSE)، أم يتعذّر التحقق منها لأن النص لا يذكرها (NOT GIVEN).",
+    "steps": [
+     "ضع خطًا تحت الكلمات المفتاحية في العبارة، ولا سيما الأسماء والأرقام والكلمات التي يصعب إيجاد مرادف لها.",
+     "استعن بهذه الكلمات لتحديد الموضع المناسب في النص؛ فالعبارات تسير وفق ترتيب النص.",
+     "اقرأ الجمل ذات الصلة بعناية، وقارن المعنى لا الكلمات المنفردة.",
+     "انتبه إلى كلمات التقييد مثل all وsome وonly وalways وmainly وصيغ المقارنة؛ فتغيير كلمة واحدة قد يحوّل الإجابة من TRUE إلى FALSE.",
+     "اختر NOT GIVEN إذا لم يذكر النص شيئًا عن هذه المعلومة تحديدًا، حتى لو ورد الموضوع العام.",
+     "إن تعثّرت فاختر أرجح إجابة وانتقل إلى ما بعدها؛ فالإجابة الخاطئة لا تُنقص من درجتك."
+    ],
+    "traps": [
+     "الاعتماد على معلوماتك الشخصية: احكم بما يقوله النص فقط، حتى لو كانت العبارة صحيحة في الواقع.",
+     "مطابقة الكلمات: قد ترد الكلمات نفسها في النص بمعنى مختلف.",
+     "الخلط بين FALSE وNOT GIVEN: الأولى تتطلب تناقضًا واضحًا، والثانية تعني أن المعلومة غير موجودة أصلًا.",
+     "إطالة الوقت في عبارة واحدة: الإجابات مرتبة، فابحث عن التالية ثم عُد إليها لاحقًا."
+    ]
+   }
+  },
+  "ynng": {
+   "name": "Yes / No / Not Given",
+   "skill": "reading",
+   "en": {
+    "what": "You decide whether each statement agrees with the writer's views or claims (YES), contradicts them (NO), or whether it is impossible to know what the writer thinks (NOT GIVEN). It usually appears with argumentative passages.",
+    "steps": [
+     "Skim the passage first to understand the writer's overall position.",
+     "Underline key words in the statement, especially opinion words such as should, effective, overrated or unfortunately.",
+     "Find the matching part of the text: the statements follow the order of the passage.",
+     "Separate the writer's own view from views the writer only reports (some critics claim..., it is often said...).",
+     "Answer YES or NO only if the writer clearly agrees or disagrees; otherwise choose NOT GIVEN."
+    ],
+    "traps": [
+     "Treating an opinion that the writer quotes or reports as the writer's own opinion.",
+     "Ignoring the strength of a claim: if the writer calls something one useful option, a statement saying it is the only solution is NO.",
+     "Choosing NOT GIVEN too quickly when the writer expresses the same view in different words."
+    ]
+   },
+   "ar": {
+    "name": "نعم / لا / غير مذكور",
+    "what": "تحدّد هل تتفق كل عبارة مع آراء الكاتب أو ادعاءاته (YES)، أم تخالفها (NO)، أم يتعذّر معرفة رأي الكاتب فيها (NOT GIVEN). ويأتي هذا النوع عادةً مع النصوص الجدلية التي يعرض فيها الكاتب رأيه.",
+    "steps": [
+     "اقرأ النص قراءة سريعة أولًا لتفهم موقف الكاتب العام.",
+     "ضع خطًا تحت الكلمات المفتاحية في العبارة، ولا سيما كلمات الرأي مثل should وeffective وoverrated وunfortunately.",
+     "حدّد الجزء المقابل في النص؛ فالعبارات تسير وفق ترتيب النص.",
+     "ميّز بين رأي الكاتب نفسه والآراء التي ينقلها عن غيره، مثل: some critics claim أو it is often said.",
+     "أجب بـ YES أو NO فقط إذا كان الكاتب يوافق أو يخالف بوضوح، وإلا فاختر NOT GIVEN."
+    ],
+    "traps": [
+     "عدّ الرأي الذي ينقله الكاتب عن غيره رأيًا له.",
+     "إغفال قوة الادعاء: إذا وصف الكاتب أمرًا بأنه خيار مفيد من بين خيارات، فإن عبارة تقول إنه الحل الوحيد إجابتها NO.",
+     "التسرّع في اختيار NOT GIVEN مع أن الكاتب يعبّر عن الرأي نفسه بكلمات مختلفة."
+    ]
+   }
+  },
+  "mcq": {
+   "name": "Multiple choice (one answer)",
+   "skill": "both",
+   "en": {
+    "what": "You choose the one correct option to answer a question or complete a sentence. Reading questions usually have four options (A–D); Listening questions usually have three (A–C).",
+    "steps": [
+     "Read the question stem first and underline what it is really asking.",
+     "Read the options and notice how they differ from each other.",
+     "Reading: find the relevant part of the passage (questions follow the text order) and read it closely. Listening: read the options during the preparation time, before the audio starts.",
+     "Eliminate options that are wrong, not mentioned, or true but not an answer to this question.",
+     "Choose the option that matches the meaning of the text or recording, which is usually paraphrased."
+    ],
+    "traps": [
+     "An option that repeats exact words from the text is often a distractor.",
+     "Options that are true according to the text but do not answer this particular question.",
+     "In Listening, speakers often mention several options and reject some of them: wait for the final answer."
+    ]
+   },
+   "ar": {
+    "name": "اختيار من متعدد (إجابة واحدة)",
+    "what": "تختار الخيار الصحيح الوحيد للإجابة عن سؤال أو لإكمال جملة. وفي القراءة يكون للسؤال عادةً أربعة خيارات (A–D)، وفي الاستماع ثلاثة خيارات (A–C).",
+    "steps": [
+     "اقرأ نص السؤال أولًا، وضع خطًا تحت المطلوب فعلًا.",
+     "اقرأ الخيارات ولاحظ أوجه الاختلاف بينها.",
+     "في القراءة: حدّد الجزء المناسب من النص (الأسئلة تسير وفق ترتيبه) واقرأه بدقة. وفي الاستماع: اقرأ الخيارات في وقت التحضير قبل بدء التسجيل.",
+     "استبعد الخيارات الخاطئة أو غير المذكورة، أو الصحيحة التي لا تجيب عن هذا السؤال تحديدًا.",
+     "اختر الخيار الذي يوافق معنى النص أو التسجيل، وغالبًا ما يرد بصياغة مختلفة."
+    ],
+    "traps": [
+     "الخيار الذي يكرّر كلمات النص حرفيًا كثيرًا ما يكون مُضلِّلًا.",
+     "خيارات صحيحة وفق النص لكنها لا تجيب عن هذا السؤال بعينه.",
+     "في الاستماع كثيرًا ما يذكر المتحدثون عدة خيارات ثم يرفضون بعضها، فانتظر الإجابة النهائية."
+    ]
+   }
+  },
+  "mcq_multi": {
+   "name": "Multiple choice (more than one answer)",
+   "skill": "both",
+   "en": {
+    "what": "You choose two or more correct options from a longer list, for example 'Choose TWO letters, A–E'. Each correct letter usually earns one mark.",
+    "steps": [
+     "Check how many letters you must choose.",
+     "Read all the options and underline the key idea in each one.",
+     "Keep the focus of the question in mind (for example, advantages rather than problems), because some options describe the wrong thing.",
+     "The correct options can appear in any order in the text or recording, so mark each one when you find it confirmed.",
+     "Cross out options that are rejected, only partly true or said about someone else.",
+     "Never leave a choice empty: if you are unsure, guess the remaining letter."
+    ],
+    "traps": [
+     "Choosing more letters than the instructions ask for, which can cost you marks.",
+     "Assuming the options follow the order of the text or recording.",
+     "Selecting an option because it is mentioned, even though the speaker or writer rejects it."
+    ]
+   },
+   "ar": {
+    "name": "اختيار من متعدد (أكثر من إجابة)",
+    "what": "تختار خيارين صحيحين أو أكثر من قائمة أطول، مثل: Choose TWO letters, A–E. وكل حرف صحيح يُمنح عادةً درجة واحدة.",
+    "steps": [
+     "تأكّد من عدد الحروف المطلوب اختيارها.",
+     "اقرأ جميع الخيارات وضع خطًا تحت الفكرة الرئيسة في كل منها.",
+     "تذكّر محور السؤال (المزايا مثلًا لا المشكلات)، فبعض الخيارات يصف أمرًا آخر.",
+     "قد ترد الخيارات الصحيحة بأي ترتيب في النص أو التسجيل، فحدّد كل خيار عندما تتأكد منه.",
+     "استبعد الخيارات المرفوضة، أو الصحيحة جزئيًا، أو التي قيلت عن شخص آخر.",
+     "لا تترك أي اختيار فارغًا؛ فإن لم تكن متأكدًا فخمّن الحرف المتبقي."
+    ],
+    "traps": [
+     "اختيار حروف أكثر من المطلوب في التعليمات، وقد يُفقدك ذلك درجات.",
+     "افتراض أن الخيارات تسير وفق ترتيب النص أو التسجيل.",
+     "اختيار خيار لمجرد ذكره، مع أن المتحدث أو الكاتب رفضه."
+    ]
+   }
+  },
+  "matching_headings": {
+   "name": "Matching headings",
+   "skill": "reading",
+   "en": {
+    "what": "You choose the heading from a list (i, ii, iii...) that best sums up the main idea of each paragraph or section. There are more headings than paragraphs.",
+    "steps": [
+     "Read all the headings first and notice how similar headings differ.",
+     "Read each paragraph quickly, paying attention to its first and last sentences, but check the whole paragraph.",
+     "Sum up the main idea of the paragraph in a few words of your own before you look at the list.",
+     "Choose the heading that covers the whole paragraph, not just one detail or example.",
+     "Cross out headings once you are sure of them, including any heading used in the example.",
+     "Start with the easiest paragraphs and leave the hardest ones until the list is shorter."
+    ],
+    "traps": [
+     "Choosing a heading because it shares a word with the paragraph.",
+     "Matching a heading to a detail or an example instead of the main idea.",
+     "Relying only on the first sentence: some paragraphs change direction halfway through, often after 'however'."
+    ]
+   },
+   "ar": {
+    "name": "مطابقة العناوين بالفقرات",
+    "what": "تختار من قائمة العناوين (i, ii, iii...) العنوان الذي يلخّص الفكرة الرئيسة لكل فقرة أو قسم على أفضل وجه. وعدد العناوين أكبر من عدد الفقرات.",
+    "steps": [
+     "اقرأ جميع العناوين أولًا، ولاحظ الفروق بين العناوين المتشابهة.",
+     "اقرأ كل فقرة بسرعة مع التركيز على جملتيها الأولى والأخيرة، لكن لا تُهمل بقية الفقرة.",
+     "لخّص الفكرة الرئيسة للفقرة بكلمات قليلة من عندك قبل النظر في القائمة.",
+     "اختر العنوان الذي يشمل الفقرة كلها، لا تفصيلًا واحدًا أو مثالًا فيها.",
+     "اشطب العناوين التي تأكدت منها، ومنها العنوان المستخدم في المثال.",
+     "ابدأ بالفقرات الأسهل، واترك الأصعب حتى تقصر القائمة."
+    ],
+    "traps": [
+     "اختيار عنوان لأنه يشترك مع الفقرة في كلمة ما.",
+     "مطابقة العنوان مع تفصيل أو مثال بدلًا من الفكرة الرئيسة.",
+     "الاكتفاء بالجملة الأولى: فبعض الفقرات يتغيّر اتجاهها في منتصفها، وكثيرًا ما يكون ذلك بعد however."
+    ]
+   }
+  },
+  "matching_info": {
+   "name": "Matching information",
+   "skill": "reading",
+   "en": {
+    "what": "You find which paragraph contains a particular piece of information, such as an example, a reason, a comparison or a description. The questions do not follow the order of the passage.",
+    "steps": [
+     "Underline the type of information required (an example of..., a reason for..., a reference to...) as well as the topic.",
+     "Do this task after the other questions on the passage, when you already know where things are.",
+     "Scan paragraph by paragraph, looking for paraphrases of the key idea.",
+     "Read the instructions: 'NB You may use any letter more than once' means some paragraphs may be used twice and others not at all.",
+     "Check that the paragraph really gives that type of information, not just a mention of the topic."
+    ],
+    "traps": [
+     "Expecting the answers to follow the order of the paragraphs.",
+     "Matching on the topic alone when the question asks for a specific kind of information, such as an example rather than a definition.",
+     "Spending too long on one item: these questions take time, so guess and move on if necessary."
+    ]
+   },
+   "ar": {
+    "name": "مطابقة المعلومات بالفقرات",
+    "what": "تحدّد الفقرة التي تحتوي على معلومة بعينها، مثل مثال أو سبب أو مقارنة أو وصف. ولا تسير الأسئلة هنا وفق ترتيب النص.",
+    "steps": [
+     "ضع خطًا تحت نوع المعلومة المطلوبة (an example of أو a reason for أو a reference to) وتحت الموضوع كذلك.",
+     "اترك هذا النوع إلى ما بعد الأسئلة الأخرى على النص نفسه، حين تكون قد عرفت مواضع المعلومات.",
+     "ابحث في النص فقرةً فقرة عن صياغات أخرى للفكرة المطلوبة.",
+     "اقرأ التعليمات: عبارة NB You may use any letter more than once تعني أن بعض الفقرات قد تُستخدم مرتين، وبعضها قد لا يُستخدم أبدًا.",
+     "تحقّق من أن الفقرة تقدّم هذا النوع من المعلومات فعلًا، لا أنها تذكر الموضوع فحسب."
+    ],
+    "traps": [
+     "توقّع أن تسير الإجابات وفق ترتيب الفقرات.",
+     "المطابقة على أساس الموضوع وحده، مع أن السؤال يطلب نوعًا محددًا من المعلومات، كالمثال لا التعريف.",
+     "إطالة الوقت في سؤال واحد: هذه الأسئلة تستهلك الوقت، فخمّن وانتقل إن لزم الأمر."
+    ]
+   }
+  },
+  "matching_features": {
+   "name": "Matching features",
+   "skill": "reading",
+   "en": {
+    "what": "You match statements or findings to a list of features, usually people such as researchers, but sometimes dates, places or organisations.",
+    "steps": [
+     "Scan the passage for each name in the list and mark every place where it appears.",
+     "Read what each person says or found around each mention.",
+     "Read the statements and match them by meaning; they are usually paraphrased.",
+     "Check whether a letter can be used more than once ('NB You may use any letter more than once').",
+     "Remember that the statements are usually not in passage order, but the names themselves are quick to find."
+    ],
+    "traps": [
+     "Giving an idea to the person mentioned nearest to it when it belongs to someone else (for example, 'Unlike Haddad, Moreno argued that...').",
+     "Missing a second mention of the same name later in the passage.",
+     "Matching on a shared word instead of the whole idea."
+    ]
+   },
+   "ar": {
+    "name": "مطابقة السمات (الأشخاص والأسماء)",
+    "what": "تطابق عبارات أو نتائج بقائمة من العناصر، وهي في الغالب أشخاص كالباحثين، وقد تكون تواريخ أو أماكن أو مؤسسات.",
+    "steps": [
+     "ابحث في النص عن كل اسم في القائمة، وحدّد كل موضع يرد فيه.",
+     "اقرأ ما قاله كل شخص أو توصّل إليه حول كل موضع ذُكر فيه.",
+     "اقرأ العبارات وطابقها على أساس المعنى، فهي ترد عادةً بصياغة مختلفة.",
+     "تحقّق مما إذا كان يجوز استخدام الحرف أكثر من مرة (NB You may use any letter more than once).",
+     "تذكّر أن العبارات لا تسير عادةً وفق ترتيب النص، لكن العثور على الأسماء نفسها سريع."
+    ],
+    "traps": [
+     "نسبة الفكرة إلى أقرب اسم مذكور بجوارها مع أنها لشخص آخر، كما في: Unlike Haddad, Moreno argued that...",
+     "إغفال ورود الاسم نفسه مرة ثانية في موضع لاحق من النص.",
+     "المطابقة على أساس كلمة مشتركة بدلًا من الفكرة كاملة."
+    ]
+   }
+  },
+  "matching_endings": {
+   "name": "Matching sentence endings",
+   "skill": "reading",
+   "en": {
+    "what": "You complete each sentence beginning by choosing the correct ending from a list. There are more endings than beginnings, and the beginnings follow the order of the passage.",
+    "steps": [
+     "Read each sentence beginning and underline its key words.",
+     "Find the relevant part of the passage; the beginnings follow the text order.",
+     "Predict the meaning of the ending from the passage before you look at the options.",
+     "Choose the ending that matches the passage and also fits the beginning grammatically.",
+     "Check that the completed sentence makes sense as a whole and gives the same meaning as the passage."
+    ],
+    "traps": [
+     "Choosing an ending that is grammatically correct and true in general but says something different from the passage.",
+     "Choosing an ending that is true according to the passage but belongs to a different sentence beginning.",
+     "Relying on grammar alone: several endings often fit grammatically, so meaning must decide."
+    ]
+   },
+   "ar": {
+    "name": "مطابقة نهايات الجمل",
+    "what": "تُكمل بداية كل جملة باختيار النهاية الصحيحة من قائمة. وعدد النهايات أكبر من عدد البدايات، والبدايات تسير وفق ترتيب النص.",
+    "steps": [
+     "اقرأ بداية كل جملة وضع خطًا تحت كلماتها المفتاحية.",
+     "حدّد الجزء المناسب من النص؛ فالبدايات تسير وفق ترتيبه.",
+     "توقّع معنى النهاية من النص قبل أن تنظر في الخيارات.",
+     "اختر النهاية التي توافق النص وتنسجم مع البداية نحويًا في الوقت نفسه.",
+     "تأكّد أن الجملة كاملةً سليمة المعنى وتؤدي المعنى نفسه الوارد في النص."
+    ],
+    "traps": [
+     "اختيار نهاية سليمة نحويًا وصحيحة بوجه عام، لكنها تقول شيئًا مختلفًا عمّا في النص.",
+     "اختيار نهاية صحيحة وفق النص لكنها تخص بداية جملة أخرى.",
+     "الاعتماد على النحو وحده: كثيرًا ما تصلح عدة نهايات نحويًا، والحَكَم هو المعنى."
+    ]
+   }
+  },
+  "sentence_completion": {
+   "name": "Sentence completion",
+   "skill": "both",
+   "en": {
+    "what": "You fill a gap in a sentence with words from the passage or recording, keeping to the word limit (for example, NO MORE THAN TWO WORDS AND/OR A NUMBER).",
+    "steps": [
+     "Read the word limit carefully before anything else.",
+     "Underline the key words in the sentence and predict the type of word you need (noun, number, adjective, plural or singular).",
+     "Reading: find the matching part of the passage; questions follow the text order. Listening: follow the sentences as you listen and write as soon as you hear the answer.",
+     "Copy the words exactly as they appear in the passage or as they are spelled in the recording.",
+     "Read the completed sentence again to check that it is grammatical and makes sense."
+    ],
+    "traps": [
+     "Going over the word limit: the answer is marked wrong even if it contains the right word.",
+     "Writing a word with the correct meaning that does not appear in the text or recording; Reading answers must be copied from the passage.",
+     "Forgetting a plural -s or misspelling the word, which makes the answer wrong."
+    ]
+   },
+   "ar": {
+    "name": "إكمال الجمل",
+    "what": "تملأ فراغًا في جملة بكلمات من النص أو التسجيل، مع الالتزام بالحدّ المسموح من الكلمات، مثل: NO MORE THAN TWO WORDS AND/OR A NUMBER.",
+    "steps": [
+     "اقرأ الحدّ المسموح من الكلمات بعناية قبل أي شيء آخر.",
+     "ضع خطًا تحت الكلمات المفتاحية في الجملة، وتوقّع نوع الكلمة المطلوبة: اسم أم رقم أم صفة، ومفرد أم جمع.",
+     "في القراءة: حدّد الجزء المقابل من النص، فالأسئلة تسير وفق ترتيبه. وفي الاستماع: تابع الجمل أثناء الاستماع واكتب الإجابة فور سماعها.",
+     "انقل الكلمات كما وردت في النص تمامًا، أو كما تُهجّى في التسجيل.",
+     "اقرأ الجملة بعد إكمالها للتأكد من سلامتها النحوية ووضوح معناها."
+    ],
+    "traps": [
+     "تجاوز الحدّ المسموح من الكلمات: تُعدّ الإجابة خاطئة حتى لو تضمّنت الكلمة الصحيحة.",
+     "كتابة كلمة صحيحة المعنى لكنها لم ترد في النص أو التسجيل؛ ففي القراءة يجب نقل الإجابة من النص.",
+     "نسيان علامة الجمع s أو الخطأ في التهجئة، فتُحسب الإجابة خاطئة."
+    ]
+   }
+  },
+  "summary_completion": {
+   "name": "Summary completion",
+   "skill": "both",
+   "en": {
+    "what": "You complete gaps in a summary of part of the passage or recording, using words taken from the text or audio within the word limit.",
+    "steps": [
+     "Read the title and the whole summary first to understand which part of the text it covers.",
+     "Find where that part of the passage begins; the summary usually follows the order of the text within that part.",
+     "For each gap, decide what type of word is needed from the grammar around it.",
+     "Find the paraphrased idea in the passage and copy the exact word or words.",
+     "Check the word limit, spelling and grammar of every completed sentence."
+    ],
+    "traps": [
+     "Reading the whole passage again instead of locating the section the summary covers.",
+     "Changing the form of the word (for example, writing 'economic' when the passage says 'economy').",
+     "Picking a word that fits the grammar but not the meaning of the passage."
+    ]
+   },
+   "ar": {
+    "name": "إكمال الملخّص",
+    "what": "تُكمل الفراغات في ملخّص لجزء من النص أو التسجيل، بكلمات مأخوذة من النص أو التسجيل وفي حدود العدد المسموح.",
+    "steps": [
+     "اقرأ عنوان الملخّص والملخّص كاملًا أولًا لتعرف الجزء الذي يغطيه من النص.",
+     "حدّد بداية ذلك الجزء في النص؛ فالملخّص يسير عادةً وفق ترتيب النص داخل هذا الجزء.",
+     "حدّد نوع الكلمة المطلوبة لكل فراغ من خلال القواعد المحيطة به.",
+     "ابحث عن الفكرة نفسها بصياغة أخرى في النص، وانقل الكلمة أو الكلمات كما هي.",
+     "تحقّق من عدد الكلمات والتهجئة وسلامة كل جملة بعد إكمالها."
+    ],
+    "traps": [
+     "إعادة قراءة النص كله بدلًا من تحديد الجزء الذي يغطيه الملخّص.",
+     "تغيير صيغة الكلمة، كأن تكتب economic والنص يقول economy.",
+     "اختيار كلمة تناسب القواعد لكنها لا توافق معنى النص."
+    ]
+   }
+  },
+  "summary_wordbank": {
+   "name": "Summary completion (word bank)",
+   "skill": "reading",
+   "en": {
+    "what": "You complete a summary by choosing words or phrases from a box of options (A, B, C...). There are more options than gaps, and the options are often paraphrases of words in the passage.",
+    "steps": [
+     "Read the summary and predict the meaning and word type for each gap.",
+     "Read the option list and group the options by word type (nouns, adjectives, verbs).",
+     "Find the relevant part of the passage and compare its meaning with the summary.",
+     "Choose the option that matches the meaning of the passage and fits the grammar of the gap.",
+     "Write only the letter if the instructions ask for letters."
+    ],
+    "traps": [
+     "Expecting the exact words from the passage to appear in the box: the correct option is usually a synonym or paraphrase.",
+     "Choosing an option with the opposite meaning, for example 'decline' when the passage describes growth.",
+     "Choosing an option just because it appears in the passage near the answer."
+    ]
+   },
+   "ar": {
+    "name": "إكمال الملخّص من قائمة كلمات",
+    "what": "تُكمل ملخّصًا باختيار كلمات أو عبارات من قائمة خيارات (A, B, C...). وعدد الخيارات أكبر من عدد الفراغات، وكثيرًا ما تكون الخيارات صياغات أخرى لكلمات النص.",
+    "steps": [
+     "اقرأ الملخّص وتوقّع معنى كل فراغ ونوع الكلمة المناسبة له.",
+     "اقرأ قائمة الخيارات وصنّفها حسب نوع الكلمة: أسماء وصفات وأفعال.",
+     "حدّد الجزء المناسب من النص وقارن معناه بالملخّص.",
+     "اختر الخيار الذي يوافق معنى النص وينسجم مع قواعد الجملة في الفراغ.",
+     "اكتب الحرف فقط إذا طلبت التعليمات الحروف."
+    ],
+    "traps": [
+     "توقّع ورود كلمات النص حرفيًا في القائمة: الخيار الصحيح غالبًا مرادف أو صياغة أخرى.",
+     "اختيار خيار معاكس في المعنى، مثل decline والنص يصف نموًا.",
+     "اختيار خيار لمجرد وروده في النص قريبًا من موضع الإجابة."
+    ]
+   }
+  },
+  "note_completion": {
+   "name": "Note completion",
+   "skill": "both",
+   "en": {
+    "what": "You complete gaps in a set of notes, often with headings and bullet points, using words from the passage or recording within the word limit.",
+    "steps": [
+     "Use the headings to understand how the notes are organised and where you are in the text or recording.",
+     "Check the word limit, then predict the type of information each gap needs (a number, a name, a noun, an adjective).",
+     "Notes are short and often leave out small words, so focus on the key nouns and numbers.",
+     "Listening: follow the headings as you listen, because the speaker often signals a new heading with a phrase such as 'Moving on to...'.",
+     "Check that each answer fits the meaning of the note and is spelled correctly."
+    ],
+    "traps": [
+     "Losing your place: if you miss an answer, move on to the next heading instead of trying to remember it.",
+     "Adding words that are already printed next to the gap.",
+     "Writing the first number or name you hear when the speaker then corrects it."
+    ]
+   },
+   "ar": {
+    "name": "إكمال الملاحظات",
+    "what": "تُكمل فراغات في ملاحظات مكتوبة، غالبًا بعناوين ونقاط، بكلمات من النص أو التسجيل وفي حدود العدد المسموح.",
+    "steps": [
+     "استعن بالعناوين لفهم تنظيم الملاحظات ومعرفة موضعك من النص أو التسجيل.",
+     "تحقّق من الحدّ المسموح من الكلمات، ثم توقّع نوع المعلومة المطلوبة لكل فراغ: رقم أم اسم أم صفة.",
+     "الملاحظات مختصرة وتحذف الكلمات الصغيرة كثيرًا، فركّز على الأسماء والأرقام المهمة.",
+     "في الاستماع: تابع العناوين أثناء الاستماع؛ فالمتحدث كثيرًا ما يشير إلى عنوان جديد بعبارة مثل Moving on to.",
+     "تأكّد أن كل إجابة تناسب معنى الملاحظة وأن تهجئتها صحيحة."
+    ],
+    "traps": [
+     "الضياع وفقدان موضعك: إن فاتتك إجابة فانتقل إلى العنوان التالي بدلًا من محاولة تذكّرها.",
+     "إضافة كلمات مطبوعة أصلًا بجوار الفراغ.",
+     "كتابة أول رقم أو اسم تسمعه، مع أن المتحدث يصحّحه بعد ذلك."
+    ]
+   }
+  },
+  "table_completion": {
+   "name": "Table completion",
+   "skill": "both",
+   "en": {
+    "what": "You complete the empty cells of a table with words or numbers from the passage or recording, within the word limit.",
+    "steps": [
+     "Read the column and row headings: they tell you what kind of information each gap needs.",
+     "Notice whether you should read the table across the rows or down the columns; information in the text or recording usually follows the order of the rows.",
+     "Use completed cells as models for the form of your answer (for example, prices with a currency symbol, or plural nouns).",
+     "Find or listen for the information that matches the row and the column of each gap.",
+     "Check the word limit and spelling for every cell."
+    ],
+    "traps": [
+     "Putting an answer in the wrong row when two items are similar.",
+     "Writing an answer in a different form from the other cells in the same column.",
+     "In Listening, being misled when two similar numbers are mentioned close together."
+    ]
+   },
+   "ar": {
+    "name": "إكمال الجدول",
+    "what": "تملأ الخلايا الفارغة في جدول بكلمات أو أرقام من النص أو التسجيل، في حدود العدد المسموح.",
+    "steps": [
+     "اقرأ عناوين الأعمدة والصفوف؛ فهي تخبرك بنوع المعلومة المطلوبة لكل فراغ.",
+     "لاحظ هل تقرأ الجدول أفقيًا عبر الصفوف أم عموديًا عبر الأعمدة؛ فالمعلومات في النص أو التسجيل تسير عادةً وفق ترتيب الصفوف.",
+     "استرشد بالخلايا المكتملة لمعرفة صيغة إجابتك، كالأسعار مع رمز العملة أو الأسماء بصيغة الجمع.",
+     "ابحث أو استمع إلى المعلومة التي توافق الصف والعمود الخاصين بكل فراغ.",
+     "تحقّق من عدد الكلمات والتهجئة في كل خلية."
+    ],
+    "traps": [
+     "وضع الإجابة في الصف الخطأ عندما يتشابه عنصران.",
+     "كتابة إجابة بصيغة تختلف عن صيغة الخلايا الأخرى في العمود نفسه.",
+     "في الاستماع: الوقوع في الخطأ عندما يُذكر رقمان متشابهان متقاربان."
+    ]
+   }
+  },
+  "flowchart_completion": {
+   "name": "Flow-chart completion",
+   "skill": "both",
+   "en": {
+    "what": "You complete the gaps in a flow chart that shows the stages of a process or a sequence of events, using words from the passage or recording, or sometimes letters from a list.",
+    "steps": [
+     "Follow the arrows to understand the order of the stages.",
+     "Check the word limit or, if there is a list, how many options you can choose from.",
+     "Find where the process begins in the text or recording; the stages usually follow the same order.",
+     "Predict the type of word for each gap (often a noun or a verb in the same form as the other steps).",
+     "Read the completed flow chart from start to finish to check that it makes logical sense."
+    ],
+    "traps": [
+     "Missing a stage that is described in a single short phrase in the passage.",
+     "Changing the form of a word so that it no longer matches the text.",
+     "Writing a word that describes the wrong stage of the process."
+    ]
+   },
+   "ar": {
+    "name": "إكمال المخطط الانسيابي",
+    "what": "تُكمل الفراغات في مخطط انسيابي يوضّح مراحل عملية أو تسلسل أحداث، بكلمات من النص أو التسجيل، أو أحيانًا بحروف من قائمة.",
+    "steps": [
+     "تتبّع الأسهم لفهم ترتيب المراحل.",
+     "تحقّق من الحدّ المسموح من الكلمات، أو من عدد الخيارات إن كانت هناك قائمة.",
+     "حدّد موضع بداية العملية في النص أو التسجيل؛ فالمراحل تسير عادةً بالترتيب نفسه.",
+     "توقّع نوع الكلمة لكل فراغ، وغالبًا ما تكون اسمًا أو فعلًا بالصيغة نفسها المستخدمة في المراحل الأخرى.",
+     "اقرأ المخطط كاملًا من بدايته إلى نهايته للتأكد من تسلسله المنطقي."
+    ],
+    "traps": [
+     "إغفال مرحلة موصوفة بعبارة قصيرة واحدة في النص.",
+     "تغيير صيغة الكلمة بحيث لا تطابق النص.",
+     "كتابة كلمة تصف مرحلة أخرى من العملية."
+    ]
+   }
+  },
+  "diagram_labelling": {
+   "name": "Diagram labelling",
+   "skill": "both",
+   "en": {
+    "what": "You label parts of a diagram, such as a machine, a building or a natural process, using words from the passage or recording. Sometimes you choose letters from a list instead.",
+    "steps": [
+     "Study the diagram: work out what it shows and which labels are already given.",
+     "Check the word limit, or the list of options if there is one.",
+     "Find the part of the passage or recording that describes the object; the labels may not follow the text order in Reading, but they usually do in Listening.",
+     "Use position words in the text (above, at the base, attached to, on the left) to match each gap to the right part.",
+     "Copy words exactly and check spelling and singular or plural forms."
+    ],
+    "traps": [
+     "Ignoring the labels that are already given, which are useful clues to where you are.",
+     "Confusing parts that are close together in the diagram.",
+     "Using your own technical term instead of the word used in the passage."
+    ]
+   },
+   "ar": {
+    "name": "تسمية أجزاء الرسم التوضيحي",
+    "what": "تكتب أسماء أجزاء رسم توضيحي، كآلة أو مبنى أو عملية طبيعية، بكلمات من النص أو التسجيل، وأحيانًا تختار حروفًا من قائمة بدلًا من ذلك.",
+    "steps": [
+     "تأمّل الرسم: افهم ما يوضّحه، وحدّد الأجزاء المسمّاة سلفًا.",
+     "تحقّق من الحدّ المسموح من الكلمات، أو من قائمة الخيارات إن وُجدت.",
+     "حدّد الجزء من النص أو التسجيل الذي يصف الشيء؛ وقد لا تسير التسميات وفق ترتيب النص في القراءة، لكنها تسير وفقه عادةً في الاستماع.",
+     "استعن بكلمات الموقع في النص، مثل above وat the base وattached to وon the left، لمطابقة كل فراغ بالجزء الصحيح.",
+     "انقل الكلمات كما هي، وتحقّق من التهجئة ومن صيغتي المفرد والجمع."
+    ],
+    "traps": [
+     "إهمال التسميات الموجودة في الرسم، مع أنها مفاتيح مفيدة لمعرفة موضعك.",
+     "الخلط بين الأجزاء المتقاربة في الرسم.",
+     "استخدام مصطلح تقني من عندك بدلًا من الكلمة الواردة في النص."
+    ]
+   }
+  },
+  "short_answer": {
+   "name": "Short-answer questions",
+   "skill": "both",
+   "en": {
+    "what": "You answer questions (often beginning with What, Which, Where or How many) using a few words or a number from the passage or recording, within the word limit.",
+    "steps": [
+     "Check the word limit and underline the question word: it tells you the type of answer (a place, a time, an amount, a thing).",
+     "Underline the key words in each question to help you find the answer.",
+     "Find the information in the passage or recording; the questions follow the order of the text.",
+     "Write only the words that answer the question, not a full sentence.",
+     "Copy the words exactly and check spelling and word count."
+    ],
+    "traps": [
+     "Writing a full sentence or extra words, which breaks the word limit.",
+     "Answering a slightly different question, for example giving a reason when the question asks for a place.",
+     "In questions asking for a list (for example, 'Which TWO...'), writing both items in one box when they need separate answers."
+    ]
+   },
+   "ar": {
+    "name": "أسئلة الإجابات القصيرة",
+    "what": "تجيب عن أسئلة تبدأ غالبًا بـ What أو Which أو Where أو How many، بكلمات قليلة أو برقم من النص أو التسجيل، وفي حدود العدد المسموح.",
+    "steps": [
+     "تحقّق من الحدّ المسموح من الكلمات، وضع خطًا تحت أداة الاستفهام؛ فهي تحدّد نوع الإجابة: مكان أم زمن أم كمية أم شيء.",
+     "ضع خطًا تحت الكلمات المفتاحية في كل سؤال لتساعدك على إيجاد الإجابة.",
+     "ابحث عن المعلومة في النص أو التسجيل؛ فالأسئلة تسير وفق ترتيب النص.",
+     "اكتب الكلمات التي تجيب عن السؤال فقط، لا جملة كاملة.",
+     "انقل الكلمات كما هي، وتحقّق من التهجئة وعدد الكلمات."
+    ],
+    "traps": [
+     "كتابة جملة كاملة أو كلمات زائدة، فيتجاوز ذلك الحدّ المسموح.",
+     "الإجابة عن سؤال مختلف قليلًا، كأن تذكر سببًا والسؤال يطلب مكانًا.",
+     "في الأسئلة التي تطلب عنصرين (مثل Which TWO...) كتابة العنصرين في خانة واحدة مع أن كل عنصر يحتاج إلى خانة مستقلة."
+    ]
+   }
+  },
+  "form_completion": {
+   "name": "Form completion",
+   "skill": "listening",
+   "en": {
+    "what": "You complete a form, such as a booking, registration or application form, with details you hear: names, addresses, dates, numbers and prices. It usually appears in Part 1 of the Listening test.",
+    "steps": [
+     "Before the recording starts, read the form and predict the type of answer for each gap (a name, a date, a phone number, a price).",
+     "Check the word limit, especially whether numbers are allowed.",
+     "Listen for spelled-out names and write each letter carefully; practise the English alphabet, especially vowels and letters such as G and J.",
+     "Write numbers in digits: it is faster and avoids spelling mistakes.",
+     "Wait for the final confirmed information: speakers often correct themselves or change their minds.",
+     "Check that dates, times and prices are in a sensible format and that the spelling is exact."
+    ],
+    "traps": [
+     "Writing the first number or date you hear when the speaker later corrects it ('Sorry, it's 15, not 50').",
+     "Confusing similar-sounding numbers, such as fifteen and fifty, or thirteen and thirty.",
+     "Adding words that are already printed on the form, such as 'Street' or '£', which can break the word limit."
+    ]
+   },
+   "ar": {
+    "name": "إكمال الاستمارة",
+    "what": "تُكمل استمارة، كاستمارة حجز أو تسجيل أو طلب، بتفاصيل تسمعها: أسماء وعناوين وتواريخ وأرقام وأسعار. ويأتي هذا النوع عادةً في الجزء الأول من اختبار الاستماع.",
+    "steps": [
+     "قبل بدء التسجيل اقرأ الاستمارة، وتوقّع نوع الإجابة لكل فراغ: اسم أم تاريخ أم رقم هاتف أم سعر.",
+     "تحقّق من الحدّ المسموح من الكلمات، ولا سيما هل يُسمح بالأرقام.",
+     "استمع جيدًا إلى الأسماء التي تُهجّى حرفًا حرفًا، واكتب كل حرف بعناية؛ وتدرّب على نطق الحروف الإنجليزية، ولا سيما حروف العلة وحروف مثل G وJ.",
+     "اكتب الأعداد بالأرقام؛ فذلك أسرع ويجنّبك أخطاء التهجئة.",
+     "انتظر المعلومة النهائية المؤكَّدة؛ فالمتحدثون كثيرًا ما يصحّحون كلامهم أو يغيّرون رأيهم.",
+     "تأكّد أن التواريخ والأوقات والأسعار مكتوبة بصيغة منطقية، وأن التهجئة دقيقة."
+    ],
+    "traps": [
+     "كتابة أول رقم أو تاريخ تسمعه مع أن المتحدث يصحّحه لاحقًا، كقوله: Sorry, it's 15, not 50.",
+     "الخلط بين الأعداد المتشابهة في النطق، مثل fifteen وfifty، أو thirteen وthirty.",
+     "إضافة كلمات مطبوعة على الاستمارة أصلًا، مثل Street أو رمز العملة، مما قد يتجاوز الحدّ المسموح."
+    ]
+   }
+  },
+  "matching": {
+   "name": "Matching (Listening)",
+   "skill": "listening",
+   "en": {
+    "what": "You match a list of items (for example, people, places or courses) to a list of options (for example, opinions, features or reasons), usually labelled A–H. There are more options than items.",
+    "steps": [
+     "Before listening, read both lists and underline the key idea in each option.",
+     "Think of possible paraphrases for the options, because the speakers will not use the same words.",
+     "The items usually come in the order of the recording, so follow them one by one.",
+     "Listen to everything said about an item before you decide, because speakers may mention several options.",
+     "If you miss one, move on and focus on the next item; guess at the end rather than leaving a blank."
+    ],
+    "traps": [
+     "Choosing an option because you hear a word from it, when the speaker is actually rejecting that idea.",
+     "Matching an opinion to the wrong speaker in a conversation between two or three people.",
+     "Losing your place because you are still thinking about the previous item."
+    ]
+   },
+   "ar": {
+    "name": "المطابقة (في الاستماع)",
+    "what": "تطابق قائمة عناصر (مثل أشخاص أو أماكن أو مقررات) بقائمة خيارات (مثل آراء أو سمات أو أسباب) مرقّمة عادةً من A إلى H. وعدد الخيارات أكبر من عدد العناصر.",
+    "steps": [
+     "قبل الاستماع اقرأ القائمتين، وضع خطًا تحت الفكرة الرئيسة في كل خيار.",
+     "فكّر في صياغات بديلة للخيارات؛ فالمتحدثون لن يستخدموا الكلمات نفسها.",
+     "تأتي العناصر عادةً وفق ترتيب التسجيل، فتابعها واحدًا تلو الآخر.",
+     "استمع إلى كل ما يُقال عن العنصر قبل أن تقرّر؛ فقد يذكر المتحدثون عدة خيارات.",
+     "إن فاتك عنصر فانتقل وركّز على العنصر التالي، وخمّن في النهاية بدلًا من ترك فراغ."
+    ],
+    "traps": [
+     "اختيار خيار لأنك سمعت كلمة منه، مع أن المتحدث يرفض تلك الفكرة في الواقع.",
+     "نسبة رأي إلى المتحدث الخطأ في حوار بين شخصين أو ثلاثة.",
+     "فقدان موضعك لأنك ما زلت تفكر في العنصر السابق."
+    ]
+   }
+  },
+  "map_labelling": {
+   "name": "Map / plan labelling",
+   "skill": "listening",
+   "en": {
+    "what": "You match places to letters on a map or plan, for example a campus, a museum floor plan or a town centre, while a speaker describes where things are. It often appears in Part 2.",
+    "steps": [
+     "Before listening, find the starting point ('You are here', the entrance) and note the compass directions if they are shown.",
+     "Notice the main features already labelled, such as roads, rivers, car parks and main buildings.",
+     "Revise direction language: opposite, next to, between, at the far end, on your left as you enter, north of.",
+     "Follow the speaker's route with your finger or cursor, moving from place to place in the order they are described.",
+     "The questions usually follow the order of the talk, so if you miss one, move on to the next place."
+    ],
+    "traps": [
+     "Mixing up left and right when the speaker is facing a different direction from you on the map.",
+     "Choosing a place that the speaker mentions only as a landmark to help locate something else.",
+     "Missing changes such as 'it used to be next to the café, but it has moved to...'."
+    ]
+   },
+   "ar": {
+    "name": "تحديد المواقع على الخريطة أو المخطط",
+    "what": "تطابق أماكن بحروف على خريطة أو مخطط، مثل حرم جامعي أو مخطط طابق في متحف أو وسط مدينة، بينما يصف المتحدث مواقع الأشياء. ويأتي هذا النوع غالبًا في الجزء الثاني.",
+    "steps": [
+     "قبل الاستماع حدّد نقطة البداية (مثل You are here أو المدخل)، ولاحظ الاتجاهات الجغرافية إن كانت موضّحة.",
+     "لاحظ المعالم الرئيسة المسمّاة سلفًا، كالطرق والأنهار ومواقف السيارات والمباني الكبرى.",
+     "راجع تعبيرات الاتجاه والموقع، مثل: opposite وnext to وbetween وat the far end وon your left as you enter وnorth of.",
+     "تتبّع مسار المتحدث بإصبعك أو بالمؤشر، متنقلًا من مكان إلى آخر وفق ترتيب الوصف.",
+     "تسير الأسئلة عادةً وفق ترتيب الحديث، فإن فاتك سؤال فانتقل إلى المكان التالي."
+    ],
+    "traps": [
+     "الخلط بين اليمين واليسار عندما يكون اتجاه المتحدث مختلفًا عن اتجاهك على الخريطة.",
+     "اختيار مكان يذكره المتحدث معلمًا مرجعيًا فقط لتحديد موقع شيء آخر.",
+     "إغفال التغييرات، كقوله: it used to be next to the café, but it has moved to..."
+    ]
+   }
+  }
+ },
+ "writing": {
+  "academic_task1_trend": {
+   "name": "Academic Task 1: trends over time",
+   "en": {
+    "what": "You summarise how one or more figures change over a period, usually in a line graph, or in a bar chart or table that shows several years. You need at least 150 words in about 20 minutes, including a clear overview of the main trends.",
+    "steps": [
+     "Spend two or three minutes studying the graph: the units, the time period, and which lines rise, fall or stay stable.",
+     "Write a one-sentence introduction that paraphrases the task in your own words.",
+     "Write an overview (Overall, ...) that states the main trends and any striking feature, such as the highest line or a point where two lines cross, without detailed figures.",
+     "Write two body paragraphs, grouping lines with similar trends or dividing the period at a turning point.",
+     "Support each trend with key figures (start and end points, peaks and lows) and vary your language: verbs (rose, declined, fluctuated) and nouns (a sharp rise in...).",
+     "Use past tenses for past data and forms such as 'is expected to' or 'is projected to' for future projections."
+    ],
+    "traps": [
+     "Describing every year one by one instead of selecting the main features.",
+     "Leaving out the overview, which limits your Task Achievement score.",
+     "Giving reasons or opinions about why the changes happened: Academic Task 1 asks you to report only what is shown.",
+     "Misreading the units, for example thousands and millions, or percentages and numbers."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الأولى الأكاديمية: الاتجاهات عبر الزمن",
+    "what": "تلخّص كيف يتغيّر رقم أو أكثر خلال فترة زمنية، وغالبًا ما يكون ذلك في رسم بياني خطي، أو في رسم بالأعمدة أو جدول يعرض عدة سنوات. والمطلوب 150 كلمة على الأقل في نحو 20 دقيقة، مع ملخّص عام واضح لأبرز الاتجاهات.",
+    "steps": [
+     "خصّص دقيقتين أو ثلاثًا لدراسة الرسم: وحدات القياس، والفترة الزمنية، والخطوط التي ترتفع أو تنخفض أو تستقر.",
+     "اكتب مقدمة من جملة واحدة تعيد فيها صياغة المطلوب بكلماتك.",
+     "اكتب ملخّصًا عامًا يبدأ بـ Overall، تذكر فيه الاتجاهات الرئيسة وأي سمة لافتة، كأعلى خط أو نقطة تقاطع خطّين، دون أرقام تفصيلية.",
+     "اكتب فقرتين للعرض، تجمع فيهما الخطوط المتشابهة في اتجاهها، أو تقسم الفترة عند نقطة تحوّل.",
+     "ادعم كل اتجاه بالأرقام الرئيسة (نقطة البداية والنهاية والذروة وأدنى قيمة)، ونوّع لغتك بين الأفعال مثل rose وdeclined وfluctuated، والأسماء مثل a sharp rise in.",
+     "استخدم الأزمنة الماضية للبيانات الماضية، وصيغًا مثل is expected to أو is projected to للتوقعات المستقبلية."
+    ],
+    "traps": [
+     "وصف كل سنة على حدة بدلًا من انتقاء أبرز السمات.",
+     "إغفال الملخّص العام، مما يحدّ من درجتك في معيار إنجاز المهمة.",
+     "ذكر أسباب التغيّرات أو إبداء رأيك فيها؛ فالمهمة الأولى الأكاديمية تطلب وصف ما يعرضه الرسم فقط.",
+     "قراءة الوحدات خطأً، كالخلط بين الآلاف والملايين، أو بين النسب المئوية والأعداد."
+    ]
+   }
+  },
+  "academic_task1_comparison": {
+   "name": "Academic Task 1: comparisons (bar charts, tables, pie charts)",
+   "en": {
+    "what": "You compare categories at one or more points in time, shown in bar charts, tables or pie charts. The key skill is selecting and grouping the most important similarities and differences, not listing every number.",
+    "steps": [
+     "Identify what is being compared (countries, age groups, energy sources) and the units used.",
+     "Find the largest and smallest categories, any striking differences, and any overall pattern or change between years.",
+     "Write a paraphrased introduction and an overview of the main comparisons.",
+     "Group the data logically in two body paragraphs, for example the largest categories first, or one year and then the other.",
+     "Use comparison structures (twice as high as, slightly lower than, the largest share) and proportion language (a quarter, the vast majority) for pie charts.",
+     "For tables, select only the key figures: the highest, the lowest and any exceptions to the general pattern."
+    ],
+    "traps": [
+     "Writing one sentence per category without comparing them.",
+     "Mixing up 'number' and 'percentage', or 'amount' and 'number'.",
+     "Trying to include every figure in a large table, which leaves no time for comparison.",
+     "Describing two pie charts separately instead of comparing the changes between them."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الأولى الأكاديمية: المقارنات (الأعمدة والجداول والرسوم الدائرية)",
+    "what": "تقارن بين فئات في نقطة زمنية واحدة أو أكثر، معروضة في رسم بالأعمدة أو جدول أو رسم دائري. والمهارة الأساسية هي انتقاء أهم أوجه التشابه والاختلاف وتجميعها، لا سرد الأرقام كلها.",
+    "steps": [
+     "حدّد ما تجري مقارنته (دول أو فئات عمرية أو مصادر طاقة) ووحدات القياس المستخدمة.",
+     "ابحث عن أكبر الفئات وأصغرها، وأي فروق لافتة، وأي نمط عام أو تغيّر بين السنوات.",
+     "اكتب مقدمة بصياغتك الخاصة، ثم ملخّصًا عامًا لأبرز المقارنات.",
+     "جمّع البيانات تجميعًا منطقيًا في فقرتين للعرض، كأن تبدأ بالفئات الكبرى، أو تعرض سنة ثم الأخرى.",
+     "استخدم تراكيب المقارنة مثل twice as high as وslightly lower than وthe largest share، وتعبيرات النسب مثل a quarter وthe vast majority في الرسوم الدائرية.",
+     "في الجداول انتقِ الأرقام الرئيسة فقط: الأعلى والأدنى وأي استثناء من النمط العام."
+    ],
+    "traps": [
+     "كتابة جملة لكل فئة دون مقارنة بينها.",
+     "الخلط بين number وpercentage، أو بين amount وnumber.",
+     "محاولة ذكر كل رقم في جدول كبير، فلا يبقى وقت للمقارنة.",
+     "وصف رسمين دائريين كلٌّ على حدة بدلًا من المقارنة بين التغيّرات فيهما."
+    ]
+   }
+  },
+  "academic_task1_process": {
+   "name": "Academic Task 1: process diagrams",
+   "en": {
+    "what": "You describe the stages of a process in the correct order. It may be a natural process, such as the life cycle of an insect, or a manufacturing process, such as producing bricks.",
+    "steps": [
+     "Find where the process starts and ends and count the stages; check whether it is a cycle that repeats.",
+     "In the introduction, paraphrase what the diagram shows.",
+     "In the overview, state how many main stages there are and how the process begins and ends.",
+     "Describe the stages in order in two body paragraphs, splitting the process at a logical point.",
+     "Use the passive voice for manufacturing processes (the clay is dug up) and active verbs for natural ones (the larva feeds on leaves).",
+     "Link the stages with sequencing language: first, once, after this, before being, finally."
+    ],
+    "traps": [
+     "Copying the labels from the diagram as a list instead of writing full sentences.",
+     "Missing a stage or describing the stages in the wrong order.",
+     "Joining every stage with only 'then' and 'next'.",
+     "Leaving out the overview because there are no numbers to summarise."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الأولى الأكاديمية: مخططات المراحل",
+    "what": "تصف مراحل عملية ما بترتيبها الصحيح. وقد تكون عملية طبيعية كدورة حياة حشرة، أو عملية صناعية كإنتاج الطوب.",
+    "steps": [
+     "حدّد بداية العملية ونهايتها وعدد مراحلها، وتحقّق هل هي دورة تتكرّر.",
+     "أعد في المقدمة صياغة ما يوضّحه المخطط.",
+     "اذكر في الملخّص العام عدد المراحل الرئيسة، وكيف تبدأ العملية وكيف تنتهي.",
+     "صِف المراحل بالترتيب في فقرتين للعرض، مقسّمًا العملية عند نقطة منطقية.",
+     "استخدم المبني للمجهول في العمليات الصناعية (the clay is dug up)، والأفعال المبنية للمعلوم في العمليات الطبيعية (the larva feeds on leaves).",
+     "اربط المراحل بتعبيرات التسلسل مثل: first وonce وafter this وbefore being وfinally."
+    ],
+    "traps": [
+     "نسخ التسميات من المخطط على هيئة قائمة بدلًا من كتابة جمل كاملة.",
+     "إغفال مرحلة، أو وصف المراحل بترتيب خاطئ.",
+     "ربط كل المراحل بـ then وnext وحدهما.",
+     "إغفال الملخّص العام بحجة عدم وجود أرقام تُلخَّص."
+    ]
+   }
+  },
+  "academic_task1_map": {
+   "name": "Academic Task 1: maps and plans",
+   "en": {
+    "what": "You compare two or more maps of the same place at different times, or describe planned changes. You report what was built, removed, moved, extended or kept.",
+    "steps": [
+     "Compare the maps carefully and list the main changes and the features that stayed the same.",
+     "In the overview, give the general direction of change, for example that the area became more residential and less green.",
+     "Organise the body paragraphs by area (north and south of the river) or by type of change (new buildings, removed features).",
+     "Use the past passive for changes between two past dates (was demolished, was replaced by, was extended) and future forms for plans (will be built, is due to be converted).",
+     "Use precise location language: compass directions, next to, opposite, alongside, in the centre of."
+    ],
+    "traps": [
+     "Describing each map separately instead of comparing them.",
+     "Inventing reasons for the changes, which the task does not ask for.",
+     "Using vague location words such as 'up' and 'down' instead of compass directions."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الأولى الأكاديمية: الخرائط والمخططات",
+    "what": "تقارن بين خريطتين أو أكثر للمكان نفسه في أوقات مختلفة، أو تصف تغييرات مُخطّطًا لها. وتذكر ما بُني أو أُزيل أو نُقل أو وُسِّع أو بقي على حاله.",
+    "steps": [
+     "قارن بين الخرائط بعناية، ودوّن أبرز التغييرات والمعالم التي لم تتغيّر.",
+     "اذكر في الملخّص العام الاتجاه العام للتغيير، كأن تقول إن المنطقة صارت سكنية أكثر وقلّت مساحاتها الخضراء.",
+     "نظّم فقرات العرض حسب المنطقة (شمال النهر وجنوبه) أو حسب نوع التغيير (مبانٍ جديدة ومعالم أُزيلت).",
+     "استخدم المبني للمجهول في الماضي للتغييرات بين تاريخين ماضيين (was demolished وwas replaced by وwas extended)، وصيغ المستقبل للخطط (will be built وis due to be converted).",
+     "استخدم تعبيرات دقيقة للمواقع: الاتجاهات الجغرافية، وnext to وopposite وalongside وin the centre of."
+    ],
+    "traps": [
+     "وصف كل خريطة على حدة بدلًا من المقارنة بينها.",
+     "اختلاق أسباب للتغييرات، وهذا ما لا تطلبه المهمة.",
+     "استخدام كلمات مبهمة مثل up وdown بدلًا من الاتجاهات الجغرافية."
+    ]
+   }
+  },
+  "gt_letter_formal": {
+   "name": "General Training Task 1: formal letter",
+   "en": {
+    "what": "You write to someone you do not know, such as a company manager or a local council, for example to complain, apply for something or make a request. You need at least 150 words in about 20 minutes and must cover all three bullet points.",
+    "steps": [
+     "Identify who you are writing to, why, and the three bullet points you must cover.",
+     "The task tells you to begin with 'Dear ...': complete it to suit the reader ('Dear Sir or Madam,' when you do not know their name) and state your purpose in the first sentence or two.",
+     "Write one paragraph for each bullet point, with relevant and believable details.",
+     "Keep the tone polite and formal: no contractions or slang, and indirect requests such as 'I would be grateful if you could...'.",
+     "Close with the action you expect, then sign off. In British English, 'Dear Sir or Madam' is usually followed by 'Yours faithfully,' and a letter to a named person by 'Yours sincerely,'. End with your full name."
+    ],
+    "traps": [
+     "Missing one of the bullet points or covering it in only a few words.",
+     "Writing addresses or a date: the task tells you that you do not need to write any addresses.",
+     "Mixing informal language into a formal letter (Hi, Thanks a lot, gonna).",
+     "Ending with a sign-off that does not match the tone, such as 'Love' or 'Cheers'."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الأولى للتدريب العام: الرسالة الرسمية",
+    "what": "تكتب إلى شخص لا تعرفه، كمدير شركة أو مجلس بلدي، للشكوى أو لتقديم طلب مثلًا. والمطلوب 150 كلمة على الأقل في نحو 20 دقيقة، مع تغطية النقاط الثلاث كلها.",
+    "steps": [
+     "حدّد المرسَل إليه، والغرض من الرسالة، والنقاط الثلاث التي يجب تغطيتها.",
+     "تطلب منك المهمة أن تبدأ بـ Dear ...، فأكملها بما يناسب القارئ (Dear Sir or Madam, إذا كنت لا تعرف اسمه)، ثم اذكر غرضك في الجملة الأولى أو الثانية.",
+     "اكتب فقرة لكل نقطة، مع تفاصيل مناسبة ومعقولة.",
+     "حافظ على أسلوب مهذّب ورسمي: لا اختصارات مثل don't ولا عامية، واستخدم الطلب غير المباشر مثل: I would be grateful if you could...",
+     "اختم بالإجراء الذي تنتظره، ثم بعبارة الختام. وفي الإنجليزية البريطانية تُتبَع تحية Dear Sir or Madam عادةً بـ Yours faithfully، أمّا الرسالة الموجّهة إلى شخص باسمه فتُختم بـ Yours sincerely، ثم اكتب اسمك الكامل."
+    ],
+    "traps": [
+     "إغفال إحدى النقاط أو تناولها بكلمات قليلة.",
+     "كتابة العناوين أو التاريخ؛ فالمهمة تنص على أنك لست بحاجة إلى كتابة أي عناوين.",
+     "إدخال لغة غير رسمية في رسالة رسمية، مثل Hi وThanks a lot وgonna.",
+     "اختتام الرسالة بعبارة لا تناسب أسلوبها، مثل Love أو Cheers."
+    ]
+   }
+  },
+  "gt_letter_semiformal": {
+   "name": "General Training Task 1: semi-formal letter",
+   "en": {
+    "what": "You write to someone you know but not closely, or in a work or official role, such as a manager, a landlord, a teacher or a neighbour. The tone is polite and respectful but less distant than in a formal letter.",
+    "steps": [
+     "Identify your relationship with the reader and your purpose, then plan one paragraph for each bullet point.",
+     "Begin with 'Dear Mr/Ms + surname,', or with their first name if that is how you normally address them.",
+     "State the purpose politely in the opening lines and give the background the reader needs.",
+     "Use polite, natural language; avoid slang, and avoid very stiff or old-fashioned expressions.",
+     "End politely (I look forward to hearing from you) with 'Kind regards,' or 'Yours sincerely,' and your name."
+    ],
+    "traps": [
+     "Being too casual (Hey, What's up?) with a manager or a neighbour you do not know well.",
+     "Being so formal that you sound cold when asking a favour from someone you know.",
+     "Not explaining the situation clearly because you assume the reader already knows it."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الأولى للتدريب العام: الرسالة شبه الرسمية",
+    "what": "تكتب إلى شخص تعرفه معرفة غير وثيقة، أو تربطك به علاقة عمل أو علاقة رسمية، كالمدير أو مالك المسكن أو المعلّم أو الجار. ويكون الأسلوب مهذّبًا ومحترمًا، لكنه أقل تحفّظًا من الرسالة الرسمية.",
+    "steps": [
+     "حدّد علاقتك بالقارئ والغرض من الرسالة، ثم خطّط لفقرة لكل نقطة.",
+     "ابدأ بـ Dear Mr/Ms متبوعة باسم العائلة، أو باسمه الأول إن كنت تناديه به عادةً.",
+     "اذكر غرضك بأسلوب مهذّب في الأسطر الأولى، وقدّم الخلفية التي يحتاج إليها القارئ.",
+     "استخدم لغة مهذّبة وطبيعية، وتجنّب العامية والعبارات المتكلّفة أو القديمة.",
+     "اختم بأسلوب مهذّب مثل I look forward to hearing from you، ثم Kind regards أو Yours sincerely واسمك."
+    ],
+    "traps": [
+     "التبسّط الزائد (Hey وWhat's up?) مع مدير أو جار لا تعرفه جيدًا.",
+     "الإفراط في الرسمية إلى حدّ الجفاء عند طلب خدمة من شخص تعرفه.",
+     "عدم شرح الموقف بوضوح ظنًّا أن القارئ يعرفه مسبقًا."
+    ]
+   }
+  },
+  "gt_letter_informal": {
+   "name": "General Training Task 1: informal letter",
+   "en": {
+    "what": "You write to a friend or a relative, for example to invite them, thank them, share news or ask for advice. The tone is warm and natural, but the letter must still be well organised and cover all three bullet points.",
+    "steps": [
+     "Plan one paragraph for each bullet point, plus a short opening and closing.",
+     "Begin with 'Dear + first name,' and a friendly line that leads quickly to your purpose.",
+     "Use a conversational tone: contractions, phrasal verbs and friendly questions are appropriate here.",
+     "Develop each bullet point with specific, personal details such as dates, places and feelings.",
+     "End warmly (I can't wait to see you; write back soon) with 'Best wishes,' or 'Love,' and your first name."
+    ],
+    "traps": [
+     "Spending too many lines on small talk (How are you? I hope your family is well) before reaching the purpose.",
+     "Using formal phrases such as 'I am writing to inform you' to a close friend.",
+     "Using text-message language or abbreviations (u, gr8, LOL)."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الأولى للتدريب العام: الرسالة غير الرسمية",
+    "what": "تكتب إلى صديق أو قريب، لدعوته أو شكره أو مشاركته أخبارك أو طلب نصيحته مثلًا. ويكون الأسلوب وديًا وطبيعيًا، لكن يجب أن تبقى الرسالة منظّمة وتغطي النقاط الثلاث كلها.",
+    "steps": [
+     "خطّط لفقرة لكل نقطة، إضافة إلى افتتاحية وخاتمة قصيرتين.",
+     "ابدأ بـ Dear متبوعة بالاسم الأول، ثم بجملة ودية تقودك سريعًا إلى غرضك.",
+     "استخدم أسلوب المحادثة: الاختصارات مثل I'm والأفعال المركّبة والأسئلة الودية مناسبة هنا.",
+     "طوّر كل نقطة بتفاصيل شخصية محددة، كالتواريخ والأماكن والمشاعر.",
+     "اختم بعبارة دافئة مثل I can't wait to see you أو write back soon، ثم Best wishes أو Love واسمك الأول."
+    ],
+    "traps": [
+     "الإطالة في المجاملات (How are you? I hope your family is well) قبل الوصول إلى الغرض.",
+     "استخدام عبارات رسمية مثل I am writing to inform you مع صديق مقرّب.",
+     "استخدام لغة الرسائل النصية واختصاراتها، مثل u وgr8 وLOL."
+    ]
+   }
+  },
+  "task2_opinion": {
+   "name": "Task 2: opinion essay",
+   "en": {
+    "what": "The question asks for your view, for example 'To what extent do you agree or disagree?' or 'Do you agree or disagree?'. You need a clear position that stays the same from the introduction to the conclusion. Task 2 needs at least 250 words in about 40 minutes and carries more weight than Task 1.",
+    "steps": [
+     "Spend about five minutes planning: decide your position (agree, disagree or partly agree) and your two main reasons.",
+     "In the introduction, paraphrase the statement and give your position clearly.",
+     "Write two or three body paragraphs, each with one main idea supported by explanation and an example.",
+     "If you partly agree, make clear which parts you accept and which you reject, so that your overall position is still easy to follow.",
+     "In the conclusion, restate your position and summarise your main reasons without adding new ideas."
+    ],
+    "traps": [
+     "Discussing both sides equally without ever saying what you think.",
+     "Changing your position halfway through the essay.",
+     "Writing about the general topic instead of the exact statement in the question."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الثانية: مقال الرأي",
+    "what": "يطلب السؤال رأيك، مثل To what extent do you agree or disagree? أو Do you agree or disagree?. وتحتاج إلى موقف واضح يبقى ثابتًا من المقدمة إلى الخاتمة. والمطلوب في المهمة الثانية 250 كلمة على الأقل في نحو 40 دقيقة، ووزنها في الدرجة أكبر من وزن المهمة الأولى.",
+    "steps": [
+     "خصّص نحو خمس دقائق للتخطيط: حدّد موقفك (موافق أو معارض أو موافق جزئيًا) وسببيك الرئيسين.",
+     "أعد في المقدمة صياغة العبارة، واذكر موقفك بوضوح.",
+     "اكتب فقرتين أو ثلاثًا للعرض، في كل منها فكرة رئيسة واحدة مدعومة بالشرح والمثال.",
+     "إن كنت موافقًا جزئيًا فبيّن ما تقبله وما ترفضه، ليبقى موقفك العام واضحًا.",
+     "أكّد موقفك في الخاتمة ولخّص أسبابك الرئيسة دون إضافة أفكار جديدة."
+    ],
+    "traps": [
+     "مناقشة الجانبين بالتساوي دون أن تذكر رأيك أبدًا.",
+     "تغيير موقفك في منتصف المقال.",
+     "الكتابة عن الموضوع العام بدلًا من العبارة المحددة في السؤال."
+    ]
+   }
+  },
+  "task2_discussion": {
+   "name": "Task 2: discussion essay (discuss both views)",
+   "en": {
+    "what": "The question presents two opposing views and asks you to 'Discuss both these views and give your own opinion'. You must cover both views and also make clear where you stand.",
+    "steps": [
+     "Underline both views and check that the task also asks for your opinion.",
+     "In the introduction, paraphrase the two views and briefly state your own opinion.",
+     "In the first body paragraph, explain the first view and why people hold it.",
+     "In the second body paragraph, explain the other view, often the one you support, with reasons and examples.",
+     "In the conclusion, summarise both views and repeat your opinion clearly."
+    ],
+    "traps": [
+     "Forgetting to give your own opinion, which limits your Task Response score.",
+     "Spending almost the whole essay on one view and only a sentence or two on the other.",
+     "Revealing your opinion only in the last line, so that your position is unclear until the end."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الثانية: مقال المناقشة (ناقش الرأيين)",
+    "what": "يعرض السؤال رأيين متعارضين ويطلب منك: Discuss both these views and give your own opinion. فعليك تناول الرأيين كليهما، وبيان موقفك أنت بوضوح أيضًا.",
+    "steps": [
+     "ضع خطًا تحت الرأيين، وتأكّد أن المهمة تطلب رأيك أيضًا.",
+     "أعد في المقدمة صياغة الرأيين، واذكر رأيك باختصار.",
+     "اشرح في فقرة العرض الأولى الرأي الأول ولماذا يتبنّاه أصحابه.",
+     "اشرح في فقرة العرض الثانية الرأي الآخر، وهو غالبًا الرأي الذي تؤيّده، مع الأسباب والأمثلة.",
+     "لخّص الرأيين في الخاتمة، وأكّد رأيك بوضوح."
+    ],
+    "traps": [
+     "نسيان ذكر رأيك الشخصي، مما يحدّ من درجتك في معيار الاستجابة للمهمة.",
+     "تخصيص المقال كله تقريبًا لرأي واحد، والاكتفاء بجملة أو جملتين عن الآخر.",
+     "تأخير رأيك إلى السطر الأخير، فيبقى موقفك غامضًا حتى النهاية."
+    ]
+   }
+  },
+  "task2_advantages": {
+   "name": "Task 2: advantages and disadvantages",
+   "en": {
+    "what": "The question asks you to examine the advantages and disadvantages of something. If it asks 'Do the advantages outweigh the disadvantages?', you must also say which side is stronger.",
+    "steps": [
+     "Check exactly what is asked: a discussion of both sides, or a judgement about which side outweighs the other.",
+     "Choose your strongest one or two advantages and disadvantages rather than listing many.",
+     "In the introduction, paraphrase the topic and, if the question asks for it, state which side outweighs the other.",
+     "Write one paragraph on the advantages and one on the disadvantages, explaining each point with an example.",
+     "In the conclusion, restate your judgement and the main reason for it."
+    ],
+    "traps": [
+     "Not giving a clear answer to 'Do the advantages outweigh the disadvantages?'.",
+     "Listing many points with no explanation or development.",
+     "Claiming that the advantages outweigh the disadvantages while writing a more convincing paragraph about the disadvantages."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الثانية: المزايا والعيوب",
+    "what": "يطلب السؤال تناول مزايا أمر ما وعيوبه. وإذا سأل: Do the advantages outweigh the disadvantages? فعليك أيضًا أن تبيّن أيّ الجانبين أرجح.",
+    "steps": [
+     "تحقّق مما يطلبه السؤال بالضبط: مناقشة الجانبين، أم الحكم بأيّهما أرجح.",
+     "اختر أقوى ميزة أو ميزتين وأقوى عيب أو عيبين، بدلًا من سرد الكثير.",
+     "أعد في المقدمة صياغة الموضوع، واذكر أيّ الجانبين أرجح إن طلب السؤال ذلك.",
+     "اكتب فقرة عن المزايا وأخرى عن العيوب، واشرح كل نقطة بمثال.",
+     "أكّد حكمك في الخاتمة، واذكر السبب الرئيس له."
+    ],
+    "traps": [
+     "عدم الإجابة بوضوح عن سؤال: Do the advantages outweigh the disadvantages?",
+     "سرد نقاط كثيرة دون شرح أو تطوير.",
+     "القول إن المزايا أرجح من العيوب، ثم كتابة فقرة أكثر إقناعًا عن العيوب."
+    ]
+   }
+  },
+  "task2_problem_solution": {
+   "name": "Task 2: problems (or causes) and solutions",
+   "en": {
+    "what": "The question asks you to explain the problems or the causes of an issue and to suggest solutions or measures to deal with it.",
+    "steps": [
+     "Check both parts of the question: problems or causes, and solutions.",
+     "Choose two main problems or causes and develop them with explanations and examples.",
+     "Propose solutions that clearly respond to the problems or causes you have described.",
+     "Explain how each solution would work and who would be responsible for it (governments, schools, individuals).",
+     "Conclude by summarising the main problems and the most effective solutions."
+    ],
+    "traps": [
+     "Writing about causes when the question asks about problems, or the other way round.",
+     "Offering solutions that do not match the problems you described.",
+     "Suggesting vague solutions (the government should do something) without explaining how they would work."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الثانية: المشكلات (أو الأسباب) والحلول",
+    "what": "يطلب السؤال شرح المشكلات الناتجة عن قضية ما أو أسبابها، واقتراح حلول أو إجراءات لمعالجتها.",
+    "steps": [
+     "تحقّق من شقّي السؤال: المشكلات أو الأسباب، ثم الحلول.",
+     "اختر مشكلتين أو سببين رئيسين، وطوّرهما بالشرح والأمثلة.",
+     "اقترح حلولًا تعالج بوضوح المشكلات أو الأسباب التي وصفتها.",
+     "اشرح آلية عمل كل حل والجهة المسؤولة عن تنفيذه (الحكومات أو المدارس أو الأفراد).",
+     "اختم بتلخيص أبرز المشكلات وأنجع الحلول."
+    ],
+    "traps": [
+     "الكتابة عن الأسباب والسؤال يطلب المشكلات، أو العكس.",
+     "اقتراح حلول لا تتوافق مع المشكلات التي وصفتها.",
+     "اقتراح حلول مبهمة، مثل: على الحكومة أن تفعل شيئًا، دون شرح طريقة تنفيذها."
+    ]
+   }
+  },
+  "task2_two_part": {
+   "name": "Task 2: two-part question essay",
+   "en": {
+    "what": "The prompt contains two different questions, for example 'Why is this happening? What can be done about it?'. You must answer both questions fully.",
+    "steps": [
+     "Underline both questions and note what kind of answer each one needs: a reason, an opinion or a solution.",
+     "In the introduction, paraphrase the topic and give a brief answer to each question.",
+     "Write one body paragraph for each question, starting with a direct answer followed by explanation and examples.",
+     "Give both questions roughly equal attention.",
+     "In the conclusion, summarise your answers to both questions."
+    ],
+    "traps": [
+     "Answering one question in detail and the other in a single sentence.",
+     "Writing a general essay on the topic instead of answering the two specific questions.",
+     "Turning it into an advantages and disadvantages essay because the topic seems familiar."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الثانية: مقال السؤالين",
+    "what": "يتضمّن الموضوع سؤالين مختلفين، مثل: Why is this happening? What can be done about it?. وعليك الإجابة عن السؤالين إجابة وافية.",
+    "steps": [
+     "ضع خطًا تحت السؤالين، وحدّد نوع الإجابة التي يحتاجها كلٌّ منهما: سبب أم رأي أم حل.",
+     "أعد في المقدمة صياغة الموضوع، وأجب باختصار عن كل سؤال.",
+     "اكتب فقرة عرض لكل سؤال، تبدأ بإجابة مباشرة يليها الشرح والأمثلة.",
+     "امنح السؤالين اهتمامًا متقاربًا.",
+     "لخّص في الخاتمة إجابتيك عن السؤالين."
+    ],
+    "traps": [
+     "الإجابة عن أحد السؤالين بالتفصيل وعن الآخر بجملة واحدة.",
+     "كتابة مقال عام عن الموضوع بدلًا من الإجابة عن السؤالين المحددين.",
+     "تحويله إلى مقال مزايا وعيوب لأن الموضوع يبدو مألوفًا."
+    ]
+   }
+  },
+  "task2_positive_negative": {
+   "name": "Task 2: positive or negative development",
+   "en": {
+    "what": "The prompt describes a trend or change and asks 'Is this a positive or negative development?'. You must give a clear judgement about the change and support it.",
+    "steps": [
+     "Decide whether you see the development as mainly positive or mainly negative.",
+     "In the introduction, paraphrase the trend and state your judgement.",
+     "Develop the main reasons for your judgement in one or two body paragraphs, with examples.",
+     "You may acknowledge the other side in a short paragraph or a few sentences, then explain why your view is stronger.",
+     "Restate your judgement in the conclusion."
+    ],
+    "traps": [
+     "Describing the trend or its causes instead of evaluating it.",
+     "Saying it is 'both positive and negative' without making clear which side is stronger.",
+     "Writing about a different development from the one described in the prompt."
+    ]
+   },
+   "ar": {
+    "name": "المهمة الثانية: تطوّر إيجابي أم سلبي",
+    "what": "يصف الموضوع ظاهرة أو تغيّرًا، ثم يسأل: Is this a positive or negative development?. وعليك أن تصدر حكمًا واضحًا على هذا التغيّر وتدعمه بالحجج.",
+    "steps": [
+     "حدّد هل ترى هذا التطوّر إيجابيًا في الغالب أم سلبيًا في الغالب.",
+     "أعد في المقدمة صياغة الظاهرة، واذكر حكمك عليها.",
+     "طوّر الأسباب الرئيسة لحكمك في فقرة أو فقرتين، مع الأمثلة.",
+     "يمكنك الإشارة إلى الجانب الآخر في فقرة قصيرة أو بضع جمل، ثم تبيّن لماذا رأيك أرجح.",
+     "أكّد حكمك في الخاتمة."
+    ],
+    "traps": [
+     "وصف الظاهرة أو أسبابها بدلًا من تقييمها.",
+     "القول إنها «إيجابية وسلبية معًا» دون بيان أيّ الجانبين أرجح.",
+     "الكتابة عن تطوّر مختلف عن التطوّر المذكور في الموضوع."
+    ]
+   }
+  },
+  "time_management": {
+   "name": "Writing: managing your 60 minutes",
+   "en": {
+    "what": "The Writing test lasts 60 minutes for both tasks, and you decide how to divide the time. Task 2 is worth twice as much as Task 1, so plan your time around it.",
+    "steps": [
+     "Aim for about 20 minutes on Task 1 and 40 minutes on Task 2.",
+     "Task 1: about 3 minutes to plan, 15 minutes to write and 2 minutes to check.",
+     "Task 2: about 5 minutes to plan, 30 minutes to write and 5 minutes to check.",
+     "You may do the tasks in either order. Some candidates start with Task 2 because it carries more weight; if you start with Task 1, stop at about 20 minutes even if it is not perfect.",
+     "Watch the timer on screen (or the clock in the room in the paper test) and keep time at the end to check grammar, spelling and your word count."
+    ],
+    "traps": [
+     "Spending 30 minutes or more on Task 1 and rushing an unfinished Task 2.",
+     "Starting to write without a plan, which leads to repetition and weak paragraphing.",
+     "Writing far more than necessary: very long answers take time and usually contain more errors."
+    ]
+   },
+   "ar": {
+    "name": "الكتابة: إدارة الدقائق الستين",
+    "what": "يستغرق اختبار الكتابة 60 دقيقة للمهمتين معًا، وأنت من يقرّر كيفية توزيع الوقت بينهما. والمهمة الثانية تُحتسب بضعف وزن المهمة الأولى، فخطّط وقتك على هذا الأساس.",
+    "steps": [
+     "خصّص نحو 20 دقيقة للمهمة الأولى و40 دقيقة للمهمة الثانية.",
+     "المهمة الأولى: نحو 3 دقائق للتخطيط، و15 دقيقة للكتابة، ودقيقتان للمراجعة.",
+     "المهمة الثانية: نحو 5 دقائق للتخطيط، و30 دقيقة للكتابة، و5 دقائق للمراجعة.",
+     "يمكنك البدء بأي المهمتين شئت. يبدأ بعض المتقدّمين بالمهمة الثانية لأن وزنها أكبر، وإن بدأت بالأولى فتوقّف عند نحو 20 دقيقة حتى لو لم تكن راضيًا عنها تمامًا.",
+     "راقب المؤقّت على الشاشة (أو ساعة القاعة في الاختبار الورقي)، واحتفظ بوقت في النهاية لمراجعة القواعد والتهجئة وعدد الكلمات."
+    ],
+    "traps": [
+     "قضاء 30 دقيقة أو أكثر في المهمة الأولى، ثم التسرّع في مهمة ثانية غير مكتملة.",
+     "البدء بالكتابة دون تخطيط، مما يؤدي إلى التكرار وضعف تقسيم الفقرات.",
+     "الكتابة أكثر بكثير من اللازم؛ فالإجابات الطويلة جدًا تستهلك الوقت وتكثر فيها الأخطاء عادةً."
+    ]
+   }
+  },
+  "word_count_rules": {
+   "name": "Word count rules",
+   "en": {
+    "what": "Task 1 requires at least 150 words and Task 2 at least 250 words. There is no maximum, but answers that are too short, off-topic or memorised score lower.",
+    "steps": [
+     "Every word counts, including small words such as a, the and of. A number written in digits, such as 2010 or 3.5, counts as one word, and so does a contraction such as don't, but avoid contractions in formal writing.",
+     "Words copied from the question are not credited, so copied sentences do not help you reach the minimum. Paraphrase the task instead.",
+     "On the computer-delivered test, a word count is shown on screen as you type. On the paper test, count the words in three typical lines, work out the average, and multiply it by the number of lines.",
+     "Aim a little above the minimum: around 170–190 words for Task 1 and 260–300 words for Task 2.",
+     "Typed and handwritten answers are marked against the same criteria. If you write by hand, make sure your writing is clear, because the examiner can only assess what they can read."
+    ],
+    "traps": [
+     "Writing less than the minimum: under-length answers are penalised, mainly because a short answer cannot cover the task fully or show enough range of language. Answers of 20 words or fewer are rated Band 1.",
+     "Off-topic writing: content that does not answer the question is not credited, and a response that is wholly unrelated to the task can be rated Band 1.",
+     "Memorised essays and long memorised openings: memorised language is not credited, and a response proved to be entirely memorised can receive Band 0.",
+     "Padding with repetition or irrelevant sentences to reach the word count: it adds words but weakens coherence and does not raise your score."
+    ]
+   },
+   "ar": {
+    "name": "قواعد عدد الكلمات",
+    "what": "تتطلب المهمة الأولى 150 كلمة على الأقل، والمهمة الثانية 250 كلمة على الأقل. ولا يوجد حدّ أعلى، لكن الإجابات القصيرة جدًا أو الخارجة عن الموضوع أو المحفوظة تنال درجات أقل.",
+    "steps": [
+     "كل كلمة تُحتسب، بما فيها الكلمات الصغيرة مثل a وthe وof. والعدد المكتوب بالأرقام، مثل 2010 أو 3.5، يُحتسب كلمة واحدة، وكذلك الصيغة المختصرة مثل don't، لكن تجنّب الاختصارات في الكتابة الرسمية.",
+     "الكلمات المنقولة من نص السؤال لا تُحتسب لك، فالجمل المنسوخة لا تساعدك على بلوغ الحدّ الأدنى؛ أعد صياغة المطلوب بدلًا من ذلك.",
+     "في الاختبار على الحاسوب يظهر عدد الكلمات على الشاشة أثناء الكتابة. أمّا في الاختبار الورقي فعُدّ كلمات ثلاثة أسطر نموذجية، واستخرج المتوسط، ثم اضربه في عدد الأسطر.",
+     "اكتب أكثر من الحدّ الأدنى بقليل: نحو 170 إلى 190 كلمة للمهمة الأولى، ونحو 260 إلى 300 كلمة للمهمة الثانية.",
+     "تُقيَّم الإجابات المطبوعة والمكتوبة بخط اليد وفق المعايير نفسها. وإن كتبت بخط اليد فاحرص على وضوح خطك؛ فالمصحّح لا يقيّم إلا ما يستطيع قراءته."
+    ],
+    "traps": [
+     "الكتابة دون الحدّ الأدنى: تُعاقَب الإجابات الأقصر من المطلوب، لأن الإجابة القصيرة لا تغطي المهمة تغطية كاملة في الغالب، ولا تُظهر تنوّعًا لغويًا كافيًا. والإجابات التي لا تتجاوز 20 كلمة تُمنح الدرجة 1.",
+     "الخروج عن الموضوع: المحتوى الذي لا يجيب عن السؤال لا يُحتسب، والإجابة التي لا صلة لها بالمهمة إطلاقًا قد تُمنح الدرجة 1.",
+     "المقالات المحفوظة والمقدمات الطويلة المحفوظة: اللغة المحفوظة لا تُحتسب، والإجابة التي يثبت أنها محفوظة بالكامل قد تُمنح الدرجة 0.",
+     "الحشو بالتكرار أو بجمل لا صلة لها بالموضوع لبلوغ العدد المطلوب: يزيد ذلك عدد الكلمات لكنه يُضعف الترابط ولا يرفع درجتك."
+    ]
+   }
+  }
+ },
+ "speaking": {
+  "part1": {
+   "name": "Speaking Part 1: introduction and interview",
+   "en": {
+    "what": "The examiner asks short questions about familiar topics such as your home, studies, work, hobbies and daily routine. It lasts about 4–5 minutes and is designed to help you settle in.",
+    "steps": [
+     "Answer the question directly in the first sentence, then add a reason, an example or a detail. Two to four sentences is usually enough.",
+     "Use a natural, conversational tone: contractions and everyday expressions are appropriate here.",
+     "Use a range of tenses where it fits, for example by comparing the present with the past (I used to..., but now I...).",
+     "Prepare by practising common topics aloud, but do not memorise full answers.",
+     "If you do not understand a question, ask the examiner to repeat it. In Part 1 the examiner can repeat the question but cannot explain or rephrase it."
+    ],
+    "traps": [
+     "One-word or yes/no answers that give the examiner nothing to assess.",
+     "Very long answers that go off-topic: the examiner may interrupt to keep to time, and that is normal.",
+     "Reciting memorised answers: examiners notice the change in rhythm and intonation, and memorised language does not show your real ability."
+    ]
+   },
+   "ar": {
+    "name": "المحادثة، الجزء الأول: التعارف والمقابلة",
+    "what": "يطرح المصحّح أسئلة قصيرة عن موضوعات مألوفة، كمكان سكنك ودراستك وعملك وهواياتك وروتينك اليومي. ويستغرق نحو 4 إلى 5 دقائق، والغرض منه أن تعتاد جوّ الاختبار.",
+    "steps": [
+     "أجب عن السؤال مباشرة في الجملة الأولى، ثم أضف سببًا أو مثالًا أو تفصيلًا. ويكفي غالبًا من جملتين إلى أربع جمل.",
+     "استخدم أسلوب محادثة طبيعيًا؛ فالاختصارات مثل I'm والتعبيرات اليومية مناسبة هنا.",
+     "نوّع الأزمنة حين يناسب ذلك، كأن تقارن الحاضر بالماضي: I used to..., but now I...",
+     "استعدّ بالتدرّب بصوت مسموع على الموضوعات الشائعة، لكن لا تحفظ إجابات كاملة.",
+     "إن لم تفهم السؤال فاطلب من المصحّح إعادته. وفي الجزء الأول يمكنه إعادة السؤال، لكن لا يمكنه شرحه أو إعادة صياغته."
+    ],
+    "traps": [
+     "الإجابة بكلمة واحدة أو بنعم ولا، فلا يجد المصحّح ما يقيّمه.",
+     "الإجابات الطويلة جدًا الخارجة عن الموضوع؛ وقد يقاطعك المصحّح للالتزام بالوقت، وهذا أمر طبيعي.",
+     "تسميع إجابات محفوظة: يلاحظ المصحّح تغيّر الإيقاع والتنغيم، واللغة المحفوظة لا تُظهر مستواك الحقيقي."
+    ]
+   }
+  },
+  "part2": {
+   "name": "Speaking Part 2: the long turn",
+   "en": {
+    "what": "You receive a task card with a topic and several prompts. You have 1 minute to prepare, with paper and a pencil for notes, and then you speak for up to 2 minutes. The examiner will stop you when the time is up and may ask one or two short follow-up questions.",
+    "steps": [
+     "Use the minute to write key words, not sentences: a few words for each prompt and one or two useful vocabulary items.",
+     "Start directly with the topic (I'd like to talk about...) instead of repeating the whole card.",
+     "Cover the prompts in order, using them as a structure, and give extra detail on the final 'explain' point, which usually carries the most interesting content.",
+     "Add specific details such as names, places, times, feelings and a short story, using past tenses where the topic is in the past.",
+     "Keep talking until the examiner stops you. If you run out of ideas, add a comparison, a related experience or how you feel about it now."
+    ],
+    "traps": [
+     "Stopping after 40–60 seconds: a short talk gives less evidence of your fluency and range.",
+     "Reading your notes aloud or speaking in a flat, rehearsed way.",
+     "Changing the topic to one you have prepared: a talk that does not match the card cannot show your real ability.",
+     "Panicking when the examiner interrupts you: being stopped at 2 minutes is normal and does not lose marks."
+    ]
+   },
+   "ar": {
+    "name": "المحادثة، الجزء الثاني: الحديث المطوّل",
+    "what": "تتسلّم بطاقة عليها موضوع وعدة نقاط توجيهية، ولديك دقيقة واحدة للتحضير مع ورقة وقلم لتدوين الملاحظات، ثم تتحدث مدة أقصاها دقيقتان. يوقفك المصحّح عند انتهاء الوقت، وقد يطرح سؤالًا أو سؤالين قصيرين بعد ذلك.",
+    "steps": [
+     "استغل الدقيقة في كتابة كلمات مفتاحية لا جمل: بضع كلمات لكل نقطة، ومفردة أو مفردتين مفيدتين.",
+     "ادخل في الموضوع مباشرة (I'd like to talk about...) بدلًا من إعادة نص البطاقة كله.",
+     "تناول النقاط بالترتيب واجعلها هيكلًا لحديثك، وأعطِ تفصيلًا أوفى للنقطة الأخيرة التي تبدأ بـ explain، فهي غالبًا أكثرها ثراءً.",
+     "أضف تفاصيل محددة كالأسماء والأماكن والأوقات والمشاعر وقصة قصيرة، واستخدم الأزمنة الماضية إن كان الموضوع عن الماضي.",
+     "استمر في الحديث حتى يوقفك المصحّح. وإن نفدت أفكارك فأضف مقارنة، أو تجربة ذات صلة، أو شعورك تجاه الموضوع الآن."
+    ],
+    "traps": [
+     "التوقف بعد 40 إلى 60 ثانية: فالحديث القصير يقدّم دليلًا أقل على طلاقتك وتنوّع لغتك.",
+     "قراءة ملاحظاتك بصوت مرتفع، أو الحديث بنبرة رتيبة محفوظة.",
+     "تحويل الحديث إلى موضوع أعددته مسبقًا: فالحديث الذي لا يطابق البطاقة لا يُظهر مستواك الحقيقي.",
+     "الارتباك عند مقاطعة المصحّح لك: فإيقافك عند الدقيقتين أمر طبيعي ولا يُنقص درجتك."
+    ]
+   }
+  },
+  "part3": {
+   "name": "Speaking Part 3: discussion",
+   "en": {
+    "what": "The examiner asks more abstract questions linked to the Part 2 topic, about society, trends and the future rather than your personal life. It lasts about 4–5 minutes and is where higher-level language and ideas are expected.",
+    "steps": [
+     "Give a clear opinion, then support it with a reason and an example, and if possible a contrast or a consequence.",
+     "Talk about people and society in general (many young people, in my country, nowadays) rather than only about yourself.",
+     "Use language for speculating and comparing: it is likely that, in the future, compared with the past, it depends on whether...",
+     "Show balance when a question is complex: I can see why some people think..., but on the whole...",
+     "If a question is unclear, ask the examiner to explain or rephrase it: in Part 3 they are allowed to."
+    ],
+    "traps": [
+     "Answering only with personal experience when the question is about society in general.",
+     "Saying 'I don't know' and stopping: this is a language test, so give your best reasoning even on unfamiliar topics.",
+     "Answers that are too short: Part 3 is designed for extended, developed answers."
+    ]
+   },
+   "ar": {
+    "name": "المحادثة، الجزء الثالث: النقاش",
+    "what": "يطرح المصحّح أسئلة أكثر تجريدًا ترتبط بموضوع الجزء الثاني، عن المجتمع والاتجاهات العامة والمستقبل، لا عن حياتك الشخصية. ويستغرق نحو 4 إلى 5 دقائق، وفيه تُنتظر منك لغة وأفكار بمستوى أعلى.",
+    "steps": [
+     "قدّم رأيًا واضحًا، ثم ادعمه بسبب ومثال، وإن أمكن بمقارنة أو نتيجة.",
+     "تحدّث عن الناس والمجتمع بوجه عام (many young people وin my country وnowadays) لا عن نفسك فقط.",
+     "استخدم لغة التوقّع والمقارنة، مثل: it is likely that وin the future وcompared with the past وit depends on whether.",
+     "أظهر التوازن في الأسئلة المعقّدة: I can see why some people think..., but on the whole...",
+     "إن كان السؤال غامضًا فاطلب من المصحّح شرحه أو إعادة صياغته؛ فذلك مسموح في الجزء الثالث."
+    ],
+    "traps": [
+     "الاكتفاء بالتجربة الشخصية والسؤال يتناول المجتمع بوجه عام.",
+     "قول I don't know ثم الصمت: فهذا اختبار لغة، فقدّم أفضل ما لديك من تحليل حتى في الموضوعات غير المألوفة.",
+     "الإجابات القصيرة جدًا: فالجزء الثالث مصمَّم لإجابات مطوّلة ومفصّلة."
+    ]
+   }
+  },
+  "fluency": {
+   "name": "Fluency and coherence",
+   "en": {
+    "what": "This criterion, one quarter of your Speaking score, measures how smoothly you speak without long pauses and how logically you connect your ideas.",
+    "steps": [
+     "Keep going: a small grammar mistake is less damaging than a long silence while you search for the perfect sentence.",
+     "Use natural fillers sparingly to think (Well..., Let me see...) instead of silence or repeated 'em'.",
+     "Organise answers with spoken linkers: the main reason is..., on top of that..., having said that..., so basically...",
+     "Practise speaking for one or two minutes on random topics and record yourself to notice long pauses and repeated words.",
+     "If you make a mistake, correct it quickly and continue; occasional self-correction is natural."
+    ],
+    "traps": [
+     "Speaking very fast to sound fluent, which often makes speech unclear and increases errors.",
+     "Overusing the same linkers (and, also, because) or formal written linkers (Moreover, Furthermore) in conversation.",
+     "Stopping often to correct small mistakes, which breaks the flow."
+    ]
+   },
+   "ar": {
+    "name": "الطلاقة والترابط",
+    "what": "يمثّل هذا المعيار ربع درجة المحادثة، ويقيس مدى انسيابية كلامك دون توقفات طويلة، ومدى ترابط أفكارك منطقيًا.",
+    "steps": [
+     "استمر في الحديث: الخطأ النحوي البسيط أقل ضررًا من صمت طويل تبحث فيه عن جملة مثالية.",
+     "استخدم بقدر معتدل عبارات طبيعية تمنحك وقتًا للتفكير، مثل Well... أو Let me see...، بدلًا من الصمت أو تكرار em.",
+     "نظّم إجاباتك بروابط الكلام المنطوق، مثل: the main reason is... وon top of that... وhaving said that... وso basically...",
+     "تدرّب على الحديث دقيقة أو دقيقتين في موضوعات عشوائية، وسجّل صوتك لتلاحظ التوقفات الطويلة والكلمات المكرّرة.",
+     "إن أخطأت فصحّح بسرعة وتابع؛ فالتصحيح الذاتي العارض أمر طبيعي."
+    ],
+    "traps": [
+     "التحدث بسرعة كبيرة لتبدو طليقًا، مما يجعل الكلام غير واضح ويزيد الأخطاء.",
+     "الإفراط في استخدام الروابط نفسها (and وalso وbecause)، أو استخدام روابط الكتابة الرسمية مثل Moreover وFurthermore في المحادثة.",
+     "التوقف كثيرًا لتصحيح أخطاء صغيرة، مما يقطع انسياب الكلام."
+    ]
+   }
+  },
+  "pronunciation": {
+   "name": "Pronunciation",
+   "en": {
+    "what": "This criterion, one quarter of your Speaking score, measures how easy you are to understand: individual sounds, word stress, sentence stress, rhythm and intonation. You do not need a British or American accent.",
+    "steps": [
+     "Focus on being clear rather than on sounding like a native speaker; your accent is fine if the listener understands you easily.",
+     "Learn the stress of common academic words (eCONomy, ecoNOMic; PHOtograph, phoTOgraphy).",
+     "Stress the important words in a sentence and use intonation to show interest, contrast and the end of an idea.",
+     "Practise sounds that are often difficult for Arabic speakers, such as /p/ and /b/ (pin, bin) and /v/ and /f/ (very, ferry), and avoid adding extra vowels to consonant clusters, such as 'istreet' for 'street'.",
+     "Practise by shadowing: listen to a short clip, then repeat it at the same speed, copying the rhythm and intonation."
+    ],
+    "traps": [
+     "Speaking in a flat, monotonous voice, which makes your meaning harder to follow.",
+     "Swallowing word endings such as -s, -ed and -t, which also makes grammar sound wrong.",
+     "Trying to imitate an accent, which often makes speech less clear and less natural."
+    ]
+   },
+   "ar": {
+    "name": "النطق",
+    "what": "يمثّل هذا المعيار ربع درجة المحادثة، ويقيس مدى سهولة فهم كلامك: الأصوات المفردة، ونبر الكلمات، ونبر الجمل، والإيقاع، والتنغيم. ولا يُشترط أن تكون لهجتك بريطانية أو أمريكية.",
+    "steps": [
+     "ركّز على الوضوح لا على محاكاة أصحاب اللغة؛ فلهجتك مقبولة ما دام المستمع يفهمك بسهولة.",
+     "تعلّم مواضع النبر في الكلمات الأكاديمية الشائعة، مثل: eCONomy وecoNOMic، وPHOtograph وphoTOgraphy.",
+     "شدّد على الكلمات المهمة في الجملة، واستخدم التنغيم لإظهار الاهتمام والمقابلة ونهاية الفكرة.",
+     "تدرّب على الأصوات التي تصعب كثيرًا على متحدثي العربية، مثل /p/ و/b/ (pin وbin)، و/v/ و/f/ (very وferry)، وتجنّب إضافة حرف علة قبل تجمّعات الحروف الساكنة، كأن تنطق street «إستريت».",
+     "تدرّب بأسلوب المحاكاة (shadowing): استمع إلى مقطع قصير، ثم كرّره بالسرعة نفسها، محاكيًا الإيقاع والتنغيم."
+    ],
+    "traps": [
+     "التحدث بصوت رتيب على وتيرة واحدة، مما يصعّب متابعة المعنى.",
+     "ابتلاع نهايات الكلمات مثل -s و-ed و-t، مما يجعل القواعد تبدو خاطئة أيضًا.",
+     "محاولة تقليد لهجة معيّنة، مما يجعل الكلام في الغالب أقل وضوحًا وأقل طبيعية."
+    ]
+   }
+  },
+  "lexical_resource": {
+   "name": "Lexical resource (vocabulary)",
+   "en": {
+    "what": "This criterion, one quarter of your Speaking score, measures the range and accuracy of your vocabulary, including collocations, idiomatic language and your ability to paraphrase.",
+    "steps": [
+     "Learn words in collocations rather than alone: make a decision, heavy traffic, a demanding job.",
+     "Use topic-specific vocabulary naturally, for example 'commute', 'public transport' and 'congestion' when talking about travel.",
+     "Paraphrase instead of repeating the examiner's words: if asked about 'free time', talk about 'leisure activities' or 'when I'm not working'.",
+     "Use less common words only when you are sure of their meaning and use; accuracy matters as much as range.",
+     "If you do not know a word, describe it: the thing you use to..., a kind of..."
+    ],
+    "traps": [
+     "Forcing idioms into answers (It's raining cats and dogs), which often sounds unnatural and can be inaccurate.",
+     "Using very formal written words in casual answers (I reside in a commodious apartment).",
+     "Repeating basic adjectives such as good, bad, nice and big."
+    ]
+   },
+   "ar": {
+    "name": "الثروة اللغوية (المفردات)",
+    "what": "يمثّل هذا المعيار ربع درجة المحادثة، ويقيس تنوّع مفرداتك ودقة استخدامها، بما في ذلك المتلازمات اللفظية والتعبيرات الاصطلاحية والقدرة على إعادة الصياغة.",
+    "steps": [
+     "تعلّم الكلمات ضمن متلازماتها لا منفردة، مثل: make a decision وheavy traffic وa demanding job.",
+     "استخدم مفردات الموضوع استخدامًا طبيعيًا، مثل commute وpublic transport وcongestion عند الحديث عن التنقّل.",
+     "أعد الصياغة بدلًا من تكرار كلمات المصحّح: إن سألك عن free time فتحدّث عن leisure activities أو when I'm not working.",
+     "لا تستخدم الكلمات غير الشائعة إلا إذا كنت متأكدًا من معناها وطريقة استعمالها؛ فالدقة لا تقلّ أهمية عن التنوّع.",
+     "إن لم تعرف كلمة فصِفها، مثل: the thing you use to... أو a kind of..."
+    ],
+    "traps": [
+     "حشر التعبيرات الاصطلاحية في الإجابات (It's raining cats and dogs)، فتبدو غالبًا غير طبيعية وقد تكون غير دقيقة.",
+     "استخدام كلمات كتابية رسمية جدًا في إجابات عفوية، مثل: I reside in a commodious apartment.",
+     "تكرار الصفات البسيطة مثل good وbad وnice وbig."
+    ]
+   }
+  },
+  "grammar": {
+   "name": "Grammatical range and accuracy",
+   "en": {
+    "what": "This criterion, one quarter of your Speaking score, measures how many different structures you can use and how accurately you use them.",
+    "steps": [
+     "Mix simple and complex sentences: relative clauses (the friend who...), conditionals (If I had more time, I would...) and reasons (because, since).",
+     "Use the right tense for the question: present habits in Part 1, past narrative in Part 2 when describing an experience, and speculation about the future in Part 3.",
+     "Use comparatives and modals naturally: it's much easier than..., people might..., it should be...",
+     "Record yourself and check for your most frequent errors, such as missing -s on verbs or a missing 'be'.",
+     "Choose accuracy over complexity when you are unsure: a correct simple sentence is better than a broken complex one."
+    ],
+    "traps": [
+     "Using only simple present sentences throughout the test.",
+     "Forcing complicated structures that you cannot control, which creates errors.",
+     "Mixing tenses when telling a story in Part 2, for example switching between past and present."
+    ]
+   },
+   "ar": {
+    "name": "تنوّع القواعد ودقتها",
+    "what": "يمثّل هذا المعيار ربع درجة المحادثة، ويقيس عدد التراكيب المختلفة التي تستطيع استخدامها ومدى دقتك في استخدامها.",
+    "steps": [
+     "امزج بين الجمل البسيطة والمركّبة: جمل الصلة (the friend who...)، والجمل الشرطية (If I had more time, I would...)، وجمل التعليل (because وsince).",
+     "استخدم الزمن المناسب للسؤال: المضارع للعادات في الجزء الأول، والسرد بالماضي عند وصف تجربة في الجزء الثاني، والتوقّع للمستقبل في الجزء الثالث.",
+     "استخدم صيغ المقارنة والأفعال الناقصة (modals) استخدامًا طبيعيًا، مثل: it's much easier than... وpeople might... وit should be...",
+     "سجّل صوتك وابحث عن أكثر أخطائك تكرارًا، مثل إسقاط s من الفعل أو حذف فعل be.",
+     "قدّم الدقة على التعقيد إن لم تكن متأكدًا؛ فالجملة البسيطة الصحيحة أفضل من جملة مركّبة مكسورة."
+    ],
+    "traps": [
+     "الاكتفاء بجمل المضارع البسيط طوال الاختبار.",
+     "تكلّف تراكيب معقّدة لا تتقنها، مما يُنتج أخطاء.",
+     "الخلط بين الأزمنة عند سرد قصة في الجزء الثاني، كالانتقال بين الماضي والمضارع."
+    ]
+   }
+  },
+  "when_you_dont_know": {
+   "name": "When you don't know the answer or the word",
+   "en": {
+    "what": "Speaking tests your English, not your knowledge. When you do not know much about a topic, or cannot find a word, the aim is to keep communicating.",
+    "steps": [
+     "Admit it briefly and keep going: 'I've never really thought about that, but I'd imagine...'.",
+     "Talk about what you do know: a related experience, what people you know do, or what you would do in that situation.",
+     "Give a reasoned guess for Part 3 questions (I suppose the main reason might be...), using hedging language.",
+     "If you forget a word, paraphrase it: 'the place where you leave your car' for 'car park', or 'a kind of large bird that cannot fly'.",
+     "If you did not understand the question, ask: 'Sorry, could you repeat that?' or, in Part 3, 'What do you mean by...?'."
+    ],
+    "traps": [
+     "Saying only 'I don't know' and waiting for the next question.",
+     "Switching to Arabic or another language for a word you cannot find.",
+     "Talking about a completely different topic that you feel more comfortable with."
+    ]
+   },
+   "ar": {
+    "name": "حين لا تعرف الإجابة أو الكلمة",
+    "what": "يختبر اختبار المحادثة لغتك الإنجليزية لا معلوماتك. فإن لم تكن تعرف الكثير عن الموضوع، أو عجزت عن تذكّر كلمة، فالهدف أن يستمر التواصل.",
+    "steps": [
+     "اعترف بذلك باختصار وتابع الحديث: I've never really thought about that, but I'd imagine...",
+     "تحدّث عمّا تعرفه: تجربة ذات صلة، أو ما يفعله أشخاص تعرفهم، أو ما كنت ستفعله في ذلك الموقف.",
+     "قدّم تخمينًا معلّلًا في أسئلة الجزء الثالث (I suppose the main reason might be...) مستخدمًا لغة التحفّظ.",
+     "إن نسيت كلمة فعبّر عنها بطريقة أخرى، كأن تقول the place where you leave your car بدلًا من car park، أو a kind of large bird that cannot fly.",
+     "إن لم تفهم السؤال فاسأل: Sorry, could you repeat that? أو في الجزء الثالث: What do you mean by...?"
+    ],
+    "traps": [
+     "الاكتفاء بقول I don't know وانتظار السؤال التالي.",
+     "اللجوء إلى العربية أو إلى لغة أخرى عند تعذّر إيجاد كلمة.",
+     "الحديث عن موضوع مختلف تمامًا تشعر فيه بارتياح أكبر."
+    ]
+   }
+  }
+ },
+ "listening": {
+  "prediction": {
+   "name": "Predicting answers before you listen",
+   "en": {
+    "what": "You hear each recording only once, but before each part, and in the pause halfway through Parts 1–3, you get time to read the questions. Using that time to predict the answers makes the recording much easier to follow.",
+    "steps": [
+     "Read the instructions and the word limit first.",
+     "Underline the key words in each question and think of synonyms the speakers might use instead.",
+     "Predict the type of answer for each gap: a number, a date, a name, a noun or an adjective, and whether it is singular or plural.",
+     "Use the title, the headings and the introduction to picture the situation: who is speaking, where, and why.",
+     "For multiple-choice questions, notice how the options differ so that you know exactly what to listen for.",
+     "When a part ends, move straight on to the next set of questions instead of worrying about answers you missed."
+    ],
+    "traps": [
+     "Writing the answer you predicted even though the speaker says something different.",
+     "Spending the preparation time on one difficult question instead of reading all of them.",
+     "Ignoring grammar clues around a gap, such as 'a' or 'an' before it, or a plural verb after it."
+    ]
+   },
+   "ar": {
+    "name": "توقّع الإجابات قبل الاستماع",
+    "what": "تستمع إلى كل تسجيل مرة واحدة فقط، لكنك تحصل قبل كل جزء، وفي الاستراحة القصيرة في منتصف الأجزاء من الأول إلى الثالث، على وقت لقراءة الأسئلة. واستغلال هذا الوقت في توقّع الإجابات يجعل متابعة التسجيل أسهل بكثير.",
+    "steps": [
+     "اقرأ التعليمات والحدّ المسموح من الكلمات أولًا.",
+     "ضع خطًا تحت الكلمات المفتاحية في كل سؤال، وفكّر في المرادفات التي قد يستخدمها المتحدثون بدلًا منها.",
+     "توقّع نوع الإجابة لكل فراغ: رقم أم تاريخ أم اسم علم أم اسم أم صفة، وهل هي مفرد أم جمع.",
+     "استعن بالعنوان والعناوين الفرعية والمقدمة لتتصوّر الموقف: من يتحدث؟ وأين؟ ولماذا؟",
+     "في أسئلة الاختيار من متعدد لاحظ أوجه الاختلاف بين الخيارات، لتعرف بالضبط ما الذي تستمع إليه.",
+     "عند انتهاء أي جزء انتقل مباشرة إلى مجموعة الأسئلة التالية، ولا تنشغل بالإجابات التي فاتتك."
+    ],
+    "traps": [
+     "كتابة الإجابة التي توقّعتها مع أن المتحدث يقول شيئًا مختلفًا.",
+     "إنفاق وقت التحضير على سؤال واحد صعب بدلًا من قراءة الأسئلة كلها.",
+     "إغفال القرائن النحوية حول الفراغ، كوجود a أو an قبله، أو فعل بصيغة الجمع بعده."
+    ]
+   }
+  },
+  "spelling_numbers": {
+   "name": "Spelling, names and numbers",
+   "en": {
+    "what": "Many Listening answers are names, numbers, dates, times and prices. They must be written exactly: a misspelled answer is marked wrong, even if you understood it.",
+    "steps": [
+     "Practise the English alphabet aloud, especially letters that are easy to confuse: A, E and I; G and J; B, P and V.",
+     "Learn how spelling is said aloud: 'double L' means LL, and a speaker may say 'that's with a hyphen' or 'capital M'.",
+     "Listen to the stress in numbers: thirTEEN stresses the end, while THIRty stresses the start.",
+     "In phone numbers, 'oh' means zero and 'double five' means 55.",
+     "Write numbers as digits and use a clear format for dates (15 March), times (7.30 pm) and prices (£12.50).",
+     "British and American spellings are both accepted, but use one consistently, and check whether the gap needs a singular or a plural."
+    ],
+    "traps": [
+     "Confusing similar-sounding numbers: 15 and 50, 13 and 30, 19 and 90.",
+     "Missing a plural -s or a letter in common words such as accommodation, necessary and environment.",
+     "Writing a currency or unit that is already printed next to the gap, which can break the word limit."
+    ]
+   },
+   "ar": {
+    "name": "التهجئة والأسماء والأرقام",
+    "what": "كثير من إجابات الاستماع أسماء وأرقام وتواريخ وأوقات وأسعار، ويجب كتابتها بدقة تامة؛ فالإجابة ذات التهجئة الخاطئة تُحسب خاطئة حتى لو فهمتها.",
+    "steps": [
+     "تدرّب على نطق الحروف الإنجليزية بصوت مسموع، ولا سيما الحروف التي يسهل الخلط بينها: A وE وI، وG وJ، وB وP وV.",
+     "تعلّم طريقة نطق التهجئة: double L تعني LL، وقد يقول المتحدث that's with a hyphen أو capital M.",
+     "انتبه إلى النبر في الأعداد: في thirTEEN يقع النبر في آخر الكلمة، وفي THIRty يقع في أولها.",
+     "في أرقام الهواتف تعني oh الصفر، وتعني double five الرقم 55.",
+     "اكتب الأعداد بالأرقام، واستخدم صيغة واضحة للتواريخ (15 March) والأوقات (7.30 pm) والأسعار (£12.50).",
+     "التهجئتان البريطانية والأمريكية مقبولتان، لكن التزم بإحداهما، وتحقّق هل يحتاج الفراغ إلى مفرد أم جمع."
+    ],
+    "traps": [
+     "الخلط بين الأعداد المتشابهة في النطق: 15 و50، و13 و30، و19 و90.",
+     "إسقاط s الجمع أو أحد الحروف في كلمات شائعة مثل accommodation وnecessary وenvironment.",
+     "كتابة رمز عملة أو وحدة قياس مطبوعة أصلًا بجوار الفراغ، مما قد يتجاوز الحدّ المسموح من الكلمات."
+    ]
+   }
+  },
+  "signposting": {
+   "name": "Following signposting language",
+   "en": {
+    "what": "Speakers use signposting language to show the structure of what they are saying: a new topic, the next item in a list, an example, a contrast or a conclusion. Recognising it helps you keep your place, especially in the Part 4 lecture.",
+    "steps": [
+     "Learn common signposts: First of all, Moving on to, Another point is, Let's turn now to, To sum up.",
+     "Match signposts to the headings on the question paper: when you hear 'Turning to the costs...', move to the section on costs.",
+     "Listen carefully after contrast words such as however, but and actually, because the answer often follows them.",
+     "Notice example markers (for instance, such as) and emphasis (the key point is, what really matters is), which often introduce tested information.",
+     "If you lose your place, wait for the next signpost and rejoin the questions there."
+    ],
+    "traps": [
+     "Writing the first item in a list when the question asks about a later one.",
+     "Missing a change of topic and continuing to wait for an answer that has already passed.",
+     "Ignoring a phrase such as 'but actually', which changes the information just given."
+    ]
+   },
+   "ar": {
+    "name": "متابعة العبارات الدالّة على بنية الكلام",
+    "what": "يستخدم المتحدثون عبارات تدلّ على بنية حديثهم: الانتقال إلى موضوع جديد، أو البند التالي في قائمة، أو مثال، أو مقابلة، أو خاتمة. ومعرفة هذه العبارات تساعدك على ألّا تفقد موضعك، ولا سيما في محاضرة الجزء الرابع.",
+    "steps": [
+     "تعلّم العبارات الشائعة، مثل: First of all وMoving on to وAnother point is وLet's turn now to وTo sum up.",
+     "اربط هذه العبارات بالعناوين في ورقة الأسئلة: عندما تسمع Turning to the costs... انتقل إلى القسم الخاص بالتكاليف.",
+     "أنصت جيدًا بعد كلمات المقابلة مثل however وbut وactually؛ فالإجابة كثيرًا ما تأتي بعدها.",
+     "لاحظ عبارات التمثيل (for instance وsuch as) وعبارات التوكيد (the key point is وwhat really matters is)، فهي كثيرًا ما تسبق المعلومة المطلوبة.",
+     "إن فقدت موضعك فانتظر العبارة الدالّة التالية، وعُد إلى الأسئلة من عندها."
+    ],
+    "traps": [
+     "كتابة البند الأول من القائمة والسؤال يسأل عن بند لاحق.",
+     "عدم الانتباه إلى تغيّر الموضوع، والاستمرار في انتظار إجابة قد مضت.",
+     "إغفال عبارة مثل but actually التي تغيّر المعلومة التي قيلت لتوّها."
+    ]
+   }
+  },
+  "distractors": {
+   "name": "Dealing with distractors",
+   "en": {
+    "what": "IELTS recordings often include distractors: information that sounds like the answer but is then corrected, rejected or changed. The correct answer is the final, confirmed information.",
+    "steps": [
+     "Expect speakers to change their minds or correct themselves: 'Let's meet on Tuesday... oh no, sorry, Wednesday is better.'",
+     "Listen for words that signal a change: actually, sorry, I mean, on second thoughts, unfortunately, instead, it used to be.",
+     "In multiple-choice and matching questions, expect most of the options to be mentioned; decide which one is confirmed, not which one you hear first.",
+     "Keep listening for a few seconds after you think you have the answer, in case it is corrected.",
+     "When two speakers disagree, check whose opinion or decision the question is asking about."
+    ],
+    "traps": [
+     "Writing the first number, date or name you hear.",
+     "Choosing an option because the speaker uses a word from it.",
+     "Confusing what used to happen, or what was originally planned, with what happens now or what was finally decided."
+    ]
+   },
+   "ar": {
+    "name": "التعامل مع المعلومات المُضلِّلة",
+    "what": "كثيرًا ما تتضمّن تسجيلات IELTS معلومات مُضلِّلة: معلومة تبدو كأنها الإجابة، ثم تُصحَّح أو تُرفض أو تتغيّر. والإجابة الصحيحة هي المعلومة النهائية المؤكَّدة.",
+    "steps": [
+     "توقّع أن يغيّر المتحدثون رأيهم أو يصحّحوا كلامهم، كأن يقول أحدهم: Let's meet on Tuesday... oh no, sorry, Wednesday is better.",
+     "انتبه إلى الكلمات التي تدلّ على التغيير، مثل: actually وsorry وI mean وon second thoughts وunfortunately وinstead وit used to be.",
+     "في أسئلة الاختيار من متعدد والمطابقة توقّع أن تُذكر معظم الخيارات؛ فالمهم أيّها تأكّد، لا أيّها سمعته أولًا.",
+     "واصل الاستماع بضع ثوانٍ بعد أن تظن أنك عرفت الإجابة، تحسّبًا لتصحيحها.",
+     "عندما يختلف متحدثان، تحقّق من صاحب الرأي أو القرار الذي يسأل عنه السؤال."
+    ],
+    "traps": [
+     "كتابة أول رقم أو تاريخ أو اسم تسمعه.",
+     "اختيار خيار لأن المتحدث استخدم كلمة منه.",
+     "الخلط بين ما كان يحدث سابقًا أو ما كان مُخطّطًا له في البداية، وما يحدث الآن أو ما تقرّر في النهاية."
+    ]
+   }
+  },
+  "computer_test": {
+   "name": "Listening on computer",
+   "en": {
+    "what": "In the computer-delivered test, which is now the standard format, you listen through headphones and type each answer on screen. There is no extra time to transfer answers as in the paper test, only 2 minutes at the end to check your work.",
+    "steps": [
+     "Type each answer as soon as you hear it; do not wait until the end of the part.",
+     "Check the sound before the test starts and adjust the volume if necessary. You can also highlight words in the questions and add notes on screen.",
+     "Check your spelling as you type: misspelled answers are marked wrong, and the computer will not correct your spelling for you.",
+     "Use the question navigation bar at the bottom of the screen to move between questions, and make sure no box is left empty.",
+     "Use the 2 minutes at the end to check spelling, plurals and word limits, and to type a guess in any empty box.",
+     "Practise typing in English before the test, especially names and numbers, so that typing does not slow you down."
+    ],
+    "traps": [
+     "Expecting 10 minutes of transfer time as in the paper test: on computer, you have only 2 minutes to check at the end.",
+     "Clicking ahead to later questions and losing track of where the recording is.",
+     "Typing errors such as missing or swapped letters (accomodation, recieve): your answer is marked exactly as you typed it.",
+     "Leaving blanks: a wrong answer loses nothing, so always type a guess."
+    ]
+   },
+   "ar": {
+    "name": "اختبار الاستماع على الحاسوب",
+    "what": "في الاختبار على الحاسوب، وهو الصيغة المعتمدة الآن، تستمع عبر سمّاعات الرأس وتكتب كل إجابة على الشاشة. ولا يوجد وقت إضافي لنقل الإجابات كما في الاختبار الورقي، بل دقيقتان فقط في النهاية لمراجعة إجاباتك.",
+    "steps": [
+     "اكتب كل إجابة فور سماعها، ولا تنتظر حتى نهاية الجزء.",
+     "تحقّق من الصوت قبل بدء الاختبار واضبط مستواه إن لزم الأمر. ويمكنك أيضًا تظليل كلمات في الأسئلة وإضافة ملاحظات على الشاشة.",
+     "راجع التهجئة أثناء الكتابة؛ فالإجابات ذات التهجئة الخاطئة تُحسب خاطئة، والحاسوب لن يصحّح تهجئتك.",
+     "استخدم شريط التنقّل بين الأسئلة أسفل الشاشة، وتأكّد ألّا تبقى أي خانة فارغة.",
+     "استغل الدقيقتين الأخيرتين في مراجعة التهجئة وصيغ الجمع والحدّ المسموح من الكلمات، وفي كتابة تخمين في أي خانة فارغة.",
+     "تدرّب على الكتابة بلوحة المفاتيح الإنجليزية قبل الاختبار، ولا سيما الأسماء والأرقام، حتى لا تُبطئك الكتابة."
+    ],
+    "traps": [
+     "توقّع عشر دقائق لنقل الإجابات كما في الاختبار الورقي؛ ففي الاختبار على الحاسوب لديك دقيقتان فقط للمراجعة في النهاية.",
+     "التنقّل إلى أسئلة لاحقة وفقدان موضع التسجيل.",
+     "أخطاء الكتابة كإسقاط حرف أو تبديل موضعه (accomodation وrecieve)؛ فإجابتك تُصحَّح كما كتبتها تمامًا.",
+     "ترك خانات فارغة: الإجابة الخاطئة لا تُنقص شيئًا من درجتك، فاكتب دائمًا تخمينًا."
+    ]
+   }
+  }
+ },
+ "mistakes": [
+  {
+   "wrong": "Many people very worried about rising prices.",
+   "right": "Many people are very worried about rising prices.",
+   "why": "Every English clause needs a verb. Arabic allows sentences with no verb, but in English you must add a form of 'be' (am, is, are, was, were) before an adjective, a noun or a phrase of place.",
+   "whyAr": "كل جملة في الإنجليزية تحتاج إلى فعل. ففي العربية تصحّ الجملة الاسمية دون فعل (الناسُ قلقون)، أمّا في الإنجليزية فلا بدّ من إحدى صيغ فعل الكينونة be (am وis وare وwas وwere) قبل الصفة أو الاسم أو شبه الجملة الدالة على المكان."
+  },
+  {
+   "wrong": "The new bridge built in 2015.",
+   "right": "The new bridge was built in 2015.",
+   "why": "The passive needs 'be' + past participle. Without 'was', the sentence means that the bridge built something itself.",
+   "whyAr": "يُصاغ المبني للمجهول من فعل be مع التصريف الثالث للفعل. ومن دون was يصبح المعنى أن الجسر هو الذي بنى شيئًا."
+  },
+  {
+   "wrong": "The life in big cities is very stressful.",
+   "right": "Life in big cities is very stressful.",
+   "why": "Use no article with abstract or uncountable nouns used in a general sense (life, society, nature, education, technology). Arabic uses al- here, so learners often add 'the'. Use 'the' only for a specific case: the life of my grandfather.",
+   "whyAr": "لا تُستخدم أداة التعريف the مع الأسماء المجرّدة أو غير المعدودة عند الحديث عنها بوجه عام، مثل life وsociety وnature وeducation وtechnology. وفي العربية نقول «الحياة» بأل التعريف، فيضيف المتعلّمون the خطأً. واستخدم the للحالة المحددة فقط، مثل: the life of my grandfather."
+  },
+  {
+   "wrong": "Government should build new hospital in every town.",
+   "right": "The government should build a new hospital in every town.",
+   "why": "A singular countable noun cannot stand alone: it needs a/an, the, or another determiner such as my, this or every. Say 'the government' when you mean the government of a country.",
+   "whyAr": "الاسم المعدود المفرد لا يأتي وحده في الإنجليزية، بل يحتاج إلى a/an أو the أو محدِّد آخر مثل my وthis وevery. وقل the government عند الحديث عن حكومة البلد."
+  },
+  {
+   "wrong": "The website provides useful informations for tourists.",
+   "right": "The website provides useful information for tourists.",
+   "why": "'Information' is uncountable in English: it has no plural form and is not used with 'a'. To count it, say 'a piece of information'.",
+   "whyAr": "كلمة information غير معدودة في الإنجليزية، فلا تُجمع ولا تُستخدم معها a، مع أن «معلومات» جمع في العربية. وإن أردت العدّ فقل a piece of information."
+  },
+  {
+   "wrong": "My teacher gave me many advices about the exam.",
+   "right": "My teacher gave me a lot of advice about the exam.",
+   "why": "'Advice' is uncountable, so use 'a lot of', 'some' or 'much', or 'a piece of advice' for one item. The verb is spelled differently: advise.",
+   "whyAr": "كلمة advice (نصيحة) غير معدودة، فاستخدم معها a lot of أو some أو much، وقل a piece of advice للنصيحة الواحدة. أمّا الفعل «ينصح» فيُكتب advise بحرف s."
+  },
+  {
+   "wrong": "Many researches show that exercise improves memory.",
+   "right": "Many studies show that exercise improves memory.",
+   "why": "In academic English, 'research' is normally uncountable: say 'research shows' or 'a great deal of research', or use 'many studies' if you need a plural.",
+   "whyAr": "تُستخدم كلمة research في الإنجليزية الأكاديمية عادةً اسمًا غير معدود، فقل research shows أو a great deal of research، أو استخدم many studies إن أردت صيغة الجمع."
+  },
+  {
+   "wrong": "The number of students have increased sharply.",
+   "right": "The number of students has increased sharply.",
+   "why": "The subject is 'the number', which is singular, so the verb is singular. Compare 'A number of students have...', which means 'many students' and takes a plural verb.",
+   "whyAr": "الفاعل هنا هو the number وهو مفرد، فيأتي الفعل مفردًا. وقارن ذلك بعبارة A number of students have... التي تعني «عدد كبير من الطلاب» ويأتي بعدها الفعل بصيغة الجمع."
+  },
+  {
+   "wrong": "Everyone need a good education.",
+   "right": "Everyone needs a good education.",
+   "why": "Everyone, everybody, nobody and each are grammatically singular, so a present simple verb takes -s, even though the meaning is plural.",
+   "whyAr": "الكلمات everyone وeverybody وnobody وeach مفردة نحويًا، فيُضاف s إلى الفعل في المضارع البسيط، وإن كان معناها يدل على الجمع."
+  },
+  {
+   "wrong": "This is the town which I visited it last summer.",
+   "right": "This is the town which I visited last summer.",
+   "why": "The relative pronoun (which, who, that) already stands for the object, so do not repeat it with 'it', 'him' or 'them'. Arabic adds a pronoun here, but English does not.",
+   "whyAr": "في الإنجليزية يقوم الاسم الموصول (which وwho وthat) مقام المفعول به، فلا تكرّره بضمير مثل it أو him أو them. ففي العربية نقول «المدينة التي زرتُها» بضمير عائد، أمّا الإنجليزية فلا تستخدم هذا الضمير."
+  },
+  {
+   "wrong": "Although the job is well paid, but it is very stressful.",
+   "right": "Although the job is well paid, it is very stressful.",
+   "why": "Use either 'although' or 'but', not both. Arabic often pairs two linkers here, but in English one is enough: 'The job is well paid, but it is very stressful.'",
+   "whyAr": "استخدم although أو but، لا الاثنين معًا. ففي العربية نقول كثيرًا «مع أنّ... إلا أنّ»، أمّا في الإنجليزية فيكفي رابط واحد، كأن تقول: The job is well paid, but it is very stressful."
+  },
+  {
+   "wrong": "People should to recycle more.",
+   "right": "People should recycle more.",
+   "why": "Modal verbs (can, could, should, must, will, would, may, might) are followed by the base form of the verb without 'to'. Learn the exceptions: ought to, have to, need to.",
+   "whyAr": "تأتي بعد الأفعال الناقصة (can وcould وshould وmust وwill وwould وmay وmight) الصيغة المجرّدة للفعل دون to. واحفظ الاستثناءات: ought to وhave to وneed to."
+  },
+  {
+   "wrong": "I have visited London in 2019.",
+   "right": "I visited London in 2019.",
+   "why": "Use the past simple, not the present perfect, with a finished time (in 2019, last year, two days ago). Use the present perfect for experience without a specific time: 'I have visited London twice.'",
+   "whyAr": "استخدم الماضي البسيط لا المضارع التام مع زمن منتهٍ محدّد (in 2019 وlast year وtwo days ago). أمّا المضارع التام فللتجربة دون تحديد زمن، مثل: I have visited London twice."
+  },
+  {
+   "wrong": "Most of people prefer to live near their work.",
+   "right": "Most people prefer to live near their work.",
+   "why": "Say 'most people' for people in general, or 'most of the people' (with 'the') for a specific group: 'most of the people in my class'.",
+   "whyAr": "قل most people للحديث عن الناس عمومًا، أو most of the people مع the لمجموعة محددة، مثل: most of the people in my class."
+  },
+  {
+   "wrong": "Traffic is one of the most serious problem in my city.",
+   "right": "Traffic is one of the most serious problems in my city.",
+   "why": "'One of the ...' is always followed by a plural noun, because you are choosing one item from a group.",
+   "whyAr": "يأتي بعد عبارة one of the... اسم بصيغة الجمع دائمًا، لأنك تختار عنصرًا واحدًا من مجموعة، كما نقول في العربية: «إحدى أخطر المشكلات»."
+  },
+  {
+   "wrong": "I don't know what is the best solution.",
+   "right": "I don't know what the best solution is.",
+   "why": "In an indirect question (after I don't know, I wonder, Can you tell me), use normal statement word order: the subject comes before the verb.",
+   "whyAr": "في السؤال غير المباشر (بعد عبارات مثل I don't know وI wonder وCan you tell me) نستخدم ترتيب الجملة الخبرية: الفاعل ثم الفعل، دون صيغة الاستفهام."
+  },
+  {
+   "wrong": "I have lived in this city since five years.",
+   "right": "I have lived in this city for five years.",
+   "why": "Use 'for' with a period of time (for five years, for a long time) and 'since' with a starting point (since 2020, since I was a child). Arabic uses one word for both.",
+   "whyAr": "استخدم for مع المدة الزمنية (for five years وfor a long time)، وsince مع نقطة البداية (since 2020 وsince I was a child). أمّا في العربية فنستخدم «منذ» للحالتين."
+  },
+  {
+   "wrong": "Parents should make their children to read every day.",
+   "right": "Parents should make their children read every day.",
+   "why": "After 'make' or 'let' + object, use the base verb without 'to'. Compare verbs such as encourage, allow and force, which do take 'to': encourage someone to read.",
+   "whyAr": "بعد make أو let والمفعول به يأتي الفعل في صيغته المجرّدة دون to. وقارن ذلك بأفعال مثل encourage وallow وforce التي تأتي بعدها to، مثل: encourage someone to read."
+  },
+  {
+   "wrong": "I look forward to hear from you.",
+   "right": "I look forward to hearing from you.",
+   "why": "In 'look forward to', 'to' is a preposition, so it is followed by an -ing form or a noun. This is a common error at the end of letters.",
+   "whyAr": "في عبارة look forward to تكون to حرف جر، فيليها الفعل بصيغة ing أو اسم. وهذا خطأ شائع في ختام الرسائل."
+  },
+  {
+   "wrong": "When I will finish my degree, I will look for a job abroad.",
+   "right": "When I finish my degree, I will look for a job abroad.",
+   "why": "After time words such as when, after, before, as soon as and until, use the present simple to talk about the future, not 'will'.",
+   "whyAr": "بعد أدوات الزمن مثل when وafter وbefore وas soon as وuntil يُستخدم المضارع البسيط للحديث عن المستقبل، لا will."
+  },
+  {
+   "wrong": "My home town is too beautiful.",
+   "right": "My home town is very beautiful.",
+   "why": "'Too' means 'more than is acceptable' and has a negative meaning (too expensive to buy). For a strong positive meaning, use very, really or extremely.",
+   "whyAr": "تعني too «أكثر من الحدّ المقبول» وتحمل معنى سلبيًا، مثل: too expensive to buy أي «أغلى من أن يُشترى». وللمعنى الإيجابي القوي استخدم very أو really أو extremely؛ فكلمة «جدًّا» تقابلها very لا too."
+  },
+  {
+   "wrong": "Everyone does mistakes when learning a language.",
+   "right": "Everyone makes mistakes when learning a language.",
+   "why": "Some nouns collocate with 'make' and others with 'do': make a mistake, make a decision, make progress, but do research, do homework, do damage. Learn them as fixed pairs.",
+   "whyAr": "بعض الأسماء تتلازم مع الفعل make وبعضها مع do؛ فنقول make a mistake وmake a decision وmake progress، ونقول do research وdo homework وdo damage. فاحفظها أزواجًا ثابتة."
+  },
+  {
+   "wrong": "This essay will discuss about the effects of tourism.",
+   "right": "This essay will discuss the effects of tourism.",
+   "why": "'Discuss' takes a direct object with no preposition; 'about' goes with the noun: a discussion about. Similarly, say 'emphasise' (not emphasise on) and 'mention' (not mention about).",
+   "whyAr": "يتعدّى الفعل discuss إلى مفعوله مباشرة دون حرف جر، أمّا about فتأتي مع الاسم: a discussion about. ومثله الفعلان emphasise وmention، فلا نقول emphasise on ولا mention about."
+  },
+  {
+   "wrong": "Many young people are not interested about politics.",
+   "right": "Many young people are not interested in politics.",
+   "why": "Prepositions often differ from Arabic, so learn each one together with its word: interested in, depend on, good at, responsible for, married to.",
+   "whyAr": "كثيرًا ما تختلف حروف الجر في الإنجليزية عنها في العربية، فاحفظ كل حرف مع كلمته: interested in وdepend on وgood at وresponsible for وmarried to."
+  },
+  {
+   "wrong": "The lecture was so long that I felt very boring.",
+   "right": "The lecture was so long that I felt very bored.",
+   "why": "Adjectives ending in -ed describe how a person feels (bored, interested, tired); adjectives ending in -ing describe what causes the feeling (boring, interesting, tiring). 'I felt very boring' means you felt you were a boring person.",
+   "whyAr": "الصفات المنتهية بـ ed تصف شعور الشخص (bored وinterested وtired)، أمّا المنتهية بـ ing فتصف الشيء المسبّب لهذا الشعور (boring وinteresting وtiring). فعبارة I felt very boring تعني «شعرتُ بأنني شخص مملّ»."
+  },
+  {
+   "wrong": "Air pollution effects the health of children.",
+   "right": "Air pollution affects the health of children.",
+   "why": "'Affect' is usually the verb (to influence something); 'effect' is usually the noun (a result): 'Pollution has a serious effect on health.'",
+   "whyAr": "الكلمة affect فعل في الغالب ومعناها «يؤثّر في»، أمّا effect فاسم في الغالب ومعناها «الأثر أو النتيجة»، كما في: Pollution has a serious effect on health."
+  },
+  {
+   "wrong": "The price of bread raised sharply last year.",
+   "right": "The price of bread rose sharply last year.",
+   "why": "'Rise' (rose, risen) has no object: prices rise. 'Raise' (raised, raised) needs an object: the government raised taxes. This difference matters in Task 1.",
+   "whyAr": "الفعل rise (rose وrisen) لازم لا يحتاج إلى مفعول به: prices rise، أمّا raise (raised وraised) فمتعدٍّ يحتاج إلى مفعول به: the government raised taxes. وهذا الفرق مهم في المهمة الأولى."
+  },
+  {
+   "wrong": "There was an increase of the percent of women in work.",
+   "right": "There was an increase in the percentage of women in work.",
+   "why": "Use 'an increase / a rise / a fall in' before the thing that changed, and 'of' before the size of the change (an increase of 5%). 'Per cent' follows a number (40 per cent); 'percentage' is the noun for a proportion.",
+   "whyAr": "استخدم in بعد an increase وa rise وa fall قبل الشيء الذي تغيّر، واستخدم of قبل مقدار التغيّر: an increase of 5%. وتأتي per cent بعد العدد (40 per cent)، أمّا percentage فهي الاسم الدالّ على النسبة."
+  },
+  {
+   "wrong": "The goverment must do more to protect the enviroment.",
+   "right": "The government must do more to protect the environment.",
+   "why": "Both words contain an 'n' that is often not pronounced clearly: gover-n-ment, enviro-n-ment. In Listening and Reading, a misspelled answer is marked wrong, so learn common topic words carefully.",
+   "whyAr": "تحتوي الكلمتان على حرف n لا يُنطق بوضوح في الغالب: gover-n-ment وenviro-n-ment. وفي اختباري الاستماع والقراءة تُحسب الإجابة ذات التهجئة الخاطئة خطأً، فاحفظ تهجئة كلمات الموضوعات الشائعة بعناية."
+  },
+  {
+   "wrong": "International students recieve free accomodation in their first year.",
+   "right": "International students receive free accommodation in their first year.",
+   "why": "Remember 'i before e except after c' (receive, ceiling) and the double letters in accommodation (cc and mm). This word often appears in Listening Part 1.",
+   "whyAr": "تذكّر قاعدة «i before e except after c» أي يأتي i قبل e إلا بعد الحرف c، كما في receive وceiling، وتذكّر الحرفين المضعّفين في accommodation (cc وmm). وهذه الكلمة ترد كثيرًا في الجزء الأول من اختبار الاستماع."
+  },
+  {
+   "wrong": "Many factory workers may loose their jobs to automation.",
+   "right": "Many factory workers may lose their jobs to automation.",
+   "why": "'Lose' (one o) is the verb meaning to stop having something; 'loose' (two o's) is an adjective meaning not tight.",
+   "whyAr": "الفعل lose (بحرف o واحد) معناه «يفقد»، أمّا loose (بحرفَي o) فصفة معناها «فضفاض أو غير مشدود»."
+  },
+  {
+   "wrong": "Many students work part-time, this can affect their grades.",
+   "right": "Many students work part-time, and this can affect their grades.",
+   "why": "A comma alone cannot join two complete sentences (a comma splice). Use a full stop, a semicolon or a linking word: '... part-time. This can...' or '... part-time, which can...'. Arabic often links long chains of clauses with 'wa' and commas, so check long sentences carefully.",
+   "whyAr": "لا يجوز الربط بين جملتين تامّتين بفاصلة وحدها. استخدم نقطة أو فاصلة منقوطة أو أداة ربط، مثل: ... part-time. This can... أو ... part-time, which can... وفي العربية كثيرًا ما نصل الجمل الطويلة بالواو والفواصل، فراجع جملك الطويلة بعناية."
+  },
+  {
+   "wrong": "Cars are convenient, however they cause serious pollution.",
+   "right": "Cars are convenient; however, they cause serious pollution.",
+   "why": "'However' is not a conjunction like 'but'. Put a full stop or a semicolon before it and a comma after it, or use 'but' instead: 'Cars are convenient, but they cause...'.",
+   "whyAr": "الكلمة however ليست أداة عطف مثل but. ضع قبلها نقطة أو فاصلة منقوطة وبعدها فاصلة، أو استخدم but بدلًا منها: Cars are convenient, but they cause..."
+  },
+  {
+   "wrong": "Many people prefer online shopping. Because it saves time.",
+   "right": "Many people prefer online shopping because it saves time.",
+   "why": "A clause beginning with 'because', 'although' or 'which' cannot stand alone as a sentence; it is a fragment. Join it to the main clause.",
+   "whyAr": "الجملة التي تبدأ بـ because أو although أو which لا تستقل بنفسها جملةً تامة، بل هي جزء ناقص يجب وصله بالجملة الرئيسة."
+  },
+  {
+   "wrong": "On monday, i started an english course with students from japan.",
+   "right": "On Monday, I started an English course with students from Japan.",
+   "why": "Days, months, languages, nationalities, countries and the pronoun 'I' always begin with a capital letter. Arabic has no capital letters, so this needs special attention.",
+   "whyAr": "تبدأ أسماء الأيام والشهور واللغات والجنسيات والدول، وكذلك الضمير I، بحرف كبير دائمًا. ولأن العربية لا تعرف الحروف الكبيرة، فهذه القاعدة تحتاج إلى انتباه خاص."
+  },
+  {
+   "wrong": "The company has changed it's policy on remote work.",
+   "right": "The company has changed its policy on remote work.",
+   "why": "'Its' (no apostrophe) shows possession: its policy. 'It's' means 'it is' or 'it has', and is best avoided in formal writing anyway.",
+   "whyAr": "الكلمة its (دون فاصلة عليا) للملكية: its policy أي «سياستها»، أمّا it's فاختصار لـ it is أو it has، ويُفضَّل تجنّبها في الكتابة الرسمية أصلًا."
+  },
+  {
+   "wrong": "Governments shouldn't ignore this issue because it's getting worse.",
+   "right": "Governments should not ignore this issue because it is getting worse.",
+   "why": "Contractions (shouldn't, it's, don't) are informal. Write the full forms in Task 2 essays, Academic Task 1 reports and formal letters; contractions are fine in informal letters and in Speaking.",
+   "whyAr": "الصيغ المختصرة مثل shouldn't وit's وdon't غير رسمية. فاكتب الصيغ الكاملة في مقالات المهمة الثانية وتقارير المهمة الأولى الأكاديمية والرسائل الرسمية، أمّا في الرسائل غير الرسمية والمحادثة فالاختصارات مقبولة."
+  },
+  {
+   "wrong": "Lots of kids spend loads of time on their phones, which is a big deal.",
+   "right": "Many children spend a great deal of time on their phones, which is a serious concern.",
+   "why": "Informal words such as lots of, loads of, kids, stuff and a big deal do not suit an essay. Choose neutral or formal alternatives: many, a great deal of, children, things, a serious concern.",
+   "whyAr": "الكلمات غير الرسمية مثل lots of وloads of وkids وstuff وa big deal لا تناسب المقالات. فاختر بدائل محايدة أو رسمية: many وa great deal of وchildren وthings وa serious concern."
+  },
+  {
+   "wrong": "In my opinion, I think that public transport should be free.",
+   "right": "In my opinion, public transport should be free.",
+   "why": "'In my opinion' and 'I think' mean the same thing, so using both is repetitive. Choose one.",
+   "whyAr": "العبارتان In my opinion وI think تؤديان المعنى نفسه، فالجمع بينهما تكرار. اختر إحداهما."
+  },
+  {
+   "wrong": "Nowadays, everyone uses social media all the time.",
+   "right": "Nowadays, many people use social media every day.",
+   "why": "Absolute words such as everyone, always, never and all are easy to disprove and make an argument sound exaggerated. Academic writing prefers careful generalisations: most, many, often, tend to.",
+   "whyAr": "الكلمات المطلقة مثل everyone وalways وnever وall يسهل نقضها، وتجعل الحجة تبدو مبالغًا فيها. والكتابة الأكاديمية تفضّل التعميم الحذر: most وmany وoften وtend to."
+  }
+ ]
+}

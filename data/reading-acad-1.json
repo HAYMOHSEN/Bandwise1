@@ -1,0 +1,789 @@
+{
+  "kind": "reading",
+  "id": "acad-1",
+  "module": "academic",
+  "title": "Academic Reading — Test 1",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Salt Roads",
+      "intro": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+      "texts": [
+        {
+          "heading": "Salt Roads",
+          "subheading": "How a common mineral shaped trade, towns and treasuries",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Few items on a modern dinner table are as cheap, or as easily overlooked, as salt. For most of recorded history, however, it was a precious commodity: fought over, taxed and hauled across deserts and mountains. The explanation lies partly in biology. The human body cannot function without sodium, and early hunters obtained all they needed from the meat they ate. When people settled down to farm, by contrast, they came to depend on cereals, which contain very little sodium, so salt had to be found elsewhere – and the cattle, sheep and goats they kept needed it too. Salt was also unevenly distributed: some regions possessed sea coasts, brine springs or underground deposits, while others had none at all. This mismatch helps to explain why salt was among the first goods to be traded over long distances."
+            },
+            {
+              "label": "B",
+              "text": "Salt was prized not merely as a seasoning but as a means of keeping food. Before canning and refrigeration, it was one of the most reliable ways of storing meat and fish through the winter or on long voyages. It works by drawing water out of the food, and the microbes that cause decay cannot multiply without moisture. Whole industries rested on this simple principle. In the North Sea, Dutch fishermen perfected a technique of gutting herring and packing them in barrels of salt on board ship, which allowed their vessels to stay out for weeks rather than hurrying back to harbour with every catch."
+            },
+            {
+              "label": "C",
+              "text": "Trade routes developed to carry salt from the places that had it to those that did not. One of the oldest roads in Italy, the Via Salaria, which ran north-east from Rome, takes its name from the salt transported along it. The English word 'salary' is often linked to a salt allowance supposedly paid to Roman soldiers, although the evidence for such payments is slight. Many centuries later, salt from Lüneburg in northern Germany travelled to the Baltic port of Lübeck and was then shipped to the herring fisheries off what is now southern Sweden, enriching both towns. Further south, camel caravans carried slabs of rock salt, cut from the beds of long-dried lakes deep in the Sahara, to the markets of West Africa, where the mineral was scarce. There it was exchanged for gold, and trading cities such as Timbuktu grew rich on the proceeds."
+            },
+            {
+              "label": "D",
+              "text": "Wherever salt was produced or traded, towns tended to grow. The Austrian city of Salzburg – literally 'salt fortress' – owed much of its wealth to mines in the nearby hills, and several English towns whose names end in '-wich', among them Nantwich and Droitwich, grew up around brine springs. Not every '-wich' has a salty past, though: in a name such as Norwich, the ending simply denoted a trading settlement. Salt has also preserved more than food. In the ancient mines at Hallstatt, in the Austrian Alps, it has kept wooden tools, leather sacks and fragments of clothing left behind by prehistoric miners in remarkable condition, offering archaeologists a rare glimpse of working life more than two and a half thousand years ago."
+            },
+            {
+              "label": "E",
+              "text": "Because everyone required salt and it came from a limited number of sources, it was also one of the simplest goods for rulers to tax. In China, the Han government took control of the salt and iron trades in the second century BCE, partly to pay for wars on its northern frontier. In France, a salt tax known as the gabelle became one of the most resented burdens of the pre-revolutionary era. In certain regions, households were obliged to purchase a minimum quantity of salt each year at a price fixed by the state, and because rates varied enormously from one province to another, smuggling was rife. As late as 1930, Mahatma Gandhi made the British salt tax in India the focus of a campaign of civil disobedience, walking nearly 400 kilometres to the coast and picking up a lump of natural salt in open defiance of the law."
+            },
+            {
+              "label": "F",
+              "text": "The methods used to obtain salt depended on climate and geology. On warm, dry coasts, seawater was let into shallow ponds and left for the sun and wind to evaporate – a slow process, but one that cost almost nothing. In cooler, wetter places, brine from springs or the sea had to be boiled in large metal vessels over fires, which consumed enormous quantities of timber. Much of the woodland around Lüneburg is said to have been felled over the centuries to keep its furnaces burning, and the open heathland that replaced it can still be seen today. Elsewhere, rock salt was dug from underground deposits. Mining demanded heavy investment in shafts and tunnels, but, unlike evaporation, it was not at the mercy of the weather."
+            },
+            {
+              "label": "G",
+              "text": "From the nineteenth century onwards, salt gradually lost its special status. Geologists found that underground deposits were far more extensive than anyone had suspected, and new drilling and pumping techniques made them cheap to exploit. At the same time, canning and, later, refrigeration offered other ways of keeping food. Prices tumbled. Today, in fact, only a fraction of the salt produced is eaten: most is used by the chemical industry or spread on roads to stop ice from forming. Yet the old salt roads have not vanished altogether. They survive in the names of streets and towns, and some have been reborn as walking and cycling routes for visitors curious about the mineral that once built cities."
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "acad1-s1-g1",
+          "type": "tfng",
+          "range": [
+            1,
+            6
+          ],
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "n": 1,
+              "text": "Once farming began, domestic animals as well as people needed additional salt.",
+              "answer": "TRUE",
+              "loc": "A",
+              "explanation": "Paragraph A says early farmers' cereal diets meant \"salt had to be found elsewhere\", and their cattle, sheep and goats \"needed it too\"."
+            },
+            {
+              "n": 2,
+              "text": "The Dutch method of salting herring at sea meant that boats had to return to port after each catch.",
+              "answer": "FALSE",
+              "loc": "B",
+              "explanation": "The Dutch technique let vessels \"stay out for weeks rather than hurrying back to harbour\", so they did not need to return after every catch."
+            },
+            {
+              "n": 3,
+              "text": "The Via Salaria was the busiest road leading out of ancient Rome.",
+              "answer": "NOT GIVEN",
+              "loc": "C",
+              "explanation": "Paragraph C calls the Via Salaria one of Italy's oldest roads and explains its name, but it never says how busy it was compared with other roads."
+            },
+            {
+              "n": 4,
+              "text": "All English places with names ending in '-wich' grew up around sources of salt.",
+              "answer": "FALSE",
+              "loc": "D",
+              "explanation": "Paragraph D states that \"not every '-wich' has a salty past\": in Norwich the ending simply meant a trading settlement."
+            },
+            {
+              "n": 5,
+              "text": "In some parts of France, people were forced to buy at least a certain amount of salt every year.",
+              "answer": "TRUE",
+              "loc": "E",
+              "explanation": "In certain French regions, households \"were obliged to purchase a minimum quantity of salt each year\"."
+            },
+            {
+              "n": 6,
+              "text": "Former salt routes that have become walking and cycling trails now attract large numbers of tourists.",
+              "answer": "NOT GIVEN",
+              "loc": "G",
+              "explanation": "Paragraph G says some salt roads are now walking and cycling routes for visitors, but it gives no information about how many people use them."
+            }
+          ]
+        },
+        {
+          "id": "acad1-s1-g2",
+          "type": "note_completion",
+          "range": [
+            7,
+            10
+          ],
+          "instructions": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "limit": "ONE WORD ONLY",
+          "title": "Ways of obtaining salt",
+          "template": "# Evaporation (warm, dry coasts)\n- seawater was held in shallow {{7}}\n- slow, but almost free\n# Boiling (cooler, wetter places)\n- brine was heated in big containers over fires\n- the fires needed huge amounts of {{8}}\n- around Lüneburg, the loss of forests left large areas of {{9}}\n# Mining (underground deposits)\n- digging shafts and tunnels required a large {{10}}\n- production did not depend on the weather",
+          "questions": [
+            {
+              "n": 7,
+              "text": "",
+              "answer": "ponds",
+              "loc": "F",
+              "explanation": "On warm, dry coasts \"seawater was let into shallow ponds\" and left to evaporate."
+            },
+            {
+              "n": 8,
+              "text": "",
+              "answer": "timber",
+              "loc": "F",
+              "explanation": "Boiling brine over fires \"consumed enormous quantities of timber\"."
+            },
+            {
+              "n": 9,
+              "text": "",
+              "answer": "heathland",
+              "loc": "F",
+              "explanation": "The woodland felled around Lüneburg was replaced by \"the open heathland\" that can still be seen today."
+            },
+            {
+              "n": 10,
+              "text": "",
+              "answer": "investment",
+              "loc": "F",
+              "explanation": "Mining \"demanded heavy investment in shafts and tunnels\"."
+            }
+          ]
+        },
+        {
+          "id": "acad1-s1-g3",
+          "type": "mcq",
+          "range": [
+            11,
+            13
+          ],
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "What does the writer say about the mines at Hallstatt?",
+              "answer": "A",
+              "loc": "D",
+              "explanation": "At Hallstatt, salt has kept prehistoric miners' tools, sacks and clothing \"in remarkable condition\". The passage never links Hallstatt with Salzburg's wealth (B), boiling (C) or abandonment (D).",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "Salt there has preserved evidence of how prehistoric miners worked."
+                },
+                {
+                  "key": "B",
+                  "text": "They supplied the salt that made Salzburg wealthy."
+                },
+                {
+                  "key": "C",
+                  "text": "Salt was produced there by boiling brine over fires."
+                },
+                {
+                  "key": "D",
+                  "text": "They were abandoned once cheaper salt became available."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "According to the writer, governments found salt particularly easy to tax because",
+              "answer": "C",
+              "loc": "E",
+              "explanation": "Paragraph E says \"everyone required salt and it came from a limited number of sources\". The Han takeover of the salt trade (A) is an example of raising money from salt, not a reason it was easy to tax, and B and D are not given as reasons.",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "the routes along which it travelled were already under state control."
+                },
+                {
+                  "key": "B",
+                  "text": "it could be stored for long periods without losing its value."
+                },
+                {
+                  "key": "C",
+                  "text": "everyone needed it, yet it came from relatively few places."
+                },
+                {
+                  "key": "D",
+                  "text": "it had long been used as a form of payment."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "What point does the writer make about salt in the present day?",
+              "answer": "D",
+              "loc": "G",
+              "explanation": "Paragraph G says \"only a fraction of the salt produced is eaten\", so D is correct and A is wrong. The old routes survive in names and trails (B), and prices fell rather than rose (C).",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It is still mainly used for preserving food."
+                },
+                {
+                  "key": "B",
+                  "text": "The routes once used to transport it have been forgotten."
+                },
+                {
+                  "key": "C",
+                  "text": "Its price has started to rise again."
+                },
+                {
+                  "key": "D",
+                  "text": "Most of it is used for purposes other than eating."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Cooling the City",
+      "intro": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.",
+      "texts": [
+        {
+          "heading": "Cooling the City",
+          "subheading": "How cities are taking the heat out of their streets",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "On a still summer night, a thermometer in the centre of a large city may read several degrees higher than one in the fields a short drive away. This contrast, known as the urban heat island, was first documented in the early nineteenth century by an amateur meteorologist comparing readings from London with those from nearby villages, but it has recently acquired a new urgency. More than half of the world's population now lives in towns and cities, and as heatwaves become more frequent, the extra warmth of the built environment can turn uncomfortable weather into a public health emergency. Hot nights are particularly dangerous, since they leave the body no chance to recover."
+            },
+            {
+              "label": "B",
+              "text": "The causes are well understood. Asphalt and dark roofing absorb most of the sunlight that strikes them, and dense materials such as concrete and brick store this energy during the day before releasing it slowly after sunset. In the countryside, much of the sun's energy is used up in evaporating water from soil and leaves, which cools the air; in cities, where rainwater is swiftly channelled into drains, far less moisture is available. The shape of the city matters too: tall buildings lining narrow streets slow the wind and obstruct the escape of heat to the night sky, while vehicles, factories and air-conditioning units add heat of their own. As a result, the heat island is usually most intense not in the afternoon but several hours after dark."
+            },
+            {
+              "label": "C",
+              "text": "Measuring the effect is less straightforward than it might appear. Official weather stations are often located at airports on the edge of a city, and so reveal little about conditions in crowded residential districts. Satellites can map the temperature of every rooftop and road, but they record the heat of surfaces rather than of the air people breathe, and the two can differ markedly. 'An image taken in the early afternoon looks alarming,' says Dr Ingrid Solheim, a climatologist at the Norrvik Institute, 'but it exaggerates the contrast residents actually feel, and it tells you nothing about the night.' Researchers therefore supplement satellite images with sensors fixed to lamp posts or mounted on cars and bicycles. Low-cost sensors run by volunteers add further detail, but can mislead if placed in direct sunlight."
+            },
+            {
+              "label": "D",
+              "text": "One of the simplest remedies is to make roofs more reflective. On a summer afternoon, a roof coated with white or other reflective paint may stay as much as 30°C cooler than a dark one. The people who gain most are those on the top floors of buildings, who may be able to cut their use of air conditioning considerably. According to the building engineer Hamid Rostami, the savings are greatest in single-storey buildings, where the roof forms much of the outer surface. At street level the effect on air temperature is more modest, although it can become measurable if an entire district is treated. Coatings are relatively inexpensive, particularly when applied while a roof is being replaced anyway. However, they lose reflectivity as dust and pollution accumulate, and in colder climates they impose a small 'winter penalty': a roof that rejects the sun's heat in summer does so in winter too, slightly raising heating bills."
+            },
+            {
+              "label": "E",
+              "text": "Trees offer a different kind of relief. Their canopies shade pavements and walls, and the water they release through their leaves cools the air, so a tree-lined street can feel far more comfortable than an exposed one. Yet trees are not a simple solution. Their roots need space, which often brings them into conflict with underground pipes and cables, and they may take decades to grow large enough to make a real difference. They also depend on water: during a drought, stressed trees close the pores in their leaves and their cooling effect declines sharply, precisely when it is most needed. 'Planting trees without a plan for watering them is like installing air conditioners with no electricity,' argues Professor Adaeze Nwosu of the Lakemont School of Planning."
+            },
+            {
+              "label": "F",
+              "text": "Reflective pavements have proved more controversial. Coating roads and pedestrian areas in lighter colours certainly lowers their surface temperature, and several cities have tried the technique in car parks and playgrounds. Sunlight reflected from the ground, however, does not simply disappear: some of it strikes passers-by and the walls of nearby buildings. Measurements by Dr Tomás Ferreira, an engineer who has studied several trial sites, suggest that on sunny afternoons people standing on reflective surfaces can feel hotter than those on ordinary asphalt, even though the ground beneath their feet is cooler. Ferreira does not reject the technique outright, but he believes it should be confined to places that see little foot traffic."
+            },
+            {
+              "label": "G",
+              "text": "Deciding which measures to adopt is ultimately a question of costs and priorities. Reflective coatings are cheap to apply but must be maintained; trees are inexpensive to plant but costly to water and care for over the decades it takes them to mature; and some benefits, such as fewer hospital admissions during heatwaves, are difficult to express in financial terms. A recent report by the Corran Urban Heat Partnership, a coalition of city authorities, argues that the most successful programmes combine several approaches and give priority to the neighbourhoods that need them most. These are frequently lower-income districts, which tend to have fewer trees and more paved surfaces than wealthier areas, and whose residents are less able to afford air conditioning. Cooling the city, in other words, is a matter of fairness as well as engineering."
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "acad1-s2-g1",
+          "type": "matching_headings",
+          "range": [
+            14,
+            19
+          ],
+          "instructions": "Reading Passage 2 has seven paragraphs, A–G. Choose the correct heading for paragraphs B–G from the list of headings below. Write the correct number, i–ix. Example: Paragraph A – i.",
+          "options": [
+            {
+              "key": "i",
+              "text": "How the phenomenon was first noticed"
+            },
+            {
+              "key": "ii",
+              "text": "A natural remedy with practical drawbacks"
+            },
+            {
+              "key": "iii",
+              "text": "Why satellites provide the most reliable data"
+            },
+            {
+              "key": "iv",
+              "text": "What makes cities warmer than their surroundings"
+            },
+            {
+              "key": "v",
+              "text": "Balancing costs, benefits and fairness"
+            },
+            {
+              "key": "vi",
+              "text": "The rising cost of air conditioning"
+            },
+            {
+              "key": "vii",
+              "text": "A rooftop solution and its limitations"
+            },
+            {
+              "key": "viii",
+              "text": "The difficulty of obtaining an accurate picture"
+            },
+            {
+              "key": "ix",
+              "text": "A cooler surface that can leave people feeling warmer"
+            }
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "Paragraph B",
+              "answer": "iv",
+              "loc": "B",
+              "explanation": "Paragraph B sets out the causes: heat-absorbing and heat-storing materials, little evaporation, tall buildings in narrow streets and waste heat."
+            },
+            {
+              "n": 15,
+              "text": "Paragraph C",
+              "answer": "viii",
+              "loc": "C",
+              "explanation": "Paragraph C explains why urban heat is hard to measure: airport stations miss residential areas, satellites record surfaces and volunteers' sensors can mislead. Heading iii contradicts this."
+            },
+            {
+              "n": 16,
+              "text": "Paragraph D",
+              "answer": "vii",
+              "loc": "D",
+              "explanation": "Paragraph D describes reflective roofs and their limits: a modest effect at street level, lost reflectivity and a \"winter penalty\"."
+            },
+            {
+              "n": 17,
+              "text": "Paragraph E",
+              "answer": "ii",
+              "loc": "E",
+              "explanation": "Paragraph E presents trees as helpful but \"not a simple solution\", because of the space, time and water they need."
+            },
+            {
+              "n": 18,
+              "text": "Paragraph F",
+              "answer": "ix",
+              "loc": "F",
+              "explanation": "The key point of Paragraph F is that people on reflective pavements \"can feel hotter\" even though the ground is cooler."
+            },
+            {
+              "n": 19,
+              "text": "Paragraph G",
+              "answer": "v",
+              "loc": "G",
+              "explanation": "Paragraph G weighs costs against benefits and argues that poorer districts should come first – \"a matter of fairness as well as engineering\"."
+            }
+          ]
+        },
+        {
+          "id": "acad1-s2-g2",
+          "type": "summary_wordbank",
+          "range": [
+            20,
+            23
+          ],
+          "instructions": "Complete the summary using the list of words, A–H, below.",
+          "title": "Reflective roofs",
+          "template": "In strong sunshine, a roof with a reflective coating can be dramatically cooler than an untreated dark roof. Those who benefit most directly are people on the {{20}} floors of a building, whose air-conditioning use may drop sharply. In the streets below, however, the fall in air temperature is {{21}}, although it may become noticeable if a whole district is treated. The coatings are fairly cheap, especially if they are applied at the time of a roof's {{22}}. Over time, though, dirt reduces their effectiveness, and in cold regions they can slightly increase {{23}} costs during the winter months.",
+          "options": [
+            {
+              "key": "A",
+              "text": "cooling"
+            },
+            {
+              "key": "B",
+              "text": "design"
+            },
+            {
+              "key": "C",
+              "text": "ground"
+            },
+            {
+              "key": "D",
+              "text": "heating"
+            },
+            {
+              "key": "E",
+              "text": "limited"
+            },
+            {
+              "key": "F",
+              "text": "replacement"
+            },
+            {
+              "key": "G",
+              "text": "substantial"
+            },
+            {
+              "key": "H",
+              "text": "upper"
+            }
+          ],
+          "questions": [
+            {
+              "n": 20,
+              "text": "",
+              "answer": "H",
+              "loc": "D",
+              "explanation": "The people who gain most are \"those on the top floors of buildings\", i.e. the upper floors, not the ground floors."
+            },
+            {
+              "n": 21,
+              "text": "",
+              "answer": "E",
+              "loc": "D",
+              "explanation": "At street level the effect on air temperature \"is more modest\", so it is limited rather than substantial."
+            },
+            {
+              "n": 22,
+              "text": "",
+              "answer": "F",
+              "loc": "D",
+              "explanation": "Coatings are especially inexpensive \"when applied while a roof is being replaced anyway\" – at the time of its replacement, not its design."
+            },
+            {
+              "n": 23,
+              "text": "",
+              "answer": "D",
+              "loc": "D",
+              "explanation": "The \"winter penalty\" means \"slightly raising heating bills\" in colder climates; the coatings reduce cooling costs rather than increase them."
+            }
+          ]
+        },
+        {
+          "id": "acad1-s2-g3",
+          "type": "matching_features",
+          "range": [
+            24,
+            26
+          ],
+          "instructions": "Look at the following statements (Questions 24–26) and the list of people and organisations below. Match each statement with the correct person or organisation, A–E.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ingrid Solheim"
+            },
+            {
+              "key": "B",
+              "text": "Hamid Rostami"
+            },
+            {
+              "key": "C",
+              "text": "Adaeze Nwosu"
+            },
+            {
+              "key": "D",
+              "text": "Tomás Ferreira"
+            },
+            {
+              "key": "E",
+              "text": "the Corran Urban Heat Partnership"
+            }
+          ],
+          "questions": [
+            {
+              "n": 24,
+              "text": "A cooling technique should only be used in places where few people are likely to walk.",
+              "answer": "D",
+              "loc": "F",
+              "explanation": "Ferreira believes reflective pavements \"should be confined to places that see little foot traffic\"."
+            },
+            {
+              "n": 25,
+              "text": "One method of measuring urban heat can overstate the temperature difference that people living in a city experience.",
+              "answer": "A",
+              "loc": "C",
+              "explanation": "Solheim says an afternoon satellite image \"exaggerates the contrast residents actually feel\"."
+            },
+            {
+              "n": 26,
+              "text": "Cooling measures should be targeted first at the areas where they are most needed.",
+              "answer": "E",
+              "loc": "G",
+              "explanation": "The Corran Urban Heat Partnership's report says programmes should \"give priority to the neighbourhoods that need them most\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Two Languages, One Ageing Brain?",
+      "intro": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.",
+      "texts": [
+        {
+          "heading": "Two Languages, One Ageing Brain?",
+          "subheading": "Weighing the evidence on bilingualism and cognitive decline",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Few findings in psychology have travelled as far beyond the laboratory as the idea that speaking two languages shields the brain from the effects of age. It has become a staple of newspaper columns and language-school advertising. Its appeal is easy to understand. Most proposed defences against dementia demand some sacrifice – giving up favourite foods, say, or committing to regular exercise – whereas this one appears to come free with a skill that many people value anyway. Yet the more closely the evidence is examined, the less settled the matter appears, and it is worth asking how a tentative hypothesis came to be treated in some quarters as established fact."
+            },
+            {
+              "label": "B",
+              "text": "Much of the early excitement came from studies of patients at memory clinics. In one widely cited study, a team led by the neuropsychologist Helena Varga found that patients who had used two languages throughout adult life had been diagnosed with dementia roughly four years later, on average, than those who spoke only one, even though both groups had received similar amounts of schooling. Varga's explanation was elegant in its simplicity. A bilingual speaker, she argued, must constantly suppress one language while using the other, and this lifelong exercise strengthens the brain's systems of attention and control. The result is a form of 'cognitive reserve': a buffer that allows the brain to go on functioning normally even as disease damages its tissue."
+            },
+            {
+              "label": "C",
+              "text": "Subsequent research has complicated this tidy picture. A clinic study can only compare the patients who happen to arrive there, and bilinguals and monolinguals may differ in many respects besides language. Where bilingualism results mainly from migration, as the epidemiologist Amara Osei has pointed out, bilingual patients tend to be immigrants – and migrants are often healthier than average. They may also seek medical help at a different stage of illness, perhaps because of language barriers or differing attitudes towards memory loss. Any of these factors could produce an apparent delay in diagnosis without bilingualism playing any causal role. Studies in regions where nearly everyone grows up bilingual should in principle avoid this difficulty; some have found a delay similar to Varga's, but others have found none."
+            },
+            {
+              "label": "D",
+              "text": "Doubts have also grown about the mechanism itself. If juggling two languages really trains general mental control, bilinguals ought to outperform monolinguals on laboratory tests of attention and task-switching. Early experiments, many involving small groups of children, reported exactly such an advantage. When the cognitive psychologist Rainer Lindqvist reviewed the field, however, he found that the larger and more carefully controlled a study was, the less likely it was to detect any difference. He also noted that positive results were far more likely to be published than negative ones, making the literature look more favourable than the evidence justified. 'Nobody was cheating,' Lindqvist has written, 'but we were all listening selectively.'"
+            },
+            {
+              "label": "E",
+              "text": "Supporters of the reserve hypothesis have a reply. Brain-imaging studies by Yusuf Demir's group suggest that, at the point of diagnosis, bilingual patients tend to show more physical deterioration than monolingual patients with comparable symptoms. Demir takes this as evidence that bilingualism does not prevent the disease but allows the brain to compensate for it for longer. If he is right, though, the implication is less comforting than it first sounds. Reserve postpones the appearance of symptoms without slowing the underlying disease, and once the capacity to compensate is exhausted, decline may be correspondingly rapid. On this view, bilingualism buys extra years of independent life rather than protection from illness – a benefit worth having, but not the one usually advertised."
+            },
+            {
+              "label": "F",
+              "text": "A further problem is that 'bilingual' is not a single category. The label has been applied to people who acquired both languages in infancy and use them daily, to those who learned a second language at school and rarely speak it, and to everyone in between. Studies that find no effect are sometimes dismissed by proponents on the grounds that their participants were 'not truly bilingual', while those that do are seldom subjected to the same scrutiny. Such flexibility makes the hypothesis hard to test, since almost any negative result can be explained away. As Osei puts it, 'a theory that survives every possible outcome has stopped telling us anything.'"
+            },
+            {
+              "label": "G",
+              "text": "None of this proves that bilingualism has no effect on the ageing brain. The honest conclusion is that the question remains open, and that settling it will require studies which follow large numbers of people over decades, recording not merely whether they speak two languages but how often, how well and in what circumstances. What should be resisted in the meantime is the promotion of language learning as a medical intervention. Older adults who enrol in a language class hoping to ward off dementia may well be disappointed: the few small trials so far give little reason to think that a few months of study in old age can reproduce whatever benefits a lifetime of bilingualism confers."
+            },
+            {
+              "label": "H",
+              "text": "Nor is there any need to rest the case for language learning on so fragile a foundation. Another language opens doors to literature, friendship, travel and work, and helps families separated by migration to stay close. These rewards are real, well documented and available at any age. If research eventually shows that bilingualism also protects the brain, that will be a welcome bonus. If it does not, nothing of value will have been lost – except, perhaps, some of the credibility of those who promised too much."
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "acad1-s3-g1",
+          "type": "ynng",
+          "range": [
+            27,
+            31
+          ],
+          "instructions": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "Part of the idea's appeal is that, unlike many other suggested ways of avoiding dementia, it does not seem to require giving anything up.",
+              "answer": "YES",
+              "loc": "A",
+              "explanation": "The writer says most defences against dementia \"demand some sacrifice\", whereas this one \"appears to come free\" with a valued skill."
+            },
+            {
+              "n": 28,
+              "text": "Varga's account of why bilingualism might delay dementia was unnecessarily complicated.",
+              "answer": "NO",
+              "loc": "B",
+              "explanation": "The writer calls Varga's explanation \"elegant in its simplicity\" and a \"tidy picture\" – the opposite of unnecessarily complicated."
+            },
+            {
+              "n": 29,
+              "text": "Those who believe in a bilingual advantage tend to examine favourable studies more critically than unfavourable ones.",
+              "answer": "NO",
+              "loc": "F",
+              "explanation": "Proponents dismiss studies that find no effect, while those that find one \"are seldom subjected to the same scrutiny\" – the reverse of the statement."
+            },
+            {
+              "n": 30,
+              "text": "The long-term studies needed to resolve the question would be too expensive to carry out.",
+              "answer": "NOT GIVEN",
+              "loc": "G",
+              "explanation": "The writer says studies following large numbers of people over decades will be needed, but says nothing about what they would cost."
+            },
+            {
+              "n": 31,
+              "text": "The value of learning another language does not depend on whether it protects the brain.",
+              "answer": "YES",
+              "loc": "H",
+              "explanation": "The writer sees no need to base the case for languages on brain protection, since its other rewards are \"real, well documented and available at any age\"."
+            }
+          ]
+        },
+        {
+          "id": "acad1-s3-g2",
+          "type": "mcq",
+          "range": [
+            32,
+            35
+          ],
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 32,
+              "text": "According to Varga, bilingualism benefits the brain because",
+              "answer": "A",
+              "loc": "B",
+              "explanation": "Varga argued that a bilingual \"must constantly suppress one language\", which strengthens attention and control. Schooling was similar (B), disease still damages the tissue (C), and the timing of medical visits (D) is Osei's point, not Varga's.",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "continually holding back one language exercises mental control."
+                },
+                {
+                  "key": "B",
+                  "text": "bilingual people have usually received more schooling."
+                },
+                {
+                  "key": "C",
+                  "text": "speaking two languages stops disease from damaging brain tissue."
+                },
+                {
+                  "key": "D",
+                  "text": "bilingual people tend to consult a doctor sooner when symptoms appear."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "The writer mentions migration in paragraph C in order to",
+              "answer": "D",
+              "loc": "C",
+              "explanation": "Migrants' better health or different help-seeking \"could produce an apparent delay in diagnosis\" without bilingualism being the cause. Migrants are called healthier (not A), the finding is later diagnosis (not B), and C is never claimed.",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "show that immigrants are more likely than others to develop dementia."
+                },
+                {
+                  "key": "B",
+                  "text": "explain why bilingual patients are often diagnosed earlier than monolinguals."
+                },
+                {
+                  "key": "C",
+                  "text": "argue that immigrants tend to receive poorer medical care."
+                },
+                {
+                  "key": "D",
+                  "text": "suggest a possible alternative explanation for the findings of clinic studies."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "What does the writer suggest about Demir's interpretation of the brain-imaging evidence?",
+              "answer": "B",
+              "loc": "E",
+              "explanation": "If Demir is right, \"the implication is less comforting than it first sounds\", as reserve delays symptoms without slowing the disease (not A). Nothing is said about the size of Demir's sample (C), and he supports reserve theory (not D).",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It shows that bilingualism slows the progress of the disease."
+                },
+                {
+                  "key": "B",
+                  "text": "It is less encouraging than it might at first appear."
+                },
+                {
+                  "key": "C",
+                  "text": "It is based on too few patients to be reliable."
+                },
+                {
+                  "key": "D",
+                  "text": "It contradicts the theory of cognitive reserve."
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "What is the writer's main purpose in Reading Passage 3?",
+              "answer": "C",
+              "loc": "Two Languages, One Ageing Brain?",
+              "explanation": "The writer asks how \"a tentative hypothesis\" came to be treated as fact and shows the evidence is unsettled. The writer wants more research, not less (A), never explains brain structure (B) and rejects classes as medical protection (D).",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "to argue that research into bilingualism and dementia should be abandoned"
+                },
+                {
+                  "key": "B",
+                  "text": "to explain how speaking two languages changes the structure of the brain"
+                },
+                {
+                  "key": "C",
+                  "text": "to show that a popular belief rests on weaker evidence than is often assumed"
+                },
+                {
+                  "key": "D",
+                  "text": "to persuade older people to learn a language in order to protect their health"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "acad1-s3-g3",
+          "type": "matching_endings",
+          "range": [
+            36,
+            38
+          ],
+          "instructions": "Complete each sentence with the correct ending, A–F, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has detected a delay in diagnosis in some studies but not in others."
+            },
+            {
+              "key": "B",
+              "text": "cannot exclude explanations that have nothing to do with language."
+            },
+            {
+              "key": "C",
+              "text": "suggests that earlier researchers had deliberately invented their results."
+            },
+            {
+              "key": "D",
+              "text": "means that evidence against the theory can almost always be dismissed."
+            },
+            {
+              "key": "E",
+              "text": "revealed that the most carefully designed studies were the least likely to find an advantage."
+            },
+            {
+              "key": "F",
+              "text": "proves that bilingualism slows the physical progress of dementia."
+            }
+          ],
+          "questions": [
+            {
+              "n": 36,
+              "text": "Research in places where almost the whole population is bilingual from childhood",
+              "answer": "A",
+              "loc": "C",
+              "explanation": "Some such studies found a delay like Varga's, but \"others have found none\". B is wrong because these studies \"should in principle avoid\" the migration problem."
+            },
+            {
+              "n": 37,
+              "text": "Lindqvist's review of earlier studies",
+              "answer": "E",
+              "loc": "D",
+              "explanation": "Lindqvist found that the larger and \"more carefully controlled a study was\", the less likely it was to find a difference; he denies anyone was cheating (C)."
+            },
+            {
+              "n": 38,
+              "text": "The wide range of people described as bilingual",
+              "answer": "D",
+              "loc": "F",
+              "explanation": "Because the label covers so many kinds of speaker, \"almost any negative result can be explained away\"."
+            }
+          ]
+        },
+        {
+          "id": "acad1-s3-g4",
+          "type": "sentence_completion",
+          "range": [
+            39,
+            40
+          ],
+          "instructions": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "limit": "NO MORE THAN TWO WORDS",
+          "questions": [
+            {
+              "n": 39,
+              "text": "Brain scans carried out by Demir's team indicate that, by the time of diagnosis, the brains of bilingual patients have usually suffered more ____ than those of monolinguals with similar symptoms.",
+              "answer": "physical deterioration",
+              "loc": "E",
+              "explanation": "Demir's imaging studies found that bilingual patients \"show more physical deterioration\" than monolinguals with comparable symptoms.",
+              "accept": [
+                "deterioration"
+              ]
+            },
+            {
+              "n": 40,
+              "text": "The writer warns against presenting language classes as a kind of ____.",
+              "answer": "medical intervention",
+              "loc": "G",
+              "explanation": "The writer says \"the promotion of language learning as a medical intervention\" should be resisted.",
+              "accept": [
+                "intervention"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

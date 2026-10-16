@@ -1,0 +1,1443 @@
+{
+  "kind": "listening",
+  "id": "listen-3",
+  "title": "Listening — Test 3",
+  "parts": [
+    {
+      "n": 1,
+      "context": "A man phones a rail company's lost property office to report a bag he left on a train.",
+      "speakers": {
+        "W": {
+          "name": "Sarah",
+          "gender": "female",
+          "accent": "en-GB"
+        },
+        "M": {
+          "name": "Declan",
+          "gender": "male",
+          "accent": "en-IE"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 1. You will hear a man telephoning the lost property office of a rail company about a bag he left on a train. First, you have some time to look at questions 1 to 5."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 1 to 5."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Good morning, Calderwick Rail lost property office, Sarah speaking. How can I help?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Oh, hello. Um, I'm calling because I left a bag on one of your trains at the weekend, and I'm really hoping somebody's handed it in."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Oh dear. Well, let's see what we can do. I'll fill in a report for you first, and then I can search our system for anything that matches. Can I start with your name, please?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Yes, it's Declan Mulcahy."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "And how do you spell your surname?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "It's M-U-L-C-A-H-Y.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "So that's C-A-H-E-Y at the end?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "No, there's no E. It's just C-A-H-Y. People often put an E in, but there isn't one."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Sorry about that. Right, and what's the best number to contact you on?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "My mobile, really. I do have a work number, but I'm hardly ever at my desk. So the mobile's oh-seven-seven-double-oh, nine-double-oh, four-six-one.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Let me just read that back to you. Oh-seven-seven-double-oh, nine-double-oh, four-six-one."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "That's right."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Lovely. Now, can you tell me which train you were on?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Yes, it was on Saturday afternoon. I think it was the quarter past five from Corrin Bay."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Just a moment, I'll check the timetable. No, there isn't a quarter past five on Saturdays. There's one at 5:03, and then the next one is the 5:48."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Oh, then it must have been the 5:48. Yes, I remember now. I'd just missed one, so I had to wait ages on the platform.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "That would explain it. And where were you travelling to?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "To Wrenfield. That's W-R-E-N, and then field, like a field on a farm. It's all one word.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Thank you. And do you remember which part of the train you were sitting in?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Well, it definitely wasn't first class, I'm afraid! No, I always sit in the quiet coach, the one where you're not supposed to use your phone. I like to read on the train, you see.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Right, the quiet coach. OK, that's your journey details done."
+        },
+        {
+          "t": "narr",
+          "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen and answer questions 6 to 10."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "So, can you describe the bag for me?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Sure. It's a rucksack, quite a big one, with pockets on both sides. It's black. Well, actually, no, that's not right. It's navy. It looks black in some lights, but it's definitely dark blue.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Navy, then. And is there anything about it that would help us to recognise it?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Yes, there's a keyring hanging from the zip on the front pocket. It's a little metal lighthouse. I bought it in a gift shop in Corrin Bay a few years ago.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "A lighthouse. That's really helpful. And what was in the bag?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Well, I'd been birdwatching on the coast all day, so the most valuable thing is a pair of binoculars. They're in a black case.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Binoculars, OK. Anything else?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "My waterproof jacket, and a flask. I thought my camera was in there too, but actually I had it round my neck the whole time, so that's safe at home. The thing I'm really worried about, though, is my notebook. It's got about five years of notes on all the birds I've seen. It's not worth anything to anyone else, but it means a lot to me.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "I can imagine. Now, I also need to put down a rough value for the contents. What would you say everything's worth?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Let me think. The binoculars cost about £300, but that was ten years ago, and the rest isn't worth much. So maybe £150 altogether?"
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Actually, we normally use the replacement value, so what it would cost to buy the same things again today."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Oh, I see. Well, binoculars are a lot more expensive now. In that case, I'd say about £420 for everything.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "£420. That's fine. Now, Mr Mulcahy, I've been searching the system while we've been talking, and I think I've got some good news for you. A navy rucksack with a lighthouse keyring was handed in here at Pellingford Central late on Saturday evening. That's where the 5:48 finishes its journey."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Oh, that's brilliant! What a relief."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "You can collect it from this office whenever we're open. That's from eight till six, Monday to Saturday. Just remember to bring some photo ID with you, like a passport or a driving licence."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Great. I'll come in tomorrow morning on my way to work. Thank you so much for your help."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "You're very welcome. Goodbye."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 1."
+        }
+      ],
+      "groups": [
+        {
+          "id": "l3-p1-g1",
+          "type": "form_completion",
+          "range": [
+            1,
+            10
+          ],
+          "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "limit": "ONE WORD AND/OR A NUMBER",
+          "title": "Calderwick Rail – Lost Property Report",
+          "template": "# Passenger details\n- Name: Declan {{1}}\n- Mobile number: {{2}}\n# Journey\n- Day of travel: Saturday\n- Train: the {{3}} from Corrin Bay\n- Destination: {{4}}\n- Part of train: the {{5}} coach\n# Description of bag\n- Type: rucksack\n- Colour: {{6}}\n- Keyring in the shape of a {{7}}\n# Contents\n- a pair of {{8}} in a black case\n- a waterproof jacket and a flask\n- Item of sentimental value: {{9}}\n- Estimated value of contents: £{{10}}",
+          "questions": [
+            {
+              "n": 1,
+              "text": "",
+              "answer": "Mulcahy",
+              "explanation": "Declan spells his surname M-U-L-C-A-H-Y. The officer wrongly adds an E, and he corrects her: 'there's no E'."
+            },
+            {
+              "n": 2,
+              "text": "",
+              "answer": "07700900461",
+              "accept": [
+                "07700 900461",
+                "07700 900 461"
+              ],
+              "explanation": "He gives his mobile, not his work number: 'oh-seven-seven-double-oh, nine-double-oh, four-six-one'. 'Double-oh' means 00, and the officer reads the number back to confirm it."
+            },
+            {
+              "n": 3,
+              "text": "",
+              "answer": "5:48",
+              "accept": [
+                "5.48",
+                "17:48",
+                "17.48",
+                "5:48 pm",
+                "5.48 pm",
+                "5:48pm",
+                "5.48pm"
+              ],
+              "explanation": "He first says 'the quarter past five', but there is no such train. Of the 5:03 and the 5:48, he confirms 'it must have been the 5:48'."
+            },
+            {
+              "n": 4,
+              "text": "",
+              "answer": "Wrenfield",
+              "explanation": "He was travelling to Wrenfield, spelt W-R-E-N plus 'field', and he says it is all one word."
+            },
+            {
+              "n": 5,
+              "text": "",
+              "answer": "quiet",
+              "explanation": "He says it 'definitely wasn't first class' and that he always sits in the quiet coach, so 'first' is wrong."
+            },
+            {
+              "n": 6,
+              "text": "",
+              "answer": "navy",
+              "explanation": "He first says the rucksack is black, then corrects himself: 'It's navy... definitely dark blue.'"
+            },
+            {
+              "n": 7,
+              "text": "",
+              "answer": "lighthouse",
+              "explanation": "The keyring on the front-pocket zip is 'a little metal lighthouse' that he bought in Corrin Bay."
+            },
+            {
+              "n": 8,
+              "text": "",
+              "answer": "binoculars",
+              "explanation": "The most valuable item in the bag is 'a pair of binoculars', which are in a black case."
+            },
+            {
+              "n": 9,
+              "text": "",
+              "answer": "notebook",
+              "explanation": "His notebook is worth nothing to anyone else, but 'it means a lot to me'. The camera was round his neck, not in the bag."
+            },
+            {
+              "n": 10,
+              "text": "",
+              "answer": "420",
+              "accept": [
+                "£420"
+              ],
+              "explanation": "The binoculars cost £300 ten years ago, and £150 is only his first guess. Using the replacement value, he says 'about £420 for everything'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "context": "A volunteer coordinator gives an orientation talk to new volunteers at a science museum.",
+      "speakers": {
+        "M": {
+          "name": "Owen",
+          "gender": "male",
+          "accent": "en-NZ"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 2. You will hear the volunteer coordinator at a science museum giving a talk to a group of new volunteers. First, you have some time to look at questions 11 to 15."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 11 to 15."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Good morning, everyone, and welcome to the Wexley Science Museum. I'm Owen, and I look after the volunteer programme here, so I'll be your main contact while you're with us. Now, before we head off on our tour, I'd like you to take a look at the plan of the ground floor you were given at the door, because there are a few places you'll really need to find on your first day."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "At the moment, we're standing just inside the main entrance, next to the information desk. If you look straight ahead, right at the back of the main hall, you can see the entrance to the Space Gallery, which is our most popular exhibition by far."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "So, um, the most important room for you is the volunteers' room. That's where you'll sign in at the start of every shift, and you can leave your coats and bags there too. To get to it, just walk straight across the hall towards the Space Gallery, and it's the door immediately to the left of the gallery. Please don't try the room beside it, in the corner, though. That's a storeroom, and an alarm goes off if anyone opens the door without the code.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Next, the cloakroom. Visitors ask about this all the time, so it's worth remembering. As you come in through the main entrance, it's in the corner on your left, so it's directly opposite the café, which I'm sure you'll all get to know very well.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Now, if a visitor feels unwell or has an accident, you'll need the first-aid room. Walk up the left-hand side of the hall, past the shop, and it's the very next door, so it's in between the shop and that storeroom I mentioned. There's always a trained first-aider on duty, and their number is printed on the back of your badge.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Over on the right-hand side of the hall is the Discovery Lab. That's where we run hands-on science shows for families. It's directly opposite the shop, so it's easy to find. The room just beyond it, towards the back, is the education office, and you'll meet the team in there later today.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "And the last place I want to point out is the lunch room for school groups. We get a lot of school visits, and the children eat their packed lunches in there. Head to the back of the hall, go past the Space Gallery and the lecture theatre, which is the room just to the right of the gallery, and the lunch room is the last one, in the far right-hand corner.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "t": "narr",
+          "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen and answer questions 16 to 20."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "OK, so let's talk about what you'll actually be doing. Now, a few of you have asked about running the science shows in the Discovery Lab. That's definitely something you can do, but not until you've done the extra training course in your second month. For your first month, we keep things fairly simple."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Most of your time will be spent welcoming visitors at the main entrance, handing out maps and telling people what's on that day. You won't need to answer the phones, though. All phone enquiries go straight to the office team.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "You'll also be helping our education team with school groups. So that means meeting the coaches when they arrive, counting the children, and making sure every class gets to the lunch room on time, which is harder than it sounds!",
+          "q": [
+            17
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "And just so you know, you won't be working in the shop. That's staffed by paid employees, for insurance reasons."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Right. I know none of you are doing this for the money, but the role does come with a few benefits. Unfortunately, we can't offer free parking. The car park belongs to the shopping centre next door, and they charge everyone, staff included. And until last year we were able to pay volunteers' travel expenses, but that money came from a grant which has now ended, so I'm afraid that's no longer possible."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "What you will get is twenty per cent off everything in the café, which is very popular, especially the cakes.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Special exhibitions are run by an outside company, so even staff have to buy tickets for those, I'm afraid."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "But once you've completed fifty hours of volunteering, I'll be very happy to write a reference for you, whether it's for a job or a university application. A lot of our volunteers have found that really useful.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Finally, there's one thing I need you to do before our training session on Saturday. You'll all have received a safety guide by email. Don't worry about reading it in advance, because we'll go through it together on Saturday, page by page. But I do need you to log in to the volunteer website and choose the shifts you'd like for next month, because the rota goes out on Monday.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Oh, and your name badges will be waiting in the volunteers' room, so there's no need to ask at reception. Right, any questions before we start the tour?"
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 2."
+        }
+      ],
+      "groups": [
+        {
+          "id": "l3-p2-g1",
+          "type": "diagram_labelling",
+          "range": [
+            11,
+            15
+          ],
+          "instructions": "Label the plan below. Write the correct letter, A–H, next to Questions 11–15.",
+          "title": "Wexley Science Museum – ground floor",
+          "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 400\" font-family=\"Segoe UI, Arial, sans-serif\" role=\"img\" aria-label=\"Plan of the ground floor of Wexley Science Museum\">\n<rect x=\"0\" y=\"0\" width=\"600\" height=\"400\" fill=\"#ffffff\"/>\n<polygon points=\"30,110 570,110 570,135 470,135 470,330 130,330 130,135 30,135\" fill=\"#eef2f6\"/>\n<path d=\"M270,330 H130 V135 H30 V110 H570 V135 H470 V330 H330\" fill=\"none\" stroke=\"#222\" stroke-width=\"2\"/>\n<g stroke=\"#222\" stroke-width=\"2\">\n<rect x=\"30\" y=\"30\" width=\"100\" height=\"80\" fill=\"#ffffff\"/>\n<rect x=\"130\" y=\"30\" width=\"100\" height=\"80\" fill=\"#ffffff\"/>\n<rect x=\"230\" y=\"30\" width=\"140\" height=\"80\" fill=\"#dfe8f1\"/>\n<rect x=\"370\" y=\"30\" width=\"100\" height=\"80\" fill=\"#ffffff\"/>\n<rect x=\"470\" y=\"30\" width=\"100\" height=\"80\" fill=\"#ffffff\"/>\n<rect x=\"30\" y=\"135\" width=\"100\" height=\"65\" fill=\"#ffffff\"/>\n<rect x=\"30\" y=\"200\" width=\"100\" height=\"65\" fill=\"#e8f3e4\"/>\n<rect x=\"30\" y=\"265\" width=\"100\" height=\"65\" fill=\"#ffffff\"/>\n<rect x=\"470\" y=\"135\" width=\"100\" height=\"65\" fill=\"#ffffff\"/>\n<rect x=\"470\" y=\"200\" width=\"100\" height=\"65\" fill=\"#ffffff\"/>\n<rect x=\"470\" y=\"265\" width=\"100\" height=\"65\" fill=\"#e8f3e4\"/>\n<line x1=\"270\" y1=\"323\" x2=\"270\" y2=\"337\"/>\n<line x1=\"330\" y1=\"323\" x2=\"330\" y2=\"337\"/>\n<line x1=\"300\" y1=\"374\" x2=\"300\" y2=\"350\"/>\n</g>\n<polygon points=\"300,340 293,352 307,352\" fill=\"#222\"/>\n<rect x=\"236\" y=\"250\" width=\"128\" height=\"34\" rx=\"4\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/>\n<g fill=\"#222\" text-anchor=\"middle\">\n<text x=\"300\" y=\"75\" font-size=\"14\">Space Gallery</text>\n<text x=\"300\" y=\"200\" font-size=\"16\" font-weight=\"bold\">Main Hall</text>\n<text x=\"300\" y=\"272\" font-size=\"13\">Information desk</text>\n<text x=\"80\" y=\"237\" font-size=\"14\">Shop</text>\n<text x=\"520\" y=\"302\" font-size=\"14\">Café</text>\n<text x=\"300\" y=\"392\" font-size=\"14\">Main entrance</text>\n</g>\n<g stroke=\"#222\" stroke-width=\"1.5\" fill=\"#ffffff\">\n<circle cx=\"80\" cy=\"70\" r=\"13\"/>\n<circle cx=\"180\" cy=\"70\" r=\"13\"/>\n<circle cx=\"420\" cy=\"70\" r=\"13\"/>\n<circle cx=\"520\" cy=\"70\" r=\"13\"/>\n<circle cx=\"80\" cy=\"167\" r=\"13\"/>\n<circle cx=\"520\" cy=\"167\" r=\"13\"/>\n<circle cx=\"520\" cy=\"232\" r=\"13\"/>\n<circle cx=\"80\" cy=\"297\" r=\"13\"/>\n</g>\n<g fill=\"#222\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\">\n<text x=\"80\" y=\"75\">A</text>\n<text x=\"180\" y=\"75\">B</text>\n<text x=\"420\" y=\"75\">C</text>\n<text x=\"520\" y=\"75\">D</text>\n<text x=\"80\" y=\"172\">E</text>\n<text x=\"520\" y=\"172\">F</text>\n<text x=\"520\" y=\"237\">G</text>\n<text x=\"80\" y=\"302\">H</text>\n</g>\n</svg>",
+          "options": [
+            {
+              "key": "A",
+              "text": "A"
+            },
+            {
+              "key": "B",
+              "text": "B"
+            },
+            {
+              "key": "C",
+              "text": "C"
+            },
+            {
+              "key": "D",
+              "text": "D"
+            },
+            {
+              "key": "E",
+              "text": "E"
+            },
+            {
+              "key": "F",
+              "text": "F"
+            },
+            {
+              "key": "G",
+              "text": "G"
+            },
+            {
+              "key": "H",
+              "text": "H"
+            }
+          ],
+          "questions": [
+            {
+              "n": 11,
+              "text": "Volunteers' room",
+              "answer": "B",
+              "explanation": "It is 'the door immediately to the left of the gallery' at the back of the hall. A, the corner room beside it, is a storeroom."
+            },
+            {
+              "n": 12,
+              "text": "Cloakroom",
+              "answer": "H",
+              "explanation": "Coming in through the main entrance, it is 'in the corner on your left', directly opposite the café. A is also a left-hand corner room, but it is at the back and is the storeroom."
+            },
+            {
+              "n": 13,
+              "text": "First-aid room",
+              "answer": "E",
+              "explanation": "Walking up the left-hand side past the shop, it is the next door, between the shop and the storeroom (A)."
+            },
+            {
+              "n": 14,
+              "text": "Discovery Lab",
+              "answer": "G",
+              "explanation": "It is on the right-hand side, 'directly opposite the shop'. F, the room beyond it towards the back, is the education office."
+            },
+            {
+              "n": 15,
+              "text": "Lunch room for school groups",
+              "answer": "D",
+              "explanation": "Past the Space Gallery and the lecture theatre (C), the lunch room is 'the last one, in the far right-hand corner'."
+            }
+          ]
+        },
+        {
+          "id": "l3-p2-g2",
+          "type": "mcq_multi",
+          "range": [
+            16,
+            17
+          ],
+          "instructions": "Choose TWO letters, A–E.",
+          "questions": [
+            {
+              "n": [
+                16,
+                17
+              ],
+              "text": "Which TWO tasks will the new volunteers do during their first month?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "answering telephone enquiries"
+                },
+                {
+                  "key": "B",
+                  "text": "greeting visitors as they arrive"
+                },
+                {
+                  "key": "C",
+                  "text": "presenting science demonstrations"
+                },
+                {
+                  "key": "D",
+                  "text": "assisting with school visits"
+                },
+                {
+                  "key": "E",
+                  "text": "serving customers in the shop"
+                }
+              ],
+              "answer": [
+                "B",
+                "D"
+              ],
+              "explanation": "In the first month they will welcome visitors at the entrance and help the education team with school groups. Science shows need extra training in the second month, and the shop and phone enquiries are handled by paid staff and the office team."
+            }
+          ]
+        },
+        {
+          "id": "l3-p2-g3",
+          "type": "mcq_multi",
+          "range": [
+            18,
+            19
+          ],
+          "instructions": "Choose TWO letters, A–E.",
+          "questions": [
+            {
+              "n": [
+                18,
+                19
+              ],
+              "text": "Which TWO benefits will the volunteers receive?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "a free parking space"
+                },
+                {
+                  "key": "B",
+                  "text": "cheaper food and drink"
+                },
+                {
+                  "key": "C",
+                  "text": "payment of travel costs"
+                },
+                {
+                  "key": "D",
+                  "text": "free entry to special exhibitions"
+                },
+                {
+                  "key": "E",
+                  "text": "a reference for job or course applications"
+                }
+              ],
+              "answer": [
+                "B",
+                "E"
+              ],
+              "explanation": "They get 'twenty per cent off everything in the café' and a reference after fifty hours. Parking is not free, the grant for travel expenses has ended, and even staff pay for special exhibitions."
+            }
+          ]
+        },
+        {
+          "id": "l3-p2-g4",
+          "type": "mcq",
+          "range": [
+            20,
+            20
+          ],
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 20,
+              "text": "What does the speaker ask the volunteers to do before Saturday?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "pick up their name badges from reception"
+                },
+                {
+                  "key": "B",
+                  "text": "read through the safety guide"
+                },
+                {
+                  "key": "C",
+                  "text": "select when they will work next month"
+                }
+              ],
+              "answer": "C",
+              "explanation": "He asks them to choose next month's shifts on the volunteer website. The safety guide will be read together on Saturday, and the badges are in the volunteers' room, not at reception."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "context": "Two psychology students discuss their research project on sleep and memory.",
+      "speakers": {
+        "F": {
+          "name": "Freya",
+          "gender": "female",
+          "accent": "en-AU"
+        },
+        "M": {
+          "name": "Marcus",
+          "gender": "male",
+          "accent": "en-US"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 3. You will hear two psychology students, Freya and Marcus, discussing a research project they have done on sleep and memory. First, you have some time to look at questions 21 to 25."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 21 to 25."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "OK, Marcus, our tutor, Doctor Halloran, wants a draft of our report by Friday, so shall we go through it section by section?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Sure. The introduction needs to explain why we chose naps. It wasn't Doctor Halloran's idea, actually. She suggested a full night's sleep."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "Which would have been interesting, but we'd have needed people to sleep in the lab all night, and the department was never going to allow that."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Exactly. With an afternoon nap, each session only took a couple of hours, in a room we'd already booked. So really, it came down to what was practical.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "And we can't claim nobody's studied naps, because there's actually quite a lot of research on them."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "True. OK, then the method. We had twenty-four participants, split into two groups of twelve."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "And we need to say how we split them up. At first, we were going to let people choose their own group."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Which would have been a disaster. Everyone who loves napping would have picked the nap group."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "Yeah. Then we thought about grouping people by how often they normally nap, but we didn't have that information for everyone."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "So in the end it was completely random. The computer put each name into one group or the other.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "Right. Then everyone learned the same forty word pairs, each one an English word with a made-up word. After that, one group had a forty-minute nap, and the other watched a nature documentary for the same length of time."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Then the problems section."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "Well, the biggest problem was that some people in the nap group just couldn't fall asleep. I mean, lying on a mat in a strange room at three in the afternoon, I'm not surprised.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Yeah, five of the twelve said they didn't sleep at all. I was more worried about noise from the corridor, actually, but the 'do not disturb' sign worked well."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "It did. And only one person turned up late, so that wasn't an issue."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Then the results. In the first test, before the break, both groups remembered about the same number of word pairs."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "Good. So the groups were evenly matched."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Right. But in the second test, after the break, the people who'd slept remembered more pairs than the documentary group. About four more, on average.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "It's not a huge difference, but it's clear. We also expected the people who slept longest to do even better, but there wasn't any real pattern there."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "What about the five who didn't fall asleep? Their scores were better than the film group's as well."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "I know. Maybe just resting quietly with your eyes closed helps memory too. There's been some research on that."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Or maybe they did drop off for a few minutes and just didn't realise."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "That's possible. But either way, it's only five people. With a group that small, we really can't conclude anything from it.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Agreed. We'll just mention it as something for future research."
+        },
+        {
+          "t": "narr",
+          "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen and answer questions 26 to 30."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "OK, Doctor Halloran also wants us to evaluate each stage of the project. Shall we start with recruiting participants?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Sure. I thought that would be the easy part, but it really wasn't. Hardly anyone answered our emails."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "No. We only got enough people when our classmate Kofi posted about it in the group chat for his hall of residence. We'd never have managed without him.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "We should thank him in the report. Then there's the word lists. Um, I made those in about an hour."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "And that was kind of the problem. Some of the made-up words looked a lot like the English words they were paired with, so people remembered them far too easily."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Yeah. If we'd given the lists to a couple of friends first, just as a trial, we'd have noticed that straight away.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "Definitely. What about checking whether people were actually asleep?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Oh, those headbands."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "They were supposed to show when people fell asleep, but half the time they lost the signal."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "And we did test them beforehand. They worked fine on us, just not when people were lying down. So next time we won't use them at all. The medical school has proper sleep-monitoring equipment that students can borrow, so we'll use that instead.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "And it's free to borrow, so it won't cost us anything extra."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Then the memory test itself."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "That's the part I'm happiest with. Originally, we were going to test people the moment they woke up."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Until Doctor Halloran pointed out that people are often a bit groggy straight after a nap. Giving everyone ten minutes and a glass of water before the test was her suggestion, and it made a real difference.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "It did. And finally, analysing the data."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Which took forever. We'd planned one weekend for it, and it took nearly two weeks, because of a mistake in the spreadsheet.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "I did think about asking one of the postgrads for help, but we sorted it out ourselves in the end."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "We did. OK, I'll write up the results tonight, and next week let's ask Doctor Halloran about a follow-up study with the new equipment."
+        },
+        {
+          "t": "say",
+          "who": "F",
+          "text": "Good idea. I'll do the method."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 3."
+        }
+      ],
+      "groups": [
+        {
+          "id": "l3-p3-g1",
+          "type": "mcq",
+          "range": [
+            21,
+            25
+          ],
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Why did the students decide to study daytime naps?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "Their tutor recommended it."
+                },
+                {
+                  "key": "B",
+                  "text": "It was easier to organise than an overnight study."
+                },
+                {
+                  "key": "C",
+                  "text": "Very little research had been done on naps."
+                }
+              ],
+              "answer": "B",
+              "explanation": "An overnight study would have meant people sleeping in the lab, so 'it came down to what was practical'. The tutor suggested a full night's sleep, and there is 'quite a lot of research' on naps."
+            },
+            {
+              "n": 22,
+              "text": "How did the students divide the participants into two groups?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "They let the participants decide."
+                },
+                {
+                  "key": "B",
+                  "text": "They used data on the participants' usual sleep habits."
+                },
+                {
+                  "key": "C",
+                  "text": "They left it to chance."
+                }
+              ],
+              "answer": "C",
+              "explanation": "They rejected letting people choose and grouping them by napping habits. In the end 'it was completely random', done by computer."
+            },
+            {
+              "n": 23,
+              "text": "What was the main problem during the nap sessions?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "Some participants were unable to sleep."
+                },
+                {
+                  "key": "B",
+                  "text": "Noise from outside disturbed the sessions."
+                },
+                {
+                  "key": "C",
+                  "text": "Several participants arrived late."
+                }
+              ],
+              "answer": "A",
+              "explanation": "Freya calls it 'the biggest problem' that some people couldn't fall asleep. A sign stopped the noise, and only one person was late."
+            },
+            {
+              "n": 24,
+              "text": "What did the students find in the second memory test?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "Both groups remembered a similar number of word pairs."
+                },
+                {
+                  "key": "B",
+                  "text": "Participants who slept for longer remembered more."
+                },
+                {
+                  "key": "C",
+                  "text": "Those who slept remembered more than those who watched a film."
+                }
+              ],
+              "answer": "C",
+              "explanation": "After the break, those who slept remembered about four more pairs than the documentary group. Scores were similar only in the first test, and sleeping longer made no clear difference."
+            },
+            {
+              "n": 25,
+              "text": "What do the students agree about the participants who did not fall asleep?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "They probably slept without realising it."
+                },
+                {
+                  "key": "B",
+                  "text": "There were too few of them to draw any conclusions."
+                },
+                {
+                  "key": "C",
+                  "text": "Their results show that resting improves memory."
+                }
+              ],
+              "answer": "B",
+              "explanation": "They discuss two possible explanations but agree that with only five people 'we really can't conclude anything'."
+            }
+          ]
+        },
+        {
+          "id": "l3-p3-g2",
+          "type": "matching",
+          "range": [
+            26,
+            30
+          ],
+          "instructions": "What comment do the students make about each of the following stages of their project? Choose FIVE answers from the box and write the correct letter, A–G, next to Questions 26–30.",
+          "options": [
+            {
+              "key": "A",
+              "text": "It took longer than they had planned."
+            },
+            {
+              "key": "B",
+              "text": "It will need extra funding next time."
+            },
+            {
+              "key": "C",
+              "text": "It should have been tested first."
+            },
+            {
+              "key": "D",
+              "text": "It was easier than they had expected."
+            },
+            {
+              "key": "E",
+              "text": "Their tutor's suggestion improved it."
+            },
+            {
+              "key": "F",
+              "text": "They will use different devices next time."
+            },
+            {
+              "key": "G",
+              "text": "Another student helped them with it."
+            }
+          ],
+          "questions": [
+            {
+              "n": 26,
+              "text": "recruiting participants",
+              "answer": "G",
+              "explanation": "They only found enough people when their classmate Kofi posted in his hall's group chat. It was not 'the easy part' Marcus expected (not D)."
+            },
+            {
+              "n": 27,
+              "text": "writing the word lists",
+              "answer": "C",
+              "explanation": "If they had given the lists to friends 'just as a trial', they would have noticed the problem. 'Far too easily' refers to how participants remembered the words, so D is wrong."
+            },
+            {
+              "n": 28,
+              "text": "checking whether participants were asleep",
+              "answer": "F",
+              "explanation": "The headbands kept losing the signal, so next time they will borrow the medical school's proper equipment. The headbands were tested beforehand (not C), and borrowing is free (not B)."
+            },
+            {
+              "n": 29,
+              "text": "the memory test",
+              "answer": "E",
+              "explanation": "Giving people ten minutes before the test 'was her suggestion', meaning the tutor's, and it made a real difference."
+            },
+            {
+              "n": 30,
+              "text": "analysing the data",
+              "answer": "A",
+              "explanation": "They planned one weekend, but it took 'nearly two weeks'. They thought about asking a postgraduate but did it themselves (not G)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "context": "A university lecture on Roman concrete and modern self-healing concrete.",
+      "speakers": {
+        "L": {
+          "name": "Lecturer",
+          "gender": "female",
+          "accent": "en-CA"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 4. You will hear a lecture about Roman concrete and what modern engineers are learning from it. First, you have some time to look at questions 31 to 40."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 31 to 40."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Good morning, everyone. In this series, we've been looking at different building materials, and today I want to talk about one that's attracted a lot of attention from engineers in recent years: Roman concrete."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Now, modern concrete is a remarkable material. It's cheap, it's strong, and we use more of it than any other building material on the planet. But it doesn't last as long as we'd like. Many concrete bridges and car parks built in the twentieth century needed major repairs after just a few decades. Compare that with some Roman structures. The dome of the Pantheon in Rome is nearly two thousand years old, and it's still the largest dome made of unreinforced concrete anywhere in the world. And around the Mediterranean, there are Roman harbour walls that have stood in seawater for about as long. So the obvious question is, why?"
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Well, first of all, we shouldn't exaggerate. Plenty of Roman buildings fell down, and many more were taken apart so that their materials could be reused. The structures we can still visit today are the survivors, and that can give us a rather misleading picture of Roman building as a whole.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Still, there are genuine reasons why the best Roman concrete has lasted so well. One is what it doesn't contain. Most modern concrete structures are reinforced with steel bars, and over time, water and salt get in and the steel begins to rust. Now, rust takes up more space than the steel it replaces, so it pushes outwards and cracks the concrete from the inside. Roman concrete had no steel in it, so this simply wasn't an issue.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Another reason is design. Roman engineers often used concrete in arches, vaults and domes, shapes in which the material is squeezed rather than stretched, and squeezing is what concrete copes with best. In the Pantheon, they also varied the mix. Lower down, they used heavy stone, but towards the top of the dome they switched to much lighter volcanic rock, which reduced the weight of the dome.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "But the most interesting differences lie in the ingredients themselves. The Romans made lime by heating limestone in a kiln, which is a type of very hot oven. They then mixed the lime with volcanic ash, and the most famous ash came from the area around the Bay of Naples. When lime, ash and water are combined, they react chemically to form a very strong binding material. Finally, they added chunks of rock or broken brick to give the concrete its bulk.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Researchers studying Roman harbour structures found something even more surprising. Seawater gradually damages most modern concrete. But in the Roman structures, seawater slowly seeping through the material reacted with the volcanic ash, and new crystals grew in the tiny spaces and cracks inside it. So, rather than weakening it, the sea seems to have made the concrete stronger.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "There's one more feature that puzzled archaeologists for a long time. If you look closely at Roman concrete, you'll often see small white lumps of lime, just a few millimetres across. For years, people assumed these were simply a sign of careless mixing, that the builders hadn't stirred everything together properly.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "However, more recent research suggests that the lumps may be there for a reason. It seems the Romans sometimes made their concrete using quicklime, which gets extremely hot when it comes into contact with water, and this process left the lumps behind. Later, if a crack forms and water gets in, calcium from the lumps dissolves and is then deposited as calcium carbonate, which can seal the crack. So the concrete is able to repair itself, at least partly."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Today, many engineers are developing self-healing concrete, and I'll describe three main approaches."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "The first uses bacteria. Certain types of bacteria can survive for many years in an inactive state, rather like seeds. They're mixed into the concrete along with a food supply, and when a crack opens and water gets in, the bacteria become active, start feeding, and produce limestone, which fills the crack.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "The test results have been very encouraging, but the big drawback is cost. At the moment, it's simply too expensive for most ordinary construction projects.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "The second approach uses tiny capsules, many of them smaller than a grain of sand, which are filled with a liquid healing agent. You can think of this agent as a kind of glue. When a crack runs through a capsule, the capsule breaks open, and the glue flows into the crack and hardens.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "The limitation here is that once a capsule has broken, it's empty. So any given part of the concrete can only be repaired once.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "And the third approach, as you've probably guessed, takes its inspiration from the Romans: adding lumps of quicklime to modern concrete so that it has its own supply of calcium for sealing cracks. Early results are promising, but of course we won't know for some time how well it performs over decades, let alone two thousand years. Next week, we'll move on to timber."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 4."
+        }
+      ],
+      "groups": [
+        {
+          "id": "l3-p4-g1",
+          "type": "note_completion",
+          "range": [
+            31,
+            36
+          ],
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "limit": "ONE WORD ONLY",
+          "title": "Roman concrete",
+          "template": "# Why some Roman structures have lasted\n- Buildings still standing are only the {{31}}, which may give a false impression.\n- No steel reinforcement, so no cracking caused by {{32}}.\n- Concrete often used in shapes where it is compressed, not stretched.\n- Pantheon: lighter rock used near the top to cut the dome's {{33}}.\n# The materials\n- Limestone heated in a {{34}} to produce lime.\n- Lime mixed with volcanic ash; pieces of rock or brick added.\n- Harbour walls: seawater reacted with the ash, causing {{35}} to form in small gaps.\n- Small white lumps of lime: once thought to show poor {{36}}, but may help to seal cracks.",
+          "questions": [
+            {
+              "n": 31,
+              "text": "",
+              "answer": "survivors",
+              "explanation": "The lecturer says the structures we can still visit 'are the survivors', which can give a misleading picture."
+            },
+            {
+              "n": 32,
+              "text": "",
+              "answer": "rust",
+              "explanation": "Rust from steel bars 'cracks the concrete from the inside', but Roman concrete had no steel, so this was not an issue."
+            },
+            {
+              "n": 33,
+              "text": "",
+              "answer": "weight",
+              "explanation": "Lighter volcanic rock towards the top 'reduced the weight of the dome'."
+            },
+            {
+              "n": 34,
+              "text": "",
+              "answer": "kiln",
+              "explanation": "Lime was made 'by heating limestone in a kiln', which the lecturer explains is a very hot oven."
+            },
+            {
+              "n": 35,
+              "text": "",
+              "answer": "crystals",
+              "explanation": "Seawater reacted with the volcanic ash, and 'new crystals grew' in the tiny spaces and cracks."
+            },
+            {
+              "n": 36,
+              "text": "",
+              "answer": "mixing",
+              "explanation": "People assumed the lumps were 'simply a sign of careless mixing'; later research suggests they have a purpose."
+            }
+          ]
+        },
+        {
+          "id": "l3-p4-g2",
+          "type": "table_completion",
+          "range": [
+            37,
+            40
+          ],
+          "instructions": "Complete the table below. Write ONE WORD ONLY for each answer.",
+          "limit": "ONE WORD ONLY",
+          "title": "Approaches to self-healing concrete",
+          "table": {
+            "headers": [
+              "Approach",
+              "How it works",
+              "Main limitation"
+            ],
+            "rows": [
+              [
+                "Bacteria",
+                "Bacteria and their food are added to the mix; when water enters a crack, they become active and produce {{37}}.",
+                "Its {{38}} is too high for most building projects."
+              ],
+              [
+                "Capsules",
+                "Tiny capsules break and release a healing agent that works like {{39}}.",
+                "Repairs can happen only {{40}} in any one place."
+              ],
+              [
+                "Roman-inspired",
+                "Lumps of quicklime provide a supply of calcium to seal cracks.",
+                "Long-term performance not yet known."
+              ]
+            ]
+          },
+          "questions": [
+            {
+              "n": 37,
+              "text": "",
+              "answer": "limestone",
+              "explanation": "When water gets in, the bacteria become active and 'produce limestone, which fills the crack'."
+            },
+            {
+              "n": 38,
+              "text": "",
+              "answer": "cost",
+              "explanation": "'The big drawback is cost': it is too expensive for most ordinary construction projects."
+            },
+            {
+              "n": 39,
+              "text": "",
+              "answer": "glue",
+              "explanation": "The lecturer says to think of the healing agent 'as a kind of glue'."
+            },
+            {
+              "n": 40,
+              "text": "",
+              "answer": "once",
+              "explanation": "A broken capsule is empty, so any part of the concrete 'can only be repaired once'."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1436 @@
+{
+  "kind": "listening",
+  "id": "listen-2",
+  "title": "Listening — Test 2",
+  "parts": [
+    {
+      "n": 1,
+      "context": "A man phones an adult education centre to ask about evening Spanish classes.",
+      "speakers": {
+        "W": {
+          "name": "Sophie",
+          "gender": "female",
+          "accent": "en-GB"
+        },
+        "M": {
+          "name": "Daniel",
+          "gender": "male",
+          "accent": "en-IE"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 1. You will hear a man phoning an adult education centre to ask about evening Spanish classes. First, you have some time to look at questions 1 to 7."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 1 to 7."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Good evening, Callow Park Adult Learning Centre, Sophie speaking. How can I help?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Oh, hello there. I'm ringing about your evening classes — Spanish, in particular. I picked up one of your leaflets at the dentist's, and, well, I've been meaning to do something about my Spanish for years."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Lovely. We run three levels in the evenings, so the first thing is to work out which one would suit you best. Have you studied Spanish before?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "A bit. I did it at school, but that was a long time ago, so I suppose I'd better go for the beginners' class."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Well, the Beginners course really does start from zero — the alphabet, numbers, how to say hello. If you can already order a meal or ask for directions, you might find it a bit slow."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Hmm. I can do that much, actually. We go to Valencia most summers, and I get by in restaurants and shops. It's following a proper conversation that I can't manage."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Then I'd say Elementary is the one for you. It's for people who know the basics but want to feel more confident speaking. Intermediate would probably be too big a jump at this stage."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Elementary, then. Yes, that sounds about right.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Now, the Elementary course runs on two evenings — there's a Monday group and a Wednesday group. They cover exactly the same material, so it's just whichever suits you."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Monday would be ideal... oh, hang on, no. I've just started helping out with my son's football team on Monday nights. Better make it Wednesday.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Wednesday it is. Classes start at 6:45 and finish at 8:15, with a short break in the middle."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Sorry, did you say they finish at half past eight?"
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "No, quarter past. 8:15.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Right. Well, I finish work at six, so that's fine. And how long does the course go on for? The leaflet said ten weeks, I think."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Most of our courses are ten weeks, yes, but the language courses are a bit longer. They run for 12 weeks, starting on the 14th of January.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Great. And, um, what does it cost?"
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "The standard fee is £180. But we offer a fifteen per cent discount for people who live in the borough. Do you live locally?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "I do, yes — just behind the station."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Then you'd pay £153 instead.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "That's not bad at all. Is there anything extra off if I pay for the next course at the same time?"
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "We used to do that, but not any more, I'm afraid. So it's £153. Shall I reserve you a place in the Wednesday group? It's filling up quite quickly."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Yes, please."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Can I take your name?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "It's Daniel Rafferty. That's R-A-F-F-E-R-T-Y.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "R-A, double F, E-R-T-Y. Thanks, Daniel. Now, to get the residents' discount, we'll need proof of your address. A recent gas or electricity bill is fine. You can just take a photo of it on your phone and email it to us."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Okay. What's the email address?"
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "It's enrolments at callowpark — that's all one word — dot org dot UK. Enrolments is spelt E-N-R-O-L-M-E-N-T-S.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "So only one L in the middle?"
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "That's right, just the one."
+        },
+        {
+          "t": "narr",
+          "text": "Before you hear the rest of the conversation, you have some time to look at questions 8 to 10."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen and answer questions 8 to 10."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "While I've got you, can I tell you about the extra activities for our language students? They're optional, but people find them really useful."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Sure, go ahead."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Well, first there's the conversation club. That's on Fridays at half past twelve, and it's free. It used to meet in the café, but it got so noisy in there that it's moved to the library now. There's a quiet room at the back.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Fridays could be tricky with work, but I'll see. What else is there?"
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "There's a film night once a month. Last year it was on the first Tuesday of the month, but this year it's on the last Thursday instead, because that's when the hall's free.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Are the films in Spanish?"
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "They are, but with English subtitles, so don't worry. Tickets are £4 for students on our courses."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "That's very reasonable. I might bring my wife along, actually. She loves Spanish films."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "She'd be very welcome, though it's £6 for non-students. And the last thing is a cookery workshop — Spanish and Latin American dishes. It's on a Saturday morning, once a term."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Oh, that sounds fun. How much is that one?"
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "It's normally £45, which includes all the ingredients, but students on any of our Spanish courses pay £35.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Brilliant. I'll definitely think about that. Right, I'll email that bill tonight."
+        },
+        {
+          "t": "say",
+          "who": "W",
+          "text": "Perfect. You'll get a confirmation email once we've received it. Enjoy the course, Daniel!"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Thanks very much. Bye now."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 1."
+        }
+      ],
+      "groups": [
+        {
+          "id": "listen2-p1-g1",
+          "type": "note_completion",
+          "range": [
+            1,
+            7
+          ],
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "limit": "ONE WORD AND/OR A NUMBER",
+          "title": "Callow Park Adult Learning Centre: evening Spanish classes",
+          "template": "# Course details\n- Recommended level: {{1}}\n- Day: {{2}}\n- Time: 6.45 pm to {{3}} pm\n- Length of course: {{4}} weeks\n# Fees\n- Standard fee: £180\n- Fee with local residents' discount: £{{5}}\n# Reserving a place\n- Name: Daniel {{6}}\n- Email proof of address to: {{7}}@callowpark.org.uk",
+          "questions": [
+            {
+              "n": 1,
+              "text": "",
+              "answer": "Elementary",
+              "explanation": "Daniel first suggests the beginners' class, but Beginners starts 'from zero', so the adviser recommends Elementary and he agrees. Intermediate would be 'too big a jump'."
+            },
+            {
+              "n": 2,
+              "text": "",
+              "answer": "Wednesday",
+              "accept": [
+                "Wednesdays"
+              ],
+              "explanation": "Daniel says Monday would be ideal, then remembers football on Monday nights: 'Better make it Wednesday.'"
+            },
+            {
+              "n": 3,
+              "text": "",
+              "answer": "8.15",
+              "accept": [
+                "8:15",
+                "8.15 pm",
+                "8:15 pm",
+                "8.15pm",
+                "8:15pm"
+              ],
+              "explanation": "Daniel asks if classes finish at half past eight, and the adviser corrects him: 'No, quarter past. 8:15.'"
+            },
+            {
+              "n": 4,
+              "text": "",
+              "answer": "12",
+              "accept": [
+                "twelve"
+              ],
+              "explanation": "The leaflet's ten weeks applies to most courses, but language courses 'run for 12 weeks'. The 14th is the start date."
+            },
+            {
+              "n": 5,
+              "text": "",
+              "answer": "153",
+              "accept": [
+                "£153"
+              ],
+              "explanation": "The standard fee is £180, but local residents get fifteen per cent off, so Daniel pays £153. There is no extra discount for paying for another course."
+            },
+            {
+              "n": 6,
+              "text": "",
+              "answer": "Rafferty",
+              "explanation": "Daniel spells his surname letter by letter, R-A-F-F-E-R-T-Y, and the adviser repeats it with 'double F'."
+            },
+            {
+              "n": 7,
+              "text": "",
+              "answer": "enrolments",
+              "explanation": "The adviser spells the first part of the address, E-N-R-O-L-M-E-N-T-S, and confirms there is only one L in the middle."
+            }
+          ]
+        },
+        {
+          "id": "listen2-p1-g2",
+          "type": "table_completion",
+          "range": [
+            8,
+            10
+          ],
+          "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "limit": "ONE WORD AND/OR A NUMBER",
+          "title": "Extra activities for language students",
+          "table": {
+            "headers": [
+              "Activity",
+              "When",
+              "Cost for course students",
+              "Other information"
+            ],
+            "rows": [
+              [
+                "Conversation club",
+                "Fridays, 12.30 pm",
+                "free",
+                "now meets in the {{8}}"
+              ],
+              [
+                "Film night",
+                "last {{9}} of the month",
+                "£4",
+                "Spanish films with English subtitles"
+              ],
+              [
+                "Cookery workshop",
+                "one Saturday morning per term",
+                "£{{10}}",
+                "price includes all ingredients"
+              ]
+            ]
+          },
+          "questions": [
+            {
+              "n": 8,
+              "text": "",
+              "answer": "library",
+              "explanation": "The club used to meet in the café, but it got too noisy, so 'it's moved to the library now'."
+            },
+            {
+              "n": 9,
+              "text": "",
+              "answer": "Thursday",
+              "explanation": "Last year the film night was on the first Tuesday; this year it is 'on the last Thursday instead'."
+            },
+            {
+              "n": 10,
+              "text": "",
+              "answer": "35",
+              "accept": [
+                "£35"
+              ],
+              "explanation": "The workshop is normally £45, but students on the Spanish courses pay £35. £6 is the film-night price for non-students."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "context": "A local radio presenter gives listeners information about a city food festival.",
+      "speakers": {
+        "P": {
+          "name": "Radio presenter",
+          "gender": "male",
+          "accent": "en-AU"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 2. You will hear a local radio presenter talking about a food festival. First, you have some time to look at questions 11 to 14."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 11 to 14."
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "Good morning, and welcome back to Morning Mix here on Kelmouth Radio. Now, if you love your food — and let's be honest, who doesn't? — this next bit's for you. The Taste Kelmouth festival is back this weekend, Saturday and Sunday, and there are some big changes this year. I went along to a preview yesterday, so let me fill you in."
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "First up, the festival has moved. For the past six years it's been held at Castle Fields, but this year it's down at Wharf Gardens, by the river. Now, I've heard people saying the move was because of noise complaints from residents near Castle Fields. Not true, according to the organisers. And yes, it did get very crowded there last year, but Wharf Gardens isn't actually much bigger."
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "The real reason is that work has started on the new sports centre at Castle Fields, so the site simply isn't available any more.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "Next, tickets. Adult entry on the day is £8, but if you book online before midnight on Friday, it's just £6, so it really is worth planning ahead.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "Children aged five to twelve pay £3. Sorry, kids, there's no free entry this year unless you're under five. And you can still pay at the gate if you'd rather, but expect a bit of a queue."
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "Getting there. There's a free shuttle bus from the railway station every twenty minutes, and the organisers are very proud of it. But honestly, last year people were waiting nearly an hour for it at busy times. Parking near Wharf Gardens is very limited, and the park-and-ride doesn't run on Sundays."
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "So my advice is: get on your bike. There's a free, supervised bike park right by the main entrance, and the riverside cycle path takes you almost all the way there.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "And finally, a word about where the money goes. In previous years the festival's profits went to the Kelmouth Food Bank, and the organisers tell me they'll be supporting it again next year. This year, though, every penny raised will go towards setting up vegetable gardens in the city's primary schools, so that children can learn where their food comes from.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "You'll also spot a few stalls run by young chefs from the college's training programme. They're not part of the fundraising, but do go and say hello — the food's terrific."
+        },
+        {
+          "t": "narr",
+          "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen and answer questions 15 to 20."
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "Right, let's take a walk around the site, because Wharf Gardens has been divided into zones this year, and it's worth knowing what's where before you go."
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "As you come in through the main gate, the first building you'll see is the Corn Exchange, that big old brick hall. That's the farmers' market, and it's the place to stock up on cheese, bread, fruit and veg from local producers to take home with you. There's no seating in there, though, so don't plan on having your lunch inside.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "Behind the Corn Exchange is the Boathouse. Every afternoon at two o'clock, four chefs from local restaurants go head to head in a cook-off, and you can grab a seat and watch all the action. You won't get to taste anything, mind you — that privilege goes to the judges.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "Then there's Mill Lane, which runs along the river. That's where the street-food stalls are, and this year they've really gone international: Ethiopian, Peruvian, Korean, Lebanese... You could eat your way around the world in one afternoon.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "Right in the middle of the site is the bandstand. Now, you'd expect to hear music there, but no — the bands are all on the main stage by the water this year. Instead, the bandstand is where you'll find the voting booths for the People's Choice award. Grab a card, try a few stalls, then head over and pick the one you liked best. The winner's announced on Sunday evening.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "Over on the east side is the Glasshouse, which is run by the city's allotment society. You can't actually buy plants there, but there are experts on hand all weekend to answer your questions about growing your own fruit and vegetables, even if all you've got is a balcony.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "And last but not least, the Courtyard Kitchen. This is where you roll up your sleeves. There are forty-minute sessions all day where a chef shows you how to make something — dumplings, flatbreads, fresh pasta — and then you have a go yourself and take the results home. Places are limited, so book a slot as soon as you arrive.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "t": "say",
+          "who": "P",
+          "text": "So that's Taste Kelmouth. Gates open at ten on both days, and I'll be down there on Saturday afternoon myself, so come and say hi. Right, time for the weather..."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 2."
+        }
+      ],
+      "groups": [
+        {
+          "id": "listen2-p2-g1",
+          "type": "mcq",
+          "range": [
+            11,
+            14
+          ],
+          "instructions": "Choose the correct letter, A, B or C.",
+          "title": "Taste Kelmouth food festival",
+          "questions": [
+            {
+              "n": 11,
+              "text": "Why has the festival moved to Wharf Gardens this year?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "People living near the old site complained about noise."
+                },
+                {
+                  "key": "B",
+                  "text": "The old site had become too crowded."
+                },
+                {
+                  "key": "C",
+                  "text": "Building work has begun at the old site."
+                }
+              ],
+              "answer": "C",
+              "explanation": "The presenter says the noise story is 'not true' and Wharf Gardens isn't much bigger; the real reason is work on the new sports centre at Castle Fields."
+            },
+            {
+              "n": 12,
+              "text": "What does the presenter say about tickets?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "Children under twelve can attend free of charge."
+                },
+                {
+                  "key": "B",
+                  "text": "It is cheaper to buy them in advance."
+                },
+                {
+                  "key": "C",
+                  "text": "They will not be sold at the entrance."
+                }
+              ],
+              "answer": "B",
+              "explanation": "Entry is £8 on the day but £6 if booked online before Friday midnight. Only under-fives go free, and tickets can still be bought at the gate."
+            },
+            {
+              "n": 13,
+              "text": "The presenter advises listeners to travel to the festival",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "by bicycle."
+                },
+                {
+                  "key": "B",
+                  "text": "on the shuttle bus."
+                },
+                {
+                  "key": "C",
+                  "text": "using the park-and-ride service."
+                }
+              ],
+              "answer": "A",
+              "explanation": "He mentions long waits for the shuttle bus and says the park-and-ride doesn't run on Sundays, then advises: 'get on your bike'."
+            },
+            {
+              "n": 14,
+              "text": "This year, the money raised by the festival will be used to",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "support the city's food bank."
+                },
+                {
+                  "key": "B",
+                  "text": "create gardens at local schools."
+                },
+                {
+                  "key": "C",
+                  "text": "train young chefs."
+                }
+              ],
+              "answer": "B",
+              "explanation": "The food bank was supported in previous years and will be again next year; this year the money funds vegetable gardens in primary schools. The young chefs are 'not part of the fundraising'."
+            }
+          ]
+        },
+        {
+          "id": "listen2-p2-g2",
+          "type": "matching",
+          "range": [
+            15,
+            20
+          ],
+          "instructions": "What can visitors do in each of the following zones of the festival? Choose SIX answers from the box and write the correct letter, A–H, next to Questions 15–20.",
+          "title": "Festival zones",
+          "options": [
+            {
+              "key": "A",
+              "text": "watch chefs competing"
+            },
+            {
+              "key": "B",
+              "text": "make a dish themselves"
+            },
+            {
+              "key": "C",
+              "text": "shop for groceries"
+            },
+            {
+              "key": "D",
+              "text": "try dishes from different countries"
+            },
+            {
+              "key": "E",
+              "text": "listen to live music"
+            },
+            {
+              "key": "F",
+              "text": "get advice on growing food"
+            },
+            {
+              "key": "G",
+              "text": "buy plants"
+            },
+            {
+              "key": "H",
+              "text": "vote for their favourite stall"
+            }
+          ],
+          "questions": [
+            {
+              "n": 15,
+              "text": "the Corn Exchange",
+              "answer": "C",
+              "explanation": "It is a farmers' market where visitors 'stock up on cheese, bread, fruit and veg' to take home. There is no seating for lunch."
+            },
+            {
+              "n": 16,
+              "text": "the Boathouse",
+              "answer": "A",
+              "explanation": "Four local chefs 'go head to head in a cook-off' and visitors watch; only the judges taste the food."
+            },
+            {
+              "n": 17,
+              "text": "Mill Lane",
+              "answer": "D",
+              "explanation": "The street-food stalls have 'gone international', with Ethiopian, Peruvian, Korean and Lebanese food."
+            },
+            {
+              "n": 18,
+              "text": "the bandstand",
+              "answer": "H",
+              "explanation": "Despite its name, there is no music there this year (the bands are on the main stage); it has the voting booths for the People's Choice award."
+            },
+            {
+              "n": 19,
+              "text": "the Glasshouse",
+              "answer": "F",
+              "explanation": "Visitors 'can't actually buy plants there', but experts answer questions about growing fruit and vegetables."
+            },
+            {
+              "n": 20,
+              "text": "the Courtyard Kitchen",
+              "answer": "B",
+              "explanation": "A chef shows how to make something, and then visitors 'have a go' themselves and take the results home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "context": "A student called Leah discusses her dissertation on rooftop gardens in cities with her tutor.",
+      "speakers": {
+        "S": {
+          "name": "Leah",
+          "gender": "female",
+          "accent": "en-NZ"
+        },
+        "T": {
+          "name": "Dr Hollis",
+          "gender": "male",
+          "accent": "en-CA"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 3. You will hear a student called Leah talking to her tutor about her dissertation on rooftop gardens. First, you have some time to look at questions 21 to 24."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 21 to 24."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Come in, Leah. So, how's the dissertation going? Last time, you were still deciding what to focus on."
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "Yes, and you were right — I was trying to cover far too much. So I've narrowed it down to two areas."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Good. Go on."
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "Well, I was really keen on flooding, you know, how green roofs soak up rainwater. But the drainage data I'd need belongs to the water company, and they still haven't answered my emails. So that's just a paragraph in the literature review now."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "That's a pity, but it's sensible. What about food production? You were very excited about the rooftop farm on the Harland building."
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "I was, but it's the only roof in the city that grows vegetables on any real scale, and one example isn't enough for a whole chapter. So the first thing I'm looking at is how much the gardens cool the buildings underneath them.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "That's very measurable, which is good. And the second area?"
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "Wildlife — mainly bees and other pollinating insects. People claim rooftop gardens act as stepping stones for insects moving across a city, but there's hardly any local evidence.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "And wellbeing's out? You mentioned interviewing office workers."
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "I'd love to, but interviews need ethics approval, and that can take months here."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Fair enough. Now, how did your pilot study go over the summer?"
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "It was, um, mixed. I visited five roofs. I'd expected the building owners to be difficult about access, but they were all really welcoming. The trouble was the safety rules. I always had to have a member of staff with me, and I could only stay for half an hour at a time, which isn't long when you're counting insects.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "No, it isn't. And the temperature equipment? Were the readings reliable?"
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "Yes, the loggers were fine. I checked them against the department's weather station, and they matched almost perfectly. The other real problem was the weather. It rained on three of my five visits, and bees just disappear when it rains, so I've got hardly any insect data.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "That's fieldwork, I'm afraid. And the roofs themselves?"
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "They were bigger than I'd imagined, actually, which is good news."
+        },
+        {
+          "t": "narr",
+          "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen and answer questions 25 to 30."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Let's talk about the main study. How are you choosing the ordinary roofs to compare with the garden roofs?"
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "I was going to pick roofs on the same streets as the gardens, just to keep things simple. Or maybe choose them at random from the council's list."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Hmm. Neither of those deals with the biggest issue, which is height. A roof twelve storeys up gets far more wind than one at three storeys, and that affects its temperature much more than which street it's on. So each ordinary roof should be roughly the same height as the garden roof you're pairing it with.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "Right, that makes sense."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Now, you've been reading the council's green roof policy. Some people say it's far too ambitious. What do you think?"
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "I don't think that's fair, actually. The targets are quite modest. And it's not that nobody's heard of it — it was all over the local news. My problem is that it only applies to new buildings. There are thousands of flat roofs on older buildings in the city, and the policy doesn't say a word about them.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Interesting. Make that argument in your conclusion, then, but back it up with figures. Oh, and have you read the study by Mensah and Lindqvist?"
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "Not yet. Is their climate similar to ours?"
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "No, quite the opposite — it's a much hotter city, so their temperature figures won't compare with yours. And their conclusions are pretty typical. But the way they positioned their loggers and timed their insect counts is excellent. You could follow their method almost step by step.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "Great, I'll look it up."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "So, talk me through the plan for the main study."
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "Okay. First, I choose eight garden roofs and eight ordinary roofs, matched by height. Then I fix a temperature logger on each roof — not out in the open, though. They have to go in shaded spots, because if the sun shines directly on a sensor, the readings come out too high.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Good. And the insects?"
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "The loggers record automatically every fifteen minutes through June and July. Meanwhile, I'll go round counting insects. I wanted to visit every roof once a week, but with sixteen roofs across the city, and a member of staff needed every time, that just isn't possible. So it'll be once a fortnight.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "That's realistic. And inside the buildings? Does a cooler roof actually make a difference indoors?"
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "That's the last step. I'll ask the building managers for their electricity bills for the summer months, because air conditioning is the big cost, and compare the garden buildings with the others. I did think about asking for water bills too, to see what the watering costs, but that's really a separate question.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Agreed — keep it focused. This is shaping up nicely. Send me a draft of your methods chapter by the end of the month."
+        },
+        {
+          "t": "say",
+          "who": "S",
+          "text": "Will do. Thanks, Doctor Hollis."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 3."
+        }
+      ],
+      "groups": [
+        {
+          "id": "listen2-p3-g1",
+          "type": "mcq_multi",
+          "range": [
+            21,
+            22
+          ],
+          "instructions": "Choose TWO letters, A–E.",
+          "questions": [
+            {
+              "n": [
+                21,
+                22
+              ],
+              "text": "Which TWO aspects of rooftop gardens has Leah decided to focus on in her dissertation?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "how they reduce the risk of flooding"
+                },
+                {
+                  "key": "B",
+                  "text": "how they affect the temperature of buildings"
+                },
+                {
+                  "key": "C",
+                  "text": "how they can be used to grow food"
+                },
+                {
+                  "key": "D",
+                  "text": "how they affect people's wellbeing"
+                },
+                {
+                  "key": "E",
+                  "text": "how they support insect life"
+                }
+              ],
+              "answer": [
+                "B",
+                "E"
+              ],
+              "explanation": "Leah will study how the gardens cool the buildings underneath (B) and bees and other insects (E). Flooding lacks data, only one roof grows food, and wellbeing interviews need ethics approval."
+            }
+          ]
+        },
+        {
+          "id": "listen2-p3-g2",
+          "type": "mcq_multi",
+          "range": [
+            23,
+            24
+          ],
+          "instructions": "Choose TWO letters, A–E.",
+          "questions": [
+            {
+              "n": [
+                23,
+                24
+              ],
+              "text": "Which TWO problems did Leah have during her pilot study?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "She could only spend a short time on each roof."
+                },
+                {
+                  "key": "B",
+                  "text": "Building owners did not want to give her access."
+                },
+                {
+                  "key": "C",
+                  "text": "Her temperature equipment was unreliable."
+                },
+                {
+                  "key": "D",
+                  "text": "Rain reduced the amount of insect data she collected."
+                },
+                {
+                  "key": "E",
+                  "text": "Some roofs were smaller than she had expected."
+                }
+              ],
+              "answer": [
+                "A",
+                "D"
+              ],
+              "explanation": "Safety rules limited her to half an hour per roof (A), and rain on three of five visits left little insect data (D). The owners were welcoming, the loggers matched the weather station, and the roofs were bigger than expected."
+            }
+          ]
+        },
+        {
+          "id": "listen2-p3-g3",
+          "type": "mcq",
+          "range": [
+            25,
+            27
+          ],
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 25,
+              "text": "What does the tutor say about choosing the ordinary roofs for comparison?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "They should be in the same streets as the garden roofs."
+                },
+                {
+                  "key": "B",
+                  "text": "They should be selected at random."
+                },
+                {
+                  "key": "C",
+                  "text": "They should be a similar height to the garden roofs."
+                }
+              ],
+              "answer": "C",
+              "explanation": "The same streets and a random choice were Leah's ideas; the tutor says 'neither' deals with height, so each ordinary roof should be 'roughly the same height'."
+            },
+            {
+              "n": 26,
+              "text": "What is Leah's opinion of the council's green roof policy?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It ignores older buildings."
+                },
+                {
+                  "key": "B",
+                  "text": "Its targets are unrealistic."
+                },
+                {
+                  "key": "C",
+                  "text": "Few people know about it."
+                }
+              ],
+              "answer": "A",
+              "explanation": "Leah says the targets are 'quite modest' and the policy 'was all over the local news'; her complaint is that it only covers new buildings and says nothing about older ones."
+            },
+            {
+              "n": 27,
+              "text": "Why does the tutor recommend the study by Mensah and Lindqvist?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It was carried out in a similar climate."
+                },
+                {
+                  "key": "B",
+                  "text": "Its approach to collecting data is a useful model."
+                },
+                {
+                  "key": "C",
+                  "text": "Its conclusions are unusual."
+                }
+              ],
+              "answer": "B",
+              "explanation": "The study was done in 'a much hotter city' and its conclusions are 'pretty typical', but its logger positions and insect-count timing are excellent: Leah 'could follow their method'."
+            }
+          ]
+        },
+        {
+          "id": "listen2-p3-g4",
+          "type": "flowchart_completion",
+          "range": [
+            28,
+            30
+          ],
+          "instructions": "Complete the flow-chart below. Write ONE WORD ONLY for each answer.",
+          "limit": "ONE WORD ONLY",
+          "title": "Leah's plan for the main study",
+          "template": "-> Select sixteen roofs: eight with gardens and eight without\n-> Fix a temperature logger in a {{28}} spot on each roof\n-> Record temperatures every 15 minutes in June and July\n-> Count insects on each roof once a {{29}}\n-> Ask building managers for summer {{30}} bills\n-> Compare the garden buildings with the other buildings",
+          "questions": [
+            {
+              "n": 28,
+              "text": "",
+              "answer": "shaded",
+              "explanation": "The loggers 'have to go in shaded spots', because direct sun on a sensor makes the readings too high."
+            },
+            {
+              "n": 29,
+              "text": "",
+              "answer": "fortnight",
+              "explanation": "Leah wanted weekly visits, but that isn't possible with sixteen roofs, 'so it'll be once a fortnight'."
+            },
+            {
+              "n": 30,
+              "text": "",
+              "answer": "electricity",
+              "explanation": "She will ask for electricity bills because air conditioning is the big cost; water bills are 'a separate question'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "context": "A university lecturer gives a talk on how habits form, the research behind the idea and its practical applications.",
+      "speakers": {
+        "L": {
+          "name": "Lecturer",
+          "gender": "female",
+          "accent": "en-US"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 4. You will hear a lecturer giving a talk about how habits form. First, you have some time to look at questions 31 to 40."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 31 to 40."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Good morning, everyone. Today we're looking at habits: how they form, why they're so hard to break, and what that means in practice. First, a definition. In psychology, a habit isn't simply something you do often. It's a behaviour that's triggered automatically by a particular situation, so you carry it out with very little conscious thought.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Think about locking your front door. Most of you did it this morning, but I suspect very few of you could say for certain that you did."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "So how common are habits? In diary studies, where volunteers record what they're doing and what they're thinking about at the same moment, around forty per cent of daily actions turn out to be habits, performed while the mind is somewhere else. And that's not a weakness. If we had to think carefully about every step of making breakfast, we'd never leave the house."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "So how does a habit form? It's useful to think of it as a loop with three parts: a cue, a routine and a reward. The cue is the trigger. It might be a time of day, a place, an emotion — boredom is a very common one — or simply the action that came just before.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "The routine is the behaviour itself, and the reward is whatever makes the behaviour worth repeating: a pleasant taste, a sense of relief, a bit of approval from other people."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Now, here's the key point. Each time the loop is repeated, the link between cue and reward gets stronger, until the brain starts to anticipate the reward the moment it detects the cue — before you've actually done anything. We experience that anticipation as a craving, and it's the craving that drives the routine.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Animal experiments suggest that, as a behaviour becomes a habit, brain activity shifts away from areas involved in decision-making and towards structures deep in the brain called the basal ganglia. The whole sequence of actions gets stored as a single chunk — a process known as chunking — which frees up mental resources for other things.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Okay, let's turn to some research. Doctor Ingrid Halvorsen wanted to know why habits are so hard to change, even when people genuinely want to. She studied around four hundred employees of a company whose office moved to the other side of the city. Before the move, most of them drove to work, and many said they'd like to cycle or take the train, but never did. After the move, far more of them switched to cycling or public transport than in a comparison group whose office stayed put.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Halvorsen's explanation is that the move removed the old cues — the familiar route, the car keys by the door — so for a while, travel choices came under conscious control again. She calls this a window of opportunity, and it seems to close fairly quickly."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "A second question is how long a new habit takes to form. You'll often hear that it's twenty-one days. Doctor Felix Marchant asked volunteers to pick one new healthy behaviour, like a short walk after dinner, and to rate every day how automatic it felt. On average, it took about two months — not three weeks — and some people took far longer.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Easy behaviours, such as taking a vitamin pill with breakfast, became automatic much faster than harder ones, like a half-hour workout. And, encouragingly, missing the odd day made very little difference."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "So, what are the practical lessons? Let's take building a new habit first. Rather than making a vague promise like 'I'll learn a language', link the new behaviour to an existing routine: 'While I'm waiting for the bus each morning, I'll spend five minutes on my language app.' The existing routine then acts as a ready-made cue.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Next, make the behaviour easy at the beginning, because, as Marchant found, simpler behaviours become automatic sooner. And the reward needs to be immediate. The benefits of exercise are real, but they're weeks or months away, so give yourself a treat straight away — saving your favourite podcast for when you're out running, for instance.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "What about breaking a bad habit? Willpower on its own turns out to be a fairly poor strategy. It's far more effective to change your environment so that the cue doesn't appear in the first place. If you check your phone every time it lights up, put it in another room while you work.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "And when the cue can't be avoided — stress at work, say — the advice is to keep the cue and the reward, but swap the routine. If you reach for chocolate whenever you're stressed, what you probably want is a break and a change of mood, and a short walk can give you both.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Finally, these ideas aren't just for individuals. Some workplace cafeterias now put fruit and water at eye level near the checkout and move sugary snacks out of the way — changing the cues rather than lecturing people about willpower. Next week, we'll ask whether that kind of nudging raises ethical questions. Thanks, everyone."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 4."
+        }
+      ],
+      "groups": [
+        {
+          "id": "listen2-p4-g1",
+          "type": "note_completion",
+          "range": [
+            31,
+            36
+          ],
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "limit": "ONE WORD ONLY",
+          "title": "How habits form",
+          "template": "# What is a habit?\n- an action automatically prompted by a specific situation\n- requires hardly any conscious {{31}}\n- diary studies: around 40% of daily actions are habits\n# The habit loop\n- three parts: a cue, the behaviour itself and a reward\n- cues include times, places, emotions such as {{32}}, and the previous action\n- repetition teaches the brain to {{33}} the reward when the cue appears; this is felt as a craving\n- activity moves to the basal ganglia, and the whole series of actions is saved as one {{34}}\n# Research\n- Halvorsen: after their office moved, many employees stopped driving and started {{35}} or using public transport\n- Marchant: on average, a new behaviour took about two {{36}} to feel automatic",
+          "questions": [
+            {
+              "n": 31,
+              "text": "",
+              "answer": "thought",
+              "explanation": "A habit is triggered automatically, so 'you carry it out with very little conscious thought'."
+            },
+            {
+              "n": 32,
+              "text": "",
+              "answer": "boredom",
+              "explanation": "Among possible cues, the lecturer names an emotion: 'boredom is a very common one'."
+            },
+            {
+              "n": 33,
+              "text": "",
+              "answer": "anticipate",
+              "explanation": "With repetition, 'the brain starts to anticipate the reward' as soon as it detects the cue; 'craving' is the feeling this produces, not the verb."
+            },
+            {
+              "n": 34,
+              "text": "",
+              "answer": "chunk",
+              "explanation": "The sequence of actions 'gets stored as a single chunk'; 'chunking' is the name of the process."
+            },
+            {
+              "n": 35,
+              "text": "",
+              "answer": "cycling",
+              "explanation": "After the office move, 'far more of them switched to cycling or public transport' than in the comparison group."
+            },
+            {
+              "n": 36,
+              "text": "",
+              "answer": "months",
+              "explanation": "The popular figure is twenty-one days, but Marchant found it took 'about two months — not three weeks'."
+            }
+          ]
+        },
+        {
+          "id": "listen2-p4-g2",
+          "type": "summary_completion",
+          "range": [
+            37,
+            40
+          ],
+          "instructions": "Complete the summary below. Write ONE WORD ONLY for each answer.",
+          "limit": "ONE WORD ONLY",
+          "title": "Practical applications",
+          "template": "To build a new habit, people should attach it to an existing {{37}}, which will then serve as a cue. The behaviour should be simple at first, and the reward should be {{38}} – for example, saving a favourite podcast to listen to while running.\nWillpower alone is not a very effective way to break a bad habit. A better approach is for people to alter their {{39}} so that the cue never appears. When a cue cannot be avoided, a different behaviour can be substituted: someone who eats chocolate under stress may really be looking for a rest and a change of {{40}}.",
+          "questions": [
+            {
+              "n": 37,
+              "text": "",
+              "answer": "routine",
+              "explanation": "The lecturer advises linking the new behaviour 'to an existing routine', such as waiting for the bus each morning."
+            },
+            {
+              "n": 38,
+              "text": "",
+              "answer": "immediate",
+              "explanation": "Because the benefits of exercise are weeks or months away, 'the reward needs to be immediate'."
+            },
+            {
+              "n": 39,
+              "text": "",
+              "answer": "environment",
+              "explanation": "Willpower is 'a fairly poor strategy'; it is better to 'change your environment' so the cue does not appear."
+            },
+            {
+              "n": 40,
+              "text": "",
+              "answer": "mood",
+              "explanation": "Someone who eats chocolate when stressed probably wants 'a break and a change of mood', which a short walk also gives."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

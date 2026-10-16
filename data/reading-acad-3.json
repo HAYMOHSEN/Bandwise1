@@ -1,0 +1,766 @@
+{
+  "kind": "reading",
+  "id": "acad-3",
+  "module": "academic",
+  "title": "Academic Reading — Test 3",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Banking on Seeds",
+      "intro": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+      "texts": [
+        {
+          "heading": "Banking on Seeds",
+          "subheading": "How scientists are safeguarding the world’s crop diversity",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For thousands of years, farmers sowed seed saved from their own harvests, selecting it from the plants that had performed best. Over generations, this simple practice produced an extraordinary range of local crop types, known as landraces, each suited to a particular soil, climate and set of pests. During the twentieth century, however, much of this variety disappeared as farmers switched to a far smaller number of modern, high-yielding varieties. These produced much bigger harvests, but they carried a hidden danger: when every plant in a field has almost the same genetic make-up, a single disease can sweep through the entire crop. The Irish potato famine of the 1840s is the best-known example; the lesson was repeated in 1970, when a fungal disease spread through maize fields in the United States, where most of the hybrids grown shared one inherited trait that left them exposed."
+            },
+            {
+              "label": "B",
+              "text": "Plant scientists responded by collecting as many varieties as possible before they vanished and storing them in gene banks. There are now well over a thousand such banks worldwide, some holding several hundred thousand samples. Alongside landraces, many also keep the wild relatives of crops — species that have never been domesticated but may carry genes for tolerating drought, heat or salty soil. For plant breeders, these collections work like a library of useful traits: when a new disease appears, or a crop must cope with a hotter climate, they can search them for plants that already possess the qualities they need."
+            },
+            {
+              "label": "C",
+              "text": "The routine at the Ardley Seed Centre is typical. Each incoming sample is cleaned, checked for pests and disease, and counted. The seeds are then dried slowly in a room where the humidity is kept very low, until only about five per cent of their weight is water. Staff regard this as the most important step, because any water remaining inside would turn into ice crystals when the seeds were frozen, rupturing their cells. Once dry, the seeds are sealed in airtight foil packets and placed in a cold store at around minus 18 degrees Celsius. Under these conditions, the seeds of many crops remain alive for decades, and those of some species should survive far longer."
+            },
+            {
+              "label": "D",
+              "text": "Not every plant fits this system. The seeds of most cereals and pulses tolerate drying and are described as ‘orthodox’. However, the seeds of many tropical species, including cocoa and mango, are killed by drying; botanists call such seeds ‘recalcitrant’, and they cannot be banked in the usual way. A different problem arises with crops such as potatoes, cassava and bananas, which are normally grown from pieces of a parent plant rather than from seed. These are usually conserved as living plants in field collections, as tiny plantlets in test tubes, or by cryopreservation, in which small pieces of tissue are frozen in liquid nitrogen at about minus 196 degrees."
+            },
+            {
+              "label": "E",
+              "text": "Even in cold storage, seeds gradually lose their ability to germinate. At Ardley, staff therefore test every sample once a decade by sowing a few of its seeds and counting how many sprout. When the proportion falls below a fixed threshold, the sample must be regenerated: planted out, grown to maturity and harvested to provide fresh seed. The centre’s managers describe regeneration as the most costly and risky part of their work. Cross-pollinating plants such as maize must be kept apart so that they do not breed with neighbouring varieties, and if too few plants are grown, some of the original genetic variation may be lost. Labelling errors can also creep in when hundreds of samples are handled in one season."
+            },
+            {
+              "label": "F",
+              "text": "Gene banks are themselves vulnerable. Collections have been damaged by floods and typhoons, destroyed or looted during wars, and lost more gradually through power failures and lack of funding. Banks are therefore encouraged to send duplicate samples to a second, distant site. The best-known back-up store is a vault cut deep into a mountainside on a remote Arctic island; it opened in 2008. Duplicates are kept there in sealed boxes that remain the property of the depositing institutions; the vault’s own staff never open them. Since the surrounding ground is permanently frozen, the samples would stay below freezing point even if the cooling equipment failed."
+            },
+            {
+              "label": "G",
+              "text": "Such duplication has already proved its worth. In 2015, an agricultural research centre that civil war had forced to leave its headquarters in Syria became the first institution to withdraw seeds from the Arctic vault, using them to rebuild its working collections in two other countries; it later sent freshly grown seed back to the vault. An older episode shows the devotion such collections can inspire. During the siege of Leningrad in the Second World War, several of the scientists guarding the city’s famous seed collection are said to have starved to death rather than eat the seeds and tubers in their care."
+            },
+            {
+              "label": "H",
+              "text": "Not everyone believes that cold storage alone is enough. Critics point out that a seed in a freezer is, in effect, frozen in time: unlike a variety still grown in farmers’ fields, it does not continue to evolve as pests and climates change around it. For this reason, many specialists now argue that gene banks should be combined with support for farmers who continue to grow traditional varieties. As Dr Lena Hartwell of the Ardley centre puts it, ‘A seed bank is an insurance policy, not a substitute for diversity that is still alive in the field.’"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "acad3-s1-g1",
+          "type": "summary_completion",
+          "range": [
+            1,
+            5
+          ],
+          "instructions": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "limit": "NO MORE THAN TWO WORDS",
+          "title": "Storing seeds and other plant material",
+          "template": "Once a sample has been cleaned, inspected and counted, its seeds are gradually dried in conditions of very low {{1}} until water makes up only about five per cent of their weight. This stage is considered vital, because any moisture left inside would form {{2}} when the seeds were frozen and damage their cells. The dry seeds are then sealed in packets made of {{3}}, which keep out air, and stored at roughly minus 18 degrees Celsius.\nSeeds that tolerate drying, such as those of most cereals and pulses, are known as ‘orthodox’, whereas those that cannot survive it, such as cocoa and mango seeds, are termed {{4}}. Crops that are normally grown from part of a parent plant are kept in other ways: in field collections, as miniature plants in {{5}}, or as tissue frozen in liquid nitrogen.",
+          "questions": [
+            {
+              "n": 1,
+              "text": "",
+              "answer": "humidity",
+              "loc": "C",
+              "explanation": "Paragraph C: the seeds are dried ‘in a room where the humidity is kept very low’."
+            },
+            {
+              "n": 2,
+              "text": "",
+              "answer": "ice crystals",
+              "accept": [
+                "crystals",
+                "ice"
+              ],
+              "loc": "C",
+              "explanation": "Paragraph C: water left inside ‘would turn into ice crystals’ during freezing, rupturing the cells."
+            },
+            {
+              "n": 3,
+              "text": "",
+              "answer": "foil",
+              "accept": [
+                "airtight foil"
+              ],
+              "loc": "C",
+              "explanation": "Paragraph C: the dry seeds ‘are sealed in airtight foil packets’, i.e. foil packets that keep out air."
+            },
+            {
+              "n": 4,
+              "text": "",
+              "answer": "recalcitrant",
+              "loc": "D",
+              "explanation": "Paragraph D: cocoa and mango seeds are killed by drying, and ‘botanists call such seeds “recalcitrant”’. ‘Tropical’ describes the species, not the category of seed."
+            },
+            {
+              "n": 5,
+              "text": "",
+              "answer": "test tubes",
+              "accept": [
+                "test-tubes"
+              ],
+              "loc": "D",
+              "explanation": "Paragraph D: crops grown from pieces of a parent plant may be kept ‘as tiny plantlets in test tubes’."
+            }
+          ]
+        },
+        {
+          "id": "acad3-s1-g2",
+          "type": "tfng",
+          "range": [
+            6,
+            10
+          ],
+          "instructions": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "n": 6,
+              "text": "The modern varieties that replaced landraces were less productive than the traditional ones.",
+              "answer": "FALSE",
+              "loc": "A",
+              "explanation": "Paragraph A says the modern varieties ‘produced much bigger harvests’; their weakness was vulnerability to disease, not low yields."
+            },
+            {
+              "n": 7,
+              "text": "The maize disease of 1970 was able to spread because most of the varieties being grown shared a genetic weakness.",
+              "answer": "TRUE",
+              "loc": "A",
+              "explanation": "Paragraph A: the disease spread through US maize fields where most hybrids ‘shared one inherited trait that left them exposed’."
+            },
+            {
+              "n": 8,
+              "text": "Wild relatives of crops make up the majority of the samples held in most gene banks.",
+              "answer": "NOT GIVEN",
+              "loc": "B",
+              "explanation": "Paragraph B says many banks keep wild relatives ‘alongside landraces’ but gives no information about what proportion of their samples they form."
+            },
+            {
+              "n": 9,
+              "text": "The staff of the Arctic vault open the boxes from time to time to check on the seeds.",
+              "answer": "FALSE",
+              "loc": "F",
+              "explanation": "Paragraph F states that the boxes stay sealed and ‘the vault’s own staff never open them’."
+            },
+            {
+              "n": 10,
+              "text": "The organisation that made the first withdrawal from the Arctic vault later made a new deposit there.",
+              "answer": "TRUE",
+              "loc": "G",
+              "explanation": "Paragraph G: after withdrawing seeds in 2015, the research centre ‘later sent freshly grown seed back to the vault’."
+            }
+          ]
+        },
+        {
+          "id": "acad3-s1-g3",
+          "type": "mcq",
+          "range": [
+            11,
+            13
+          ],
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "What is said about regeneration at the Ardley centre?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It is carried out on every sample once every ten years."
+                },
+                {
+                  "key": "B",
+                  "text": "Its managers regard it as the most expensive stage and the one most likely to go wrong."
+                },
+                {
+                  "key": "C",
+                  "text": "It is only necessary for plants that cross-pollinate."
+                },
+                {
+                  "key": "D",
+                  "text": "It tends to increase the genetic variety within a sample."
+                }
+              ],
+              "answer": "B",
+              "loc": "E",
+              "explanation": "Paragraph E: the managers call it ‘the most costly and risky part of their work’. The ten-yearly check is a germination test (A), maize is only an example (C), and variation may be lost, not gained (D)."
+            },
+            {
+              "n": 12,
+              "text": "Why does the writer mention the research centre that left its headquarters in Syria?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "to show the benefit of keeping copies of seeds in a separate place"
+                },
+                {
+                  "key": "B",
+                  "text": "to show how war can lead to the looting of gene banks"
+                },
+                {
+                  "key": "C",
+                  "text": "to suggest that the Arctic vault is used mainly by institutions affected by war"
+                },
+                {
+                  "key": "D",
+                  "text": "to illustrate the problems caused by power failures"
+                }
+              ],
+              "answer": "A",
+              "loc": "G",
+              "explanation": "Paragraph G opens ‘Such duplication has already proved its worth’, and the centre rebuilt its collections from seeds kept in the vault. Looting and power failures (B, D) appear only as general risks in paragraph F, and one example cannot show who mainly uses the vault (C)."
+            },
+            {
+              "n": 13,
+              "text": "What is the main point of the final paragraph?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "Gene banks have failed to protect the diversity of crops."
+                },
+                {
+                  "key": "B",
+                  "text": "Farmers are no longer willing to grow traditional varieties."
+                },
+                {
+                  "key": "C",
+                  "text": "Seed samples should be kept in more than one location."
+                },
+                {
+                  "key": "D",
+                  "text": "Stored seeds cannot adapt to changing conditions, so other approaches are also needed."
+                }
+              ],
+              "answer": "D",
+              "loc": "H",
+              "explanation": "Paragraph H: frozen seeds do not ‘continue to evolve as pests and climates change’, so banks should be combined with support for farmers. A seed bank is called ‘an insurance policy’, not a failure (A); duplication (C) is the subject of paragraph F."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Riding the Monsoon",
+      "intro": "You should spend about 20 minutes on Questions 14–27, which are based on Reading Passage 2 below.",
+      "texts": [
+        {
+          "heading": "Riding the Monsoon",
+          "subheading": "How seasonal winds created an ocean-wide trading world",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For at least two thousand years, trade across the Indian Ocean ran to a timetable set by the wind. Each year, merchants in ports from the Red Sea to the Bay of Bengal waited for the wind to change direction before setting out on voyages of thousands of kilometres across open water. The sailors who made these journeys came from many backgrounds — Arab, Persian, Indian, East African, Malay and others — and together they built one of the most extensive commercial systems of the pre-modern world."
+            },
+            {
+              "label": "B",
+              "text": "The key to this system was the monsoon, a word generally thought to derive from the Arabic mawsim, meaning ‘season’. In winter, as the Asian landmass cools, a steady wind blows from the north-east across the Arabian Sea, carrying ships from India and Arabia towards East Africa. In summer the pattern is reversed: as the land heats up, moist air is drawn in from the south-west, bringing the rains on which South Asian farming depends and pushing vessels back towards Arabia and India. Because these winds returned so regularly, a captain could plan the outward and return voyages with some confidence. The system had its limits, however: at the height of the south-west monsoon, seas were so rough that many harbours on India’s western coast effectively closed, so captains sailed at the start or end of the season."
+            },
+            {
+              "label": "C",
+              "text": "Who first exploited these winds for long-distance voyages is uncertain. Greek and Roman writers of the first century CE credited one of their own navigators with ‘discovering’ that a ship could sail directly across the open sea between the Red Sea and India instead of following the coast. Many modern historians are sceptical. Arab and Indian seafarers, they point out, had almost certainly been using the monsoon long before, and knowledge of this kind is more likely to have accumulated gradually over many generations than to have been revealed to a single individual. The classical account may say more about what was new to its readers than about what was new to the ocean."
+            },
+            {
+              "label": "D",
+              "text": "The vessels that made these crossings were built in a distinctive way. Whereas Mediterranean shipbuilders generally relied on wooden joints and metal nails, many builders around the western Indian Ocean sewed their planks together with cord made from coconut fibre, threaded through holes drilled along each plank’s edge and pulled tight. Outsiders often found the technique puzzling, and some repeated a legend that magnetic rocks in the ocean would pull the nails out of any ship that used them. The real reasons were almost certainly practical. Coconut fibre was cheap and plentiful around the ocean’s shores, whereas iron was costly in many places and quickly corroded by salt water. A sewn hull was also somewhat flexible, so it could absorb the shock of striking a coral reef or being hauled onto a beach."
+            },
+            {
+              "label": "E",
+              "text": "Out of sight of land, navigators relied largely on the stars. Since a star’s height above the horizon changes as an observer moves north or south, measuring it showed roughly how far north a ship was. One simple instrument for this purpose was a small wooden board attached to a knotted string. Holding a knot between his teeth and stretching the string tight, the navigator checked whether the board’s lower edge touched the horizon while its upper edge touched the Pole Star; the knot that produced this alignment indicated his latitude. Directions were described using a ‘star compass’, which divided the horizon according to the points where particular stars rose and set. Much of this knowledge was later recorded in Arabic manuals, and one fifteenth-century pilot composed many of his works in verse so that they could be memorised more easily."
+            },
+            {
+              "label": "F",
+              "text": "Pilots also learned to read the ocean itself. Changes in the colour of the water, the appearance of particular seabirds or sea snakes, and patches of floating vegetation could all warn that land was near, while a weighted line lowered to the seabed revealed both the depth and, from the sand or mud that stuck to it, the nature of the bottom. Such signs allowed an experienced pilot to judge his position even when clouds hid the stars."
+            },
+            {
+              "label": "G",
+              "text": "The rhythm of the winds shaped communities as well as voyages. Since a ship arriving on one monsoon usually had to wait months for the wind to reverse, merchants spent long periods in foreign ports. Many rented houses, formed partnerships with local traders and married into local families. Over the centuries such settlements produced distinctive cultures, most famously along the coast of East Africa, where the Swahili language absorbed many Arabic words. Gujarati merchants from western India established communities in Arabia and East Africa, while traders from southern Arabia settled as far away as South-East Asia."
+            },
+            {
+              "label": "H",
+              "text": "The resulting trade worked less like a single highway than like a series of overlapping circuits. Few ships sailed the whole length of the ocean; instead, goods changed hands at busy ports as they passed between regional networks — East African ivory and gold, Arabian frankincense and horses, Indian cotton cloth and pepper, Chinese silk and porcelain. Much of this commerce rested on trust, since merchants routinely extended credit to partners they might not see for years. The Portuguese, arriving in the late 1490s, tried to control the trade by obliging ships to buy passes, but never fully succeeded; wooden sailing vessels still carried cargo across the western Indian Ocean well into the twentieth century."
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "acad3-s2-g1",
+          "type": "matching_headings",
+          "range": [
+            14,
+            19
+          ],
+          "instructions": "Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–G from the list of headings below. Write the correct number, i–ix. There are more headings than paragraphs.",
+          "options": [
+            {
+              "key": "i",
+              "text": "Doubts over an ancient claim of discovery"
+            },
+            {
+              "key": "ii",
+              "text": "The rains that sustain South Asian agriculture"
+            },
+            {
+              "key": "iii",
+              "text": "Clues from the sea and its wildlife"
+            },
+            {
+              "key": "iv",
+              "text": "Extended stays overseas and the societies they created"
+            },
+            {
+              "key": "v",
+              "text": "A shipbuilding method borrowed from the Mediterranean"
+            },
+            {
+              "key": "vi",
+              "text": "A seasonal reversal that allowed round trips to be planned"
+            },
+            {
+              "key": "vii",
+              "text": "The spread of Arabic as a shared language of trade"
+            },
+            {
+              "key": "viii",
+              "text": "Sensible reasons for a building method that mystified foreigners"
+            },
+            {
+              "key": "ix",
+              "text": "Using the night sky to find position and direction"
+            }
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "Paragraph B",
+              "answer": "vi",
+              "loc": "B",
+              "explanation": "Paragraph B explains how the monsoon reverses with the seasons, so that captains could plan outward and return voyages. The rains (ii) are only a passing detail."
+            },
+            {
+              "n": 15,
+              "text": "Paragraph C",
+              "answer": "i",
+              "loc": "C",
+              "explanation": "Paragraph C reports modern historians’ scepticism about the classical claim that one navigator was responsible for ‘discovering’ the open-sea route."
+            },
+            {
+              "n": 16,
+              "text": "Paragraph D",
+              "answer": "viii",
+              "loc": "D",
+              "explanation": "Paragraph D: outsiders found sewn hulls ‘puzzling’, but the reasons were practical (cheap fibre, costly iron, flexibility). The method differed from Mediterranean practice, so v is wrong."
+            },
+            {
+              "n": 17,
+              "text": "Paragraph E",
+              "answer": "ix",
+              "loc": "E",
+              "explanation": "Paragraph E describes measuring the Pole Star’s height to estimate latitude and using a ‘star compass’ to describe directions."
+            },
+            {
+              "n": 18,
+              "text": "Paragraph F",
+              "answer": "iii",
+              "loc": "F",
+              "explanation": "Paragraph F lists water colour, seabirds, sea snakes, floating vegetation and the seabed as signs that land was near."
+            },
+            {
+              "n": 19,
+              "text": "Paragraph G",
+              "answer": "iv",
+              "loc": "G",
+              "explanation": "Paragraph G explains how months of waiting for the wind led merchants to settle, marry locally and create new cultures. Arabic loanwords in Swahili are only an example, so vii is wrong."
+            }
+          ]
+        },
+        {
+          "id": "acad3-s2-g2",
+          "type": "matching_features",
+          "range": [
+            20,
+            23
+          ],
+          "instructions": "Look at the following statements (Questions 20–23) and the list of groups below. Match each statement with the correct group, A–G.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Greek and Roman writers"
+            },
+            {
+              "key": "B",
+              "text": "modern historians"
+            },
+            {
+              "key": "C",
+              "text": "Mediterranean shipbuilders"
+            },
+            {
+              "key": "D",
+              "text": "Indian Ocean pilots"
+            },
+            {
+              "key": "E",
+              "text": "Gujarati merchants"
+            },
+            {
+              "key": "F",
+              "text": "traders from southern Arabia"
+            },
+            {
+              "key": "G",
+              "text": "the Portuguese"
+            }
+          ],
+          "questions": [
+            {
+              "n": 20,
+              "text": "They tried to control commerce by making ships pay for permission to sail.",
+              "answer": "G",
+              "loc": "H",
+              "explanation": "Paragraph H: the Portuguese tried to control the trade ‘by obliging ships to buy passes’."
+            },
+            {
+              "n": 21,
+              "text": "They doubted that an important discovery could be attributed to one person.",
+              "answer": "B",
+              "loc": "C",
+              "explanation": "Paragraph C: modern historians are sceptical, arguing such knowledge was unlikely to have been ‘revealed to a single individual’. The Greek and Roman writers (A) made the claim."
+            },
+            {
+              "n": 22,
+              "text": "Some of them made their homes in South-East Asia.",
+              "answer": "F",
+              "loc": "G",
+              "explanation": "Paragraph G: traders from southern Arabia ‘settled as far away as South-East Asia’. Gujarati merchants (E) formed communities in Arabia and East Africa."
+            },
+            {
+              "n": 23,
+              "text": "They used metal fastenings to build their vessels.",
+              "answer": "C",
+              "loc": "D",
+              "explanation": "Paragraph D: ‘Mediterranean shipbuilders generally relied on wooden joints and metal nails’, unlike the sewn ships of the western Indian Ocean."
+            }
+          ]
+        },
+        {
+          "id": "acad3-s2-g3",
+          "type": "sentence_completion",
+          "range": [
+            24,
+            27
+          ],
+          "instructions": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+          "limit": "ONE WORD ONLY",
+          "questions": [
+            {
+              "n": 24,
+              "text": "The term ‘monsoon’ is usually traced back to an Arabic word for ____.",
+              "answer": "season",
+              "loc": "B",
+              "explanation": "Paragraph B: the word is ‘generally thought to derive from the Arabic mawsim’, which means ‘season’."
+            },
+            {
+              "n": 25,
+              "text": "A sewn hull was less likely to be damaged by a collision with a reef because it was ____.",
+              "answer": "flexible",
+              "loc": "D",
+              "explanation": "Paragraph D: a sewn hull ‘was also somewhat flexible’, so it could absorb the shock of striking a coral reef."
+            },
+            {
+              "n": 26,
+              "text": "One fifteenth-century pilot wrote many of his works in ____ to make them easier to learn by heart.",
+              "answer": "verse",
+              "loc": "E",
+              "explanation": "Paragraph E: the pilot ‘composed many of his works in verse’ so that they could be memorised more easily."
+            },
+            {
+              "n": 27,
+              "text": "Trust was essential to the trade because merchants regularly offered ____ to partners they might not meet again for years.",
+              "answer": "credit",
+              "loc": "H",
+              "explanation": "Paragraph H: commerce rested on trust, since merchants ‘routinely extended credit to partners they might not see for years’."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "In Defence of Boredom",
+      "intro": "You should spend about 20 minutes on Questions 28–40, which are based on Reading Passage 3 below.",
+      "texts": [
+        {
+          "heading": "In Defence of Boredom",
+          "subheading": "Could a state of mind we try so hard to escape be good for us?",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Few states of mind have a worse reputation than boredom. It is associated with wasted time, restless children and unproductive employees, and a vast industry now exists to ensure that we never have to experience it. Waiting for a bus, standing in a queue or sitting through an advertisement, most of us reach for a phone almost without thinking; it has never been easier to banish tedium the moment it appears. Yet a growing body of research suggests that in eliminating boredom so efficiently we may be discarding something of value. The claim deserves careful scrutiny, because it is as easy to romanticise boredom as it is to demonise it."
+            },
+            {
+              "label": "B",
+              "text": "Some of the most frequently cited evidence comes from a series of experiments at Calderbridge University led by the psychologist Ines Faulkner. Volunteers were assigned either to a deliberately monotonous task — tracing the outlines of identical circles for twenty minutes — or to an absorbing puzzle of similar length. Both groups then completed a standard test of creative thinking, suggesting as many ways as they could to improve an ordinary household object such as an umbrella. Those who had endured the tedious task produced more ideas, and independent judges rated their ideas as more original. More revealing, however, was a pattern within the bored group: the participants who reported that their minds had wandered most during the task gave the most inventive answers of all."
+            },
+            {
+              "label": "C",
+              "text": "A second line of research has looked beyond the laboratory. Tomas Rehn and his colleagues at the Lindqvist Institute equipped 300 adults with a phone app that contacted them at random moments over a fortnight, asking what they were doing, how they felt and what they were thinking about. When participants described themselves as bored, they were considerably more likely than at other times to be thinking about their own futures: their plans, their relationships and whether their current activities were worthwhile. Rehn argues that boredom should be understood as a signal rather than a malfunction. He likens it to the warning light on a car’s dashboard, which does not explain what is wrong but shows that something needs attention: boredom, in his view, tells us that what we are doing no longer serves our goals, and prompts us to look for something more meaningful."
+            },
+            {
+              "label": "D",
+              "text": "There is a plausible mechanism behind both findings. Neuroscientists have identified a network of brain regions that becomes more active when our attention is not occupied by an external task, and which appears to be involved in recalling the past, imagining the future and reflecting on ourselves. It is tempting to conclude that boredom switches this network on, and that this explains both the creativity of Faulkner’s daydreamers and the self-examination of Rehn’s participants. However, the evidence that boredom reliably activates this network remains thin; for now, the link is an attractive hypothesis rather than an established fact. Indeed, Faulkner’s own data imply that what mattered was not boredom as such but the mind-wandering that it allowed."
+            },
+            {
+              "label": "E",
+              "text": "Critics of this research make several serious points. The first concerns the size of the effect. When Priya Nandakumar’s team at Westmere University repeated the Calderbridge procedure with more than a thousand participants, the creative advantage of the bored group was a fraction of that originally reported. The second concerns the kind of boredom being studied. Twenty minutes of tracing circles, the critics argue, bears little resemblance to the chronic, inescapable boredom that some people live with — and it is chronic boredom that has repeatedly been linked to depression, anxiety and addictive behaviour."
+            },
+            {
+              "label": "F",
+              "text": "A third objection is practical. In occupations that require sustained monitoring, such as watching security screens or supervising automated machinery, boredom is associated with lapses of attention that can have serious consequences. There is a moral objection, too. The sociologist Martin Abernethy has observed that praise for boredom tends to come from people who can end it whenever they wish. For a prisoner, or for someone who has been out of work for years, he argues, boredom is not a doorway to creativity but a form of suffering."
+            },
+            {
+              "label": "G",
+              "text": "All of these points seem to me correct, and none should be dismissed. The creative benefits of boredom are probably modest; chronic boredom is undoubtedly harmful; and in some jobs a bored worker is a dangerous one. Yet the critics are largely answering a claim that the more careful defenders of boredom do not make. The argument is not that boredom is good in itself, still less that people should seek it out. It is that brief, ordinary boredom carries information — about our goals and about what we might do next — and that our habit of extinguishing it instantly means the message is never received."
+            },
+            {
+              "label": "H",
+              "text": "What follows from this is a modest proposal. I do not believe that schools should timetable ‘boredom lessons’, or that employers should make work duller in the hope of stimulating innovation; such schemes misunderstand the evidence. The lesson is rather that we might allow a few minutes of boredom to run their course before reaching for a screen, and ask what, if anything, the feeling is trying to tell us. Boredom is not a virtue. But it may be a messenger, and it seems unwise to silence it before it has had a chance to speak."
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "acad3-s3-g1",
+          "type": "ynng",
+          "range": [
+            28,
+            32
+          ],
+          "instructions": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "n": 28,
+              "text": "It is now easier than ever to put an end to boredom as soon as it begins.",
+              "answer": "YES",
+              "loc": "A",
+              "explanation": "Paragraph A: ‘it has never been easier to banish tedium the moment it appears’."
+            },
+            {
+              "n": 29,
+              "text": "Rehn’s findings have since been confirmed by other researchers.",
+              "answer": "NOT GIVEN",
+              "loc": "C",
+              "explanation": "The only repeat study mentioned (paragraph E) re-ran Faulkner’s Calderbridge procedure; the writer says nothing about anyone repeating Rehn’s research."
+            },
+            {
+              "n": 30,
+              "text": "Research has firmly established that boredom activates a brain network involved in self-reflection.",
+              "answer": "NO",
+              "loc": "D",
+              "explanation": "Paragraph D: the evidence ‘remains thin’ and the link is ‘an attractive hypothesis rather than an established fact’."
+            },
+            {
+              "n": 31,
+              "text": "In some occupations, boredom can put safety at risk.",
+              "answer": "YES",
+              "loc": "G",
+              "explanation": "In paragraph G the writer accepts the critics’ practical objection, agreeing that ‘in some jobs a bored worker is a dangerous one’."
+            },
+            {
+              "n": 32,
+              "text": "Schools should include lessons that are designed to make pupils feel bored.",
+              "answer": "NO",
+              "loc": "H",
+              "explanation": "Paragraph H: the writer does ‘not believe that schools should timetable “boredom lessons”’."
+            }
+          ]
+        },
+        {
+          "id": "acad3-s3-g2",
+          "type": "matching_endings",
+          "range": [
+            33,
+            36
+          ],
+          "instructions": "Complete each sentence with the correct ending, A–G, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "usually came from people who were free to end their own boredom at any time."
+            },
+            {
+              "key": "B",
+              "text": "remembered more of the information they had been given."
+            },
+            {
+              "key": "C",
+              "text": "turned out to be much smaller than had first been reported."
+            },
+            {
+              "key": "D",
+              "text": "gave the most imaginative responses in the creativity test."
+            },
+            {
+              "key": "E",
+              "text": "disappeared entirely when participants were allowed to use their phones."
+            },
+            {
+              "key": "F",
+              "text": "were more likely than usual to be reflecting on their future."
+            },
+            {
+              "key": "G",
+              "text": "felt more anxious than those who had worked on the puzzle."
+            }
+          ],
+          "questions": [
+            {
+              "n": 33,
+              "text": "In Faulkner’s experiments, the volunteers whose minds wandered most during the dull task",
+              "answer": "D",
+              "loc": "B",
+              "explanation": "Paragraph B: those whose minds wandered most ‘gave the most inventive answers of all’ in the creative-thinking test."
+            },
+            {
+              "n": 34,
+              "text": "At moments when they felt bored, the participants in Rehn’s study",
+              "answer": "F",
+              "loc": "C",
+              "explanation": "Paragraph C: when bored, participants were ‘considerably more likely than at other times’ to be thinking about their futures."
+            },
+            {
+              "n": 35,
+              "text": "When Nandakumar’s team repeated Faulkner’s procedure on a larger scale, the creative advantage of the bored group",
+              "answer": "C",
+              "loc": "E",
+              "explanation": "Paragraph E: the bored group’s advantage ‘was a fraction of that originally reported’. It shrank but did not disappear, so E is wrong."
+            },
+            {
+              "n": 36,
+              "text": "Abernethy suggested that praise for boredom",
+              "answer": "A",
+              "loc": "F",
+              "explanation": "Paragraph F: praise for boredom ‘tends to come from people who can end it whenever they wish’."
+            }
+          ]
+        },
+        {
+          "id": "acad3-s3-g3",
+          "type": "mcq",
+          "range": [
+            37,
+            40
+          ],
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 37,
+              "text": "Why does the writer mention the warning light on a car’s dashboard?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "to suggest that boredom is usually a sign of a serious problem"
+                },
+                {
+                  "key": "B",
+                  "text": "to show that boredom is very difficult to ignore"
+                },
+                {
+                  "key": "C",
+                  "text": "to illustrate Rehn’s view that boredom indicates a need for change"
+                },
+                {
+                  "key": "D",
+                  "text": "to question how reliable Rehn’s interpretation of his data is"
+                }
+              ],
+              "answer": "C",
+              "loc": "C",
+              "explanation": "Paragraph C: like the light, which ‘shows that something needs attention’, boredom tells us our activity ‘no longer serves our goals’. Nothing suggests a serious fault (A) or that boredom is hard to ignore (B), and Rehn is not challenged (D)."
+            },
+            {
+              "n": 38,
+              "text": "What do the critics in paragraph E say about the boredom produced in laboratory experiments?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It is unlike the long-lasting boredom that some people experience."
+                },
+                {
+                  "key": "B",
+                  "text": "It is too unpleasant for volunteers to tolerate for long."
+                },
+                {
+                  "key": "C",
+                  "text": "It is more likely to cause anxiety than creativity."
+                },
+                {
+                  "key": "D",
+                  "text": "It has a stronger effect on creativity than the original study suggested."
+                }
+              ],
+              "answer": "A",
+              "loc": "E",
+              "explanation": "Paragraph E: tracing circles ‘bears little resemblance to the chronic, inescapable boredom’ some people live with. Anxiety is linked to chronic boredom, not the laboratory task (C), and the repeat study found a smaller effect, not a stronger one (D)."
+            },
+            {
+              "n": 39,
+              "text": "What is the writer’s view of the critics’ objections?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "They exaggerate the harm caused by chronic boredom."
+                },
+                {
+                  "key": "B",
+                  "text": "They rely on studies that are too small to be reliable."
+                },
+                {
+                  "key": "C",
+                  "text": "They show that the case for boredom should be abandoned."
+                },
+                {
+                  "key": "D",
+                  "text": "They are mostly aimed at a position that careful defenders of boredom do not hold."
+                }
+              ],
+              "answer": "D",
+              "loc": "G",
+              "explanation": "Paragraph G: the critics are ‘largely answering a claim’ that careful defenders ‘do not make’. The writer still defends brief boredom (C), calls chronic boredom ‘undoubtedly harmful’ (A), and the critics’ own study was large (B)."
+            },
+            {
+              "n": 40,
+              "text": "What is the writer’s main purpose in the passage?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "to describe the findings of one influential experiment"
+                },
+                {
+                  "key": "B",
+                  "text": "to argue that we should be slower to escape from ordinary boredom"
+                },
+                {
+                  "key": "C",
+                  "text": "to warn readers about the psychological dangers of long-term boredom"
+                },
+                {
+                  "key": "D",
+                  "text": "to explain how neuroscience has changed our understanding of boredom"
+                }
+              ],
+              "answer": "B",
+              "loc": "H",
+              "explanation": "After weighing the evidence and conceding the critics’ points, the writer concludes that we should let ‘a few minutes of boredom’ run their course before reaching for a screen. A, C and D describe only parts of the passage."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

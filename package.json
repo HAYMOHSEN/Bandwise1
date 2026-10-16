@@ -1,0 +1,15 @@
+{
+  "name": "bandwise",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Independent IELTS practice PWA with a local study coach and spaced mistake review.",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "test:browser": "node tests/browser-smoke.cjs",
+    "check": "node tests/check-source.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,731 @@
+{
+  "kind": "reading",
+  "id": "gen-1",
+  "module": "general",
+  "title": "General Training Reading — Test 1",
+  "sections": [
+    {
+      "n": 1,
+      "title": "Evening Courses and Library Changes",
+      "intro": "Read the texts below and answer Questions 1–14.",
+      "texts": [
+        {
+          "label": "A",
+          "heading": "Spanish for Beginners",
+          "subheading": "Tuesdays 7.00–9.00 pm; 12 weeks from 15 September; £165",
+          "paragraphs": [
+            {
+              "text": "Planning a trip to Spain, or simply fancy a new challenge? This relaxed course is for complete beginners, so no previous knowledge is needed. You will learn to introduce yourself, order food, ask for directions and chat about everyday topics. Classes are limited to fourteen students, and a course book is included in the fee. To celebrate the end of the course, the group will enjoy a meal together at a local tapas restaurant; please note that the cost of the meal is not covered by the course fee."
+            }
+          ]
+        },
+        {
+          "label": "B",
+          "heading": "Digital Photography: Getting Started",
+          "subheading": "Wednesdays 6.30–8.30 pm; 8 weeks from 16 September; £120",
+          "paragraphs": [
+            {
+              "text": "Want to take better pictures and stop relying on automatic settings? You will learn how to use light, composition and exposure, and how to edit your images on a computer. Please bring a digital camera with manual controls to every class; unfortunately, mobile phones are not suitable. Editing software is available on the college computers. At the end of the course, a selection of students' photographs will be displayed in the college entrance hall for a month."
+            }
+          ]
+        },
+        {
+          "label": "C",
+          "heading": "Bookkeeping for Small Businesses",
+          "subheading": "Mondays 6.00–9.00 pm; 10 weeks from 14 September; £210",
+          "paragraphs": [
+            {
+              "text": "Ideal if you run your own business or are thinking of starting one. You will learn how to record income and expenses, prepare simple accounts and keep the records you need for tax purposes. Classes take place in one of our computer suites, and every student receives a free one-year licence for a popular accounting program. The fee can be paid in full on enrolment or in three monthly instalments of £70. Students who complete all the weekly assignments will receive a college certificate."
+            }
+          ]
+        },
+        {
+          "label": "D",
+          "heading": "Writing Short Stories",
+          "subheading": "Thursdays 7.00–9.00 pm; 10 weeks from 17 September; £135",
+          "paragraphs": [
+            {
+              "text": "This course is for people who already write for pleasure and want to develop their skills. Each week focuses on a different aspect of the short story, such as character, dialogue or endings, and you will read your work aloud to the group for feedback. As places are limited, please include a sample of your writing (no more than 1,000 words) with your application. Classes are held at Wexley Arts Centre in Church Street, not at the college itself."
+            }
+          ]
+        },
+        {
+          "label": "E",
+          "heading": "Emergency First Aid",
+          "subheading": "Tuesday 6 and Thursday 8 October, 6.00–9.30 pm; £75",
+          "paragraphs": [
+            {
+              "text": "Would you know what to do if someone collapsed in front of you? On this practical course you will learn how to deal with common emergencies, such as choking, bleeding and burns, and how to perform CPR. All the equipment you need is provided. Everyone who passes a short practical test on the second evening will receive a certificate, which is valid for three years. Groups of four or more people booking together can claim a 10% discount."
+            }
+          ]
+        },
+        {
+          "heading": "Brackenford Libraries: Changes to Borrowing",
+          "subheading": "New rules from Monday 2 November",
+          "paragraphs": [
+            {
+              "text": "Following feedback from members, we are making several changes to the way borrowing works. The new rules will apply at all four Brackenford branch libraries."
+            },
+            {
+              "text": "Borrowing limits: Adult members will be able to borrow up to 16 items at a time, an increase from the current limit of 12. The limit for children's cards will stay at 8 items. Books may now be kept for four weeks instead of three, but DVDs and video games must still be returned within one week."
+            },
+            {
+              "text": "Renewals and reservations: Items can be renewed up to three times, online, by phone or in person, unless another member has reserved them. We are also pleased to announce that reservations will now be free; until now, members have paid 60p for each item reserved. When your reserved item is ready, we will let you know by text message or email, and it will be kept for you at the counter for seven days."
+            },
+            {
+              "text": "Late returns: Members under 18 will no longer be charged for returning items late. For adults, the daily charge for overdue items will remain the same, but the maximum charge for any single item will fall from £8 to £5."
+            },
+            {
+              "text": "Self-service: New self-service machines have been installed near the entrance of each branch. You can use them to borrow, return and renew items, and to pay any charges by debit or credit card. Please note that the machines do not accept cash. Staff will be on hand throughout November to show you how to use them."
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "gen1-s1-g1",
+          "type": "matching_info",
+          "range": [
+            1,
+            7
+          ],
+          "instructions": "Look at the five advertisements for evening courses at Wexley Community College, A–E. Answer Questions 1–7 by writing the correct letter, A–E. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Spanish for Beginners"
+            },
+            {
+              "key": "B",
+              "text": "Digital Photography: Getting Started"
+            },
+            {
+              "key": "C",
+              "text": "Bookkeeping for Small Businesses"
+            },
+            {
+              "key": "D",
+              "text": "Writing Short Stories"
+            },
+            {
+              "key": "E",
+              "text": "Emergency First Aid"
+            }
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "Which course requires students to bring their own equipment?",
+              "answer": "B",
+              "loc": "B",
+              "explanation": "Advert B tells students to \"bring a digital camera with manual controls to every class\". The other courses supply what is needed; Advert E, for example, says the equipment is provided."
+            },
+            {
+              "n": 2,
+              "text": "Which course has its classes in a building that is not part of the college?",
+              "answer": "D",
+              "loc": "D",
+              "explanation": "Advert D: classes are \"held at Wexley Arts Centre\" and \"not at the college itself\". The Spanish group's restaurant meal (A) is a celebration, not a class."
+            },
+            {
+              "n": 3,
+              "text": "Which course leads to a qualification that is only valid for a limited time?",
+              "answer": "E",
+              "loc": "E",
+              "explanation": "The first aid certificate \"is valid for three years\", so it expires. No time limit is given for the bookkeeping certificate (C)."
+            },
+            {
+              "n": 4,
+              "text": "Which course includes a social event that will cost students extra?",
+              "answer": "A",
+              "loc": "A",
+              "explanation": "The Spanish course ends with a restaurant meal, but \"the cost of the meal is not covered by the course fee\"."
+            },
+            {
+              "n": 5,
+              "text": "Which course allows students to spread the cost over a period of time?",
+              "answer": "C",
+              "loc": "C",
+              "explanation": "The bookkeeping fee can be paid \"in three monthly instalments of £70\". The group discount in Advert E lowers the price but does not spread the payments."
+            },
+            {
+              "n": 6,
+              "text": "Which course asks applicants to provide an example of their work?",
+              "answer": "D",
+              "loc": "D",
+              "explanation": "Applicants must \"include a sample of your writing\" with their application. The practical test in Advert E happens during the course, not before it."
+            },
+            {
+              "n": 7,
+              "text": "Which course ends with an exhibition of students' work?",
+              "answer": "B",
+              "loc": "B",
+              "explanation": "Students' photographs \"will be displayed in the college entrance hall for a month\". Writing students (D) only read their work aloud to their own group."
+            }
+          ]
+        },
+        {
+          "id": "gen1-s1-g2",
+          "type": "tfng",
+          "range": [
+            8,
+            14
+          ],
+          "instructions": "Do the following statements agree with the information given in the library notice? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "n": 8,
+              "text": "Adults will be allowed to take out more items at once than they can now.",
+              "answer": "TRUE",
+              "loc": "Brackenford Libraries: Changes to Borrowing",
+              "explanation": "Adults will be able to borrow \"up to 16 items at a time\", an increase from the current limit of 12."
+            },
+            {
+              "n": 9,
+              "text": "The loan period for DVDs is being extended.",
+              "answer": "FALSE",
+              "loc": "Brackenford Libraries: Changes to Borrowing",
+              "explanation": "Only books can be kept longer; DVDs \"must still be returned within one week\"."
+            },
+            {
+              "n": 10,
+              "text": "Reserving an item will no longer cost anything.",
+              "answer": "TRUE",
+              "loc": "Brackenford Libraries: Changes to Borrowing",
+              "explanation": "The notice says \"reservations will now be free\"; until now members paid 60p for each item reserved."
+            },
+            {
+              "n": 11,
+              "text": "Reserved items can be collected from any of the four branches.",
+              "answer": "NOT GIVEN",
+              "loc": "Brackenford Libraries: Changes to Borrowing",
+              "explanation": "Reserved items are \"kept for you at the counter for seven days\", but the notice does not say whether they can be collected from a different branch."
+            },
+            {
+              "n": 12,
+              "text": "The most an adult can be charged for one overdue item will be reduced.",
+              "answer": "TRUE",
+              "loc": "Brackenford Libraries: Changes to Borrowing",
+              "explanation": "The daily charge is unchanged, but the maximum charge for a single item \"will fall from £8 to £5\"."
+            },
+            {
+              "n": 13,
+              "text": "Members will need a new library card to use the self-service machines.",
+              "answer": "NOT GIVEN",
+              "loc": "Brackenford Libraries: Changes to Borrowing",
+              "explanation": "The notice explains what the machines can be used for but says nothing about library cards."
+            },
+            {
+              "n": 14,
+              "text": "Members can use coins and notes at the self-service machines.",
+              "answer": "FALSE",
+              "loc": "Brackenford Libraries: Changes to Borrowing",
+              "explanation": "Charges can be paid \"by debit or credit card\", and \"the machines do not accept cash\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Starting Work at Harlow Logistics",
+      "intro": "Read the texts below and answer Questions 15–27.",
+      "texts": [
+        {
+          "heading": "Your first week at Harlow Logistics",
+          "subheading": "Information for new warehouse and office staff",
+          "paragraphs": [
+            {
+              "text": "Welcome to Harlow Logistics. This guide explains what will happen during your first week, so that you know what to expect and what to bring with you. For the whole week you will be paired with an experienced colleague, known as your 'buddy', who will be happy to answer any everyday questions you may have."
+            },
+            {
+              "text": "Monday: Please arrive at 8.30 am and go to the main reception in Building 2, rather than the warehouse entrance. Your line manager will meet you there and show you around the site, and your photograph will be taken for your security pass, which must be worn at all times. Remember to bring your passport or driving licence and your bank details, as HR cannot add you to the payroll without them. In the afternoon, the IT team will set up your computer account."
+            },
+            {
+              "text": "Tuesday: The whole day is taken up by health and safety training. This is compulsory for all new employees, including office staff, as everyone needs to visit the warehouse at some point. Topics include fire procedures, safe lifting and how to move safely around forklift trucks. At the end of the day you will be given your safety boots and a high-visibility jacket."
+            },
+            {
+              "text": "Wednesday: You will spend the day working alongside your buddy. Warehouse staff will learn to use the handheld scanners that record the movement of every parcel, while office staff will be introduced to our customer database."
+            },
+            {
+              "text": "Thursday: In the morning you will meet a member of the HR team to discuss your pension, holiday entitlement and other benefits. In the afternoon you will return to your buddy, but you will be expected to carry out more tasks on your own."
+            },
+            {
+              "text": "Friday: Before you finish at 3 pm, you will have a meeting with your line manager to review your first week and agree your objectives for the six-month probation period. Please note that wages are paid monthly, on the last working day of each month."
+            }
+          ]
+        },
+        {
+          "heading": "Requesting flexible working",
+          "subheading": "A summary of company policy",
+          "paragraphs": [
+            {
+              "text": "Harlow Logistics recognises that many employees have responsibilities outside work, and we aim to help all staff achieve a healthy balance between work and home life. Every employee has the right to ask for a change to their working pattern, and every request will be considered fairly."
+            },
+            {
+              "text": "Several types of arrangement are possible. Part-time work involves reducing your weekly hours, while compressed hours allow you to work your full weekly hours over four days instead of five. With flexitime, you choose your own start and finish times, provided that you are at work during the core hours of 10 am to 3 pm. Two people may also share one full-time job. Working from home is only possible in office-based roles, since warehouse duties must be carried out on site."
+            },
+            {
+              "text": "To make a request, download form FW1 from the staff intranet and send the completed form to your line manager. Explain what change you would like, when you would like it to start and how you think it might affect your team. We recommend applying at least three months before you would like the change to begin."
+            },
+            {
+              "text": "Your manager will arrange a meeting with you within 14 days of receiving your form, and you may bring a colleague with you if you wish. Many new arrangements are first agreed for a trial period of three months, so that both you and the company can see how well they work in practice."
+            },
+            {
+              "text": "You will receive a written decision within two months of your request. A request may be refused for business reasons, for example if the extra costs would be too high or if the service we give our customers would suffer. If you disagree with the decision, you may appeal to the HR manager within 10 days."
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "gen1-s2-g1",
+          "type": "matching_features",
+          "range": [
+            15,
+            20
+          ],
+          "instructions": "Look at the following activities (Questions 15–20) and the list of days below. On which day of their first week will new staff do each activity? Write the correct letter, A–E. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Monday"
+            },
+            {
+              "key": "B",
+              "text": "Tuesday"
+            },
+            {
+              "key": "C",
+              "text": "Wednesday"
+            },
+            {
+              "key": "D",
+              "text": "Thursday"
+            },
+            {
+              "key": "E",
+              "text": "Friday"
+            }
+          ],
+          "questions": [
+            {
+              "n": 15,
+              "text": "receive clothing designed to protect them",
+              "answer": "B",
+              "loc": "Your first week at Harlow Logistics",
+              "explanation": "At the end of Tuesday's training, staff are \"given your safety boots and a high-visibility jacket\". Monday's security pass is not clothing."
+            },
+            {
+              "n": 16,
+              "text": "provide details that the company needs in order to pay them",
+              "answer": "A",
+              "loc": "Your first week at Harlow Logistics",
+              "explanation": "On Monday staff bring their bank details, as \"HR cannot add you to the payroll without them\". Thursday's HR meeting is about pensions, holidays and benefits."
+            },
+            {
+              "n": 17,
+              "text": "learn to use equipment that tracks parcels",
+              "answer": "C",
+              "loc": "Your first week at Harlow Logistics",
+              "explanation": "On Wednesday, warehouse staff learn to use \"the handheld scanners that record the movement of every parcel\". Tuesday's forklift session is about moving safely."
+            },
+            {
+              "n": 18,
+              "text": "find out about their holiday allowance",
+              "answer": "D",
+              "loc": "Your first week at Harlow Logistics",
+              "explanation": "On Thursday morning, staff meet HR \"to discuss your pension, holiday entitlement and other benefits\"."
+            },
+            {
+              "n": 19,
+              "text": "have a computer account created for them",
+              "answer": "A",
+              "loc": "Your first week at Harlow Logistics",
+              "explanation": "On Monday afternoon, \"the IT team will set up your computer account\". Being introduced to the customer database on Wednesday is a different activity."
+            },
+            {
+              "n": 20,
+              "text": "agree targets for the months ahead",
+              "answer": "E",
+              "loc": "Your first week at Harlow Logistics",
+              "explanation": "On Friday, staff meet their line manager to \"agree your objectives for the six-month probation period\"."
+            }
+          ]
+        },
+        {
+          "id": "gen1-s2-g2",
+          "type": "sentence_completion",
+          "range": [
+            21,
+            23
+          ],
+          "instructions": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
+          "limit": "NO MORE THAN TWO WORDS",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Staff who would like to do their normal weekly hours in four days rather than five can ask for ____.",
+              "answer": "compressed hours",
+              "loc": "Requesting flexible working",
+              "explanation": "Compressed hours \"allow you to work your full weekly hours over four days\". Part-time work reduces the number of hours instead."
+            },
+            {
+              "n": 22,
+              "text": "Staff on flexitime can decide when to start and finish work, as long as they are present during the ____.",
+              "answer": "core hours",
+              "loc": "Requesting flexible working",
+              "explanation": "With flexitime you choose your own times, \"provided that you are at work during the core hours\" of 10 am to 3 pm."
+            },
+            {
+              "n": 23,
+              "text": "Working from home is only available to employees in ____ roles.",
+              "answer": "office-based",
+              "loc": "Requesting flexible working",
+              "explanation": "Home working \"is only possible in office-based roles\", because warehouse work must be done on site.",
+              "accept": [
+                "office based"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "gen1-s2-g3",
+          "type": "note_completion",
+          "range": [
+            24,
+            27
+          ],
+          "instructions": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the text for each answer.",
+          "limit": "ONE WORD AND/OR A NUMBER",
+          "title": "How to request flexible working",
+          "template": "# Applying\n- get form FW1 from the staff {{24}}\n- send it to your line manager at least three months before the change\n# What happens next\n- a meeting within 14 days: you may bring a {{25}} with you\n- many arrangements are first agreed for a {{26}} period of three months\n- written decision within two months\n- appeals: to the HR manager within {{27}} days",
+          "questions": [
+            {
+              "n": 24,
+              "text": "",
+              "answer": "intranet",
+              "loc": "Requesting flexible working",
+              "explanation": "Staff should \"download form FW1 from the staff intranet\" and send it to their line manager."
+            },
+            {
+              "n": 25,
+              "text": "",
+              "answer": "colleague",
+              "loc": "Requesting flexible working",
+              "explanation": "At the meeting with the manager, \"you may bring a colleague with you if you wish\"."
+            },
+            {
+              "n": 26,
+              "text": "",
+              "answer": "trial",
+              "loc": "Requesting flexible working",
+              "explanation": "Many new arrangements \"are first agreed for a trial period of three months\", so both sides can see how they work."
+            },
+            {
+              "n": 27,
+              "text": "",
+              "answer": "10",
+              "loc": "Requesting flexible working",
+              "explanation": "Staff \"may appeal to the HR manager within 10 days\". The figure of 14 days refers to arranging the meeting.",
+              "accept": [
+                "ten"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The Return of the Repair Shop",
+      "intro": "Read the text below and answer Questions 28–40.",
+      "texts": [
+        {
+          "heading": "The Return of the Repair Shop",
+          "subheading": "Repair cafés, campaigners and the economics of fixing things",
+          "paragraphs": [
+            {
+              "text": "On the first Saturday of every month, the hall beside St Barnabas Church in the market town of Wrenfield fills with an unusual collection of objects: lamps that no longer light, toasters that refuse to pop up, vacuum cleaners that have lost their suction and coats with broken zips. Their owners queue at a reception table, describe the fault and are then sent to one of a dozen volunteers sitting at long tables covered in tools. Wrenfield Repair Café was set up four years ago by Ruth Abara, a retired electrical engineer, and now deals with around sixty items each session. 'Roughly two-thirds of what comes through the door leaves working,' she says. 'But people don't just drop things off and wait. We ask them to sit beside the volunteer and help, so that next time they may be able to do the job themselves.'",
+              "label": "A"
+            },
+            {
+              "text": "Repair cafés like this one, an idea that began in the Netherlands in the late 2000s, can now be found in towns and cities across the world. In part, they exist because the professional repairer has almost vanished. Fifty years ago, most British high streets had a shoe mender, a watch repairer and a shop that would fix a television or a radio. Graham Oduya, who has run an electrical repair business in the nearby town of Kesterton since 1991, once employed four technicians. Today he works alone, and he earns more from selling reconditioned second-hand appliances than from repairs. 'People still bring things in,' he says, 'but when I tell them what it will cost, a lot of them decide to buy a new one instead. Honestly, I can't blame them.'",
+              "label": "B"
+            },
+            {
+              "text": "Economists explain this shift by pointing to two trends that have moved in opposite directions. Over recent decades, the price of many manufactured goods has fallen sharply in real terms, thanks to automated factories and global supply chains. Meanwhile, the cost of skilled labour in wealthy countries has risen. Repair, by its nature, depends on labour: it cannot be done on a production line, and every fault is slightly different. Dr Nadia Fenwick, an economist at Ashcombe University who studies household spending, calculates that a basic new microwave oven now costs roughly the same as one hour of a qualified technician's time. 'Once you add the price of a spare part, the decision more or less makes itself,' she says. Her surveys suggest that most people will only pay for a repair if it costs less than about a third of the price of a replacement.",
+              "label": "C"
+            },
+            {
+              "text": "Cost is not the only obstacle. Repairers say that many modern products are increasingly difficult even to open. Batteries are glued in place rather than held with screws, cases are sealed, and some manufacturers use unusual screws that can only be removed with special tools. Spare parts may be unavailable or sold only to approved repairers, and repair manuals are often kept confidential. In some electronic devices, a replacement part will not work properly until the manufacturer's software has approved it. Manufacturers argue that these features make products thinner, lighter and more resistant to water and dust, and that repairs carried out by untrained people could be unsafe. Critics accept some of these points, but suspect that the real aim is often to encourage customers to buy new models.",
+              "label": "D"
+            },
+            {
+              "text": "This suspicion lies behind the right-to-repair movement. Campaign groups such as the Longer Life Alliance, a coalition of repair organisations and environmental charities, have spent years putting pressure on governments, and their efforts are starting to pay off. In a number of countries, rules now require manufacturers of certain household appliances, including washing machines and fridges, to keep spare parts available for several years after a model stops being sold, and to design products so that certain parts can be replaced using ordinary tools. Similar measures are being introduced or discussed for phones and laptops. The Alliance's director, Owen Prideaux, welcomes the changes but remains cautious. 'It's a start,' he says, 'but the rules cover only a small range of products, and a spare part is no use to anyone if it costs more than the product itself.'",
+              "label": "E"
+            },
+            {
+              "text": "Supporters of repair argue that its value cannot be measured in money alone. For many electronic devices, such as phones and laptops, most of the carbon emissions linked to their whole lifetime are produced when they are made rather than when they are used, so keeping an existing device working is often better for the environment than replacing it with a more efficient new model. Repair cafés also bring people together: Abara says that many visitors come as much for the conversation as for the fixing. Perhaps most importantly, they keep practical skills alive. Most of Wrenfield's volunteers are over sixty, so this year Abara has invited students from the local college to work alongside them. 'If we don't pass on what we know,' she says, 'it will simply disappear.'",
+              "label": "F"
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "gen1-s3-g1",
+          "type": "matching_headings",
+          "range": [
+            28,
+            33
+          ],
+          "instructions": "The text 'The Return of the Repair Shop' has six paragraphs, A–F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i–ix.",
+          "options": [
+            {
+              "key": "i",
+              "text": "The growing market for second-hand appliances"
+            },
+            {
+              "key": "ii",
+              "text": "Why replacing an item often costs less than mending it"
+            },
+            {
+              "key": "iii",
+              "text": "Reasons to repair that have nothing to do with price"
+            },
+            {
+              "key": "iv",
+              "text": "A monthly event where owners help to fix their own belongings"
+            },
+            {
+              "key": "v",
+              "text": "How repair cafés are funded"
+            },
+            {
+              "key": "vi",
+              "text": "Why many modern products are hard to mend"
+            },
+            {
+              "key": "vii",
+              "text": "The decline of a once-familiar trade"
+            },
+            {
+              "key": "viii",
+              "text": "Manufacturers offer longer guarantees"
+            },
+            {
+              "key": "ix",
+              "text": "Campaigners start to change the rules"
+            }
+          ],
+          "questions": [
+            {
+              "n": 28,
+              "text": "Paragraph A",
+              "answer": "iv",
+              "loc": "A",
+              "explanation": "Paragraph A describes a typical session at Wrenfield Repair Café, where owners are asked to \"sit beside the volunteer and help\". Funding (v) is never mentioned."
+            },
+            {
+              "n": 29,
+              "text": "Paragraph B",
+              "answer": "vii",
+              "loc": "B",
+              "explanation": "Paragraph B explains that \"the professional repairer has almost vanished\" from the high street. Oduya's second-hand sales (i) are only a supporting detail."
+            },
+            {
+              "n": 30,
+              "text": "Paragraph C",
+              "answer": "ii",
+              "loc": "C",
+              "explanation": "Paragraph C explains how falling prices for goods and rising labour costs mean that buying new is often cheaper than paying for a repair."
+            },
+            {
+              "n": 31,
+              "text": "Paragraph D",
+              "answer": "vi",
+              "loc": "D",
+              "explanation": "Paragraph D lists glued batteries, sealed cases, unusual screws and restricted parts and manuals, all of which make repair harder. Guarantees (viii) are never mentioned."
+            },
+            {
+              "n": 32,
+              "text": "Paragraph E",
+              "answer": "ix",
+              "loc": "E",
+              "explanation": "Paragraph E describes how campaign groups put pressure on governments, leading to new rules on spare parts and repairable design."
+            },
+            {
+              "n": 33,
+              "text": "Paragraph F",
+              "answer": "iii",
+              "loc": "F",
+              "explanation": "Paragraph F argues that the value of repair \"cannot be measured in money alone\", citing the environment, community and the passing on of skills. Second-hand sales (i) belong to Paragraph B."
+            }
+          ]
+        },
+        {
+          "id": "gen1-s3-g2",
+          "type": "summary_wordbank",
+          "range": [
+            34,
+            37
+          ],
+          "instructions": "Complete the summary using the list of words, A–H, below. Write the correct letter, A–H.",
+          "title": "Why repair became less common",
+          "template": "Economists link the decline of repair to two long-term trends. Over recent decades, the real price of many factory-made goods has {{34}}, while in wealthy countries skilled workers have become more expensive to employ. Repair depends heavily on human labour: it cannot be done on a production line, and no two {{35}} are exactly alike. Dr Fenwick's surveys indicate that people are usually prepared to pay for a repair only if it costs less than roughly a {{36}} of the price of a new item. Repairers must also deal with products whose cases are {{37}} and which sometimes need special tools to open.",
+          "options": [
+            {
+              "key": "A",
+              "text": "increased"
+            },
+            {
+              "key": "B",
+              "text": "faults"
+            },
+            {
+              "key": "C",
+              "text": "half"
+            },
+            {
+              "key": "D",
+              "text": "sealed"
+            },
+            {
+              "key": "E",
+              "text": "dropped"
+            },
+            {
+              "key": "F",
+              "text": "third"
+            },
+            {
+              "key": "G",
+              "text": "customers"
+            },
+            {
+              "key": "H",
+              "text": "fragile"
+            }
+          ],
+          "questions": [
+            {
+              "n": 34,
+              "text": "",
+              "answer": "E",
+              "loc": "C",
+              "explanation": "Paragraph C: the price of many manufactured goods \"has fallen sharply in real terms\". It is the cost of skilled labour that has increased (A)."
+            },
+            {
+              "n": 35,
+              "text": "",
+              "answer": "B",
+              "loc": "C",
+              "explanation": "Paragraph C: repair depends on labour, and \"every fault is slightly different\". Nothing is said about customers (G) being different."
+            },
+            {
+              "n": 36,
+              "text": "",
+              "answer": "F",
+              "loc": "C",
+              "explanation": "Most people will only pay for a repair \"if it costs less than about a third\" of the price of a replacement."
+            },
+            {
+              "n": 37,
+              "text": "",
+              "answer": "D",
+              "loc": "D",
+              "explanation": "Paragraph D: batteries are glued in place and \"cases are sealed\". Nothing is said about cases being fragile."
+            }
+          ]
+        },
+        {
+          "id": "gen1-s3-g3",
+          "type": "mcq",
+          "range": [
+            38,
+            40
+          ],
+          "instructions": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 38,
+              "text": "What does Ruth Abara expect people who bring items to the repair café to do?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "pay a small charge for each item they bring"
+                },
+                {
+                  "key": "B",
+                  "text": "help with the repair of their own item"
+                },
+                {
+                  "key": "C",
+                  "text": "leave their item with a volunteer and collect it later"
+                },
+                {
+                  "key": "D",
+                  "text": "bring only items that use electricity"
+                }
+              ],
+              "answer": "B",
+              "loc": "A",
+              "explanation": "Abara says \"We ask them to sit beside the volunteer and help\". C is wrong because owners stay and take part; D is wrong because coats are brought in too."
+            },
+            {
+              "n": 39,
+              "text": "How does Graham Oduya feel about customers who buy new goods instead of paying for a repair?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "He is disappointed that they do not value his skills."
+                },
+                {
+                  "key": "B",
+                  "text": "He believes that they will regret it later."
+                },
+                {
+                  "key": "C",
+                  "text": "He tries to persuade them to change their minds."
+                },
+                {
+                  "key": "D",
+                  "text": "He understands why they make that decision."
+                }
+              ],
+              "answer": "D",
+              "loc": "B",
+              "explanation": "Oduya says \"Honestly, I can't blame them\", which shows that he understands their choice. He shows no disappointment (A), predicts no regret (B) and does not try to persuade them (C)."
+            },
+            {
+              "n": 40,
+              "text": "What is Owen Prideaux's opinion of the new right-to-repair rules?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "They have had little effect on manufacturers."
+                },
+                {
+                  "key": "B",
+                  "text": "They should not apply to household appliances."
+                },
+                {
+                  "key": "C",
+                  "text": "They are a positive step but are too limited."
+                },
+                {
+                  "key": "D",
+                  "text": "They have caused the price of spare parts to rise."
+                }
+              ],
+              "answer": "C",
+              "loc": "E",
+              "explanation": "Prideaux says \"It's a start\" but complains that \"the rules cover only a small range of products\". He does not say the rules have raised prices (D)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

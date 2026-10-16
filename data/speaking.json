@@ -1,0 +1,826 @@
+{
+  "kind": "speaking",
+  "part1": [
+    {
+      "topic": "Your home town",
+      "questions": [
+        "Which town or city do you come from?",
+        "What is your home town best known for?",
+        "How has your home town changed since you were a child?",
+        "What would you recommend a visitor to see there?",
+        "Would you like to live there in the future? Why or why not?"
+      ]
+    },
+    {
+      "topic": "Work or studies",
+      "questions": [
+        "Are you working at the moment, or are you studying?",
+        "Why did you choose this job or this subject?",
+        "What do you enjoy most about it?",
+        "Is there anything you find difficult about it?",
+        "What would you like to be doing in five years' time?"
+      ]
+    },
+    {
+      "topic": "Accommodation",
+      "questions": [
+        "Do you live in a house or a flat?",
+        "Which room do you spend most of your time in? Why?",
+        "What do you like about the area where you live?",
+        "Is there anything you would like to change about your home?",
+        "Do you think you will move in the next few years?"
+      ]
+    },
+    {
+      "topic": "Daily routine",
+      "questions": [
+        "What is the first thing you do after you wake up?",
+        "Which part of the day do you enjoy most? Why?",
+        "Is your routine at the weekend very different from your weekday routine?",
+        "Have you changed your daily routine recently?",
+        "Do you think it is important to have a fixed routine?"
+      ]
+    },
+    {
+      "topic": "Weekends",
+      "questions": [
+        "How do you usually spend your weekends?",
+        "Do you prefer busy weekends or relaxing ones?",
+        "What did you do last weekend?",
+        "Do you ever have to work or study at the weekend?",
+        "Are weekends more enjoyable now than when you were a child?"
+      ]
+    },
+    {
+      "topic": "Hobbies",
+      "questions": [
+        "What do you like to do in your free time?",
+        "How long have you had this hobby?",
+        "Do you prefer hobbies you can do alone or with other people?",
+        "Did you have the same hobbies when you were younger?",
+        "Is there a hobby you would like to take up in the future?"
+      ]
+    },
+    {
+      "topic": "Food",
+      "questions": [
+        "What kind of food do you eat most often?",
+        "Is there any food you disliked as a child but enjoy now?",
+        "Do you prefer eating at home or eating out?",
+        "What is a typical dish from your region?",
+        "Have your eating habits changed in recent years?"
+      ]
+    },
+    {
+      "topic": "Cooking",
+      "questions": [
+        "Do you enjoy cooking? Why or why not?",
+        "Who does most of the cooking in your home?",
+        "What was the first dish you learnt to cook?",
+        "Do you ever watch cooking programmes or videos?",
+        "Do you think everyone should learn how to cook?"
+      ]
+    },
+    {
+      "topic": "Weather",
+      "questions": [
+        "What is the weather usually like where you live?",
+        "What kind of weather do you like best?",
+        "Does the weather affect your mood?",
+        "Do you check the weather forecast every day?",
+        "Has the weather in your country changed in recent years?"
+      ]
+    },
+    {
+      "topic": "Transport",
+      "questions": [
+        "How do you usually travel to work or to your place of study?",
+        "Is public transport good in your area?",
+        "Do you prefer travelling by car or by public transport?",
+        "Did you travel in the same way when you were a child?",
+        "How could transport in your town or city be improved?"
+      ]
+    },
+    {
+      "topic": "Music",
+      "questions": [
+        "What kind of music do you usually listen to?",
+        "At what times of day do you listen to music?",
+        "Have you ever learnt to play a musical instrument?",
+        "Do you prefer listening to music alone or with other people?",
+        "Has your taste in music changed as you have got older?"
+      ]
+    },
+    {
+      "topic": "Reading",
+      "questions": [
+        "Do you read much in your free time?",
+        "What kinds of things do you like to read?",
+        "Do you prefer printed books or reading on a screen?",
+        "What did you like to read when you were a child?",
+        "Is there a book you would like to read again?"
+      ]
+    },
+    {
+      "topic": "Sport",
+      "questions": [
+        "Do you play any sports?",
+        "Which sports are most popular in your country?",
+        "Did you do much sport at school?",
+        "Do you prefer playing sport or watching it?",
+        "Is there a sport you would like to try in the future?"
+      ]
+    },
+    {
+      "topic": "Friends",
+      "questions": [
+        "How often do you see your friends?",
+        "What do you usually do when you meet up?",
+        "Did you meet most of your friends at school or later in life?",
+        "Do you prefer having a few close friends or a large group of friends?",
+        "Is it easy to make new friends where you live?"
+      ]
+    },
+    {
+      "topic": "Shopping",
+      "questions": [
+        "Do you enjoy shopping? Why or why not?",
+        "Do you prefer shopping online or in shops?",
+        "Is there a shop in your area that you particularly like?",
+        "Do you ever buy things you do not really need?",
+        "Who did the shopping in your family when you were a child?"
+      ]
+    },
+    {
+      "topic": "Technology",
+      "questions": [
+        "Which piece of technology do you use most often?",
+        "Is there a device you would find it hard to live without?",
+        "Are you usually quick to buy new gadgets?",
+        "What was the first electronic device you owned?",
+        "Has technology made your life easier or more complicated?"
+      ]
+    },
+    {
+      "topic": "The internet",
+      "questions": [
+        "How much time do you spend online each day?",
+        "What do you mainly use the internet for?",
+        "When did you first start using the internet?",
+        "Do you think you spend too much time online?",
+        "Is there anything you prefer to do offline?"
+      ]
+    },
+    {
+      "topic": "Holidays",
+      "questions": [
+        "Where did you go on your last holiday?",
+        "Do you prefer holidays by the sea or in the countryside?",
+        "Who do you usually go on holiday with?",
+        "Do you like to plan your holidays in detail?",
+        "What did you do on holiday when you were a child?"
+      ]
+    },
+    {
+      "topic": "Celebrations",
+      "questions": [
+        "What is the most important celebration in your country?",
+        "How do you usually celebrate your birthday?",
+        "Do you prefer big parties or small gatherings?",
+        "What was the last celebration you went to?",
+        "Have the ways people celebrate changed in your country?"
+      ]
+    },
+    {
+      "topic": "Neighbours",
+      "questions": [
+        "Do you know your neighbours well?",
+        "How often do you speak to them?",
+        "Have your neighbours ever helped you?",
+        "What makes someone a good neighbour?",
+        "Do people in your country usually get to know their neighbours?"
+      ]
+    },
+    {
+      "topic": "Plants",
+      "questions": [
+        "Do you have any plants in your home?",
+        "Have you ever grown your own fruit or vegetables?",
+        "Are there many trees and green spaces where you live?",
+        "Would you like to have a garden in the future?"
+      ]
+    },
+    {
+      "topic": "Art",
+      "questions": [
+        "Do you like looking at paintings or other works of art?",
+        "Did you enjoy art lessons when you were at school?",
+        "Do you have any pictures or posters on the walls at home?",
+        "When did you last visit an art gallery or exhibition?",
+        "Would you like to learn to paint or draw?"
+      ]
+    },
+    {
+      "topic": "Photography",
+      "questions": [
+        "Do you take a lot of photographs?",
+        "What do you usually take photos of?",
+        "Do you prefer taking photos with a phone or a camera?",
+        "Do you ever print your photos?",
+        "Do you like being in photos yourself?"
+      ]
+    },
+    {
+      "topic": "Clothes",
+      "questions": [
+        "What kind of clothes do you usually wear?",
+        "Do you wear different clothes at the weekend?",
+        "Do you pay much attention to fashion?",
+        "Is there an item of clothing you have had for a long time?",
+        "Do people in your country still wear traditional clothes?"
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "id": "s2-1",
+      "topic": "People",
+      "cue": "Describe a person who taught you a practical skill outside school.",
+      "points": [
+        "who this person is",
+        "what skill they taught you",
+        "how they taught you"
+      ],
+      "explain": "and explain how this skill has been useful to you.",
+      "roundOff": "Do you still use this skill today?",
+      "part3": [
+        "What practical skills do children in your country usually learn at home?",
+        "Are some skills better learnt from family members than from professional teachers?",
+        "Do you think young people today have fewer practical skills than their grandparents did?",
+        "How has the internet changed the way people learn new skills?",
+        "Should schools give practical skills the same importance as academic subjects?"
+      ],
+      "sample": "I'm going to talk about a man called Mr Halloran, who lived two doors down from us when I was about thirteen. He was a retired engineer, and his garage was always full of bits of bicycles – old frames hanging from the ceiling, boxes of gears, that kind of thing.\n\nThe skill he taught me was how to repair and look after a bike. It actually started by accident. I got a puncture right outside his house, and instead of just fixing it for me, he handed me the tools and talked me through it. After that, I'd pop round most Saturday mornings, and over a couple of years he showed me how to adjust brakes, replace a chain and straighten a wheel.\n\nWhat I really appreciated was the way he taught. He never took over, even when I was obviously making a mess of things. He'd just ask questions like, 'So what do you think that spring is for?' until I worked it out for myself. To be honest, it drove me mad at the time, but it meant I genuinely understood what I was doing rather than just copying him.\n\nAs for how it's been useful – well, I cycle to university every day, so it saves me quite a bit of money, because I hardly ever need to take my bike to a shop. More importantly, though, it gave me the confidence to have a go at fixing other things, like a dripping tap, instead of immediately calling someone. So I'd say he taught me far more than just how to fix bikes."
+    },
+    {
+      "id": "s2-2",
+      "topic": "People",
+      "cue": "Describe someone you know who stays calm in difficult situations.",
+      "points": [
+        "who this person is",
+        "how you know them",
+        "a situation in which they stayed calm"
+      ],
+      "explain": "and explain what you have learnt from this person.",
+      "roundOff": "Would you describe yourself as a calm person?",
+      "part3": [
+        "What kinds of jobs require people to stay calm under pressure?",
+        "How do people in your country usually deal with stress?",
+        "Do you think life today is more stressful than it was in the past?",
+        "Can people learn to control their emotions, or is this mainly a matter of personality?",
+        "To what extent should employers be responsible for their employees' mental well-being?"
+      ]
+    },
+    {
+      "id": "s2-3",
+      "topic": "People",
+      "cue": "Describe a person who started a successful business or project in your area.",
+      "points": [
+        "who this person is",
+        "what they started",
+        "when and how they started it",
+        "how it has affected the local area"
+      ],
+      "explain": "and explain what you think of this person.",
+      "roundOff": "Would you like to start your own business one day?",
+      "part3": [
+        "What kinds of small businesses are common where you live?",
+        "Why do some people prefer working for themselves to working for a company?",
+        "What personal qualities does someone need to run a successful business?",
+        "Should governments give financial help to people who want to start a business?",
+        "How do large international companies affect small local businesses?"
+      ]
+    },
+    {
+      "id": "s2-4",
+      "topic": "People",
+      "cue": "Describe a friend who has a very different personality from yours.",
+      "points": [
+        "who this friend is",
+        "how you met",
+        "in what ways your personalities are different"
+      ],
+      "explain": "and explain why you get on well despite these differences.",
+      "roundOff": "Do you think you have influenced each other?",
+      "part3": [
+        "What qualities do people in your country look for in a friend?",
+        "Is it easier to make friends as a child or as an adult?",
+        "Do you agree that people with opposite personalities often get on well together?",
+        "How has social media changed the nature of friendship?",
+        "Why do some friendships last a lifetime while others gradually fade away?"
+      ]
+    },
+    {
+      "id": "s2-5",
+      "topic": "People",
+      "cue": "Describe a sportsperson, musician or other performer whose attitude you admire.",
+      "points": [
+        "who this person is",
+        "what they are known for",
+        "how you first found out about them"
+      ],
+      "explain": "and explain why you admire their attitude.",
+      "roundOff": "Have you ever seen this person perform live?",
+      "part3": [
+        "What kinds of famous people do young people in your country admire most?",
+        "Why do so many people follow the private lives of celebrities?",
+        "Do famous people have a responsibility to set a good example?",
+        "How has social media changed the relationship between famous people and the public?",
+        "Does fame bring more benefits or more problems to the people who achieve it?"
+      ]
+    },
+    {
+      "id": "s2-6",
+      "topic": "Places",
+      "cue": "Describe a street or neighbourhood you know that has changed a lot in recent years.",
+      "points": [
+        "where it is",
+        "what it used to be like",
+        "how it has changed"
+      ],
+      "explain": "and explain whether you think the changes have been positive.",
+      "roundOff": "Do you spend more or less time there now?",
+      "part3": [
+        "What kinds of changes have taken place in towns and cities in your country?",
+        "Why are old buildings sometimes knocked down rather than restored?",
+        "Should historic buildings always be protected, even if nobody uses them?",
+        "Who should have the most influence on how a city develops: the government, businesses or residents?",
+        "How do you think cities in your country will change over the next twenty years?"
+      ]
+    },
+    {
+      "id": "s2-7",
+      "topic": "Places",
+      "cue": "Describe a place near water, such as a river, a lake or the sea, where you enjoy spending time.",
+      "points": [
+        "where it is",
+        "how you get there",
+        "what you do there"
+      ],
+      "explain": "and explain why you enjoy spending time there.",
+      "roundOff": "Do you prefer the sea, or rivers and lakes?",
+      "part3": [
+        "What outdoor activities are popular in your country?",
+        "Why do so many people want to live near water?",
+        "Do children today spend enough time outdoors?",
+        "How can cities give their residents better access to nature?",
+        "Whose responsibility is it to protect rivers and coastlines: governments, businesses or individuals?"
+      ],
+      "sample": "I'd like to talk about a spot by the river just outside my home town. Locals call it Willow Bend, because the river curves sharply there and the banks are lined with these enormous old willow trees.\n\nIt's only about fifteen minutes from my flat by bike. You follow a cycle path along the edge of some fields, and then, quite suddenly, the noise of the traffic disappears and all you can hear is the water and the birds.\n\nWhat I do there really depends on the season. In summer, I usually go with a couple of friends in the early evening, once it's a bit cooler. We take some food, sit on the grass and sometimes paddle in the shallow part, although the water's freezing even in July. In winter, I tend to go on my own, usually on a Sunday morning, just to walk along the bank and clear my head. I often take a book, but to be honest I rarely read much of it – I end up just watching the water.\n\nAs for why I enjoy it so much, I think it's mainly the contrast with the rest of my week. I spend most of my time in front of a screen, either studying or working, and being by the water seems to slow everything down. It's hard to put into words, but I always come back feeling calmer and better able to concentrate. It's also full of memories for me, because my dad used to take me fishing there when I was small, so in a way it feels like part of my childhood."
+    },
+    {
+      "id": "s2-8",
+      "topic": "Places",
+      "cue": "Describe a well-designed public building that you have visited, such as a library, a station or a museum.",
+      "points": [
+        "what the building is and where it is",
+        "what it looks like",
+        "how people use it"
+      ],
+      "explain": "and explain why you think it is well designed.",
+      "roundOff": "Would you be interested in studying architecture?",
+      "part3": [
+        "What makes a public building pleasant to spend time in?",
+        "How are modern buildings in your country different from older ones?",
+        "Should public buildings be beautiful, or is it enough for them to be practical?",
+        "Why do some cities spend huge sums of money on landmark buildings?",
+        "How important is it for new buildings to be environmentally friendly?"
+      ]
+    },
+    {
+      "id": "s2-9",
+      "topic": "Places",
+      "cue": "Describe a small town or village you have visited and enjoyed.",
+      "points": [
+        "where it is",
+        "when and why you went there",
+        "what you saw or did there"
+      ],
+      "explain": "and explain what made the place enjoyable.",
+      "roundOff": "Would you like to live in a place like that?",
+      "part3": [
+        "Why do people from cities like to visit small towns and villages?",
+        "What are the advantages of growing up in a small community?",
+        "Why do many young people leave rural areas to live in big cities?",
+        "What could be done to encourage young people to stay in the countryside?",
+        "Do you think villages will gradually disappear in the future?"
+      ]
+    },
+    {
+      "id": "s2-10",
+      "topic": "Places",
+      "cue": "Describe a market, shop or café in your area that is popular with local people.",
+      "points": [
+        "what it is and where it is",
+        "what it sells",
+        "what kind of people go there"
+      ],
+      "explain": "and explain why you think it is so popular.",
+      "roundOff": "How often do you go there yourself?",
+      "part3": [
+        "What kinds of shops are most popular with young people in your country?",
+        "Why do some people still prefer markets to supermarkets?",
+        "How has online shopping affected town centres?",
+        "Should local councils take action to protect small independent shops?",
+        "Do you think shopping in physical stores will eventually disappear?"
+      ]
+    },
+    {
+      "id": "s2-11",
+      "topic": "Objects",
+      "cue": "Describe a household appliance or tool that makes your daily life easier.",
+      "points": [
+        "what it is",
+        "when and how you got it",
+        "how often you use it"
+      ],
+      "explain": "and explain how your life would be different without it.",
+      "roundOff": "Would you recommend it to other people?",
+      "part3": [
+        "Which household appliances are found in most homes in your country?",
+        "How have machines in the home changed family life?",
+        "Do people rely too much on machines these days?",
+        "Why do some people always want the latest version of a product?",
+        "How do you think homes will be different in thirty years' time?"
+      ]
+    },
+    {
+      "id": "s2-12",
+      "topic": "Objects",
+      "cue": "Describe something you repaired, or had repaired, instead of replacing it.",
+      "points": [
+        "what the item was",
+        "what was wrong with it",
+        "who repaired it and how"
+      ],
+      "explain": "and explain why you decided to repair it rather than buy a new one.",
+      "roundOff": "Are you good at fixing things yourself?",
+      "part3": [
+        "Do people in your country usually repair things or throw them away?",
+        "Why are many modern products difficult or expensive to repair?",
+        "Should manufacturers be required to make products that last longer?",
+        "Are young people more wasteful than older generations?",
+        "What can governments do to reduce the amount of waste people produce?"
+      ],
+      "sample": "I'd like to talk about a pair of leather walking boots that I had repaired last winter, instead of throwing them away.\n\nI bought them about six years ago, just before a hiking trip, and they were quite expensive – probably the most I'd ever spent on shoes. I've worn them on almost every walk since then, so they've been through a lot: mud, snow, rocky paths, you name it. Last year, though, the sole on the left boot started coming away at the front, and water was getting in, which isn't ideal when you're halfway up a hill in the rain.\n\nMy first instinct was just to buy a new pair, but a friend told me about a tiny shoe-repair shop near the station, run by an elderly man who's apparently been doing the job for about forty years. I took them in, and he replaced both soles, restitched a couple of seams and even polished the leather. It took about a week and cost roughly a third of the price of new boots.\n\nSo why did I repair them? Well, money was the obvious reason, but there was more to it than that. Boots like that take ages to break in, and these fitted my feet perfectly, so I didn't want to start all over again. I also feel slightly guilty about how much we throw away these days, and it seemed wasteful to get rid of something that was basically still in good condition. And honestly, I'm quite attached to them – they've been with me on some of my best trips, so keeping them felt a bit like holding on to an old friend."
+    },
+    {
+      "id": "s2-13",
+      "topic": "Objects",
+      "cue": "Describe a handmade object that you own or that you have given to someone.",
+      "points": [
+        "what the object is",
+        "who made it",
+        "how you came to own it or give it"
+      ],
+      "explain": "and explain why it is special to you.",
+      "roundOff": "Do you make things by hand yourself?",
+      "part3": [
+        "What traditional crafts are there in your country?",
+        "Why are handmade goods often more expensive than factory-made ones?",
+        "Do people value handmade gifts more than gifts bought in shops?",
+        "Should schools teach practical crafts such as woodwork and sewing?",
+        "Do you think machines will one day replace craftspeople completely?"
+      ]
+    },
+    {
+      "id": "s2-14",
+      "topic": "Objects",
+      "cue": "Describe a present you spent a long time choosing for someone.",
+      "points": [
+        "who the present was for",
+        "what it was",
+        "why it took so long to choose",
+        "where you finally found it"
+      ],
+      "explain": "and explain how the person reacted when they received it.",
+      "roundOff": "Do you enjoy choosing presents for people?",
+      "part3": [
+        "On what occasions do people give presents in your country?",
+        "Is it better to give money or a present? Why?",
+        "How has online shopping changed the way people give gifts?",
+        "Do you think people spend too much money on presents nowadays?",
+        "Why do you think giving gifts is important in almost every culture?"
+      ]
+    },
+    {
+      "id": "s2-15",
+      "topic": "Events",
+      "cue": "Describe a sports event you watched, either live or on a screen.",
+      "points": [
+        "what the event was",
+        "where and when it took place",
+        "who you watched it with"
+      ],
+      "explain": "and explain why it was memorable.",
+      "roundOff": "Do you prefer watching sport live or on screen?",
+      "part3": [
+        "Which sports attract the biggest audiences in your country?",
+        "Why do people enjoy watching sport so much?",
+        "Are professional athletes paid too much?",
+        "Do major international sports events bring real benefits to the countries that host them?",
+        "How has technology changed the way people watch and experience sport?"
+      ]
+    },
+    {
+      "id": "s2-16",
+      "topic": "Events",
+      "cue": "Describe an occasion when many people from your community came together.",
+      "points": [
+        "what the occasion was",
+        "when and where it happened",
+        "what people did",
+        "what part you played in it"
+      ],
+      "explain": "and explain how you felt about taking part.",
+      "roundOff": "Would you like to help organise an event like this?",
+      "part3": [
+        "What kinds of community events take place where you live?",
+        "Why do fewer people seem to know their neighbours than in the past?",
+        "What can local authorities do to bring people in a community together?",
+        "Do public celebrations help to strengthen a sense of national identity?",
+        "Should traditional celebrations stay the same, or should they adapt to modern life?"
+      ]
+    },
+    {
+      "id": "s2-17",
+      "topic": "Events",
+      "cue": "Describe a ceremony that marked an important stage in your life.",
+      "points": [
+        "what the ceremony was",
+        "when and where it took place",
+        "who was there"
+      ],
+      "explain": "and explain why it was important to you.",
+      "roundOff": "Do you have photographs of the occasion?",
+      "part3": [
+        "What important ceremonies do people in your country have?",
+        "Why do people celebrate achievements such as graduating from university?",
+        "Are ceremonies becoming less formal than they used to be?",
+        "Some people say that large ceremonies are a waste of money. What do you think?",
+        "Why do you think societies have always marked major life events with ceremonies?"
+      ],
+      "sample": "The ceremony I'm going to talk about is my graduation from university, which was about two years ago now, in early July.\n\nIt took place in the university's main hall, which is a beautiful old building with a high painted ceiling and wood-panelled walls. There must have been around four hundred graduates there that day, all in black gowns and mortarboards, which never seem to stay on properly.\n\nMy parents came, of course, along with my grandmother, who'd travelled for nearly five hours to be there, which meant a lot to me. A couple of my closest friends were graduating at the same time, so we sat together and kept making each other laugh during the speeches, which probably wasn't very respectful!\n\nThe ceremony itself was quite formal. The head of the university gave a speech, and then each of us had to walk across the stage when our name was read out, shake hands and collect our certificate. I remember being terrified that I'd trip on the steps in front of everyone.\n\nAs for why it was so important to me – well, I was the first person in my family to go to university, so it didn't feel like my achievement alone. It felt as if it belonged to my parents as well, because they'd made a lot of sacrifices to support me. Seeing my dad, who isn't usually an emotional person, wiping his eyes is something I'll never forget. It also marked the end of a really happy chapter of my life and the start of working life, so I'd say it was a strange mixture of pride and sadness."
+    },
+    {
+      "id": "s2-18",
+      "topic": "Events",
+      "cue": "Describe a talk or lecture you attended that you found interesting.",
+      "points": [
+        "who gave the talk",
+        "what it was about",
+        "where and when you heard it"
+      ],
+      "explain": "and explain why you found it interesting.",
+      "roundOff": "Have you ever given a talk yourself?",
+      "part3": [
+        "Why are many people nervous about speaking in public?",
+        "What makes a speaker interesting to listen to?",
+        "Is it better to learn from lectures or from reading?",
+        "Should public speaking be taught as a subject in schools?",
+        "Do you think online talks will ever completely replace lectures given in person?"
+      ]
+    },
+    {
+      "id": "s2-19",
+      "topic": "Experiences",
+      "cue": "Describe a time when you changed your opinion of someone after getting to know them.",
+      "points": [
+        "who the person was",
+        "what your first impression of them was",
+        "how you got to know them better"
+      ],
+      "explain": "and explain why your opinion changed.",
+      "roundOff": "Do you usually trust your first impressions?",
+      "part3": [
+        "Why do people form first impressions of others so quickly?",
+        "How important are first impressions in a job interview?",
+        "Do people judge others too much by their appearance?",
+        "Can social media give a false impression of what people are really like?",
+        "Why do people often find it hard to change their minds, even when they are wrong?"
+      ]
+    },
+    {
+      "id": "s2-20",
+      "topic": "Experiences",
+      "cue": "Describe a mistake you made that taught you something important.",
+      "points": [
+        "what the mistake was",
+        "when it happened",
+        "what the consequences were"
+      ],
+      "explain": "and explain what you learnt from it.",
+      "roundOff": "Do you think you would ever make the same mistake again?",
+      "part3": [
+        "How do parents in your country usually react when their children make mistakes?",
+        "Is it important for children to be allowed to fail sometimes?",
+        "Do schools focus too much on getting the right answer?",
+        "Why are some people so afraid of failure?",
+        "Can societies, like individuals, learn from their mistakes?"
+      ]
+    },
+    {
+      "id": "s2-21",
+      "topic": "Experiences",
+      "cue": "Describe the first time you tried an activity that turned out to be harder than you expected.",
+      "points": [
+        "what the activity was",
+        "when and where you tried it",
+        "who you were with",
+        "why it was difficult"
+      ],
+      "explain": "and explain how you felt about the experience afterwards.",
+      "roundOff": "Would you try it again?",
+      "part3": [
+        "What new activities are popular with people in your country at the moment?",
+        "Why do some people enjoy trying new things while others avoid them?",
+        "Are young people more willing to take risks than older people?",
+        "Is it ever too late to learn something completely new?",
+        "How does stepping outside your comfort zone help a person to develop?"
+      ]
+    },
+    {
+      "id": "s2-22",
+      "topic": "Experiences",
+      "cue": "Describe a journey that took much longer than you expected.",
+      "points": [
+        "where you were going",
+        "how you were travelling",
+        "what caused the delay"
+      ],
+      "explain": "and explain how you felt during the journey.",
+      "roundOff": "Do you usually plan your journeys carefully?",
+      "part3": [
+        "What are the most common causes of travel delays in your country?",
+        "How do people usually pass the time on long journeys?",
+        "Should transport companies compensate passengers when services are late?",
+        "Do people today travel more than they really need to?",
+        "How do you think the way people travel will change in the future?"
+      ],
+      "sample": "I'm going to describe a journey I made about three years ago, when I was going to the coast to visit an old school friend who'd just moved there.\n\nThe plan couldn't have been simpler. I was going by train, on a direct line, so it should have taken just under three hours. I'd booked an early train so that we'd have the whole afternoon to explore the town.\n\nThings started going wrong about an hour into the journey. The train stopped in the middle of nowhere, and after about twenty minutes the driver announced that a tree had come down across the line in a storm the night before. We sat there for nearly two hours, and eventually we were taken back to the previous station and put on a replacement bus. Then, of course, the bus got stuck in heavy traffic, because everyone else was trying to get round the same problem. In the end, I arrived at about eight in the evening – almost nine hours after I'd set off.\n\nHow did I feel? Well, at first I was fairly relaxed, because I had a book and some snacks. But by the time we were on the bus, I was getting really frustrated, especially as my phone battery was almost dead and I couldn't keep my friend updated. That said, looking back, it wasn't all bad. I got chatting to an elderly couple sitting next to me, who were hilarious, and they even shared their sandwiches with me. So it's turned into one of those stories I actually enjoy telling, even though I certainly didn't enjoy living through it!"
+    },
+    {
+      "id": "s2-23",
+      "topic": "Experiences",
+      "cue": "Describe a project you completed with other people that you are proud of.",
+      "points": [
+        "what the project was",
+        "who you worked with",
+        "what your role was"
+      ],
+      "explain": "and explain why you are proud of what you achieved.",
+      "roundOff": "Do you generally prefer working alone or in a team?",
+      "part3": [
+        "What kinds of group projects do students in your country do?",
+        "What makes someone a good team member?",
+        "Why do some people prefer to work alone?",
+        "Does every team need a leader?",
+        "How has technology changed the way people work together?"
+      ]
+    },
+    {
+      "id": "s2-24",
+      "topic": "Media",
+      "cue": "Describe a documentary or educational programme that changed the way you think about something.",
+      "points": [
+        "what it was called and what it was about",
+        "when and where you watched it",
+        "what you learnt from it"
+      ],
+      "explain": "and explain how it changed your thinking.",
+      "roundOff": "Would you watch it again?",
+      "part3": [
+        "What kinds of television programmes are popular in your country?",
+        "Are documentaries a good way to learn about the world?",
+        "Are young people more influenced by television or by online videos?",
+        "Should governments control what is shown on television and online?",
+        "How might entertainment change over the next ten years?"
+      ]
+    },
+    {
+      "id": "s2-25",
+      "topic": "Media",
+      "cue": "Describe a podcast, radio programme or online channel that you follow regularly.",
+      "points": [
+        "what it is called and what it is about",
+        "how you came across it",
+        "when you usually listen to it or watch it"
+      ],
+      "explain": "and explain why you keep following it.",
+      "roundOff": "Have you recommended it to anyone?",
+      "part3": [
+        "Why have podcasts become so popular in recent years?",
+        "Do people in your country still listen to the radio?",
+        "Is it a good thing that people now get information from individual content creators rather than from news organisations?",
+        "Should people who spread false information online be punished?",
+        "How has the media people consume changed over the past twenty years?"
+      ],
+      "sample": "I'd like to talk about a podcast I've been listening to for about two years now. It's called Next Door, Far Away, and it's presented by two former teachers who travel to different countries and talk to ordinary people about their daily lives – farmers, bus drivers, students, that sort of thing.\n\nEach episode is around forty minutes long and focuses on one place. So one week they might be in a fishing village, and the next they'll be following a nurse on a night shift in a big city. What makes it different from a typical travel programme is that they hardly ever mention tourist attractions. It's much more about how people live, what worries them and what they hope for.\n\nI actually came across it by chance. I was on a long coach journey and I'd run out of things to listen to, so I just picked something from the recommended list – and ended up listening to four episodes in a row!\n\nThese days I usually listen while I'm cooking or on my way to work, so it fits neatly into my routine and never feels like a waste of time.\n\nThe main reason I keep following it is that it's so human. You hear people's real voices, and you realise that people in completely different situations have a lot in common. It's also done wonders for my listening skills, because the presenters have quite different accents, and they explain things clearly without oversimplifying them. I've recommended it to quite a few friends, and most of them are hooked now as well."
+    },
+    {
+      "id": "s2-26",
+      "topic": "Media",
+      "cue": "Describe a news story about science or nature that caught your interest.",
+      "points": [
+        "what the story was about",
+        "where you heard or read about it",
+        "how other people reacted to it"
+      ],
+      "explain": "and explain why it caught your interest.",
+      "roundOff": "Do you usually follow science news?",
+      "part3": [
+        "How do people in your country usually find out about the news?",
+        "Why does the media focus so much on bad news?",
+        "Should news programmes include more stories about science?",
+        "How can ordinary people judge whether a news report is reliable?",
+        "Do you think scientists have a duty to explain their work to the public?"
+      ]
+    },
+    {
+      "id": "s2-27",
+      "topic": "Media",
+      "cue": "Describe a song or piece of music that reminds you of a particular time in your life.",
+      "points": [
+        "what the music is",
+        "when you first heard it",
+        "what was happening in your life at that time"
+      ],
+      "explain": "and explain why it brings back memories for you.",
+      "roundOff": "How often do you listen to it now?",
+      "part3": [
+        "What kinds of music are popular with different age groups in your country?",
+        "Why do you think music brings back memories so strongly?",
+        "Should all children have the opportunity to learn a musical instrument?",
+        "How has streaming changed the music industry?",
+        "Is traditional music in danger of disappearing in the modern world?"
+      ]
+    },
+    {
+      "id": "s2-28",
+      "topic": "Plans",
+      "cue": "Describe a change you would like to make to your daily routine.",
+      "points": [
+        "what the change is",
+        "why you want to make it",
+        "what has stopped you from making it so far"
+      ],
+      "explain": "and explain how this change would affect your life.",
+      "roundOff": "When do you think you will make this change?",
+      "part3": [
+        "Do people in your country generally have healthy daily routines?",
+        "Why do many people find it hard to change their habits?",
+        "Is it better to make big changes all at once or small changes gradually?",
+        "Why do people often make resolutions at the start of a new year?",
+        "Do you think working hours will become more flexible in the future?"
+      ]
+    },
+    {
+      "id": "s2-29",
+      "topic": "Plans",
+      "cue": "Describe something you are saving up for, or would like to save up for.",
+      "points": [
+        "what it is",
+        "how long you have been saving, or would need to save",
+        "how you are saving, or plan to save, the money"
+      ],
+      "explain": "and explain why it is important to you.",
+      "roundOff": "Do you find it easy to save money?",
+      "part3": [
+        "Do children in your country usually receive pocket money?",
+        "Do young people in your country know how to manage money?",
+        "Should financial skills be taught in schools?",
+        "How have digital payments changed the way people spend money?",
+        "Is it better to save money for the future or to enjoy spending it now?"
+      ]
+    },
+    {
+      "id": "s2-30",
+      "topic": "Plans",
+      "cue": "Describe a celebration or event you would like to organise for someone.",
+      "points": [
+        "who it would be for",
+        "what kind of event it would be",
+        "what you would need to prepare"
+      ],
+      "explain": "and explain why you would like to organise it.",
+      "roundOff": "Have you ever organised an event like this before?",
+      "part3": [
+        "What kinds of events do people in your country organise for family members?",
+        "Is it better to organise a party yourself or to pay a company to do it?",
+        "Why do some people dislike surprise parties?",
+        "Have celebrations become too commercial in recent years?",
+        "Why are celebrations important for families and communities?"
+      ]
+    }
+  ]
+}

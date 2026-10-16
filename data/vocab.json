@@ -1,0 +1,4279 @@
+{
+ "kind": "vocab",
+ "topics": [
+  {
+   "id": "environment",
+   "name": "Environment",
+   "ar": "البيئة",
+   "words": [
+    {
+     "w": "deforestation",
+     "pos": "noun",
+     "def": "the clearing of trees from a large area of forest, usually for farming, timber or building",
+     "ex": "In many tropical regions, deforestation is driven less by logging than by the clearing of land for cattle and plantation crops.",
+     "col": [
+      "large-scale deforestation",
+      "halt deforestation",
+      "rates of deforestation"
+     ],
+     "ar": "إزالة الغابات"
+    },
+    {
+     "w": "biodiversity",
+     "pos": "noun",
+     "def": "the variety of plants and animals living in a particular place or on the planet as a whole",
+     "ex": "Protecting wetlands can be one of the most cost-effective ways of preserving biodiversity.",
+     "col": [
+      "loss of biodiversity",
+      "preserve biodiversity",
+      "rich biodiversity"
+     ],
+     "ar": "التنوع البيولوجي"
+    },
+    {
+     "w": "emissions",
+     "pos": "noun",
+     "def": "gases or other substances released into the air, especially by vehicles, factories and power stations",
+     "ex": "Unless emissions from heavy industry are curbed, national climate targets will remain out of reach.",
+     "col": [
+      "carbon emissions",
+      "cut emissions",
+      "greenhouse gas emissions"
+     ],
+     "ar": "الانبعاثات"
+    },
+    {
+     "w": "renewable energy",
+     "pos": "noun",
+     "def": "energy from sources that are naturally replaced, such as sunlight, wind and flowing water",
+     "ex": "Governments could accelerate the shift to renewable energy by phasing out subsidies for coal and oil.",
+     "col": [
+      "invest in renewable energy",
+      "renewable energy sources",
+      "a transition to renewable energy"
+     ],
+     "ar": "الطاقة المتجددة"
+    },
+    {
+     "w": "sustainable",
+     "pos": "adjective",
+     "def": "able to continue for a long time without damaging the environment or using up natural resources",
+     "ex": "A sustainable fishing industry depends on strict limits on how much can be caught each season.",
+     "col": [
+      "sustainable development",
+      "environmentally sustainable",
+      "sustainable practices"
+     ],
+     "ar": "مُستدام"
+    },
+    {
+     "w": "carbon footprint",
+     "pos": "noun",
+     "def": "the total amount of carbon dioxide produced by the activities of a person, organisation or product",
+     "ex": "Choosing locally grown food is one practical way for households to reduce their carbon footprint.",
+     "col": [
+      "reduce your carbon footprint",
+      "a large carbon footprint",
+      "calculate the carbon footprint of"
+     ],
+     "ar": "البصمة الكربونية"
+    },
+    {
+     "w": "depletion",
+     "pos": "noun",
+     "def": "the reduction of a resource to such a low level that very little of it remains",
+     "ex": "The rapid depletion of groundwater has forced farmers in some arid regions to abandon their land.",
+     "col": [
+      "resource depletion",
+      "ozone depletion",
+      "the depletion of fish stocks"
+     ],
+     "ar": "استنزاف (الموارد)"
+    },
+    {
+     "w": "contaminate",
+     "pos": "verb",
+     "def": "to make water, soil, air or food dirty or harmful by adding a dangerous substance",
+     "ex": "Chemical run-off from farms can contaminate rivers that supply drinking water to entire towns.",
+     "col": [
+      "contaminate water supplies",
+      "heavily contaminated",
+      "contaminated soil"
+     ],
+     "ar": "يُلوِّث"
+    },
+    {
+     "w": "mitigate",
+     "pos": "verb",
+     "def": "to make something harmful less severe or less serious",
+     "ex": "Planting trees along city streets can help mitigate the effects of extreme summer heat.",
+     "col": [
+      "mitigate the impact of",
+      "mitigate climate change",
+      "mitigate risks"
+     ],
+     "ar": "يُخفِّف من حدّة"
+    },
+    {
+     "w": "ecosystem",
+     "pos": "noun",
+     "def": "all the living things in an area together with their surroundings, seen as a system in which each part depends on the others",
+     "ex": "The arrival of a single invasive species can disrupt an entire ecosystem.",
+     "col": [
+      "a fragile ecosystem",
+      "marine ecosystems",
+      "disrupt an ecosystem"
+     ],
+     "ar": "النظام البيئي"
+    },
+    {
+     "w": "endangered species",
+     "pos": "noun",
+     "def": "a type of animal or plant that is at serious risk of disappearing completely",
+     "ex": "Strict bans on the ivory trade have given some endangered species a chance to recover.",
+     "col": [
+      "protect endangered species",
+      "critically endangered species",
+      "a list of endangered species"
+     ],
+     "ar": "الأنواع المهدَّدة بالانقراض"
+    },
+    {
+     "w": "habitat",
+     "pos": "noun",
+     "def": "the natural home or surroundings of a particular animal or plant",
+     "ex": "As coastal developments expand, many seabirds are losing the habitats they rely on for nesting.",
+     "col": [
+      "natural habitat",
+      "habitat loss",
+      "destroy habitats"
+     ],
+     "ar": "الموطن الطبيعي"
+    },
+    {
+     "w": "fossil fuels",
+     "pos": "noun",
+     "def": "fuels such as coal, oil and gas, formed underground over millions of years from the remains of plants and animals",
+     "ex": "Countries that depend heavily on fossil fuels face difficult choices as global demand begins to shift.",
+     "col": [
+      "burn fossil fuels",
+      "dependence on fossil fuels",
+      "phase out fossil fuels"
+     ],
+     "ar": "الوقود الأحفوري"
+    },
+    {
+     "w": "irreversible",
+     "pos": "adjective",
+     "def": "impossible to change back to an earlier condition",
+     "ex": "Scientists warn that some of the damage to coral reefs may already be irreversible.",
+     "col": [
+      "irreversible damage",
+      "irreversible decline",
+      "largely irreversible"
+     ],
+     "ar": "لا رجعةَ فيه / يتعذّر إصلاحه"
+    },
+    {
+     "w": "conservation",
+     "pos": "noun",
+     "def": "the protection of plants, animals, natural areas and resources from damage or loss",
+     "ex": "Conservation projects tend to succeed when local communities share in their benefits.",
+     "col": [
+      "wildlife conservation",
+      "conservation efforts",
+      "energy conservation"
+     ],
+     "ar": "صون الطبيعة والحفاظ على مواردها"
+    },
+    {
+     "w": "landfill",
+     "pos": "noun",
+     "def": "a large site where rubbish is buried under the ground, or this method of getting rid of waste",
+     "ex": "Much of the packaging thrown away each year ends up in landfill, where it may take centuries to break down.",
+     "col": [
+      "landfill sites",
+      "send waste to landfill",
+      "divert waste from landfill"
+     ],
+     "ar": "مَطمَر النفايات"
+    },
+    {
+     "w": "desertification",
+     "pos": "noun",
+     "def": "the process by which fertile land gradually turns into desert, often because of drought, overgrazing or tree loss",
+     "ex": "Desertification threatens the livelihoods of millions of people who depend on small-scale farming.",
+     "col": [
+      "combat desertification",
+      "the spread of desertification",
+      "vulnerable to desertification"
+     ],
+     "ar": "التصحُّر"
+    },
+    {
+     "w": "biodegradable",
+     "pos": "adjective",
+     "def": "able to be broken down naturally by bacteria into harmless substances",
+     "ex": "Switching to biodegradable packaging would ease the pressure on overflowing waste sites.",
+     "col": [
+      "biodegradable packaging",
+      "biodegradable materials",
+      "fully biodegradable"
+     ],
+     "ar": "قابل للتحلل الحيوي"
+    },
+    {
+     "w": "curb",
+     "pos": "verb",
+     "def": "to control or limit something, especially something harmful",
+     "ex": "Higher taxes on single-use plastics have helped curb their consumption in several countries.",
+     "col": [
+      "curb pollution",
+      "curb emissions",
+      "curb consumption"
+     ],
+     "ar": "يحدّ من / يكبح"
+    },
+    {
+     "w": "exacerbate",
+     "pos": "verb",
+     "def": "to make a problem, situation or condition worse",
+     "ex": "Paving over green spaces can exacerbate flooding because rainwater has nowhere to drain.",
+     "col": [
+      "exacerbate the problem",
+      "further exacerbate",
+      "exacerbate flooding"
+     ],
+     "ar": "يُفاقِم"
+    }
+   ]
+  },
+  {
+   "id": "education",
+   "name": "Education",
+   "ar": "التعليم",
+   "words": [
+    {
+     "w": "curriculum",
+     "pos": "noun",
+     "def": "the subjects and content that are taught in a school, college or course",
+     "ex": "Many educators argue that the school curriculum should include practical skills such as managing personal finances.",
+     "col": [
+      "the national curriculum",
+      "a broad curriculum",
+      "overhaul the curriculum"
+     ],
+     "ar": "المنهاج الدراسي"
+    },
+    {
+     "w": "rote learning",
+     "pos": "noun",
+     "def": "learning information by repeating it until it is memorised, often without really understanding it",
+     "ex": "Systems that rely heavily on rote learning may produce good exam results but weak problem-solvers.",
+     "col": [
+      "rely on rote learning",
+      "rote learning methods",
+      "move away from rote learning"
+     ],
+     "ar": "التعلّم بالحفظ والتلقين"
+    },
+    {
+     "w": "critical thinking",
+     "pos": "noun",
+     "def": "the ability to examine information and arguments carefully and reach your own reasoned judgement",
+     "ex": "Structured debates encourage critical thinking because students must evaluate opposing views.",
+     "col": [
+      "develop critical thinking",
+      "critical thinking skills",
+      "foster critical thinking"
+     ],
+     "ar": "التفكير النقدي"
+    },
+    {
+     "w": "tertiary education",
+     "pos": "noun",
+     "def": "education at university or college level, after secondary school",
+     "ex": "Expanding access to tertiary education has not always led to better job prospects for graduates.",
+     "col": [
+      "access to tertiary education",
+      "tertiary education institutions",
+      "fund tertiary education"
+     ],
+     "ar": "التعليم العالي (الجامعي)"
+    },
+    {
+     "w": "vocational",
+     "pos": "adjective",
+     "def": "relating to the practical skills and training needed for a particular job or trade",
+     "ex": "Vocational courses in fields such as plumbing and electronics offer a reliable route into skilled employment.",
+     "col": [
+      "vocational training",
+      "vocational qualifications",
+      "vocational courses"
+     ],
+     "ar": "مِهني"
+    },
+    {
+     "w": "literacy",
+     "pos": "noun",
+     "def": "the ability to read and write; also basic knowledge and skill in a particular area",
+     "ex": "Adult literacy programmes can transform the economic prospects of entire communities.",
+     "col": [
+      "literacy rates",
+      "digital literacy",
+      "improve literacy"
+     ],
+     "ar": "الإلمام بالقراءة والكتابة"
+    },
+    {
+     "w": "tuition fees",
+     "pos": "noun",
+     "def": "the money paid to a school, college or university for teaching",
+     "ex": "Rising tuition fees may discourage talented students from low-income families from applying to university.",
+     "col": [
+      "pay tuition fees",
+      "abolish tuition fees",
+      "rising tuition fees"
+     ],
+     "ar": "الرسوم الدراسية"
+    },
+    {
+     "w": "academic achievement",
+     "pos": "noun",
+     "def": "how well a student performs in their studies, usually measured by grades and qualifications",
+     "ex": "Many studies link parental involvement with higher academic achievement.",
+     "col": [
+      "raise academic achievement",
+      "high academic achievement",
+      "measure academic achievement"
+     ],
+     "ar": "التحصيل الدراسي"
+    },
+    {
+     "w": "compulsory",
+     "pos": "adjective",
+     "def": "required by law or by a rule; not optional",
+     "ex": "Making a second language compulsory in primary schools would prepare children for an international job market.",
+     "col": [
+      "compulsory education",
+      "a compulsory subject",
+      "make something compulsory"
+     ],
+     "ar": "إلزامي"
+    },
+    {
+     "w": "pedagogy",
+     "pos": "noun",
+     "def": "the methods and theory of teaching",
+     "ex": "Effective pedagogy involves adapting explanations to the needs of individual learners.",
+     "col": [
+      "modern pedagogy",
+      "student-centred pedagogy",
+      "a shift in pedagogy"
+     ],
+     "ar": "علم أصول التدريس (البيداغوجيا)"
+    },
+    {
+     "w": "distance learning",
+     "pos": "noun",
+     "def": "studying from home or elsewhere, with lessons delivered online instead of in a classroom",
+     "ex": "Distance learning allows working adults to gain qualifications without giving up their jobs.",
+     "col": [
+      "distance learning courses",
+      "opt for distance learning",
+      "study via distance learning"
+     ],
+     "ar": "التعلّم عن بُعد"
+    },
+    {
+     "w": "extracurricular",
+     "pos": "adjective",
+     "def": "describing activities such as sport, music or clubs that students take part in outside their normal lessons",
+     "ex": "Extracurricular activities help pupils build confidence and teamwork skills that exams cannot measure.",
+     "col": [
+      "extracurricular activities",
+      "take part in extracurricular activities"
+     ],
+     "ar": "لاصفّي (خارج المنهاج)"
+    },
+    {
+     "w": "standardised testing",
+     "pos": "noun",
+     "def": "giving students the same exams, marked in the same way, so that results can be compared across schools or regions",
+     "ex": "Critics claim that standardised testing encourages teachers to focus narrowly on exam technique.",
+     "col": [
+      "rely on standardised testing",
+      "the pressures of standardised testing"
+     ],
+     "ar": "الاختبارات المعيارية الموحّدة"
+    },
+    {
+     "w": "drop out",
+     "pos": "phrasal verb",
+     "def": "to leave school, college or a course before finishing it",
+     "ex": "Financial hardship is one of the main reasons why students drop out of university.",
+     "col": [
+      "drop out of school",
+      "the drop-out rate",
+      "be at risk of dropping out"
+     ],
+     "ar": "يترك الدراسة قبل إتمامها (يتسرّب)"
+    },
+    {
+     "w": "mentor",
+     "pos": "noun",
+     "def": "an experienced person who advises and supports a less experienced one over a period of time",
+     "ex": "Pairing newly qualified teachers with a mentor can reduce the number who leave the profession early.",
+     "col": [
+      "act as a mentor",
+      "a mentoring scheme",
+      "an experienced mentor"
+     ],
+     "ar": "مُرشِد / موجِّه"
+    },
+    {
+     "w": "lifelong learning",
+     "pos": "noun",
+     "def": "continuing to gain new knowledge and skills throughout your life, not only at school",
+     "ex": "In a rapidly changing job market, lifelong learning is no longer optional.",
+     "col": [
+      "promote lifelong learning",
+      "a culture of lifelong learning",
+      "lifelong learning opportunities"
+     ],
+     "ar": "التعلّم مدى الحياة"
+    },
+    {
+     "w": "assessment",
+     "pos": "noun",
+     "def": "the process of judging a student's knowledge, skills or progress",
+     "ex": "Supporters of continuous assessment argue that it gives a fairer picture of ability than a single final examination.",
+     "col": [
+      "continuous assessment",
+      "formal assessment",
+      "assessment methods"
+     ],
+     "ar": "التقييم"
+    },
+    {
+     "w": "inclusive",
+     "pos": "adjective",
+     "def": "designed so that everyone, including students with disabilities or learning difficulties, can take part fully",
+     "ex": "Inclusive classrooms require smaller groups and well-trained support staff.",
+     "col": [
+      "inclusive education",
+      "a more inclusive approach",
+      "socially inclusive"
+     ],
+     "ar": "دامِج (يشمل الجميع)"
+    },
+    {
+     "w": "scholarship",
+     "pos": "noun",
+     "def": "money given to a student, usually because of their ability or financial need, to help pay for their education",
+     "ex": "Generous scholarships can make elite universities accessible to students from disadvantaged backgrounds.",
+     "col": [
+      "award a scholarship",
+      "a full scholarship",
+      "study on a scholarship"
+     ],
+     "ar": "منحة دراسية"
+    },
+    {
+     "w": "well-rounded",
+     "pos": "adjective",
+     "def": "having a wide range of skills, knowledge and experience rather than strength in only one area",
+     "ex": "Schools should aim to produce well-rounded individuals rather than simply high scorers.",
+     "col": [
+      "a well-rounded education",
+      "well-rounded individuals"
+     ],
+     "ar": "متكامل الجوانب"
+    }
+   ]
+  },
+  {
+   "id": "technology",
+   "name": "Technology",
+   "ar": "التكنولوجيا",
+   "words": [
+    {
+     "w": "automation",
+     "pos": "noun",
+     "def": "the use of machines and computer systems to do work that was previously done by people",
+     "ex": "Automation has raised productivity in manufacturing but has also eliminated many routine jobs.",
+     "col": [
+      "increased automation",
+      "the impact of automation",
+      "workplace automation"
+     ],
+     "ar": "الأتمتة"
+    },
+    {
+     "w": "artificial intelligence",
+     "pos": "noun",
+     "def": "computer systems that can perform tasks normally requiring human intelligence, such as recognising speech or making decisions",
+     "ex": "Artificial intelligence is already being used to detect fraud in banking transactions.",
+     "col": [
+      "advances in artificial intelligence",
+      "AI-powered tools",
+      "harness artificial intelligence"
+     ],
+     "ar": "الذكاء الاصطناعي"
+    },
+    {
+     "w": "cutting-edge",
+     "pos": "adjective",
+     "def": "the newest and most advanced",
+     "ex": "Hospitals with cutting-edge equipment can diagnose conditions far earlier than before.",
+     "col": [
+      "cutting-edge technology",
+      "cutting-edge research"
+     ],
+     "ar": "متطوّر للغاية (من أحدث ما توصّلت إليه التقنية)"
+    },
+    {
+     "w": "obsolete",
+     "pos": "adjective",
+     "def": "no longer used because something newer and better has replaced it",
+     "ex": "Many skills that were valuable twenty years ago have become obsolete.",
+     "col": [
+      "become obsolete",
+      "render something obsolete",
+      "technologically obsolete"
+     ],
+     "ar": "مُتقادِم / عفا عليه الزمن"
+    },
+    {
+     "w": "digital divide",
+     "pos": "noun",
+     "def": "the gap between people who have easy access to computers and the internet and those who do not",
+     "ex": "Online schooling during emergencies has highlighted the digital divide between rich and poor households.",
+     "col": [
+      "bridge the digital divide",
+      "widen the digital divide"
+     ],
+     "ar": "الفجوة الرقمية"
+    },
+    {
+     "w": "cybersecurity",
+     "pos": "noun",
+     "def": "the protection of computer systems, networks and data from attack, damage or theft",
+     "ex": "As more services move online, investment in cybersecurity has become a national priority.",
+     "col": [
+      "cybersecurity threats",
+      "strengthen cybersecurity",
+      "cybersecurity measures"
+     ],
+     "ar": "الأمن السيبراني"
+    },
+    {
+     "w": "data privacy",
+     "pos": "noun",
+     "def": "the right of individuals to control how their personal information is collected, stored and used",
+     "ex": "Stricter data privacy laws would force technology firms to be more transparent about how they use personal information.",
+     "col": [
+      "protect data privacy",
+      "data privacy regulations",
+      "concerns over data privacy"
+     ],
+     "ar": "خصوصية البيانات"
+    },
+    {
+     "w": "innovation",
+     "pos": "noun",
+     "def": "a new idea, method or product, or the process of creating one",
+     "ex": "Healthy competition between firms is often the main driver of innovation.",
+     "col": [
+      "technological innovation",
+      "drive innovation",
+      "foster innovation"
+     ],
+     "ar": "الابتكار"
+    },
+    {
+     "w": "user-friendly",
+     "pos": "adjective",
+     "def": "easy for people to use or understand, even without special knowledge",
+     "ex": "Banking apps must be user-friendly if older customers are to adopt them.",
+     "col": [
+      "a user-friendly interface",
+      "highly user-friendly"
+     ],
+     "ar": "سهل الاستخدام"
+    },
+    {
+     "w": "screen time",
+     "pos": "noun",
+     "def": "the amount of time a person spends looking at a phone, computer, television or similar device",
+     "ex": "Paediatricians recommend limiting screen time for young children in favour of active play.",
+     "col": [
+      "limit screen time",
+      "excessive screen time",
+      "reduce screen time"
+     ],
+     "ar": "وقت استخدام الشاشات"
+    },
+    {
+     "w": "surveillance",
+     "pos": "noun",
+     "def": "the close watching of people or places, often by the police or the government, especially using cameras or digital tracking",
+     "ex": "The spread of facial recognition has intensified the debate over state surveillance.",
+     "col": [
+      "mass surveillance",
+      "surveillance cameras",
+      "under surveillance"
+     ],
+     "ar": "المراقبة"
+    },
+    {
+     "w": "breakthrough",
+     "pos": "noun",
+     "def": "an important discovery or development that helps solve a problem",
+     "ex": "A breakthrough in battery storage could make solar power far more reliable.",
+     "col": [
+      "a major breakthrough",
+      "make a breakthrough",
+      "a technological breakthrough"
+     ],
+     "ar": "إنجاز / اختراق علمي كبير"
+    },
+    {
+     "w": "dependence",
+     "pos": "noun",
+     "def": "the state of needing something so much that it is difficult to manage without it",
+     "ex": "Growing dependence on navigation apps may be weakening people's sense of direction.",
+     "col": [
+      "dependence on technology",
+      "growing dependence",
+      "reduce dependence on"
+     ],
+     "ar": "الاعتماد (المفرط) على"
+    },
+    {
+     "w": "streamline",
+     "pos": "verb",
+     "def": "to make a system or process simpler and more efficient",
+     "ex": "Online forms have streamlined many government services that once required hours of queuing.",
+     "col": [
+      "streamline processes",
+      "streamline operations",
+      "a streamlined system"
+     ],
+     "ar": "يُبسِّط (الإجراءات) ويرفع كفاءتها"
+    },
+    {
+     "w": "misinformation",
+     "pos": "noun",
+     "def": "false or inaccurate information, especially when it spreads widely",
+     "ex": "Social media platforms have struggled to slow the spread of health misinformation.",
+     "col": [
+      "spread misinformation",
+      "combat misinformation",
+      "a source of misinformation"
+     ],
+     "ar": "المعلومات المغلوطة"
+    },
+    {
+     "w": "tech-savvy",
+     "pos": "adjective",
+     "def": "knowing a lot about modern technology and comfortable using it",
+     "ex": "Younger, tech-savvy consumers are more likely to do most of their shopping online.",
+     "col": [
+      "tech-savvy users",
+      "increasingly tech-savvy"
+     ],
+     "ar": "مُلِمّ بالتقنية"
+    },
+    {
+     "w": "connectivity",
+     "pos": "noun",
+     "def": "the ability of devices and people to connect to the internet or to each other",
+     "ex": "Improved rural connectivity would allow more people to work remotely from smaller towns.",
+     "col": [
+      "internet connectivity",
+      "improve connectivity",
+      "high-speed connectivity"
+     ],
+     "ar": "الاتصال بالشبكة / الربط"
+    },
+    {
+     "w": "disruptive",
+     "pos": "adjective",
+     "def": "(of a technology or business) changing an industry completely by replacing established ways of doing things",
+     "ex": "Ride-hailing apps proved highly disruptive to the traditional taxi industry.",
+     "col": [
+      "disruptive technology",
+      "disruptive innovation",
+      "highly disruptive"
+     ],
+     "ar": "مُزعزِع (يُغيّر قطاعًا بأكمله)"
+    },
+    {
+     "w": "wearable technology",
+     "pos": "noun",
+     "def": "electronic devices worn on the body, such as smartwatches and fitness trackers",
+     "ex": "Wearable technology allows patients with heart conditions to be monitored at home.",
+     "col": [
+      "wearable devices",
+      "the rise of wearable technology"
+     ],
+     "ar": "التقنيات القابلة للارتداء"
+    },
+    {
+     "w": "cyberbullying",
+     "pos": "noun",
+     "def": "using the internet or mobile phones to repeatedly hurt, threaten or embarrass someone",
+     "ex": "Schools are increasingly expected to respond to cyberbullying that happens outside school hours.",
+     "col": [
+      "tackle cyberbullying",
+      "victims of cyberbullying"
+     ],
+     "ar": "التنمّر الإلكتروني"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health",
+   "ar": "الصحة",
+   "words": [
+    {
+     "w": "sedentary",
+     "pos": "adjective",
+     "def": "involving a lot of sitting and very little physical activity",
+     "ex": "A sedentary lifestyle is a major risk factor for heart disease and type 2 diabetes.",
+     "col": [
+      "a sedentary lifestyle",
+      "sedentary jobs",
+      "sedentary behaviour"
+     ],
+     "ar": "قليل الحركة / خامل"
+    },
+    {
+     "w": "obesity",
+     "pos": "noun",
+     "def": "the condition of being so overweight that it is a danger to health",
+     "ex": "Taxes on sugary drinks are one tool governments have used to tackle childhood obesity.",
+     "col": [
+      "childhood obesity",
+      "obesity rates",
+      "tackle obesity"
+     ],
+     "ar": "السمنة"
+    },
+    {
+     "w": "preventive",
+     "pos": "adjective",
+     "def": "intended to stop an illness or problem from happening, rather than treating it afterwards",
+     "ex": "Spending on preventive healthcare can reduce the long-term cost of treating chronic disease.",
+     "col": [
+      "preventive measures",
+      "preventive healthcare",
+      "preventive medicine"
+     ],
+     "ar": "وقائي"
+    },
+    {
+     "w": "chronic",
+     "pos": "adjective",
+     "def": "(of an illness or problem) lasting for a long time or recurring often",
+     "ex": "Chronic conditions such as diabetes require careful management over many years.",
+     "col": [
+      "chronic disease",
+      "chronic pain",
+      "chronic illness"
+     ],
+     "ar": "مُزمِن"
+    },
+    {
+     "w": "life expectancy",
+     "pos": "noun",
+     "def": "the average number of years a person can expect to live",
+     "ex": "Many historians argue that improvements in sanitation did more to raise life expectancy than any single medical breakthrough.",
+     "col": [
+      "average life expectancy",
+      "rising life expectancy",
+      "life expectancy at birth"
+     ],
+     "ar": "متوسط العمر المتوقع"
+    },
+    {
+     "w": "epidemic",
+     "pos": "noun",
+     "def": "a large number of cases of a disease, or of a harmful condition, in one community at the same time",
+     "ex": "Some doctors describe loneliness among older people as a hidden epidemic.",
+     "col": [
+      "an epidemic of",
+      "contain an epidemic",
+      "a growing epidemic"
+     ],
+     "ar": "وباء"
+    },
+    {
+     "w": "immunisation",
+     "pos": "noun",
+     "def": "giving people a vaccine so that they are protected against a disease",
+     "ex": "In many countries, free immunisation programmes have almost eliminated several serious childhood diseases.",
+     "col": [
+      "immunisation programmes",
+      "routine immunisation",
+      "immunisation rates"
+     ],
+     "ar": "التحصين (التطعيم)"
+    },
+    {
+     "w": "well-being",
+     "pos": "noun",
+     "def": "the state of being healthy, comfortable and happy",
+     "ex": "Employers are beginning to recognise that staff well-being affects productivity.",
+     "col": [
+      "mental well-being",
+      "promote well-being",
+      "physical and emotional well-being"
+     ],
+     "ar": "الرفاه / العافية"
+    },
+    {
+     "w": "mental health",
+     "pos": "noun",
+     "def": "a person's emotional and psychological condition and how well they cope with daily life",
+     "ex": "Talking openly about mental health in schools can encourage young people to seek help early.",
+     "col": [
+      "mental health issues",
+      "mental health services",
+      "support mental health"
+     ],
+     "ar": "الصحة النفسية"
+    },
+    {
+     "w": "nutritious",
+     "pos": "adjective",
+     "def": "containing the substances the body needs to stay healthy and grow",
+     "ex": "Providing nutritious school meals can improve both concentration and attendance.",
+     "col": [
+      "a nutritious diet",
+      "nutritious meals",
+      "highly nutritious"
+     ],
+     "ar": "مُغذٍّ"
+    },
+    {
+     "w": "diagnosis",
+     "pos": "noun",
+     "def": "the identification of an illness or problem after examining someone",
+     "ex": "Early diagnosis greatly improves the chances of successful treatment for many cancers.",
+     "col": [
+      "early diagnosis",
+      "make a diagnosis",
+      "an accurate diagnosis"
+     ],
+     "ar": "التشخيص"
+    },
+    {
+     "w": "susceptible",
+     "pos": "adjective",
+     "def": "likely to be affected or harmed by something, especially a disease",
+     "ex": "Older adults are more susceptible to complications from seasonal flu.",
+     "col": [
+      "susceptible to infection",
+      "highly susceptible",
+      "particularly susceptible"
+     ],
+     "ar": "مُعرَّض للإصابة / سريع التأثّر"
+    },
+    {
+     "w": "healthcare provision",
+     "pos": "noun",
+     "def": "the supply of medical services to the population",
+     "ex": "Healthcare provision in remote areas often lags far behind that in major cities.",
+     "col": [
+      "improve healthcare provision",
+      "public healthcare provision"
+     ],
+     "ar": "توفير الخدمات الصحية"
+    },
+    {
+     "w": "side effects",
+     "pos": "noun",
+     "def": "unwanted effects of a medicine or treatment in addition to its intended effect",
+     "ex": "Patients should be told about possible side effects before agreeing to a new medication.",
+     "col": [
+      "serious side effects",
+      "have side effects",
+      "minimise side effects"
+     ],
+     "ar": "الآثار الجانبية"
+    },
+    {
+     "w": "contagious",
+     "pos": "adjective",
+     "def": "(of a disease) able to be passed from one person to another through contact",
+     "ex": "Staff who have a highly contagious illness should be encouraged to stay at home.",
+     "col": [
+      "highly contagious",
+      "a contagious disease"
+     ],
+     "ar": "مُعدٍ"
+    },
+    {
+     "w": "public health",
+     "pos": "noun",
+     "def": "the health of the population as a whole, and the work done to protect and improve it",
+     "ex": "Banning smoking in enclosed public places was a landmark public health measure.",
+     "col": [
+      "public health campaigns",
+      "a threat to public health",
+      "public health policy"
+     ],
+     "ar": "الصحة العامة"
+    },
+    {
+     "w": "pharmaceutical",
+     "pos": "adjective",
+     "def": "relating to the development, production and sale of medicines",
+     "ex": "Pharmaceutical companies argue that high prices are needed to fund research into new drugs.",
+     "col": [
+      "the pharmaceutical industry",
+      "pharmaceutical companies",
+      "pharmaceutical products"
+     ],
+     "ar": "دوائي / صيدلاني"
+    },
+    {
+     "w": "stress-related",
+     "pos": "adjective",
+     "def": "caused or made worse by stress",
+     "ex": "Long working hours have been linked to a rise in stress-related illnesses.",
+     "col": [
+      "stress-related illness",
+      "stress-related absence"
+     ],
+     "ar": "مرتبط بالإجهاد / الضغط النفسي"
+    },
+    {
+     "w": "alleviate",
+     "pos": "verb",
+     "def": "to make pain, suffering or a problem less severe",
+     "ex": "Regular gentle exercise can help alleviate the symptoms of mild depression.",
+     "col": [
+      "alleviate symptoms",
+      "alleviate pain",
+      "alleviate pressure on"
+     ],
+     "ar": "يُخفِّف / يُسكِّن"
+    },
+    {
+     "w": "overburdened",
+     "pos": "adjective",
+     "def": "having more work or responsibility than can reasonably be managed",
+     "ex": "Overburdened hospitals often struggle to reduce waiting times for routine operations.",
+     "col": [
+      "an overburdened health system",
+      "overburdened staff"
+     ],
+     "ar": "مُثقَل بالأعباء"
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "name": "Work & careers",
+   "ar": "العمل والمسار المهني",
+   "words": [
+    {
+     "w": "job security",
+     "pos": "noun",
+     "def": "the likelihood that a person will keep their job and not lose it",
+     "ex": "Many workers are willing to accept lower pay in exchange for greater job security.",
+     "col": [
+      "lack of job security",
+      "offer job security"
+     ],
+     "ar": "الأمان الوظيفي"
+    },
+    {
+     "w": "work-life balance",
+     "pos": "noun",
+     "def": "a healthy division of time and energy between paid work and personal life",
+     "ex": "Flexible working hours can help parents achieve a better work-life balance.",
+     "col": [
+      "a healthy work-life balance",
+      "improve work-life balance",
+      "strike a work-life balance"
+     ],
+     "ar": "التوازن بين العمل والحياة الشخصية"
+    },
+    {
+     "w": "remote working",
+     "pos": "noun",
+     "def": "doing your job from home or another place outside the employer's office, using technology to stay in contact",
+     "ex": "Remote working has reduced commuting time but can blur the line between work and home.",
+     "col": [
+      "the shift to remote working",
+      "remote working arrangements"
+     ],
+     "ar": "العمل عن بُعد"
+    },
+    {
+     "w": "redundancy",
+     "pos": "noun",
+     "def": "losing your job because your employer no longer needs your position, not because of anything you did",
+     "ex": "Thousands of factory workers faced redundancy when production moved overseas.",
+     "col": [
+      "face redundancy",
+      "redundancy pay",
+      "voluntary redundancy"
+     ],
+     "ar": "التسريح من العمل لانتفاء الحاجة إلى الوظيفة"
+    },
+    {
+     "w": "unemployment",
+     "pos": "noun",
+     "def": "the state of not having a paid job, or the number of people in this situation",
+     "ex": "Long periods of youth unemployment can cause lasting damage to a person's earnings and confidence.",
+     "col": [
+      "youth unemployment",
+      "high unemployment",
+      "the unemployment rate"
+     ],
+     "ar": "البطالة"
+    },
+    {
+     "w": "productivity",
+     "pos": "noun",
+     "def": "how much work or output a person, company or country produces compared with the time and resources used",
+     "ex": "In several four-day-week trials, productivity remained stable while staff sickness fell.",
+     "col": [
+      "boost productivity",
+      "labour productivity",
+      "productivity gains"
+     ],
+     "ar": "الإنتاجية"
+    },
+    {
+     "w": "career prospects",
+     "pos": "noun",
+     "def": "the chances of being successful and advancing in a job or profession",
+     "ex": "Learning a second language can significantly improve a graduate's career prospects.",
+     "col": [
+      "enhance career prospects",
+      "limited career prospects",
+      "good career prospects"
+     ],
+     "ar": "الآفاق المهنية"
+    },
+    {
+     "w": "job satisfaction",
+     "pos": "noun",
+     "def": "the feeling of pleasure and achievement that a person gets from their work",
+     "ex": "Studies suggest that recognition from managers can matter as much for job satisfaction as salary does.",
+     "col": [
+      "high job satisfaction",
+      "a source of job satisfaction"
+     ],
+     "ar": "الرضا الوظيفي"
+    },
+    {
+     "w": "workforce",
+     "pos": "noun",
+     "def": "all the people who work in a country, industry or company",
+     "ex": "An ageing workforce means that many industries will soon face shortages of skilled staff.",
+     "col": [
+      "a skilled workforce",
+      "an ageing workforce",
+      "enter the workforce"
+     ],
+     "ar": "القوى العاملة"
+    },
+    {
+     "w": "entrepreneur",
+     "pos": "noun",
+     "def": "a person who starts their own business, usually taking financial risks to do so",
+     "ex": "Low-interest loans can encourage young entrepreneurs to turn their ideas into businesses.",
+     "col": [
+      "aspiring entrepreneurs",
+      "a successful entrepreneur",
+      "budding entrepreneurs"
+     ],
+     "ar": "رائد أعمال"
+    },
+    {
+     "w": "burnout",
+     "pos": "noun",
+     "def": "a state of physical and emotional exhaustion caused by long-term stress, usually at work",
+     "ex": "Nurses working repeated night shifts are particularly vulnerable to burnout.",
+     "col": [
+      "suffer from burnout",
+      "prevent burnout",
+      "risk of burnout"
+     ],
+     "ar": "الاحتراق الوظيفي"
+    },
+    {
+     "w": "incentive",
+     "pos": "noun",
+     "def": "something, such as extra money, that encourages a person to work harder or to do something",
+     "ex": "Performance bonuses act as an incentive, but they can also encourage unhealthy competition.",
+     "col": [
+      "financial incentives",
+      "provide an incentive",
+      "a strong incentive"
+     ],
+     "ar": "حافز"
+    },
+    {
+     "w": "glass ceiling",
+     "pos": "noun",
+     "def": "an unofficial barrier that stops women or members of minority groups from reaching the most senior positions in an organisation",
+     "ex": "Although women make up around half of the graduates in many professions, a glass ceiling still limits how many reach the most senior roles.",
+     "col": [
+      "break through the glass ceiling",
+      "shatter the glass ceiling"
+     ],
+     "ar": "السقف الزجاجي (عائق غير مُعلَن أمام الترقّي)"
+    },
+    {
+     "w": "gig economy",
+     "pos": "noun",
+     "def": "a labour market in which people do short-term or one-off jobs, often arranged through apps, rather than having permanent employment",
+     "ex": "The gig economy offers flexibility, but workers often lack sick pay and pension rights.",
+     "col": [
+      "work in the gig economy",
+      "gig economy workers",
+      "the rise of the gig economy"
+     ],
+     "ar": "اقتصاد العمل الحرّ المؤقت (اقتصاد المهام)"
+    },
+    {
+     "w": "transferable skills",
+     "pos": "noun",
+     "def": "abilities such as communication or problem-solving that are useful in many different jobs",
+     "ex": "Volunteering helps young people develop transferable skills that employers value.",
+     "col": [
+      "develop transferable skills",
+      "highlight transferable skills"
+     ],
+     "ar": "المهارات القابلة للنقل"
+    },
+    {
+     "w": "labour market",
+     "pos": "noun",
+     "def": "the supply of people available to work and the jobs available for them",
+     "ex": "Graduates are entering a labour market that increasingly rewards digital skills.",
+     "col": [
+      "a competitive labour market",
+      "enter the labour market",
+      "labour market conditions"
+     ],
+     "ar": "سوق العمل"
+    },
+    {
+     "w": "skills shortage",
+     "pos": "noun",
+     "def": "a situation in which there are not enough trained people to do the work that is needed",
+     "ex": "A skills shortage in engineering has pushed some firms to recruit from abroad.",
+     "col": [
+      "address a skills shortage",
+      "a severe skills shortage"
+     ],
+     "ar": "نقص المهارات / نقص الكفاءات"
+    },
+    {
+     "w": "on-the-job training",
+     "pos": "noun",
+     "def": "training that a worker receives while doing their job, rather than in a classroom",
+     "ex": "Apprenticeships combine on-the-job training with part-time study.",
+     "col": [
+      "receive on-the-job training",
+      "provide on-the-job training"
+     ],
+     "ar": "التدريب أثناء العمل"
+    },
+    {
+     "w": "flexible working",
+     "pos": "noun",
+     "def": "an arrangement that allows employees some choice over when, where or how many hours they work",
+     "ex": "Offering flexible working can help companies retain experienced staff with caring responsibilities.",
+     "col": [
+      "request flexible working",
+      "flexible working arrangements"
+     ],
+     "ar": "العمل المرن"
+    },
+    {
+     "w": "retirement age",
+     "pos": "noun",
+     "def": "the age at which people usually stop working, or at which they can receive a state pension",
+     "ex": "Several governments have raised the retirement age as life expectancy has increased.",
+     "col": [
+      "raise the retirement age",
+      "reach retirement age",
+      "the state retirement age"
+     ],
+     "ar": "سنّ التقاعد"
+    }
+   ]
+  },
+  {
+   "id": "crime",
+   "name": "Crime & law",
+   "ar": "الجريمة والقانون",
+   "words": [
+    {
+     "w": "deterrent",
+     "pos": "noun",
+     "def": "something that discourages people from doing something, especially by making them afraid of the consequences",
+     "ex": "Many criminologists doubt that longer prison sentences act as an effective deterrent.",
+     "col": [
+      "an effective deterrent",
+      "act as a deterrent",
+      "a strong deterrent"
+     ],
+     "ar": "رادع"
+    },
+    {
+     "w": "rehabilitation",
+     "pos": "noun",
+     "def": "the process of helping an offender return to a normal, law-abiding life, for example through education and therapy",
+     "ex": "Prisons that invest in rehabilitation tend to have lower rates of reoffending.",
+     "col": [
+      "rehabilitation programmes",
+      "focus on rehabilitation",
+      "rehabilitation of offenders"
+     ],
+     "ar": "إعادة التأهيل"
+    },
+    {
+     "w": "reoffend",
+     "pos": "verb",
+     "def": "to commit another crime after being punished for an earlier one",
+     "ex": "Young people who leave prison without job skills are more likely to reoffend.",
+     "col": [
+      "likely to reoffend",
+      "reduce the risk of reoffending"
+     ],
+     "ar": "يعود إلى ارتكاب الجريمة"
+    },
+    {
+     "w": "offender",
+     "pos": "noun",
+     "def": "a person who has committed a crime",
+     "ex": "First-time offenders who commit minor crimes could be given community service instead of a prison sentence.",
+     "col": [
+      "young offenders",
+      "repeat offenders",
+      "first-time offenders"
+     ],
+     "ar": "الجاني / مرتكب الجريمة"
+    },
+    {
+     "w": "juvenile delinquency",
+     "pos": "noun",
+     "def": "criminal or seriously antisocial behaviour by young people",
+     "ex": "Youth clubs and sports programmes can help reduce juvenile delinquency in deprived areas.",
+     "col": [
+      "tackle juvenile delinquency",
+      "causes of juvenile delinquency"
+     ],
+     "ar": "جنوح الأحداث"
+    },
+    {
+     "w": "law enforcement",
+     "pos": "noun",
+     "def": "the work of the police and other agencies in making sure that people obey the law",
+     "ex": "Cooperation between countries is essential for effective law enforcement against online fraud.",
+     "col": [
+      "law enforcement agencies",
+      "effective law enforcement"
+     ],
+     "ar": "إنفاذ القانون"
+    },
+    {
+     "w": "custodial sentence",
+     "pos": "noun",
+     "def": "a punishment in which a convicted person is sent to prison",
+     "ex": "Judges are often reluctant to impose a custodial sentence for non-violent crimes.",
+     "col": [
+      "impose a custodial sentence",
+      "serve a custodial sentence"
+     ],
+     "ar": "عقوبة سالبة للحرية (السجن)"
+    },
+    {
+     "w": "community service",
+     "pos": "noun",
+     "def": "unpaid work that an offender is ordered to do for the local community instead of going to prison",
+     "ex": "Community service allows offenders to repay society while keeping their jobs and family ties.",
+     "col": [
+      "sentence someone to community service",
+      "hours of community service"
+     ],
+     "ar": "الخدمة المجتمعية (عقوبةً بديلة)"
+    },
+    {
+     "w": "white-collar crime",
+     "pos": "noun",
+     "def": "non-violent crime committed by people in business or professional positions, such as fraud",
+     "ex": "White-collar crime often causes greater financial harm than street crime, yet receives less attention.",
+     "col": [
+      "prosecute white-collar crime",
+      "white-collar criminals"
+     ],
+     "ar": "جرائم ذوي الياقات البيضاء (الجرائم المالية والإدارية)"
+    },
+    {
+     "w": "cybercrime",
+     "pos": "noun",
+     "def": "criminal activity carried out using computers or the internet",
+     "ex": "Cybercrime is difficult to prosecute because offenders may be operating from another country.",
+     "col": [
+      "combat cybercrime",
+      "victims of cybercrime",
+      "a rise in cybercrime"
+     ],
+     "ar": "الجرائم الإلكترونية"
+    },
+    {
+     "w": "legislation",
+     "pos": "noun",
+     "def": "a law or a set of laws passed by a parliament or government",
+     "ex": "New legislation requires online platforms to remove illegal content within a set time.",
+     "col": [
+      "introduce legislation",
+      "pass legislation",
+      "tougher legislation"
+     ],
+     "ar": "التشريعات"
+    },
+    {
+     "w": "prosecute",
+     "pos": "verb",
+     "def": "to bring a formal legal case against someone in a court of law",
+     "ex": "Companies that knowingly dump toxic waste should be prosecuted.",
+     "col": [
+      "prosecute offenders",
+      "be prosecuted for",
+      "fail to prosecute"
+     ],
+     "ar": "يُلاحِق قضائيًا"
+    },
+    {
+     "w": "capital punishment",
+     "pos": "noun",
+     "def": "punishment by death for a serious crime",
+     "ex": "Opponents of capital punishment point to the risk that an innocent person may be executed.",
+     "col": [
+      "abolish capital punishment",
+      "the debate over capital punishment"
+     ],
+     "ar": "عقوبة الإعدام"
+    },
+    {
+     "w": "petty crime",
+     "pos": "noun",
+     "def": "minor crimes such as shoplifting or vandalism",
+     "ex": "Better street lighting has been shown to reduce petty crime in some neighbourhoods.",
+     "col": [
+      "commit petty crime",
+      "a rise in petty crime"
+     ],
+     "ar": "الجرائم البسيطة"
+    },
+    {
+     "w": "vandalism",
+     "pos": "noun",
+     "def": "the deliberate damage of public or private property",
+     "ex": "Involving young residents in designing public spaces can reduce vandalism.",
+     "col": [
+      "acts of vandalism",
+      "reduce vandalism"
+     ],
+     "ar": "التخريب المتعمَّد للممتلكات"
+    },
+    {
+     "w": "crime rate",
+     "pos": "noun",
+     "def": "the number of crimes committed in a particular area during a particular period",
+     "ex": "The city's crime rate fell sharply after investment in youth employment schemes.",
+     "col": [
+      "a falling crime rate",
+      "a high crime rate",
+      "reduce the crime rate"
+     ],
+     "ar": "معدّل الجريمة"
+    },
+    {
+     "w": "restorative justice",
+     "pos": "noun",
+     "def": "an approach to justice in which offenders meet the people they have harmed and take responsibility for repairing the damage",
+     "ex": "Restorative justice can help victims recover while making offenders face the real consequences of their actions.",
+     "col": [
+      "restorative justice schemes",
+      "a restorative justice approach"
+     ],
+     "ar": "العدالة التصالحية"
+    },
+    {
+     "w": "law-abiding",
+     "pos": "adjective",
+     "def": "obeying the law and behaving in a socially acceptable way",
+     "ex": "Most law-abiding citizens support stricter controls on dangerous weapons.",
+     "col": [
+      "law-abiding citizens",
+      "a law-abiding life"
+     ],
+     "ar": "ملتزم بالقانون"
+    },
+    {
+     "w": "crack down on",
+     "pos": "phrasal verb",
+     "def": "to start dealing with a problem or crime much more strictly",
+     "ex": "The government has promised to crack down on dangerous driving near schools.",
+     "col": [
+      "crack down on crime",
+      "a crackdown on"
+     ],
+     "ar": "يشنّ حملة صارمة على"
+    },
+    {
+     "w": "root causes",
+     "pos": "noun",
+     "def": "the basic, underlying reasons for a problem, as opposed to its visible symptoms",
+     "ex": "Policing alone cannot reduce crime unless the root causes, such as poverty, are also addressed.",
+     "col": [
+      "address the root causes",
+      "tackle the root causes",
+      "identify the root causes"
+     ],
+     "ar": "الأسباب الجذرية"
+    }
+   ]
+  },
+  {
+   "id": "cities",
+   "name": "Cities & urbanisation",
+   "ar": "المدن والتمدّن",
+   "words": [
+    {
+     "w": "urbanisation",
+     "pos": "noun",
+     "def": "the process by which more and more people move from rural areas to live in towns and cities",
+     "ex": "Rapid urbanisation has put enormous pressure on housing and public transport.",
+     "col": [
+      "rapid urbanisation",
+      "the pace of urbanisation",
+      "unplanned urbanisation"
+     ],
+     "ar": "التمدّن (التوسّع الحضري)"
+    },
+    {
+     "w": "urban sprawl",
+     "pos": "noun",
+     "def": "the uncontrolled spread of a city into the surrounding countryside",
+     "ex": "Urban sprawl increases car dependency because homes are built far from workplaces and shops.",
+     "col": [
+      "curb urban sprawl",
+      "the problem of urban sprawl"
+     ],
+     "ar": "الزحف العمراني العشوائي"
+    },
+    {
+     "w": "infrastructure",
+     "pos": "noun",
+     "def": "the basic systems and services a city or country needs, such as roads, water supply, power and communications",
+     "ex": "Ageing infrastructure in many older cities needs urgent investment.",
+     "col": [
+      "invest in infrastructure",
+      "transport infrastructure",
+      "ageing infrastructure"
+     ],
+     "ar": "البنية التحتية"
+    },
+    {
+     "w": "noise pollution",
+     "pos": "noun",
+     "def": "harmful or annoying levels of noise, for example from traffic, aircraft or building work",
+     "ex": "Noise pollution from heavy traffic and night-time construction can seriously disturb residents' sleep.",
+     "col": [
+      "reduce noise pollution",
+      "levels of noise pollution",
+      "exposure to noise pollution"
+     ],
+     "ar": "التلوث الضوضائي"
+    },
+    {
+     "w": "affordable housing",
+     "pos": "noun",
+     "def": "homes that people on low or average incomes can afford to buy or rent",
+     "ex": "A lack of affordable housing is forcing key workers to live far from the cities they serve.",
+     "col": [
+      "a shortage of affordable housing",
+      "build affordable housing"
+     ],
+     "ar": "الإسكان الميسور التكلفة"
+    },
+    {
+     "w": "overcrowding",
+     "pos": "noun",
+     "def": "a situation in which too many people live or are present in one place",
+     "ex": "Overcrowding in poorly ventilated flats can contribute to the spread of illness.",
+     "col": [
+      "severe overcrowding",
+      "relieve overcrowding"
+     ],
+     "ar": "الاكتظاظ"
+    },
+    {
+     "w": "amenities",
+     "pos": "noun",
+     "def": "useful or pleasant facilities in a place, such as parks, shops, libraries and sports centres",
+     "ex": "New housing estates should be built with local amenities rather than relying on car journeys.",
+     "col": [
+      "local amenities",
+      "public amenities",
+      "access to amenities"
+     ],
+     "ar": "المرافق (الخدمية والترفيهية)"
+    },
+    {
+     "w": "green spaces",
+     "pos": "noun",
+     "def": "areas of grass, trees and other plants within a town or city, such as parks",
+     "ex": "Access to green spaces has been linked to lower levels of stress among city residents.",
+     "col": [
+      "urban green spaces",
+      "preserve green spaces",
+      "access to green spaces"
+     ],
+     "ar": "المساحات الخضراء"
+    },
+    {
+     "w": "inner city",
+     "pos": "noun",
+     "def": "the central parts of a city, sometimes associated with poor housing and social problems",
+     "ex": "Regeneration projects aim to bring jobs and investment back to inner-city areas.",
+     "col": [
+      "inner-city areas",
+      "inner-city schools",
+      "inner-city deprivation"
+     ],
+     "ar": "أحياء وسط المدينة (الفقيرة غالبًا)"
+    },
+    {
+     "w": "regeneration",
+     "pos": "noun",
+     "def": "the improvement of a run-down area through new building and investment",
+     "ex": "Urban regeneration should benefit existing residents, not simply attract wealthier newcomers.",
+     "col": [
+      "urban regeneration",
+      "regeneration projects",
+      "a regeneration scheme"
+     ],
+     "ar": "إعادة التأهيل العمراني (التجديد الحضري)"
+    },
+    {
+     "w": "gentrification",
+     "pos": "noun",
+     "def": "the process by which a poorer area is changed by wealthier people moving in, often making it too expensive for original residents",
+     "ex": "Gentrification can improve local services but often pushes long-term residents out.",
+     "col": [
+      "the effects of gentrification",
+      "resist gentrification"
+     ],
+     "ar": "الاستطباق الحضري (تحوّل الحيّ الشعبي إلى حيّ للميسورين)"
+    },
+    {
+     "w": "densely populated",
+     "pos": "adjective",
+     "def": "having a large number of people living in a small area",
+     "ex": "Densely populated cities can provide public transport more efficiently than scattered suburbs.",
+     "col": [
+      "a densely populated area",
+      "densely populated cities"
+     ],
+     "ar": "مكتظّ بالسكان"
+    },
+    {
+     "w": "mixed-use",
+     "pos": "adjective",
+     "def": "(of an area or building) combining homes, shops, offices and leisure facilities in the same place",
+     "ex": "Mixed-use developments allow residents to live within walking distance of their workplaces and local shops.",
+     "col": [
+      "mixed-use development",
+      "mixed-use neighbourhoods"
+     ],
+     "ar": "متعدد الاستخدامات (يجمع السكن والتجارة والعمل)"
+    },
+    {
+     "w": "pedestrianise",
+     "pos": "verb",
+     "def": "to close a street to vehicles so that only people on foot can use it",
+     "ex": "Pedestrianising the old market street led to a noticeable increase in visitors to local shops.",
+     "col": [
+      "pedestrianise the city centre",
+      "a pedestrianised zone"
+     ],
+     "ar": "يُخصّص (الشارع) للمشاة"
+    },
+    {
+     "w": "urban planning",
+     "pos": "noun",
+     "def": "the design and organisation of the physical layout of towns and cities",
+     "ex": "Good urban planning ensures that schools and clinics are within walking distance of homes.",
+     "col": [
+      "careful urban planning",
+      "urban planning policies",
+      "poor urban planning"
+     ],
+     "ar": "التخطيط العمراني"
+    },
+    {
+     "w": "high-rise",
+     "pos": "adjective",
+     "def": "(of a building) very tall, with many floors",
+     "ex": "High-rise apartments make efficient use of land but can feel isolating for families.",
+     "col": [
+      "high-rise buildings",
+      "high-rise apartments",
+      "high-rise development"
+     ],
+     "ar": "شاهق / متعدد الطوابق"
+    },
+    {
+     "w": "slum",
+     "pos": "noun",
+     "def": "a very poor and crowded area of a city where housing and living conditions are bad",
+     "ex": "Upgrading slums with clean water and sanitation can be cheaper than relocating residents.",
+     "col": [
+      "urban slums",
+      "slum dwellers",
+      "slum clearance"
+     ],
+     "ar": "حيّ عشوائي فقير"
+    },
+    {
+     "w": "homelessness",
+     "pos": "noun",
+     "def": "the state of having no place to live",
+     "ex": "Rising rents have contributed to a sharp increase in homelessness in major cities.",
+     "col": [
+      "tackle homelessness",
+      "rising homelessness",
+      "the causes of homelessness"
+     ],
+     "ar": "التشرّد"
+    },
+    {
+     "w": "cosmopolitan",
+     "pos": "adjective",
+     "def": "containing or influenced by people and cultures from many different countries",
+     "ex": "Cosmopolitan cities tend to attract international businesses and skilled workers.",
+     "col": [
+      "a cosmopolitan city",
+      "a cosmopolitan atmosphere"
+     ],
+     "ar": "عالمي الطابع / متنوّع الثقافات"
+    },
+    {
+     "w": "liveable",
+     "pos": "adjective",
+     "def": "pleasant and suitable to live in",
+     "ex": "Cities that invest in parks, safe cycling routes and clean air are often rated among the most liveable.",
+     "col": [
+      "a liveable city",
+      "more liveable"
+     ],
+     "ar": "صالح للعيش / ملائم للسكن"
+    }
+   ]
+  },
+  {
+   "id": "media",
+   "name": "Media & advertising",
+   "ar": "الإعلام والإعلان",
+   "words": [
+    {
+     "w": "consumerism",
+     "pos": "noun",
+     "def": "a way of life and set of values centred on buying more and more goods",
+     "ex": "Critics argue that advertising fuels consumerism by persuading people that happiness can be bought.",
+     "col": [
+      "rampant consumerism",
+      "a culture of consumerism"
+     ],
+     "ar": "النزعة الاستهلاكية"
+    },
+    {
+     "w": "target audience",
+     "pos": "noun",
+     "def": "the particular group of people that an advertisement, programme or product is aimed at",
+     "ex": "Toy manufacturers often design campaigns with children, rather than parents, as their target audience.",
+     "col": [
+      "reach a target audience",
+      "the intended target audience"
+     ],
+     "ar": "الجمهور المستهدَف"
+    },
+    {
+     "w": "persuasive",
+     "pos": "adjective",
+     "def": "good at making people believe or do something",
+     "ex": "Advertisers use persuasive techniques such as celebrity endorsement and limited-time offers.",
+     "col": [
+      "persuasive techniques",
+      "highly persuasive",
+      "a persuasive argument"
+     ],
+     "ar": "مُقنِع"
+    },
+    {
+     "w": "misleading",
+     "pos": "adjective",
+     "def": "giving a wrong idea or impression, either deliberately or by accident",
+     "ex": "Misleading health claims on food packaging should be subject to heavy fines.",
+     "col": [
+      "misleading claims",
+      "misleading advertising",
+      "deliberately misleading"
+     ],
+     "ar": "مُضلِّل"
+    },
+    {
+     "w": "sensationalism",
+     "pos": "noun",
+     "def": "presenting news in a shocking or exaggerated way in order to attract attention",
+     "ex": "Sensationalism in the news can create public fear that is out of proportion to the actual risk.",
+     "col": [
+      "media sensationalism",
+      "accused of sensationalism"
+     ],
+     "ar": "الإثارة الإعلامية (التهويل)"
+    },
+    {
+     "w": "press freedom",
+     "pos": "noun",
+     "def": "the right of newspapers and broadcasters to report news and express opinions without government control",
+     "ex": "Press freedom is essential if journalists are to hold powerful people to account.",
+     "col": [
+      "defend press freedom",
+      "restrictions on press freedom"
+     ],
+     "ar": "حرية الصحافة"
+    },
+    {
+     "w": "censorship",
+     "pos": "noun",
+     "def": "the control or removal of parts of books, films, news or online content that are considered unacceptable",
+     "ex": "Online censorship raises difficult questions about who decides what is harmful.",
+     "col": [
+      "government censorship",
+      "impose censorship",
+      "strict censorship"
+     ],
+     "ar": "الرقابة (على المحتوى)"
+    },
+    {
+     "w": "bias",
+     "pos": "noun",
+     "def": "an unfair preference for or against one person, group or idea",
+     "ex": "Readers should compare several sources in order to recognise political bias in reporting.",
+     "col": [
+      "media bias",
+      "political bias",
+      "show bias"
+     ],
+     "ar": "التحيّز"
+    },
+    {
+     "w": "mainstream media",
+     "pos": "noun",
+     "def": "large, well-established newspapers, television channels and radio stations that most people follow",
+     "ex": "Trust in the mainstream media has declined as audiences turn to social platforms for news.",
+     "col": [
+      "the mainstream media",
+      "mainstream media coverage"
+     ],
+     "ar": "وسائل الإعلام السائدة (الكبرى)"
+    },
+    {
+     "w": "coverage",
+     "pos": "noun",
+     "def": "the reporting of a particular event or subject in the news",
+     "ex": "Extensive coverage of the floods helped raise donations for affected families.",
+     "col": [
+      "media coverage",
+      "extensive coverage",
+      "news coverage"
+     ],
+     "ar": "التغطية الإعلامية"
+    },
+    {
+     "w": "endorsement",
+     "pos": "noun",
+     "def": "a public statement of support for a product by a famous person, often in return for payment",
+     "ex": "Celebrity endorsement can make an ordinary product seem desirable to young consumers.",
+     "col": [
+      "celebrity endorsement",
+      "an endorsement deal"
+     ],
+     "ar": "تأييد المنتج والترويج له (من قِبل المشاهير غالبًا)"
+    },
+    {
+     "w": "commercial",
+     "pos": "adjective",
+     "def": "relating to making money through business and selling things",
+     "ex": "Commercial pressures may push broadcasters to favour entertainment over serious reporting.",
+     "col": [
+      "commercial pressures",
+      "commercial interests",
+      "commercial success"
+     ],
+     "ar": "تجاري"
+    },
+    {
+     "w": "prime time",
+     "pos": "noun",
+     "def": "the time in the evening when the largest number of people watch television",
+     "ex": "Some countries restrict the advertising of junk food during prime time.",
+     "col": [
+      "prime-time television",
+      "during prime time",
+      "prime-time advertising"
+     ],
+     "ar": "وقت ذروة المشاهدة"
+    },
+    {
+     "w": "viral",
+     "pos": "adjective",
+     "def": "(of a video, image or story) spreading very quickly online as people share it",
+     "ex": "A single viral video can do more for a small brand than an expensive television campaign.",
+     "col": [
+      "go viral",
+      "a viral video",
+      "viral marketing"
+     ],
+     "ar": "سريع الانتشار على الإنترنت"
+    },
+    {
+     "w": "influencer",
+     "pos": "noun",
+     "def": "a person who has many followers on social media and is paid by companies to promote products",
+     "ex": "Clearer rules are needed so that followers know when an influencer has been paid to promote something.",
+     "col": [
+      "social media influencers",
+      "influencer marketing"
+     ],
+     "ar": "مؤثِّر (على منصات التواصل)"
+    },
+    {
+     "w": "brand loyalty",
+     "pos": "noun",
+     "def": "the tendency of customers to keep buying from the same company rather than its competitors",
+     "ex": "Supermarket reward schemes are designed to build brand loyalty by rewarding repeat purchases.",
+     "col": [
+      "build brand loyalty",
+      "strong brand loyalty"
+     ],
+     "ar": "الولاء للعلامة التجارية"
+    },
+    {
+     "w": "watchdog",
+     "pos": "noun",
+     "def": "an organisation that monitors companies or public bodies to ensure they act legally and fairly",
+     "ex": "The advertising watchdog banned the campaign for exaggerating the product's benefits.",
+     "col": [
+      "a consumer watchdog",
+      "an independent watchdog"
+     ],
+     "ar": "هيئة رقابية"
+    },
+    {
+     "w": "manipulate",
+     "pos": "verb",
+     "def": "to influence or control someone or something cleverly and often unfairly",
+     "ex": "Some advertisements manipulate viewers by playing on their insecurities about their appearance.",
+     "col": [
+      "manipulate public opinion",
+      "manipulate consumers",
+      "easily manipulated"
+     ],
+     "ar": "يتلاعب بـ"
+    },
+    {
+     "w": "investigative journalism",
+     "pos": "noun",
+     "def": "reporting in which journalists research a subject in great depth, often to expose wrongdoing",
+     "ex": "Investigative journalism is expensive, yet it plays a vital role in exposing corruption.",
+     "col": [
+      "fund investigative journalism",
+      "a piece of investigative journalism"
+     ],
+     "ar": "الصحافة الاستقصائية"
+    },
+    {
+     "w": "intrusive",
+     "pos": "adjective",
+     "def": "affecting someone's private life in a way that is unwelcome",
+     "ex": "Intrusive photographers have sometimes been accused of putting celebrities in danger.",
+     "col": [
+      "intrusive advertising",
+      "intrusive questions",
+      "highly intrusive"
+     ],
+     "ar": "مُتطفِّل / يقتحم الخصوصية"
+    }
+   ]
+  },
+  {
+   "id": "family",
+   "name": "Family & society",
+   "ar": "الأسرة والمجتمع",
+   "words": [
+    {
+     "w": "nuclear family",
+     "pos": "noun",
+     "def": "a family unit made up of two parents and their children",
+     "ex": "In many societies the nuclear family has replaced households in which several generations lived together.",
+     "col": [
+      "the traditional nuclear family",
+      "nuclear family households"
+     ],
+     "ar": "الأسرة النواة (الأبوان والأبناء)"
+    },
+    {
+     "w": "extended family",
+     "pos": "noun",
+     "def": "a family that includes grandparents, aunts, uncles and cousins as well as parents and children",
+     "ex": "In cultures with strong extended family networks, grandparents often share responsibility for childcare.",
+     "col": [
+      "extended family networks",
+      "live with the extended family"
+     ],
+     "ar": "العائلة الممتدّة"
+    },
+    {
+     "w": "upbringing",
+     "pos": "noun",
+     "def": "the way a child is cared for and taught how to behave while growing up",
+     "ex": "A strict upbringing does not necessarily produce more disciplined adults.",
+     "col": [
+      "a strict upbringing",
+      "a sheltered upbringing",
+      "parental upbringing"
+     ],
+     "ar": "التنشئة / التربية"
+    },
+    {
+     "w": "ageing population",
+     "pos": "noun",
+     "def": "a population in which the proportion of older people is increasing",
+     "ex": "An ageing population will place heavy demands on pension systems and healthcare.",
+     "col": [
+      "the challenges of an ageing population",
+      "a rapidly ageing population"
+     ],
+     "ar": "شيخوخة السكان (ارتفاع نسبة كبار السن)"
+    },
+    {
+     "w": "generation gap",
+     "pos": "noun",
+     "def": "the differences in attitudes, values and behaviour between younger and older people",
+     "ex": "Technology has widened the generation gap in the way people communicate.",
+     "col": [
+      "bridge the generation gap",
+      "a widening generation gap"
+     ],
+     "ar": "فجوة الأجيال"
+    },
+    {
+     "w": "single-parent family",
+     "pos": "noun",
+     "def": "a family in which one parent brings up the children alone",
+     "ex": "Single-parent families are more likely to experience financial pressure.",
+     "col": [
+      "single-parent households",
+      "children of single-parent families"
+     ],
+     "ar": "أسرة يرعاها أحد الوالدين وحده"
+    },
+    {
+     "w": "breadwinner",
+     "pos": "noun",
+     "def": "the member of a family who earns the money that the family needs to live on",
+     "ex": "The idea of the father as the sole breadwinner is becoming less common.",
+     "col": [
+      "the main breadwinner",
+      "the sole breadwinner"
+     ],
+     "ar": "المُعيل"
+    },
+    {
+     "w": "gender roles",
+     "pos": "noun",
+     "def": "the behaviour, tasks and responsibilities that a society considers suitable for men or for women",
+     "ex": "Traditional gender roles are changing as more women enter senior professional positions.",
+     "col": [
+      "traditional gender roles",
+      "challenge gender roles",
+      "shifting gender roles"
+     ],
+     "ar": "الأدوار الاجتماعية للجنسين"
+    },
+    {
+     "w": "social cohesion",
+     "pos": "noun",
+     "def": "the sense of connection and shared values that holds members of a community together",
+     "ex": "Community festivals can strengthen social cohesion in diverse neighbourhoods.",
+     "col": [
+      "promote social cohesion",
+      "undermine social cohesion"
+     ],
+     "ar": "التماسك الاجتماعي"
+    },
+    {
+     "w": "peer pressure",
+     "pos": "noun",
+     "def": "the influence that people of a similar age have on each other to behave in a certain way",
+     "ex": "Many teenagers start smoking as a result of peer pressure from their friends.",
+     "col": [
+      "give in to peer pressure",
+      "resist peer pressure",
+      "intense peer pressure"
+     ],
+     "ar": "ضغط الأقران"
+    },
+    {
+     "w": "role model",
+     "pos": "noun",
+     "def": "a person whose behaviour others, especially young people, admire and try to copy",
+     "ex": "Athletes are powerful role models, so their behaviour off the field matters.",
+     "col": [
+      "a positive role model",
+      "act as a role model",
+      "lack role models"
+     ],
+     "ar": "قدوة"
+    },
+    {
+     "w": "childcare",
+     "pos": "noun",
+     "def": "the care of children, especially by a nursery or carer while parents are working",
+     "ex": "Affordable childcare allows more parents, particularly mothers, to remain in work.",
+     "col": [
+      "affordable childcare",
+      "childcare facilities",
+      "childcare costs"
+     ],
+     "ar": "رعاية الأطفال"
+    },
+    {
+     "w": "elderly care",
+     "pos": "noun",
+     "def": "the support and services provided for older people who cannot fully look after themselves",
+     "ex": "As families become smaller, the state is under pressure to expand elderly care services.",
+     "col": [
+      "residential elderly care",
+      "the cost of elderly care"
+     ],
+     "ar": "رعاية المسنّين"
+    },
+    {
+     "w": "social isolation",
+     "pos": "noun",
+     "def": "a lack of regular contact with other people",
+     "ex": "Social isolation among older people has been linked to poorer physical and mental health.",
+     "col": [
+      "combat social isolation",
+      "experience social isolation"
+     ],
+     "ar": "العزلة الاجتماعية"
+    },
+    {
+     "w": "marginalised",
+     "pos": "adjective",
+     "def": "(of a group of people) treated as unimportant and excluded from power or society",
+     "ex": "Public libraries provide vital resources for marginalised communities.",
+     "col": [
+      "marginalised groups",
+      "socially marginalised",
+      "marginalised communities"
+     ],
+     "ar": "مُهمَّش"
+    },
+    {
+     "w": "social mobility",
+     "pos": "noun",
+     "def": "the ability of people to move to a higher social or economic position than the one they were born into",
+     "ex": "Free, high-quality schooling is widely seen as the key to social mobility.",
+     "col": [
+      "improve social mobility",
+      "low social mobility",
+      "upward social mobility"
+     ],
+     "ar": "الحراك الاجتماعي"
+    },
+    {
+     "w": "inequality",
+     "pos": "noun",
+     "def": "an unfair situation in which some groups have more money, opportunities or power than others",
+     "ex": "Income inequality has widened in many countries over the past four decades.",
+     "col": [
+      "income inequality",
+      "social inequality",
+      "reduce inequality"
+     ],
+     "ar": "عدم المساواة / التفاوت"
+    },
+    {
+     "w": "sibling rivalry",
+     "pos": "noun",
+     "def": "competition or jealousy between brothers and sisters",
+     "ex": "Parents can reduce sibling rivalry by avoiding comparisons between their children.",
+     "col": [
+      "intense sibling rivalry",
+      "a source of sibling rivalry"
+     ],
+     "ar": "التنافس بين الإخوة"
+    },
+    {
+     "w": "dual-income household",
+     "pos": "noun",
+     "def": "a household in which both partners have paid jobs",
+     "ex": "In dual-income households, decisions about childcare and housework must be shared.",
+     "col": [
+      "dual-income households",
+      "dual-income families"
+     ],
+     "ar": "أسرة ذات دخلَين"
+    },
+    {
+     "w": "domestic responsibilities",
+     "pos": "noun",
+     "def": "jobs that need doing in the home, such as cleaning, cooking and caring for family members",
+     "ex": "Women still take on a larger share of domestic responsibilities, even when they work full-time.",
+     "col": [
+      "share domestic responsibilities",
+      "juggle work and domestic responsibilities"
+     ],
+     "ar": "الأعباء المنزلية"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "name": "Culture & tradition",
+   "ar": "الثقافة والتقاليد",
+   "words": [
+    {
+     "w": "heritage",
+     "pos": "noun",
+     "def": "the traditions, buildings, language and customs of a society that are passed down from earlier generations",
+     "ex": "Museums play a key role in preserving a nation's cultural heritage.",
+     "col": [
+      "cultural heritage",
+      "national heritage",
+      "a heritage site"
+     ],
+     "ar": "التراث"
+    },
+    {
+     "w": "customs",
+     "pos": "noun",
+     "def": "traditional ways of behaving or doing something that are shared by a particular group",
+     "ex": "Visitors should learn about local customs before travelling to avoid causing offence.",
+     "col": [
+      "local customs",
+      "ancient customs",
+      "observe customs"
+     ],
+     "ar": "الأعراف والعادات"
+    },
+    {
+     "w": "cultural identity",
+     "pos": "noun",
+     "def": "a person's or group's sense of belonging to a particular culture, shaped by language, history and traditions",
+     "ex": "For many migrants, speaking their mother tongue at home helps maintain their cultural identity.",
+     "col": [
+      "a strong cultural identity",
+      "preserve cultural identity",
+      "a loss of cultural identity"
+     ],
+     "ar": "الهوية الثقافية"
+    },
+    {
+     "w": "assimilate",
+     "pos": "verb",
+     "def": "to become part of a new society by adopting its language and customs, or to cause someone to do this",
+     "ex": "Second-generation immigrants often assimilate more quickly than their parents.",
+     "col": [
+      "assimilate into society",
+      "fully assimilated",
+      "pressure to assimilate"
+     ],
+     "ar": "يندمج (في المجتمع الجديد ويتبنّى ثقافته)"
+    },
+    {
+     "w": "multicultural",
+     "pos": "adjective",
+     "def": "including people of many different cultures, nationalities or religions",
+     "ex": "Multicultural classrooms can teach children to respect differences from an early age.",
+     "col": [
+      "a multicultural society",
+      "multicultural communities"
+     ],
+     "ar": "متعدد الثقافات"
+    },
+    {
+     "w": "indigenous",
+     "pos": "adjective",
+     "def": "belonging to the people who originally lived in a place, before others arrived",
+     "ex": "Indigenous languages are disappearing at an alarming rate as younger speakers switch to dominant languages.",
+     "col": [
+      "indigenous peoples",
+      "indigenous languages",
+      "indigenous communities"
+     ],
+     "ar": "أصلي (من السكان الأصليين)"
+    },
+    {
+     "w": "folklore",
+     "pos": "noun",
+     "def": "the traditional stories, beliefs and songs of a community, passed on by word of mouth",
+     "ex": "Local folklore is an important source of information about how communities lived in the past.",
+     "col": [
+      "local folklore",
+      "rich in folklore"
+     ],
+     "ar": "الفولكلور (الموروث الشعبي)"
+    },
+    {
+     "w": "craftsmanship",
+     "pos": "noun",
+     "def": "the skill involved in making something beautiful or useful by hand",
+     "ex": "Mass production has made many forms of traditional craftsmanship commercially unviable.",
+     "col": [
+      "traditional craftsmanship",
+      "fine craftsmanship"
+     ],
+     "ar": "الحِرَفية / براعة الصنعة"
+    },
+    {
+     "w": "homogenisation",
+     "pos": "noun",
+     "def": "the process of things becoming the same or very similar, for example cultures around the world",
+     "ex": "Some commentators fear the homogenisation of culture as global brands spread.",
+     "col": [
+      "cultural homogenisation",
+      "the homogenisation of tastes"
+     ],
+     "ar": "التنميط / التجانس الثقافي"
+    },
+    {
+     "w": "revive",
+     "pos": "verb",
+     "def": "to bring something back into use or popularity",
+     "ex": "Workshops for young people have helped revive interest in traditional weaving.",
+     "col": [
+      "revive interest in",
+      "revive a tradition",
+      "an attempt to revive"
+     ],
+     "ar": "يُحيي / يُنعش"
+    },
+    {
+     "w": "preserve",
+     "pos": "verb",
+     "def": "to keep something in its original state or protect it from being lost or damaged",
+     "ex": "Governments should provide funding to preserve historic buildings for future generations.",
+     "col": [
+      "preserve traditions",
+      "preserve historic buildings",
+      "well preserved"
+     ],
+     "ar": "يحافظ على"
+    },
+    {
+     "w": "diversity",
+     "pos": "noun",
+     "def": "a situation in which many different types of people or things are included",
+     "ex": "Cultural diversity can make cities more creative and economically dynamic.",
+     "col": [
+      "cultural diversity",
+      "celebrate diversity",
+      "linguistic diversity"
+     ],
+     "ar": "التنوّع"
+    },
+    {
+     "w": "intangible",
+     "pos": "adjective",
+     "def": "existing but impossible to touch, such as traditions, music or skills",
+     "ex": "Oral storytelling is an example of intangible heritage that is easily lost.",
+     "col": [
+      "intangible heritage",
+      "intangible benefits"
+     ],
+     "ar": "غير مادّي"
+    },
+    {
+     "w": "ritual",
+     "pos": "noun",
+     "def": "a set of actions that is always performed in the same way, often as part of a ceremony",
+     "ex": "Shared meals are a ritual that brings families together in almost every culture.",
+     "col": [
+      "a religious ritual",
+      "a daily ritual",
+      "ancient rituals"
+     ],
+     "ar": "طقس / شعيرة"
+    },
+    {
+     "w": "artefact",
+     "pos": "noun",
+     "def": "an object made by people in the past, especially one of historical or cultural interest",
+     "ex": "Many artefacts were removed from their countries of origin during the colonial era.",
+     "col": [
+      "ancient artefacts",
+      "cultural artefacts",
+      "return artefacts"
+     ],
+     "ar": "قطعة أثرية"
+    },
+    {
+     "w": "cultural exchange",
+     "pos": "noun",
+     "def": "the sharing of ideas, art and customs between people from different countries",
+     "ex": "Student exchange programmes encourage cultural exchange and lasting international friendships.",
+     "col": [
+      "promote cultural exchange",
+      "a cultural exchange programme"
+     ],
+     "ar": "التبادل الثقافي"
+    },
+    {
+     "w": "stereotype",
+     "pos": "noun",
+     "def": "a fixed, oversimplified idea about what a particular type of person or group is like",
+     "ex": "Films that rely on national stereotypes can reinforce prejudice.",
+     "col": [
+      "reinforce stereotypes",
+      "challenge stereotypes",
+      "negative stereotypes"
+     ],
+     "ar": "صورة نمطية"
+    },
+    {
+     "w": "the arts",
+     "pos": "noun",
+     "def": "activities such as painting, music, theatre, dance and literature, considered as a group",
+     "ex": "Public funding for the arts is often among the first areas cut during a recession.",
+     "col": [
+      "funding for the arts",
+      "support the arts",
+      "the performing arts"
+     ],
+     "ar": "الفنون"
+    },
+    {
+     "w": "cultural landmark",
+     "pos": "noun",
+     "def": "a building or place that is important to a community's history and identity",
+     "ex": "The old theatre was restored because it is regarded as a cultural landmark.",
+     "col": [
+      "a famous cultural landmark",
+      "protect cultural landmarks"
+     ],
+     "ar": "مَعلَم ثقافي"
+    },
+    {
+     "w": "time-honoured",
+     "pos": "adjective",
+     "def": "respected and followed because it has existed for a very long time",
+     "ex": "Many families still follow the time-honoured tradition of gathering for a meal at festivals.",
+     "col": [
+      "a time-honoured tradition",
+      "time-honoured customs"
+     ],
+     "ar": "عريق / متوارَث منذ زمن طويل"
+    }
+   ]
+  },
+  {
+   "id": "tourism",
+   "name": "Tourism & travel",
+   "ar": "السياحة والسفر",
+   "words": [
+    {
+     "w": "mass tourism",
+     "pos": "noun",
+     "def": "tourism involving very large numbers of people visiting the same popular places",
+     "ex": "Mass tourism can overwhelm small historic towns that were never designed for crowds.",
+     "col": [
+      "the effects of mass tourism",
+      "a destination for mass tourism"
+     ],
+     "ar": "السياحة الجماعية"
+    },
+    {
+     "w": "ecotourism",
+     "pos": "noun",
+     "def": "travel to natural areas that is organised so as to protect the environment and benefit local people",
+     "ex": "Well-managed ecotourism can give communities a financial reason to protect wildlife.",
+     "col": [
+      "promote ecotourism",
+      "ecotourism projects"
+     ],
+     "ar": "السياحة البيئية"
+    },
+    {
+     "w": "overtourism",
+     "pos": "noun",
+     "def": "a situation in which a place receives more visitors than it can cope with, harming residents and the environment",
+     "ex": "Several popular cities have introduced visitor limits in response to overtourism.",
+     "col": [
+      "tackle overtourism",
+      "the problem of overtourism"
+     ],
+     "ar": "السياحة المفرطة (فرط السياحة)"
+    },
+    {
+     "w": "tourist destination",
+     "pos": "noun",
+     "def": "a place that many people visit for pleasure",
+     "ex": "The island has become a major tourist destination since the new airport opened.",
+     "col": [
+      "a popular tourist destination",
+      "a long-haul tourist destination"
+     ],
+     "ar": "وجهة سياحية"
+    },
+    {
+     "w": "hospitality industry",
+     "pos": "noun",
+     "def": "the business of providing food, drink and accommodation, for example in hotels and restaurants",
+     "ex": "The hospitality industry employs a large share of young and seasonal workers.",
+     "col": [
+      "work in the hospitality industry",
+      "the hospitality sector"
+     ],
+     "ar": "قطاع الضيافة"
+    },
+    {
+     "w": "revenue",
+     "pos": "noun",
+     "def": "the money that a government or organisation receives, for example from tourism or taxes",
+     "ex": "Tourism revenue can help fund the maintenance of historic sites.",
+     "col": [
+      "generate revenue",
+      "tourism revenue",
+      "a source of revenue"
+     ],
+     "ar": "الإيرادات"
+    },
+    {
+     "w": "influx",
+     "pos": "noun",
+     "def": "the arrival of a large number of people or things at the same time",
+     "ex": "The summer influx of visitors doubles the population of some coastal villages.",
+     "col": [
+      "a sudden influx",
+      "an influx of tourists"
+     ],
+     "ar": "تدفّق كبير"
+    },
+    {
+     "w": "off the beaten track",
+     "pos": "idiom",
+     "def": "far away from the places that most tourists visit",
+     "ex": "More travellers are seeking destinations off the beaten track to avoid crowds.",
+     "col": [
+      "travel off the beaten track",
+      "a village off the beaten track"
+     ],
+     "ar": "بعيدًا عن المسارات السياحية المألوفة"
+    },
+    {
+     "w": "itinerary",
+     "pos": "noun",
+     "def": "a detailed plan of a journey, listing the places to be visited",
+     "ex": "A flexible itinerary allows travellers to spend longer in places they enjoy.",
+     "col": [
+      "plan an itinerary",
+      "a packed itinerary",
+      "a detailed itinerary"
+     ],
+     "ar": "برنامج الرحلة / خط سير الرحلة"
+    },
+    {
+     "w": "seasonal",
+     "pos": "adjective",
+     "def": "happening or needed only at a particular time of year",
+     "ex": "Seasonal employment in tourist areas leaves many workers without income in winter.",
+     "col": [
+      "seasonal work",
+      "seasonal fluctuations",
+      "seasonal demand"
+     ],
+     "ar": "موسمي"
+    },
+    {
+     "w": "authentic",
+     "pos": "adjective",
+     "def": "real and genuine, not a copy or a version made mainly for tourists",
+     "ex": "Many travellers want an authentic experience of local life rather than a staged show.",
+     "col": [
+      "an authentic experience",
+      "authentic local cuisine"
+     ],
+     "ar": "أصيل / حقيقي"
+    },
+    {
+     "w": "commercialisation",
+     "pos": "noun",
+     "def": "the process of organising something mainly to make a profit, often at the cost of its quality or character",
+     "ex": "The commercialisation of local festivals can strip them of their original meaning.",
+     "col": [
+      "the commercialisation of culture",
+      "excessive commercialisation"
+     ],
+     "ar": "التسليع / الطابع التجاري"
+    },
+    {
+     "w": "carrying capacity",
+     "pos": "noun",
+     "def": "the largest number of visitors a place can receive without being damaged",
+     "ex": "Authorities should assess the carrying capacity of fragile sites before promoting them.",
+     "col": [
+      "exceed carrying capacity",
+      "assess carrying capacity"
+     ],
+     "ar": "القدرة الاستيعابية"
+    },
+    {
+     "w": "wanderlust",
+     "pos": "noun",
+     "def": "a strong desire to travel and see new places",
+     "ex": "Social media images of distant beaches have fuelled wanderlust among young adults.",
+     "col": [
+      "a sense of wanderlust",
+      "fuel wanderlust"
+     ],
+     "ar": "شغف السفر والترحال"
+    },
+    {
+     "w": "broaden horizons",
+     "pos": "phrase",
+     "def": "to increase your knowledge and experience of the world",
+     "ex": "Living abroad, even briefly, can broaden young people's horizons.",
+     "col": [
+      "broaden your horizons",
+      "help broaden horizons"
+     ],
+     "ar": "يوسّع آفاقه / مداركه"
+    },
+    {
+     "w": "culture shock",
+     "pos": "noun",
+     "def": "a feeling of confusion or anxiety that people may have when they experience a very different way of life",
+     "ex": "International students often experience culture shock during their first months abroad.",
+     "col": [
+      "experience culture shock",
+      "suffer from culture shock",
+      "reverse culture shock"
+     ],
+     "ar": "الصدمة الثقافية"
+    },
+    {
+     "w": "tourist trap",
+     "pos": "noun",
+     "def": "a place that attracts many tourists and charges them too much for poor-quality goods or services",
+     "ex": "The old harbour has become a tourist trap full of overpriced cafes.",
+     "col": [
+      "avoid tourist traps",
+      "a notorious tourist trap"
+     ],
+     "ar": "مصيدة سياحية (مكان مبالغ في أسعاره)"
+    },
+    {
+     "w": "package holiday",
+     "pos": "noun",
+     "def": "a holiday organised by a company at a fixed price that includes travel and accommodation",
+     "ex": "Package holidays have made foreign travel affordable for millions of families.",
+     "col": [
+      "book a package holiday",
+      "all-inclusive package holidays"
+     ],
+     "ar": "رحلة سياحية شاملة"
+    },
+    {
+     "w": "long-haul",
+     "pos": "adjective",
+     "def": "travelling a long distance, especially by plane",
+     "ex": "Long-haul flights make up a disproportionate share of aviation emissions.",
+     "col": [
+      "long-haul flights",
+      "long-haul destinations"
+     ],
+     "ar": "بعيد المدى (لمسافات طويلة)"
+    },
+    {
+     "w": "staycation",
+     "pos": "noun",
+     "def": "a holiday spent at home or in your own country instead of travelling abroad",
+     "ex": "Rising air fares have made the staycation an attractive option for many families.",
+     "col": [
+      "opt for a staycation",
+      "the rise of the staycation"
+     ],
+     "ar": "عطلة داخلية (قضاء الإجازة في البلد نفسه)"
+    }
+   ]
+  },
+  {
+   "id": "science",
+   "name": "Science & research",
+   "ar": "العلوم والبحث العلمي",
+   "words": [
+    {
+     "w": "empirical",
+     "pos": "adjective",
+     "def": "based on observation, measurement or experiment rather than on theory alone",
+     "ex": "Policy decisions should be supported by empirical evidence rather than assumptions.",
+     "col": [
+      "empirical evidence",
+      "empirical research",
+      "empirical data"
+     ],
+     "ar": "تجريبي (قائم على الملاحظة والتجربة)"
+    },
+    {
+     "w": "hypothesis",
+     "pos": "noun",
+     "def": "an idea or explanation that is suggested and then tested through study or experiment",
+     "ex": "The team designed a series of trials to test the hypothesis that sleep improves memory.",
+     "col": [
+      "test a hypothesis",
+      "support a hypothesis",
+      "a working hypothesis"
+     ],
+     "ar": "فرضية"
+    },
+    {
+     "w": "peer review",
+     "pos": "noun",
+     "def": "the evaluation of a researcher's work by other experts in the same field before it is published",
+     "ex": "Peer review helps to ensure that published studies meet basic standards of quality.",
+     "col": [
+      "undergo peer review",
+      "the peer-review process",
+      "peer-reviewed journals"
+     ],
+     "ar": "التحكيم العلمي (مراجعة الأقران)"
+    },
+    {
+     "w": "research grant",
+     "pos": "noun",
+     "def": "a sum of money given by a government, university or organisation to pay for a particular research project",
+     "ex": "Young scientists often spend months writing applications for research grants instead of doing research.",
+     "col": [
+      "apply for a research grant",
+      "award a research grant",
+      "a three-year research grant"
+     ],
+     "ar": "منحة بحثية"
+    },
+    {
+     "w": "clinical trial",
+     "pos": "noun",
+     "def": "a carefully controlled test of a new medicine or treatment on people",
+     "ex": "A new drug must pass several stages of clinical trials before it can be approved.",
+     "col": [
+      "conduct a clinical trial",
+      "take part in a clinical trial",
+      "large-scale clinical trials"
+     ],
+     "ar": "تجربة سريرية"
+    },
+    {
+     "w": "ethical",
+     "pos": "adjective",
+     "def": "relating to whether something is morally right or wrong",
+     "ex": "Gene editing raises serious ethical questions about where the limits of science should lie.",
+     "col": [
+      "ethical concerns",
+      "ethical guidelines",
+      "ethically questionable"
+     ],
+     "ar": "أخلاقي"
+    },
+    {
+     "w": "fundamental research",
+     "pos": "noun",
+     "def": "research carried out to increase understanding rather than to solve a specific practical problem",
+     "ex": "Many practical inventions grew out of fundamental research whose uses were not obvious at first.",
+     "col": [
+      "invest in fundamental research",
+      "the value of fundamental research"
+     ],
+     "ar": "البحث الأساسي"
+    },
+    {
+     "w": "replicate",
+     "pos": "verb",
+     "def": "to repeat an experiment or study in order to check whether the same results are obtained",
+     "ex": "If other laboratories cannot replicate a finding, it should be treated with caution.",
+     "col": [
+      "replicate results",
+      "replicate a study",
+      "fail to replicate"
+     ],
+     "ar": "يُكرِّر (التجربة للتحقق من نتائجها)"
+    },
+    {
+     "w": "findings",
+     "pos": "noun",
+     "def": "the information or conclusions discovered as a result of research",
+     "ex": "The findings suggest that even small changes in diet can affect long-term health.",
+     "col": [
+      "research findings",
+      "publish findings",
+      "preliminary findings"
+     ],
+     "ar": "النتائج"
+    },
+    {
+     "w": "groundbreaking",
+     "pos": "adjective",
+     "def": "completely new and making a very important discovery or development",
+     "ex": "Her groundbreaking work on vaccines saved countless lives.",
+     "col": [
+      "groundbreaking research",
+      "a groundbreaking discovery"
+     ],
+     "ar": "رائد / غير مسبوق"
+    },
+    {
+     "w": "space exploration",
+     "pos": "noun",
+     "def": "the investigation of outer space using spacecraft, satellites and telescopes",
+     "ex": "Supporters of space exploration argue that it produces technologies with everyday uses.",
+     "col": [
+      "fund space exploration",
+      "the benefits of space exploration"
+     ],
+     "ar": "استكشاف الفضاء"
+    },
+    {
+     "w": "genetic engineering",
+     "pos": "noun",
+     "def": "the deliberate changing of the genes of a living thing in order to alter its characteristics",
+     "ex": "Genetic engineering could produce crops that tolerate drought, but public acceptance remains low.",
+     "col": [
+      "advances in genetic engineering",
+      "the risks of genetic engineering"
+     ],
+     "ar": "الهندسة الوراثية"
+    },
+    {
+     "w": "variable",
+     "pos": "noun",
+     "def": "a factor that can change and that may affect the result of an experiment",
+     "ex": "Researchers must control other variables so that they can isolate the effect of the treatment.",
+     "col": [
+      "control variables",
+      "a key variable",
+      "independent variables"
+     ],
+     "ar": "متغيّر"
+    },
+    {
+     "w": "sample size",
+     "pos": "noun",
+     "def": "the number of people or items included in a study",
+     "ex": "Because the sample size was so small, the results cannot be generalised to the whole population.",
+     "col": [
+      "a large sample size",
+      "increase the sample size"
+     ],
+     "ar": "حجم العيّنة"
+    },
+    {
+     "w": "correlation",
+     "pos": "noun",
+     "def": "a connection between two things in which one changes when the other does, which does not necessarily mean one causes the other",
+     "ex": "A correlation between screen use and poor sleep does not prove that one causes the other.",
+     "col": [
+      "a strong correlation",
+      "a positive correlation",
+      "correlation and causation"
+     ],
+     "ar": "ارتباط (إحصائي)"
+    },
+    {
+     "w": "feasible",
+     "pos": "adjective",
+     "def": "possible and practical to achieve",
+     "ex": "The plan is technically feasible, but it may be too expensive to carry out on a large scale.",
+     "col": [
+      "technically feasible",
+      "economically feasible",
+      "a feasible solution"
+     ],
+     "ar": "ممكن التنفيذ / عملي"
+    },
+    {
+     "w": "scientific consensus",
+     "pos": "noun",
+     "def": "the general agreement among most scientists in a field on a particular question",
+     "ex": "There is a strong scientific consensus that human activity is warming the planet.",
+     "col": [
+      "a broad scientific consensus",
+      "reach a scientific consensus"
+     ],
+     "ar": "الإجماع العلمي"
+    },
+    {
+     "w": "pioneer",
+     "pos": "verb",
+     "def": "to be one of the first people to develop or use a new idea, method or activity",
+     "ex": "The university pioneered the use of robots in surgery.",
+     "col": [
+      "pioneer a technique",
+      "pioneering research",
+      "pioneer the use of"
+     ],
+     "ar": "يكون رائدًا في"
+    },
+    {
+     "w": "rigorous",
+     "pos": "adjective",
+     "def": "done carefully, thoroughly and exactly, so that the results can be trusted",
+     "ex": "Rigorous testing is required before any new medicine can be approved for public use.",
+     "col": [
+      "rigorous testing",
+      "rigorous methods",
+      "scientifically rigorous"
+     ],
+     "ar": "صارم ودقيق"
+    },
+    {
+     "w": "brain drain",
+     "pos": "noun",
+     "def": "the movement of highly skilled and educated people from one country to another where pay or conditions are better",
+     "ex": "Low research budgets have caused a brain drain of young scientists to wealthier countries.",
+     "col": [
+      "reverse the brain drain",
+      "suffer from a brain drain"
+     ],
+     "ar": "هجرة العقول (الكفاءات)"
+    }
+   ]
+  },
+  {
+   "id": "government",
+   "name": "Government & economy",
+   "ar": "الحكومة والاقتصاد",
+   "words": [
+    {
+     "w": "taxation",
+     "pos": "noun",
+     "def": "the system by which a government collects money from people and businesses to pay for public services",
+     "ex": "Higher taxation on luxury goods could help fund free public transport.",
+     "col": [
+      "progressive taxation",
+      "levels of taxation",
+      "taxation policy"
+     ],
+     "ar": "الضرائب / نظام الضرائب"
+    },
+    {
+     "w": "subsidy",
+     "pos": "noun",
+     "def": "money paid by a government to reduce the cost of a product or service, or to support an industry",
+     "ex": "Subsidies for electric vehicles have made them affordable for many middle-income families.",
+     "col": [
+      "government subsidies",
+      "provide a subsidy",
+      "remove subsidies"
+     ],
+     "ar": "دعم حكومي (إعانة)"
+    },
+    {
+     "w": "public spending",
+     "pos": "noun",
+     "def": "the money a government spends on services such as education, health and defence",
+     "ex": "Cuts in public spending tend to hit the poorest households hardest.",
+     "col": [
+      "cut public spending",
+      "increase public spending",
+      "levels of public spending"
+     ],
+     "ar": "الإنفاق العام"
+    },
+    {
+     "w": "welfare",
+     "pos": "noun",
+     "def": "help, especially money, that the government gives to people who are poor, ill or unemployed",
+     "ex": "A well-designed welfare system provides a safety net without discouraging people from working.",
+     "col": [
+      "the welfare state",
+      "welfare benefits",
+      "welfare reform"
+     ],
+     "ar": "الرعاية الاجتماعية"
+    },
+    {
+     "w": "recession",
+     "pos": "noun",
+     "def": "a period when a country's economy shrinks, trade and industry decline, and unemployment usually rises",
+     "ex": "During a recession, young workers are often the first to lose their jobs.",
+     "col": [
+      "an economic recession",
+      "enter a recession",
+      "a deep recession"
+     ],
+     "ar": "ركود اقتصادي"
+    },
+    {
+     "w": "inflation",
+     "pos": "noun",
+     "def": "a general rise in prices over time, which reduces how much money can buy",
+     "ex": "High inflation reduces the real value of wages and savings.",
+     "col": [
+      "high inflation",
+      "the rate of inflation",
+      "control inflation"
+     ],
+     "ar": "التضخّم"
+    },
+    {
+     "w": "budget deficit",
+     "pos": "noun",
+     "def": "the amount by which a government's spending is greater than its income in a year",
+     "ex": "Governments may raise taxes or cut services in order to reduce a budget deficit.",
+     "col": [
+      "reduce the budget deficit",
+      "a growing budget deficit"
+     ],
+     "ar": "عجز الموازنة"
+    },
+    {
+     "w": "accountability",
+     "pos": "noun",
+     "def": "the fact of being responsible for your decisions and actions and expected to explain them",
+     "ex": "Publishing spending data increases the accountability of public officials.",
+     "col": [
+      "greater accountability",
+      "public accountability",
+      "a lack of accountability"
+     ],
+     "ar": "المساءلة"
+    },
+    {
+     "w": "bureaucracy",
+     "pos": "noun",
+     "def": "a system of administration with many complicated rules and processes, often criticised for being slow",
+     "ex": "Excessive bureaucracy can discourage people from starting small businesses.",
+     "col": [
+      "cut bureaucracy",
+      "excessive bureaucracy",
+      "government bureaucracy"
+     ],
+     "ar": "البيروقراطية"
+    },
+    {
+     "w": "corruption",
+     "pos": "noun",
+     "def": "dishonest or illegal behaviour by people in power, especially accepting money in return for favours",
+     "ex": "Corruption diverts public money away from schools and hospitals.",
+     "col": [
+      "tackle corruption",
+      "widespread corruption",
+      "allegations of corruption"
+     ],
+     "ar": "الفساد"
+    },
+    {
+     "w": "regulation",
+     "pos": "noun",
+     "def": "an official rule, or the process of controlling an activity through rules",
+     "ex": "Stronger regulation of the banking sector could help prevent another financial crisis.",
+     "col": [
+      "strict regulation",
+      "government regulation",
+      "comply with regulations"
+     ],
+     "ar": "التنظيم / اللوائح التنظيمية"
+    },
+    {
+     "w": "fiscal",
+     "pos": "adjective",
+     "def": "relating to government income, taxes and spending",
+     "ex": "Fiscal policy can be used to stimulate the economy during a downturn.",
+     "col": [
+      "fiscal policy",
+      "fiscal responsibility",
+      "the fiscal year"
+     ],
+     "ar": "مالي (يتعلّق بالمالية العامة)"
+    },
+    {
+     "w": "economic growth",
+     "pos": "noun",
+     "def": "an increase in the amount of goods and services that an economy produces over time",
+     "ex": "Economic growth does not automatically reduce poverty if its benefits are unevenly shared.",
+     "col": [
+      "sustained economic growth",
+      "stimulate economic growth",
+      "rapid economic growth"
+     ],
+     "ar": "النمو الاقتصادي"
+    },
+    {
+     "w": "allocate",
+     "pos": "verb",
+     "def": "to officially give money, time or resources to a particular person or purpose",
+     "ex": "Governments must decide how to allocate limited funds between healthcare and education.",
+     "col": [
+      "allocate resources",
+      "allocate funds",
+      "allocate a budget"
+     ],
+     "ar": "يُخصِّص"
+    },
+    {
+     "w": "privatisation",
+     "pos": "noun",
+     "def": "the selling of a state-owned company or service to private owners",
+     "ex": "Critics argue that the privatisation of public services such as railways can lead to higher fares.",
+     "col": [
+      "the privatisation of public services",
+      "oppose privatisation"
+     ],
+     "ar": "الخصخصة"
+    },
+    {
+     "w": "austerity",
+     "pos": "noun",
+     "def": "a government policy of reducing public spending sharply in order to lower debt",
+     "ex": "Years of austerity left many public services underfunded and short of staff.",
+     "col": [
+      "austerity measures",
+      "a period of austerity",
+      "impose austerity"
+     ],
+     "ar": "التقشّف"
+    },
+    {
+     "w": "poverty line",
+     "pos": "noun",
+     "def": "the minimum level of income considered necessary to meet basic needs in a particular country",
+     "ex": "Millions of people in work still live below the poverty line.",
+     "col": [
+      "live below the poverty line",
+      "lift people above the poverty line"
+     ],
+     "ar": "خط الفقر"
+    },
+    {
+     "w": "minimum wage",
+     "pos": "noun",
+     "def": "the lowest hourly pay that employers are legally allowed to pay their workers",
+     "ex": "Raising the minimum wage can improve living standards, although some employers may hire fewer staff.",
+     "col": [
+      "raise the minimum wage",
+      "a national minimum wage",
+      "earn the minimum wage"
+     ],
+     "ar": "الحدّ الأدنى للأجور"
+    },
+    {
+     "w": "public sector",
+     "pos": "noun",
+     "def": "the part of the economy that is owned or controlled by the government, such as state schools and hospitals",
+     "ex": "In several countries, public sector workers such as nurses and teachers have seen their pay fall in real terms.",
+     "col": [
+      "public sector workers",
+      "the public sector",
+      "public sector pay"
+     ],
+     "ar": "القطاع العام"
+    },
+    {
+     "w": "prosperity",
+     "pos": "noun",
+     "def": "the state of being successful, especially financially",
+     "ex": "Long-term prosperity depends on investment in education and infrastructure.",
+     "col": [
+      "economic prosperity",
+      "a period of prosperity",
+      "shared prosperity"
+     ],
+     "ar": "الازدهار"
+    }
+   ]
+  },
+  {
+   "id": "globalisation",
+   "name": "Globalisation",
+   "ar": "العولمة",
+   "words": [
+    {
+     "w": "multinational",
+     "pos": "noun",
+     "def": "a large company that operates in several countries",
+     "ex": "Multinationals can bring jobs to developing countries, but profits often flow abroad.",
+     "col": [
+      "multinational corporations",
+      "large multinationals"
+     ],
+     "ar": "شركة متعددة الجنسيات"
+    },
+    {
+     "w": "outsourcing",
+     "pos": "noun",
+     "def": "paying another company, often in a cheaper country, to do work that was done inside the organisation",
+     "ex": "The outsourcing of customer service jobs has cut costs but sometimes damaged quality.",
+     "col": [
+      "the outsourcing of jobs",
+      "outsourcing to cheaper countries"
+     ],
+     "ar": "الاستعانة بمصادر خارجية (التعهيد)"
+    },
+    {
+     "w": "free trade",
+     "pos": "noun",
+     "def": "international trade without taxes or other restrictions on imports and exports",
+     "ex": "Free trade agreements have lowered the price of many consumer goods.",
+     "col": [
+      "free trade agreements",
+      "promote free trade",
+      "a free trade zone"
+     ],
+     "ar": "التجارة الحرّة"
+    },
+    {
+     "w": "interdependence",
+     "pos": "noun",
+     "def": "a situation in which countries or people depend on each other",
+     "ex": "Global supply chains have created a high level of economic interdependence.",
+     "col": [
+      "economic interdependence",
+      "growing interdependence"
+     ],
+     "ar": "الاعتماد المتبادل"
+    },
+    {
+     "w": "supply chain",
+     "pos": "noun",
+     "def": "the series of businesses and processes involved in producing a product and delivering it to customers",
+     "ex": "A disruption at a single port can affect supply chains around the world.",
+     "col": [
+      "global supply chains",
+      "supply chain disruption"
+     ],
+     "ar": "سلسلة الإمداد / التوريد"
+    },
+    {
+     "w": "tariff",
+     "pos": "noun",
+     "def": "a tax charged by a government on goods coming into or leaving a country",
+     "ex": "Raising tariffs on imported steel may protect local jobs but increase costs for manufacturers.",
+     "col": [
+      "impose tariffs",
+      "import tariffs",
+      "lift tariffs"
+     ],
+     "ar": "رسوم جمركية / تعرفة جمركية"
+    },
+    {
+     "w": "emerging economy",
+     "pos": "noun",
+     "def": "a country whose economy is developing quickly and becoming more involved in global markets",
+     "ex": "Emerging economies now account for a growing share of world trade.",
+     "col": [
+      "fast-growing emerging economies",
+      "emerging economies such as"
+     ],
+     "ar": "اقتصاد ناشئ"
+    },
+    {
+     "w": "exploitation",
+     "pos": "noun",
+     "def": "the unfair treatment of people, especially paying them very little for their work",
+     "ex": "Consumers increasingly demand proof that their clothes were not made through the exploitation of workers.",
+     "col": [
+      "labour exploitation",
+      "the exploitation of workers"
+     ],
+     "ar": "الاستغلال"
+    },
+    {
+     "w": "sweatshop",
+     "pos": "noun",
+     "def": "a factory or workshop where people work very long hours for very low pay in poor conditions",
+     "ex": "Media investigations have exposed sweatshop conditions in factories supplying well-known fashion brands.",
+     "col": [
+      "sweatshop labour",
+      "sweatshop conditions"
+     ],
+     "ar": "مصنع استغلالي (أجور زهيدة وظروف عمل قاسية)"
+    },
+    {
+     "w": "cross-border",
+     "pos": "adjective",
+     "def": "happening between different countries or involving people from different countries",
+     "ex": "Cross-border cooperation is essential for tackling pandemics and climate change.",
+     "col": [
+      "cross-border trade",
+      "cross-border cooperation"
+     ],
+     "ar": "عابر للحدود"
+    },
+    {
+     "w": "protectionism",
+     "pos": "noun",
+     "def": "the policy of protecting a country's industries from foreign competition by taxing or restricting imports",
+     "ex": "A rise in protectionism could slow the growth of global trade.",
+     "col": [
+      "economic protectionism",
+      "a return to protectionism"
+     ],
+     "ar": "الحمائية التجارية"
+    },
+    {
+     "w": "migrant workers",
+     "pos": "noun",
+     "def": "people who move to another region or country in order to find work",
+     "ex": "Migrant workers often send a large part of their earnings back to their families.",
+     "col": [
+      "foreign migrant workers",
+      "the rights of migrant workers"
+     ],
+     "ar": "العمالة الوافدة / العمال المهاجرون"
+    },
+    {
+     "w": "remittances",
+     "pos": "noun",
+     "def": "money sent home by people working in another country",
+     "ex": "In some countries, remittances are worth more than all foreign aid combined.",
+     "col": [
+      "send remittances",
+      "a flow of remittances"
+     ],
+     "ar": "التحويلات المالية للمغتربين"
+    },
+    {
+     "w": "global village",
+     "pos": "noun",
+     "def": "the idea that the world has become like one small community because of modern communications",
+     "ex": "The internet has turned the world into a global village in which news travels instantly.",
+     "col": [
+      "live in a global village",
+      "part of the global village"
+     ],
+     "ar": "القرية العالمية"
+    },
+    {
+     "w": "trade barrier",
+     "pos": "noun",
+     "def": "a government rule, such as a tax or quota, that makes trade between countries more difficult",
+     "ex": "Removing trade barriers can benefit consumers but expose local farmers to fierce competition.",
+     "col": [
+      "remove trade barriers",
+      "reduce trade barriers"
+     ],
+     "ar": "حاجز تجاري"
+    },
+    {
+     "w": "lingua franca",
+     "pos": "noun",
+     "def": "a language used for communication between people who have different first languages",
+     "ex": "English has become the lingua franca of international business and science.",
+     "col": [
+      "serve as a lingua franca",
+      "the global lingua franca"
+     ],
+     "ar": "لغة مشتركة للتواصل"
+    },
+    {
+     "w": "integration",
+     "pos": "noun",
+     "def": "the process of combining economies or societies so that they work closely together",
+     "ex": "Closer regional integration has made it easier for businesses to sell across borders.",
+     "col": [
+      "economic integration",
+      "regional integration",
+      "global integration"
+     ],
+     "ar": "التكامل / الاندماج"
+    },
+    {
+     "w": "offshore",
+     "pos": "adjective",
+     "def": "located or operating in another country, often to reduce costs or taxes",
+     "ex": "Some firms move production offshore to take advantage of lower labour costs.",
+     "col": [
+      "move jobs offshore",
+      "offshore production",
+      "offshore accounts"
+     ],
+     "ar": "في الخارج (خارج البلد الأم)"
+    },
+    {
+     "w": "foreign investment",
+     "pos": "noun",
+     "def": "money that companies or individuals from one country put into businesses or projects in another",
+     "ex": "In many developing countries, foreign investment has helped build new factories and transport links.",
+     "col": [
+      "attract foreign investment",
+      "direct foreign investment"
+     ],
+     "ar": "الاستثمار الأجنبي"
+    },
+    {
+     "w": "cultural imperialism",
+     "pos": "noun",
+     "def": "the spread of one powerful country's culture, values and products at the expense of local cultures",
+     "ex": "Some critics regard the global dominance of a few film studios as cultural imperialism.",
+     "col": [
+      "accusations of cultural imperialism",
+      "a form of cultural imperialism"
+     ],
+     "ar": "الإمبريالية الثقافية"
+    }
+   ]
+  },
+  {
+   "id": "transport",
+   "name": "Transport",
+   "ar": "النقل والمواصلات",
+   "words": [
+    {
+     "w": "public transport",
+     "pos": "noun",
+     "def": "buses, trains and other services that are available for everyone to use, usually for a fare",
+     "ex": "Cheap and reliable public transport is one of the most effective ways to reduce car use in cities.",
+     "col": [
+      "invest in public transport",
+      "use public transport",
+      "an efficient public transport system"
+     ],
+     "ar": "النقل العام"
+    },
+    {
+     "w": "commute",
+     "pos": "verb",
+     "def": "to travel regularly between home and work or study",
+     "ex": "Many employees now commute only two or three days a week.",
+     "col": [
+      "commute to work",
+      "a long commute",
+      "the daily commute"
+     ],
+     "ar": "يتنقّل يوميًا (بين السكن والعمل)"
+    },
+    {
+     "w": "car-free",
+     "pos": "adjective",
+     "def": "(of an area, a day or a lifestyle) without private cars, or where cars are not allowed",
+     "ex": "Car-free days give residents a chance to rediscover their streets on foot and by bicycle.",
+     "col": [
+      "car-free zones",
+      "car-free days",
+      "go car-free"
+     ],
+     "ar": "خالٍ من السيارات"
+    },
+    {
+     "w": "congestion charge",
+     "pos": "noun",
+     "def": "a fee that drivers must pay to enter a busy area, such as a city centre, at certain times",
+     "ex": "Revenue from a congestion charge can be reinvested in cycle lanes and better bus services.",
+     "col": [
+      "introduce a congestion charge",
+      "pay the congestion charge"
+     ],
+     "ar": "رسوم الازدحام"
+    },
+    {
+     "w": "car-dependent",
+     "pos": "adjective",
+     "def": "designed in a way that makes it hard to live or travel without a car",
+     "ex": "Car-dependent suburbs make life difficult for older people who can no longer drive.",
+     "col": [
+      "car-dependent suburbs",
+      "a car-dependent lifestyle"
+     ],
+     "ar": "معتمد على السيارة"
+    },
+    {
+     "w": "road safety",
+     "pos": "noun",
+     "def": "the prevention of accidents and injuries on roads",
+     "ex": "Lower speed limits near schools are a simple way to improve road safety.",
+     "col": [
+      "improve road safety",
+      "road safety campaigns"
+     ],
+     "ar": "السلامة المرورية"
+    },
+    {
+     "w": "fuel efficiency",
+     "pos": "noun",
+     "def": "how far a vehicle can travel using a given amount of fuel",
+     "ex": "Stricter standards for fuel efficiency have reduced emissions from new cars.",
+     "col": [
+      "improve fuel efficiency",
+      "high fuel efficiency"
+     ],
+     "ar": "كفاءة استهلاك الوقود"
+    },
+    {
+     "w": "electric vehicle",
+     "pos": "noun",
+     "def": "a vehicle powered by an electric motor and a rechargeable battery instead of petrol or diesel",
+     "ex": "The spread of electric vehicles depends on a reliable network of charging points.",
+     "col": [
+      "switch to an electric vehicle",
+      "electric vehicle charging points"
+     ],
+     "ar": "مركبة كهربائية"
+    },
+    {
+     "w": "high-speed rail",
+     "pos": "noun",
+     "def": "a railway system on which trains travel much faster than on conventional lines",
+     "ex": "High-speed rail could replace many short domestic flights.",
+     "col": [
+      "invest in high-speed rail",
+      "a high-speed rail network",
+      "high-speed rail links"
+     ],
+     "ar": "السكك الحديدية فائقة السرعة"
+    },
+    {
+     "w": "cycle lane",
+     "pos": "noun",
+     "def": "a part of a road or a separate path reserved for bicycles",
+     "ex": "Protected cycle lanes encourage more people to cycle to work safely.",
+     "col": [
+      "build cycle lanes",
+      "segregated cycle lanes",
+      "a network of cycle lanes"
+     ],
+     "ar": "مسار الدرّاجات"
+    },
+    {
+     "w": "car ownership",
+     "pos": "noun",
+     "def": "the fact of owning a car, or the proportion of people or households that own one",
+     "ex": "In many fast-growing cities, rising car ownership has outpaced the construction of new roads.",
+     "col": [
+      "rising car ownership",
+      "levels of car ownership",
+      "discourage car ownership"
+     ],
+     "ar": "امتلاك السيارات"
+    },
+    {
+     "w": "carpooling",
+     "pos": "noun",
+     "def": "an arrangement in which people share a car for regular journeys, such as to work",
+     "ex": "Carpooling reduces both fuel costs and the number of vehicles on the road.",
+     "col": [
+      "encourage carpooling",
+      "carpooling schemes"
+     ],
+     "ar": "مشاركة السيارة في التنقّل"
+    },
+    {
+     "w": "park-and-ride",
+     "pos": "noun",
+     "def": "a system in which drivers leave their cars in car parks on the edge of a town and travel into the centre by bus or tram",
+     "ex": "A park-and-ride scheme could keep thousands of cars out of the historic centre every day.",
+     "col": [
+      "a park-and-ride scheme",
+      "park-and-ride facilities"
+     ],
+     "ar": "نظام «اركن واركب» (مواقف على أطراف المدينة مع نقل إلى وسطها)"
+    },
+    {
+     "w": "accessible",
+     "pos": "adjective",
+     "def": "easy for everyone, including disabled people, older people and parents with pushchairs, to reach, enter or use",
+     "ex": "Every new station should be fully accessible to wheelchair users and parents with young children.",
+     "col": [
+      "fully accessible",
+      "accessible to wheelchair users",
+      "accessible public transport"
+     ],
+     "ar": "مُيسَّر الوصول والاستخدام للجميع"
+    },
+    {
+     "w": "low-emission zone",
+     "pos": "noun",
+     "def": "an area of a city that the most polluting vehicles may not enter, or must pay to enter",
+     "ex": "Since the low-emission zone was introduced, levels of harmful gases around nearby schools have fallen.",
+     "col": [
+      "introduce a low-emission zone",
+      "expand a low-emission zone"
+     ],
+     "ar": "منطقة منخفضة الانبعاثات"
+    },
+    {
+     "w": "freight",
+     "pos": "noun",
+     "def": "goods carried by trains, ships, planes or lorries",
+     "ex": "Moving more freight from road to rail would cut both congestion and pollution.",
+     "col": [
+      "rail freight",
+      "freight transport",
+      "air freight"
+     ],
+     "ar": "الشحن / البضائع المنقولة"
+    },
+    {
+     "w": "autonomous vehicle",
+     "pos": "noun",
+     "def": "a vehicle that can drive itself without a human controlling it",
+     "ex": "Autonomous vehicles could reduce accidents caused by human error, but legal questions remain.",
+     "col": [
+      "the development of autonomous vehicles",
+      "fully autonomous vehicles"
+     ],
+     "ar": "مركبة ذاتية القيادة"
+    },
+    {
+     "w": "traffic calming",
+     "pos": "noun",
+     "def": "measures such as speed bumps, narrower roads and raised crossings that are designed to slow vehicles down, especially in residential areas",
+     "ex": "Traffic calming measures outside schools have made the streets safer for children walking to class.",
+     "col": [
+      "traffic calming measures",
+      "introduce traffic calming"
+     ],
+     "ar": "إجراءات تهدئة حركة المرور"
+    },
+    {
+     "w": "gridlock",
+     "pos": "noun",
+     "def": "a situation in which traffic is so heavy that vehicles cannot move at all",
+     "ex": "A single accident on the ring road can bring the city to gridlock.",
+     "col": [
+      "total gridlock",
+      "cause gridlock"
+     ],
+     "ar": "شلل مروري تام"
+    },
+    {
+     "w": "modal shift",
+     "pos": "noun",
+     "def": "a change in the way people travel, for example from cars to public transport or bicycles",
+     "ex": "A modal shift from private cars to trains is essential for meeting climate goals.",
+     "col": [
+      "encourage a modal shift",
+      "a modal shift to rail"
+     ],
+     "ar": "التحوّل في وسيلة النقل"
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "name": "Food & agriculture",
+   "ar": "الغذاء والزراعة",
+   "words": [
+    {
+     "w": "food security",
+     "pos": "noun",
+     "def": "a situation in which everyone has reliable access to enough safe and nutritious food",
+     "ex": "Climate change poses a serious threat to food security in regions that rely on rain-fed crops.",
+     "col": [
+      "ensure food security",
+      "threats to food security",
+      "global food security"
+     ],
+     "ar": "الأمن الغذائي"
+    },
+    {
+     "w": "organic",
+     "pos": "adjective",
+     "def": "(of food or farming) produced without artificial chemicals such as synthetic fertilisers or pesticides",
+     "ex": "Organic produce is usually more expensive, partly because yields per hectare tend to be lower.",
+     "col": [
+      "organic farming",
+      "organic produce",
+      "certified organic"
+     ],
+     "ar": "عضوي"
+    },
+    {
+     "w": "pesticide",
+     "pos": "noun",
+     "def": "a chemical used to kill insects or other pests that damage crops",
+     "ex": "Heavy pesticide use has been linked to declining numbers of bees.",
+     "col": [
+      "spray pesticides",
+      "pesticide residues",
+      "reduce pesticide use"
+     ],
+     "ar": "مبيد الآفات"
+    },
+    {
+     "w": "crop yield",
+     "pos": "noun",
+     "def": "the amount of a crop produced from a given area of land",
+     "ex": "New irrigation methods have helped farmers raise crop yields without using more water.",
+     "col": [
+      "increase crop yields",
+      "low crop yields",
+      "improve crop yields"
+     ],
+     "ar": "إنتاجية المحصول (الغلّة)"
+    },
+    {
+     "w": "genetically modified",
+     "pos": "adjective",
+     "def": "(of a plant or animal) having had its genes changed in a laboratory to give it particular features",
+     "ex": "Genetically modified crops can resist certain pests, but many consumers remain wary of them.",
+     "col": [
+      "genetically modified crops",
+      "genetically modified food",
+      "GM crops"
+     ],
+     "ar": "مُعدَّل وراثيًا"
+    },
+    {
+     "w": "intensive farming",
+     "pos": "noun",
+     "def": "farming that uses a lot of machinery, chemicals and animals or crops on limited land to maximise production",
+     "ex": "Intensive farming produces cheap food but can damage soil and water quality.",
+     "col": [
+      "the impact of intensive farming",
+      "intensive farming methods"
+     ],
+     "ar": "الزراعة المكثّفة"
+    },
+    {
+     "w": "livestock",
+     "pos": "noun",
+     "def": "animals such as cows, sheep and goats that are kept on a farm",
+     "ex": "Producing food from livestock generally requires far more land and water than producing the same number of calories from crops.",
+     "col": [
+      "raise livestock",
+      "livestock farming",
+      "livestock production"
+     ],
+     "ar": "الماشية"
+    },
+    {
+     "w": "food waste",
+     "pos": "noun",
+     "def": "food that is thrown away instead of being eaten",
+     "ex": "Supermarkets could cut food waste by donating unsold items to charities.",
+     "col": [
+      "reduce food waste",
+      "household food waste",
+      "tackle food waste"
+     ],
+     "ar": "هدر الطعام"
+    },
+    {
+     "w": "processed food",
+     "pos": "noun",
+     "def": "food that has been changed by industrial methods, often with added salt, sugar or preservatives",
+     "ex": "Diets high in processed food are associated with higher rates of heart disease.",
+     "col": [
+      "heavily processed food",
+      "a diet high in processed food"
+     ],
+     "ar": "الأطعمة المُصنَّعة"
+    },
+    {
+     "w": "malnutrition",
+     "pos": "noun",
+     "def": "poor health caused by not eating enough food or not eating the right kinds of food",
+     "ex": "Malnutrition in early childhood can affect brain development for life.",
+     "col": [
+      "suffer from malnutrition",
+      "severe malnutrition",
+      "combat malnutrition"
+     ],
+     "ar": "سوء التغذية"
+    },
+    {
+     "w": "self-sufficient",
+     "pos": "adjective",
+     "def": "able to produce everything you need without help from others, for example all the food a country eats",
+     "ex": "Few countries are fully self-sufficient in food, so international trade remains essential.",
+     "col": [
+      "self-sufficient in food",
+      "become self-sufficient"
+     ],
+     "ar": "مكتفٍ ذاتيًا"
+    },
+    {
+     "w": "irrigation",
+     "pos": "noun",
+     "def": "supplying water to land or crops through channels, pipes or sprinklers",
+     "ex": "Drip irrigation delivers water directly to roots and greatly reduces waste.",
+     "col": [
+      "irrigation systems",
+      "drip irrigation",
+      "rely on irrigation"
+     ],
+     "ar": "الريّ"
+    },
+    {
+     "w": "arable",
+     "pos": "adjective",
+     "def": "(of land) suitable for growing crops",
+     "ex": "Urban expansion is swallowing up arable land around many fast-growing cities.",
+     "col": [
+      "arable land",
+      "arable farming"
+     ],
+     "ar": "صالح للزراعة"
+    },
+    {
+     "w": "staple food",
+     "pos": "noun",
+     "def": "a basic food that forms the main part of a population's diet, such as rice, wheat or maize",
+     "ex": "Price rises in staple foods hit the poorest families hardest.",
+     "col": [
+      "a staple food",
+      "staple crops",
+      "the price of staple foods"
+     ],
+     "ar": "الغذاء الأساسي"
+    },
+    {
+     "w": "food miles",
+     "pos": "noun",
+     "def": "the distance food travels from where it is produced to where it is eaten",
+     "ex": "Buying seasonal local produce reduces food miles.",
+     "col": [
+      "reduce food miles",
+      "high food miles"
+     ],
+     "ar": "المسافة التي يقطعها الغذاء (من المزرعة إلى المستهلك)"
+    },
+    {
+     "w": "plant-based",
+     "pos": "adjective",
+     "def": "(of food or a diet) made mainly or only from plants, not animal products",
+     "ex": "A shift towards plant-based diets could significantly reduce agricultural emissions.",
+     "col": [
+      "a plant-based diet",
+      "plant-based alternatives",
+      "plant-based products"
+     ],
+     "ar": "نباتي (قائم على النباتات)"
+    },
+    {
+     "w": "fertiliser",
+     "pos": "noun",
+     "def": "a natural or chemical substance added to soil to help plants grow",
+     "ex": "Run-off from chemical fertilisers can cause harmful algae to spread in lakes.",
+     "col": [
+      "chemical fertilisers",
+      "apply fertiliser",
+      "organic fertiliser"
+     ],
+     "ar": "سماد"
+    },
+    {
+     "w": "famine",
+     "pos": "noun",
+     "def": "a situation in which a large number of people do not have enough food for a long period, often causing many deaths",
+     "ex": "Early warning systems can help governments prevent drought from turning into famine.",
+     "col": [
+      "widespread famine",
+      "prevent famine",
+      "famine relief"
+     ],
+     "ar": "مجاعة"
+    },
+    {
+     "w": "agribusiness",
+     "pos": "noun",
+     "def": "farming and food production run as a large-scale industry by big companies",
+     "ex": "Small farmers often struggle to compete with large agribusiness firms.",
+     "col": [
+      "large agribusiness firms",
+      "the growth of agribusiness"
+     ],
+     "ar": "الأعمال الزراعية (الزراعة التجارية الكبرى)"
+    },
+    {
+     "w": "soil erosion",
+     "pos": "noun",
+     "def": "the gradual loss of the top layer of soil, caused by wind, water or poor farming practices",
+     "ex": "Planting hedgerows can help prevent soil erosion on exposed farmland.",
+     "col": [
+      "prevent soil erosion",
+      "severe soil erosion"
+     ],
+     "ar": "انجراف التربة"
+    }
+   ]
+  }
+ ],
+ "linking": [
+  {
+   "function": "Adding a point",
+   "ar": "إضافة فكرة",
+   "items": [
+    "In addition,",
+    "Moreover,",
+    "Furthermore,",
+    "What is more,",
+    "Additionally,",
+    "as well as",
+    "not only ... but also ..."
+   ],
+   "example": "Cycling to work saves money on fuel. Moreover, it builds regular exercise into people's daily routine.",
+   "tip": "Use these to add a point that supports the same argument. Put a comma after a linker that opens a sentence (Moreover, Furthermore,). Do not start every sentence with one: mechanical linking is noticed by examiners and can lower your Coherence and Cohesion score. 'as well as' is followed by a noun or an -ing form, not a full clause.",
+   "tipAr": "تُستخدم لإضافة فكرة تدعم الحجّة نفسها. ضع فاصلة بعد الرابط إذا جاء في بداية الجملة، مثل: Moreover, وFurthermore,. ولا تبدأ كل جملة برابط؛ فالمصحّح يلاحظ الربط الآلي المتكرّر، وقد يُخفّض ذلك درجتك في معيار الترابط والتماسك. ويأتي بعد as well as اسمٌ أو فعلٌ بصيغة ing، لا جملة كاملة."
+  },
+  {
+   "function": "Contrasting",
+   "ar": "عرض فكرة مقابلة",
+   "items": [
+    "However,",
+    "In contrast,",
+    "By contrast,",
+    "On the other hand,",
+    "whereas",
+    "while",
+    "Conversely,"
+   ],
+   "example": "Urban households tend to rent their homes, whereas rural families are more likely to own property.",
+   "tip": "'whereas' and 'while' join two contrasting clauses inside one sentence. 'However' and 'In contrast' normally begin a new sentence and are followed by a comma. Never join two complete sentences with only a comma and 'however': use a full stop or a semicolon before it. 'On the other hand' should follow a point you have already made; 'Conversely' means the opposite relationship is true, so it is not simply another word for 'however'.",
+   "tipAr": "تربط whereas وwhile بين فكرتين متقابلتين داخل جملة واحدة. أمّا However وIn contrast فتبدأ بهما عادةً جملة جديدة وتليهما فاصلة. ولا تربط جملتين تامّتين بفاصلة وحدها ثم however، بل ضع قبلها نقطة أو فاصلة منقوطة. واستخدم On the other hand بعد أن تعرض الفكرة الأولى، واعلم أن Conversely تعني أن العلاقة معكوسة، فليست مجرد مرادف لـ However."
+  },
+  {
+   "function": "Conceding",
+   "ar": "التسليم بالرأي المقابل (الاستدراك)",
+   "items": [
+    "Although",
+    "Even though",
+    "Despite",
+    "In spite of",
+    "Admittedly,",
+    "While it is true that",
+    "Nevertheless,",
+    "That said,"
+   ],
+   "example": "Although online courses are cheaper, many learners find it difficult to stay motivated without face-to-face contact.",
+   "tip": "Conceding shows that you can weigh both sides before giving your view, which is useful in opinion essays. 'Despite' and 'In spite of' are followed by a noun or an -ing form (despite the cost; despite being expensive), never by a subject and a verb. Do not use 'although' and 'but' in the same sentence.",
+   "tipAr": "يُظهر التسليم بالرأي المقابل أنك توازن بين الجانبين قبل أن تعرض رأيك، وهذا مفيد في مقالات الرأي. يأتي بعد Despite وIn spite of اسمٌ أو فعلٌ بصيغة ing (مثل: despite the cost)، ولا تأتي بعدهما جملة فيها فاعل وفعل. ولا تجمع although وbut في جملة واحدة؛ وهذا خطأ شائع لدى متحدثي العربية لأننا نقول: «مع أنّ... إلا أنّ»."
+  },
+  {
+   "function": "Giving a cause",
+   "ar": "بيان السبب",
+   "items": [
+    "because",
+    "because of",
+    "due to",
+    "owing to",
+    "since",
+    "as",
+    "This is because",
+    "The main reason for this is that"
+   ],
+   "example": "Many young people delay buying a home because of rising property prices.",
+   "tip": "'because' is followed by a clause (because prices have risen), while 'because of', 'due to' and 'owing to' are followed by a noun phrase (because of rising prices). 'Due to' is safest after the verb 'be' (The delay was due to bad weather). A sentence such as 'Because it is cheaper.' on its own is incomplete: it needs a main clause.",
+   "tipAr": "يأتي بعد because جملةٌ كاملة (because prices have risen)، أمّا because of وdue to وowing to فيليها اسم أو عبارة اسمية (because of rising prices). والاستعمال الأسلم لـ due to يكون بعد فعل الكينونة be (The delay was due to bad weather). ولا تكتب جملة مثل: Because it is cheaper. وحدها، فهي ناقصة تحتاج إلى جملة رئيسية."
+  },
+  {
+   "function": "Showing a result",
+   "ar": "بيان النتيجة",
+   "items": [
+    "As a result,",
+    "Consequently,",
+    "Therefore,",
+    "Thus,",
+    "so",
+    "As a consequence,",
+    "This leads to",
+    "This means that"
+   ],
+   "example": "Housing in the city centre has become unaffordable. As a result, many key workers now commute long distances.",
+   "tip": "'so' joins two clauses inside one sentence, usually with a comma before it. 'Therefore', 'Consequently' and 'As a result' normally start a new sentence or follow a semicolon. 'Thus' is formal, so use it sparingly. Check that the second idea really is a result of the first: a linker that does not match the logic weakens your writing.",
+   "tipAr": "تربط so بين جملتين داخل جملة واحدة وتسبقها فاصلة عادةً، أمّا Therefore وConsequently وAs a result فتبدأ بها عادةً جملة جديدة أو تأتي بعد فاصلة منقوطة. وThus كلمة رسمية فاستخدمها باعتدال. وتأكّد أن الفكرة الثانية نتيجة فعلية للأولى؛ فالرابط الذي لا يوافق منطق الكلام يُضعف كتابتك."
+  },
+  {
+   "function": "Giving examples",
+   "ar": "ضرب الأمثلة",
+   "items": [
+    "For example,",
+    "For instance,",
+    "such as",
+    "including",
+    "A case in point is",
+    "To illustrate,",
+    "notably"
+   ],
+   "example": "Many everyday products, such as smartphones and laptops, contain rare metals that are difficult to recycle.",
+   "tip": "'such as' and 'including' are followed by nouns, not full sentences, and do not need 'etc.' at the end. 'For example' and 'For instance' can open a sentence, followed by a comma. In Task 2, a short, specific example from general knowledge or experience is more convincing than an invented statistic or a made-up study.",
+   "tipAr": "يأتي بعد such as وincluding أسماءٌ لا جمل كاملة، ولا حاجة إلى كتابة etc. بعدها. ويمكن أن تبدأ الجملة بـ For example أو For instance مع فاصلة بعدهما. وفي المهمة الثانية يكون المثال القصير المحدّد من المعرفة العامة أو التجربة أقوى إقناعًا من إحصائية مختلَقة أو دراسة وهمية."
+  },
+  {
+   "function": "Sequencing",
+   "ar": "ترتيب الخطوات والأفكار",
+   "items": [
+    "First,",
+    "Next,",
+    "Following this,",
+    "After that,",
+    "Once ...,",
+    "Subsequently,",
+    "At the final stage,",
+    "Finally,"
+   ],
+   "example": "First, the harvested olives are washed. Once they have been crushed into a paste, the oil is separated from the water, after which it is filtered and bottled.",
+   "tip": "Essential for process diagrams in Academic Task 1 and for describing steps in Speaking. Vary the structure with patterns such as 'Once the leaves have dried, ...', 'after which ...' and 'before being ...'. In essays, avoid opening every paragraph with 'Firstly', 'Secondly', 'Thirdly': these organise the text but do not show how the ideas are related.",
+   "tipAr": "ضرورية لوصف مخططات المراحل (Process) في المهمة الأولى الأكاديمية، ولوصف الخطوات في اختبار المحادثة. نوّع التراكيب، مثل: Once the leaves have dried و after which و before being. وفي المقالات تجنّب أن تبدأ كل فقرة بـ Firstly ثم Secondly ثم Thirdly؛ فهذه الكلمات ترتّب النص لكنها لا تبيّن العلاقة بين الأفكار."
+  },
+  {
+   "function": "Clarifying",
+   "ar": "التوضيح وإعادة الصياغة",
+   "items": [
+    "In other words,",
+    "That is to say,",
+    "To put it another way,",
+    "This means that",
+    "namely",
+    "More specifically,",
+    "To be more precise,"
+   ],
+   "example": "Many graduates are underemployed; in other words, they work in jobs that do not require a degree.",
+   "tip": "Use these to explain a complex or abstract idea in simpler terms. In formal writing, prefer 'in other words' or 'that is to say' to abbreviations such as 'i.e.'. Do not use them to repeat the same point just to reach the word count: examiners recognise repetition.",
+   "tipAr": "تُستخدم لشرح فكرة معقّدة أو مجرّدة بكلمات أبسط. وفي الكتابة الرسمية فضّل in other words أو that is to say على الاختصارات مثل i.e. ولا تستخدمها لتكرار الفكرة نفسها بهدف بلوغ عدد الكلمات؛ فالمصحّح يكتشف التكرار."
+  },
+  {
+   "function": "Comparing",
+   "ar": "المقارنة وبيان التشابه",
+   "items": [
+    "Similarly,",
+    "Likewise,",
+    "In the same way,",
+    "Equally,",
+    "just as ..., so ...",
+    "compared with",
+    "in comparison with",
+    "the same ... as"
+   ],
+   "example": "Teenagers today spend more time online than their parents did at the same age. Similarly, they are more likely to make friends through social media.",
+   "tip": "Comparison is a key requirement in Academic Task 1: combine these with comparatives and structures such as 'twice as many ... as' and 'the highest proportion'. 'Similarly' and 'Likewise' show that two things share a feature; they cannot introduce a difference. Watch the prepositions: 'the same as' (not 'the same like') and 'similar to' (not 'similar with').",
+   "tipAr": "المقارنة مطلب أساسي في المهمة الأولى الأكاديمية، فاستخدم هذه الروابط مع صيغ التفضيل وتراكيب مثل twice as many ... as وthe highest proportion. أمّا Similarly وLikewise فتدلّان على التشابه، ولا تُستخدمان لعرض اختلاف. وانتبه إلى حروف الجر: the same as لا the same like، وsimilar to لا similar with."
+  },
+  {
+   "function": "Concluding",
+   "ar": "الخاتمة والتلخيص",
+   "items": [
+    "In conclusion,",
+    "To conclude,",
+    "To sum up,",
+    "Overall,",
+    "On balance,",
+    "All things considered,",
+    "Taking everything into account,"
+   ],
+   "example": "On balance, the benefits of a shorter working week appear to outweigh the risks.",
+   "tip": "Use one concluding phrase, at the start of the final paragraph of an essay, and restate your position without adding new arguments. In Academic Task 1, 'Overall,' introduces the overview of the main features; it can follow the introduction or come at the end, as long as it is clearly there. Avoid informal phrases such as 'In a nutshell' or 'To wrap up' in formal writing.",
+   "tipAr": "استخدم عبارة ختامية واحدة في بداية الفقرة الأخيرة من المقال، وأكّد فيها موقفك دون إضافة حجج جديدة. وفي المهمة الأولى الأكاديمية تُقدِّم Overall الملخص العام لأبرز السمات، ويمكن أن يأتي بعد المقدمة مباشرة أو في النهاية، على أن يكون واضحًا. وتجنّب العبارات غير الرسمية مثل In a nutshell وTo wrap up في الكتابة الرسمية."
+  }
+ ],
+ "phrases": {
+  "task1": [
+   {
+    "en": "rose steadily from ... to ...",
+    "use": "Trends: a gradual, continuous increase. Give the start and end figures. Vary it with 'climbed', 'grew' or the noun form 'a steady rise in'."
+   },
+   {
+    "en": "fell sharply to ... in ...",
+    "use": "Trends: a sudden, large decrease. 'plummeted' is stronger and suits only very dramatic drops, so do not use it for small changes."
+   },
+   {
+    "en": "remained relatively stable at around ...",
+    "use": "Trends: little or no change over a period. 'relatively' and 'around' keep the claim accurate when the line moves slightly."
+   },
+   {
+    "en": "fluctuated between ... and ...",
+    "use": "Trends: repeated rises and falls with no clear direction. Give the range rather than describing every small movement."
+   },
+   {
+    "en": "peaked at ... in ...",
+    "use": "Trends: the highest point of a line. Pair it with what happened next, e.g. 'peaked at 45% in 2010 before declining'."
+   },
+   {
+    "en": "hit a low of ... in ...",
+    "use": "Trends: the lowest point. 'reached a low of' is a more neutral alternative."
+   },
+   {
+    "en": "levelled off at ...",
+    "use": "Trends: a rise or fall that stops and stays flat. Useful for describing the final years of a period."
+   },
+   {
+    "en": "there was a dramatic rise in ...",
+    "use": "Trends: the noun pattern (there was + adjective + noun + in) lets you vary your sentences instead of repeating 'X increased'."
+   },
+   {
+    "en": "almost doubled over the period",
+    "use": "Trends and comparisons: shows a multiple instead of listing two numbers. Only use 'doubled' or 'tripled' when the figures support it."
+   },
+   {
+    "en": "is projected to reach ... by ...",
+    "use": "Trends: future data in a graph. Use 'is expected to', 'is predicted to' or 'is forecast to', never 'will reach' as if it were certain."
+   },
+   {
+    "en": "was significantly higher than that of ...",
+    "use": "Comparison: 'that of' / 'those of' prevents a common error, comparing a figure with a country rather than with another figure."
+   },
+   {
+    "en": "twice as many ... as ...",
+    "use": "Comparison: multiples. Use 'many' with countable nouns (people, cars) and 'much' with uncountable ones (energy, water)."
+   },
+   {
+    "en": "by far the largest ...",
+    "use": "Comparison: emphasises a category that is much bigger than all the others. Use it once per answer for the most striking feature."
+   },
+   {
+    "en": "overtook ... in ... to become ...",
+    "use": "Comparison over time: when one line crosses another. This is often a key feature worth mentioning in your overview."
+   },
+   {
+    "en": "the gap between ... and ... widened / narrowed",
+    "use": "Comparison over time: describes a difference that grows or shrinks. A good way to compare two lines in a single sentence."
+   },
+   {
+    "en": "was marginally lower than ...",
+    "use": "Comparison: very small differences. 'slightly' is a simpler alternative; avoid exaggerating small gaps."
+   },
+   {
+    "en": "ranked second, behind ...",
+    "use": "Comparison: ordering categories in bar charts and tables without listing every value."
+   },
+   {
+    "en": "accounted for ...% of ...",
+    "use": "Proportions: the share of a total in pie charts and tables. 'made up' and 'represented' are good alternatives."
+   },
+   {
+    "en": "just under a quarter of ...",
+    "use": "Proportions: approximate fractions (just over half, roughly a third, nearly two-thirds). Use them with the exact figure, not instead of it, when accuracy matters."
+   },
+   {
+    "en": "the vast majority of ...",
+    "use": "Proportions: very large shares, about 80% or more. The opposite is 'a small minority of'. Do not write 'most of people'."
+   },
+   {
+    "en": "made up the largest share of ...",
+    "use": "Proportions: identifies the biggest segment of a pie chart. Follow it with the figure in brackets or a short clause."
+   },
+   {
+    "en": "the proportion of ... who ... rose from ... to ...",
+    "use": "Proportions over time: makes clear that you are describing a percentage, not a number. Do not mix up 'proportion' and 'number'."
+   },
+   {
+    "en": "The chart compares ... in terms of ...",
+    "use": "Introduction: paraphrase the task in one sentence using your own words. Copied wording from the question is not credited."
+   },
+   {
+    "en": "Overall, the most noticeable feature is ...",
+    "use": "Overview: every Task 1 answer needs a clear summary of the main features. Avoid starting every overview with 'It is clear that'."
+   },
+   {
+    "en": "The process consists of ... stages, beginning with ... and ending with ...",
+    "use": "Processes: a concise overview stating the number of stages and the first and last steps."
+   },
+   {
+    "en": "... is then transported to ..., where it is ...",
+    "use": "Processes: the passive voice is natural because the focus is on the material, not on who does the action. Vary 'then' with 'next' and 'subsequently'."
+   },
+   {
+    "en": "Once ... has been ..., it is ...",
+    "use": "Processes: links two stages in one sentence and shows the order clearly. A good alternative to starting every sentence with 'Next'."
+   },
+   {
+    "en": "was demolished to make way for ...",
+    "use": "Maps: a building removed and replaced by something new. Use the past simple passive for changes between two dates."
+   },
+   {
+    "en": "was converted into ...",
+    "use": "Maps: a change of use, for example a factory converted into flats. 'was turned into' is a slightly less formal alternative."
+   },
+   {
+    "en": "to the north of ... / in the south-eastern corner of ...",
+    "use": "Maps: precise location. Compass directions are clearer than 'on the top' or 'at the left' of the map."
+   }
+  ],
+  "task2": [
+   {
+    "en": "I firmly believe that ...",
+    "use": "Position: states a clear opinion in the introduction of an opinion essay. Restate it in different words in the conclusion rather than repeating the same phrase."
+   },
+   {
+    "en": "I agree with this view to a large extent, although ...",
+    "use": "Position: partial agreement with a limit. Only use it if your body paragraphs really reflect both sides."
+   },
+   {
+    "en": "This essay will argue that ...",
+    "use": "Position: a direct thesis statement. Avoid long memorised openings such as 'This is a controversial issue that has sparked heated debate'; examiners recognise them and give them no credit."
+   },
+   {
+    "en": "In my view, the benefits clearly outweigh the drawbacks.",
+    "use": "Position: answers 'Do the advantages outweigh the disadvantages?' directly. Make sure your paragraphs show why one side is stronger."
+   },
+   {
+    "en": "While this argument has some merit, ...",
+    "use": "Position: concedes the opposing view before rejecting it. Use it once; repeated concessions make your position unclear."
+   },
+   {
+    "en": "Opponents of this view argue that ...",
+    "use": "Discussion essays: introduces the other side's argument neutrally before you evaluate it."
+   },
+   {
+    "en": "is likely to ...",
+    "use": "Hedging: makes a prediction sound reasonable rather than certain. Stronger: 'is almost certain to'; weaker: 'may well'."
+   },
+   {
+    "en": "tends to ...",
+    "use": "Hedging: generalises carefully (Young people tend to ...). Safer than absolute statements such as 'All young people ...'."
+   },
+   {
+    "en": "It could be argued that ...",
+    "use": "Hedging: presents a view without fully committing to it. Do not overuse it, or your own position will seem unclear."
+   },
+   {
+    "en": "to some extent / in many cases",
+    "use": "Hedging: limits the scope of a claim. Place it close to the idea it limits."
+   },
+   {
+    "en": "There is some evidence that ...",
+    "use": "Hedging: refers to general knowledge carefully. Do not invent precise statistics or studies to support your argument."
+   },
+   {
+    "en": "A clear example of this is ...",
+    "use": "Examples: introduces a specific, relevant example after a general point. One well-explained example is better than a list of three."
+   },
+   {
+    "en": "This can be seen in ..., where ...",
+    "use": "Examples: links an example to a real place or situation and explains it in the same sentence."
+   },
+   {
+    "en": "Take, for instance, ...",
+    "use": "Examples: a slightly more formal way to begin an example sentence. Use it once per essay at most."
+   },
+   {
+    "en": "This would mean that ...",
+    "use": "Development: explains the consequence of an idea. Extending ideas this way is key to a higher Task Response score."
+   },
+   {
+    "en": "One major drawback of ... is that ...",
+    "use": "Advantages/disadvantages and positive/negative essays: introduces a disadvantage. Vary it with 'A further concern is that ...'."
+   },
+   {
+    "en": "A more effective solution would be to ...",
+    "use": "Problem-solution essays: proposes a solution and suggests it is better than the alternatives. Explain how it would work, not just what it is."
+   },
+   {
+    "en": "The root of the problem lies in ...",
+    "use": "Problem-solution essays: introduces a cause. Make sure each solution you offer matches a cause or problem you have identified."
+   },
+   {
+    "en": "In conclusion, although ..., I remain convinced that ...",
+    "use": "Conclusion: summarises your position and acknowledges the other side in one sentence. Do not introduce new arguments here."
+   },
+   {
+    "en": "For these reasons, governments should ...",
+    "use": "Conclusion: ends with a clear recommendation, especially in problem-solution essays. Keep it consistent with the rest of the essay."
+   }
+  ],
+  "speaking": [
+   {
+    "en": "I haven't really thought about that before, but I suppose ...",
+    "use": "Buying time: gives you a moment to think, especially in Part 3. Avoid the overused opener 'That's an interesting question', and use this kind of phrase only once or twice in the test; repeated stock phrases sound memorised."
+   },
+   {
+    "en": "Let me think about that for a second ...",
+    "use": "Buying time: honest and natural. Follow it quickly with an answer; long silences affect fluency."
+   },
+   {
+    "en": "It's hard to say, really, but I suppose ...",
+    "use": "Buying time and hedging: useful for abstract Part 3 questions where you are not sure of your view."
+   },
+   {
+    "en": "Off the top of my head, I'd say ...",
+    "use": "Buying time: informal and natural in Part 1, meaning you are giving a quick answer without much thought."
+   },
+   {
+    "en": "How can I put this? ...",
+    "use": "Buying time: signals that you are searching for the right words. Use it sparingly."
+   },
+   {
+    "en": "Sorry, could you repeat the question, please?",
+    "use": "Clarifying: perfectly acceptable and not penalised. In Part 1 the examiner can only repeat the question; in Part 3 the examiner can rephrase it."
+   },
+   {
+    "en": "I'd say that ...",
+    "use": "Opinions: a softer, more natural alternative to 'I think' in all parts of the test."
+   },
+   {
+    "en": "Personally, I'm a big fan of ...",
+    "use": "Opinions: expresses a strong personal liking, which suits Part 1 questions about hobbies and preferences."
+   },
+   {
+    "en": "I'm not really into ..., to be honest.",
+    "use": "Opinions: a natural way to say you do not like something. Then explain why or say what you prefer instead."
+   },
+   {
+    "en": "As far as I'm concerned, ...",
+    "use": "Opinions: slightly more formal, suitable for Part 3. Do not repeat the same opinion phrase in every answer."
+   },
+   {
+    "en": "I can see both sides, but on the whole I think ...",
+    "use": "Opinions: shows balanced thinking in Part 3 discussion questions while still giving a clear view."
+   },
+   {
+    "en": "It depends on ... For example, ...",
+    "use": "Opinions: a strong Part 3 answer pattern, as long as you explain what it depends on. 'It depends' alone is not an answer."
+   },
+   {
+    "en": "The main reason is that ...",
+    "use": "Adding detail: extends a short answer with a reason. In Part 1, an answer plus one reason or example is usually enough."
+   },
+   {
+    "en": "What I mean is ...",
+    "use": "Clarifying yourself: rephrase an idea when you feel it came out unclear. Self-correction like this is a sign of good fluency, not a weakness."
+   },
+   {
+    "en": "For instance, last summer I ...",
+    "use": "Adding detail: a personal example with a past tense adds grammar range and makes your answer more convincing."
+   },
+   {
+    "en": "On top of that, ...",
+    "use": "Adding detail: an informal way to add a second point, more natural in speech than 'Moreover'."
+   },
+   {
+    "en": "Not only that, but ...",
+    "use": "Adding detail: emphasises an additional point in a lively way."
+   },
+   {
+    "en": "Generally speaking, ..., whereas ...",
+    "use": "Adding detail: generalises and contrasts in one sentence, which suits Part 3 questions about society."
+   },
+   {
+    "en": "Compared to when I was a child, ...",
+    "use": "Adding detail: compares past and present, a natural way to use a range of tenses in Part 3."
+   },
+   {
+    "en": "I guess that's why ...",
+    "use": "Rounding off: ends an answer naturally by linking back to the question, instead of stopping abruptly or saying 'That's all'."
+   }
+  ]
+ }
+}

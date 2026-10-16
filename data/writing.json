@@ -1,0 +1,1282 @@
+{
+  "kind": "writing",
+  "academicTask1": [
+    {
+      "id": "at1-1",
+      "visual": "line",
+      "prompt": "The graph below shows the percentage of commuters in the city of Carrowmere who used four different modes of transport to travel to work between 1995 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "line",
+        "title": "Main mode of transport to work in Carrowmere, 1995–2020",
+        "xLabel": "Year",
+        "yLabel": "Percentage of commuters (%)",
+        "x": [
+          "1995",
+          "2000",
+          "2005",
+          "2010",
+          "2015",
+          "2020"
+        ],
+        "series": [
+          {
+            "name": "Car",
+            "values": [
+              58,
+              61,
+              57,
+              50,
+              44,
+              38
+            ]
+          },
+          {
+            "name": "Bus",
+            "values": [
+              22,
+              20,
+              24,
+              21,
+              17,
+              15
+            ]
+          },
+          {
+            "name": "Bicycle",
+            "values": [
+              6,
+              5,
+              7,
+              12,
+              19,
+              26
+            ]
+          },
+          {
+            "name": "Train",
+            "values": [
+              14,
+              14,
+              12,
+              17,
+              20,
+              21
+            ]
+          }
+        ]
+      },
+      "keyFeatures": [
+        "The car was the most common way to commute throughout, but its share fell from a peak of 61% in 2000 to 38% in 2020",
+        "Cycling grew far more than any other mode, from 6% to 26%, overtaking the bus in 2015 and the train in 2020",
+        "Bus use peaked at 24% in 2005 and then declined to 15%, the lowest share of the four modes by 2020",
+        "Rail dipped to 12% in 2005 before recovering steadily to 21%"
+      ],
+      "model": "The line graph compares the percentage of commuters in Carrowmere who travelled to work by car, bus, bicycle and train over a 25-year period from 1995.\n\nOverall, the car remained the dominant mode of transport throughout, although its share declined considerably. By contrast, cycling and rail travel both became more popular, with cycling showing the most dramatic growth, while bus use fell.\n\nIn 1995, 58% of commuters drove to work, and this figure edged up to a peak of 61% five years later. From 2000 onwards, however, car use fell steadily, reaching 38% in 2020. The bus was the second most common choice at the start, used by 22% of commuters; after a slight dip, it peaked at 24% in 2005 and then slid to just 15% by 2020, the lowest share of the four.\n\nCycling, in contrast, was the least popular option for the first decade, at around 5–7%, but it then took off, overtaking the bus in 2015 and the train in 2020 to reach 26%. Rail use followed a similar but gentler pattern: after dipping to 12% in 2005, it recovered to 21% by the end of the period.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "at1-2",
+      "visual": "line",
+      "prompt": "The graph below shows the average number of visitors per day at an outdoor swimming lake and an indoor leisure centre in the town of Brackenmoor in each month of 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "line",
+        "title": "Average daily visitors to two facilities in Brackenmoor, 2024",
+        "xLabel": "Month",
+        "yLabel": "Visitors per day",
+        "x": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "series": [
+          {
+            "name": "Outdoor swimming lake",
+            "values": [
+              40,
+              55,
+              120,
+              260,
+              540,
+              860,
+              1180,
+              1090,
+              500,
+              180,
+              60,
+              30
+            ]
+          },
+          {
+            "name": "Indoor leisure centre",
+            "values": [
+              940,
+              890,
+              780,
+              650,
+              520,
+              420,
+              390,
+              410,
+              560,
+              720,
+              860,
+              610
+            ]
+          }
+        ]
+      },
+      "keyFeatures": [
+        "The two facilities followed opposite seasonal patterns: the lake was busiest in summer and the leisure centre in winter",
+        "The lake attracted more visitors than the leisure centre only from May to August, peaking at 1,180 a day in July, the highest figure on the graph",
+        "Leisure centre numbers were highest in January (940) and lowest in July (390), the month when the lake was at its busiest",
+        "December was an exception for the leisure centre: after rising through the autumn, numbers fell sharply to 610"
+      ]
+    },
+    {
+      "id": "at1-3",
+      "visual": "bar",
+      "prompt": "The chart below shows the number of students who began undergraduate courses in five subject areas in one country in 2005 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "bar",
+        "title": "New undergraduate students by subject area, 2005 and 2025",
+        "yLabel": "Number of new students (thousands)",
+        "categories": [
+          "Business",
+          "Engineering",
+          "Medicine and health",
+          "Arts and humanities",
+          "Computing"
+        ],
+        "series": [
+          {
+            "name": "2005",
+            "values": [
+              64,
+              38,
+              29,
+              52,
+              21
+            ]
+          },
+          {
+            "name": "2025",
+            "values": [
+              71,
+              45,
+              41,
+              33,
+              68
+            ]
+          }
+        ]
+      },
+      "keyFeatures": [
+        "Business was the most popular subject area in both years, but its lead over the second subject narrowed to just 3,000 students in 2025",
+        "Computing grew fastest, more than tripling from 21,000 to 68,000 and rising from the least popular area to the second most popular",
+        "Arts and humanities was the only area to decline, falling from 52,000 to 33,000 and becoming the least popular subject",
+        "Engineering and medicine and health both grew moderately (by 7,000 and 12,000 respectively)"
+      ],
+      "model": "The bar chart compares the number of students, in thousands, who began undergraduate degrees in five subject areas in one country in 2005 and 2025.\n\nOverall, enrolments rose in every field except arts and humanities, which saw a significant decline. The most striking change was the rapid growth of computing, which almost caught up with business, the most popular area in both years.\n\nIn 2005, business attracted 64,000 new students, followed by arts and humanities with 52,000. Engineering and medicine and health were less popular, with 38,000 and 29,000 entrants respectively, while computing was the smallest field at only 21,000.\n\nTwenty years later, the picture had changed considerably. Computing enrolments had more than tripled to 68,000, just 3,000 below business, which had grown modestly to 71,000. Medicine and health recorded the second-largest increase, rising by 12,000 to 41,000, and engineering also grew, reaching 45,000. By contrast, the number of arts and humanities students fell by more than a third to 33,000, meaning that this area went from being the second most popular to the least popular of the five.",
+      "modelBand": "9.0"
+    },
+    {
+      "id": "at1-4",
+      "visual": "bar",
+      "prompt": "The chart below shows the percentage of adults in five age groups in one country who used a smartphone for three different purposes in 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "bar",
+        "title": "Adults using a smartphone for three purposes, by age group (2024)",
+        "yLabel": "Percentage of age group (%)",
+        "categories": [
+          "16–24",
+          "25–34",
+          "35–49",
+          "50–64",
+          "65+"
+        ],
+        "series": [
+          {
+            "name": "Making payments",
+            "values": [
+              88,
+              91,
+              79,
+              58,
+              31
+            ]
+          },
+          {
+            "name": "Reading the news",
+            "values": [
+              74,
+              82,
+              77,
+              66,
+              45
+            ]
+          },
+          {
+            "name": "Booking medical appointments",
+            "values": [
+              19,
+              38,
+              52,
+              47,
+              34
+            ]
+          }
+        ]
+      },
+      "keyFeatures": [
+        "Payments and news reading both peaked among 25–34-year-olds (91% and 82%) and declined in every older age group",
+        "Making payments was the most common use in the three youngest groups, but reading the news led among people aged 50 and over",
+        "Booking medical appointments followed a different pattern, peaking at 52% in the 35–49 group, while 16–24-year-olds were the least likely to do it (19%)",
+        "Among over-65s, more people booked medical appointments (34%) than made payments (31%)"
+      ]
+    },
+    {
+      "id": "at1-5",
+      "visual": "pie",
+      "prompt": "The pie charts below show the sources used to generate electricity on the island of Tarrin in 2000 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "pie",
+        "title": "Electricity generation on Tarrin by source",
+        "unit": "%",
+        "pies": [
+          {
+            "label": "2000",
+            "slices": [
+              {
+                "name": "Oil",
+                "value": 44
+              },
+              {
+                "name": "Coal",
+                "value": 23
+              },
+              {
+                "name": "Natural gas",
+                "value": 17
+              },
+              {
+                "name": "Hydroelectric",
+                "value": 11
+              },
+              {
+                "name": "Wind",
+                "value": 4
+              },
+              {
+                "name": "Solar",
+                "value": 1
+              }
+            ]
+          },
+          {
+            "label": "2025",
+            "slices": [
+              {
+                "name": "Oil",
+                "value": 12
+              },
+              {
+                "name": "Coal",
+                "value": 3
+              },
+              {
+                "name": "Natural gas",
+                "value": 26
+              },
+              {
+                "name": "Hydroelectric",
+                "value": 13
+              },
+              {
+                "name": "Wind",
+                "value": 29
+              },
+              {
+                "name": "Solar",
+                "value": 17
+              }
+            ]
+          }
+        ]
+      },
+      "keyFeatures": [
+        "Fossil fuels produced 84% of the island's electricity in 2000 but only 41% in 2025, while renewables rose from 16% to 59%",
+        "Oil, the largest source in 2000 (44%), fell to 12%, and coal shrank from 23% to just 3%",
+        "Natural gas was the only fossil fuel to grow, from 17% to 26%",
+        "Wind became the largest single source (from 4% to 29%) and solar rose from 1% to 17%, whereas hydroelectric power changed little (11% to 13%)"
+      ],
+      "model": "The two pie charts illustrate how the electricity produced on the island of Tarrin was generated in 2000 and 2025.\n\nOverall, there was a marked shift away from fossil fuels towards renewable energy over the 25-year period. Wind power replaced oil as the leading source of electricity, and natural gas was the only fossil fuel to increase its share.\n\nIn 2000, fossil fuels dominated electricity generation, accounting for 84% of the total. Oil alone provided 44%, almost twice as much as coal (23%), while natural gas contributed 17%. Renewable sources were far less significant: hydroelectric plants supplied 11%, wind 4% and solar power just 1%.\n\nBy 2025, the combined share of fossil fuels had fallen to 41%. Oil dropped sharply to 12%, and coal dwindled to a mere 3%. Natural gas, in contrast, rose to 26%. The biggest gain was made by wind power, whose share rose more than sevenfold to 29%, making it the largest single source. Solar energy also expanded significantly to 17%, whereas the proportion from hydroelectric plants remained relatively stable at 13%.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "at1-6",
+      "visual": "table",
+      "prompt": "The table below shows the number of visitors to five attractions in the city of Calderport in 2004, 2014 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "table",
+        "title": "Annual visitors to five attractions in Calderport (thousands)",
+        "headers": [
+          "Attraction",
+          "2004",
+          "2014",
+          "2024"
+        ],
+        "rows": [
+          [
+            "Castle",
+            "520",
+            "610",
+            "640"
+          ],
+          [
+            "Maritime Museum",
+            "380",
+            "295",
+            "210"
+          ],
+          [
+            "Botanic Gardens",
+            "245",
+            "330",
+            "480"
+          ],
+          [
+            "Science Centre",
+            "not open",
+            "410",
+            "655"
+          ],
+          [
+            "Art Gallery",
+            "190",
+            "350",
+            "300"
+          ]
+        ]
+      },
+      "keyFeatures": [
+        "Over the whole period, attendance grew at every attraction except the Maritime Museum, and the combined total rose from about 1.34 million to almost 2.3 million",
+        "The castle was the most visited attraction in 2004 and 2014, but the Science Centre, which opened after 2004, overtook it in 2024 (655,000 against 640,000)",
+        "The Maritime Museum was the only attraction to decline steadily, from 380,000 to 210,000, dropping from second place to last",
+        "The Botanic Gardens almost doubled their visitors, while the Art Gallery peaked in 2014 (350,000) and then fell to 300,000"
+      ],
+      "model": "The table compares the number of people who visited five tourist attractions in Calderport in three different years: 2004, 2014 and 2024.\n\nOverall, the city's attractions became considerably more popular during this period, with the only consistent decline seen at the Maritime Museum. Another notable feature is that the Science Centre, which had not yet opened in 2004, had become the most visited attraction by the end of the period.\n\nIn 2004, the castle was the leading attraction, receiving 520,000 visitors, followed by the Maritime Museum with 380,000. The Botanic Gardens and the Art Gallery were less popular, attracting 245,000 and 190,000 visitors respectively. Over the next decade, the castle's figure rose to 610,000 and the Art Gallery's climbed sharply to 350,000, whereas the Maritime Museum's fell to 295,000. Meanwhile, the newly opened Science Centre attracted 410,000 people.\n\nBy 2024, the Science Centre had overtaken the castle, with 655,000 visitors compared with 640,000. The Botanic Gardens also became steadily more popular, reaching 480,000, almost double their 2004 total. In contrast, the Maritime Museum's figure dropped again to just 210,000, the lowest of all five sites that year, and the Art Gallery saw a modest fall to 300,000.",
+      "modelBand": "8.0"
+    },
+    {
+      "id": "at1-7",
+      "visual": "mixed",
+      "prompt": "The bar chart below shows the amount of food wasted by five sectors in the region of Elvanshire in 2015 and 2025, and the pie chart shows the reasons households gave for throwing food away in 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "mixed",
+        "parts": [
+          {
+            "type": "bar",
+            "title": "Food waste by sector in Elvanshire, 2015 and 2025",
+            "yLabel": "Food wasted (thousand tonnes)",
+            "categories": [
+              "Households",
+              "Food factories",
+              "Farms",
+              "Restaurants and cafés",
+              "Supermarkets"
+            ],
+            "series": [
+              {
+                "name": "2015",
+                "values": [
+                  410,
+                  190,
+                  160,
+                  95,
+                  70
+                ]
+              },
+              {
+                "name": "2025",
+                "values": [
+                  355,
+                  120,
+                  170,
+                  110,
+                  45
+                ]
+              }
+            ]
+          },
+          {
+            "type": "pie",
+            "title": "Reasons for household food waste, 2025",
+            "unit": "%",
+            "pies": [
+              {
+                "label": "2025",
+                "slices": [
+                  {
+                    "name": "Passed its date label",
+                    "value": 34
+                  },
+                  {
+                    "name": "Cooked or served too much",
+                    "value": 27
+                  },
+                  {
+                    "name": "Went off before it was eaten",
+                    "value": 21
+                  },
+                  {
+                    "name": "Did not like the taste",
+                    "value": 8
+                  },
+                  {
+                    "name": "Other",
+                    "value": 10
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "keyFeatures": [
+        "Households wasted far more food than any other sector in both years, even though their total fell from 410,000 to 355,000 tonnes",
+        "Total food waste fell from 925,000 to 800,000 tonnes; food factories (190,000 to 120,000) and supermarkets (70,000 to 45,000) both cut their waste by more than a third, the largest proportional falls",
+        "Only two sectors wasted more food in 2025 than in 2015: farms (160,000 to 170,000 tonnes) and restaurants and cafés (95,000 to 110,000)",
+        "Date labels (34%) and cooking or serving too much (27%) together explained over 60% of household waste, while dislike of the taste accounted for only 8%"
+      ]
+    },
+    {
+      "id": "at1-8",
+      "visual": "process",
+      "prompt": "The diagram below shows how a sea stack is formed along a rocky coastline. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "process",
+        "title": "How a sea stack is formed",
+        "cycle": false,
+        "steps": [
+          "Waves strike a headland of hard rock that contains natural cracks and weak points",
+          "The force of the water, together with sand and pebbles hurled against the cliff, widens the cracks at its base",
+          "Over many years, the largest crack is eroded into a cave at sea level",
+          "The cave deepens until it breaks through the headland, creating a natural arch",
+          "Waves continue to erode the base of the arch, while rain, wind and frost weaken its roof",
+          "The roof collapses into the sea, leaving an isolated pillar of rock called a stack",
+          "The base of the stack is gradually undercut by the waves until the column topples",
+          "A low stump of rock remains, often visible only at low tide"
+        ]
+      },
+      "keyFeatures": [
+        "The process has eight stages and takes place over a very long period, beginning with cracks in a headland and ending with a low stump of rock",
+        "Wave erosion at the base of the rock is the main force at work throughout the process",
+        "The landforms appear in a fixed sequence: crack, cave, arch, stack and finally stump",
+        "Weathering by rain, wind and frost also weakens the roof of the arch until it collapses"
+      ]
+    },
+    {
+      "id": "at1-9",
+      "visual": "process",
+      "prompt": "The diagram below shows how wooden pencils are manufactured. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "process",
+        "title": "The manufacture of wooden pencils",
+        "cycle": false,
+        "steps": [
+          "Cedar logs are sawn into thin rectangular boards called slats",
+          "The slats are stained, waxed and dried in a kiln",
+          "Nine parallel grooves are cut along the surface of each slat",
+          "Meanwhile, powdered graphite and clay are mixed with water to make a thick paste",
+          "The paste is squeezed through a narrow nozzle to form thin rods, which are cut to length and baked at about 1,000°C to harden them",
+          "The hardened leads are laid in the grooves of one slat, and a second grooved slat is glued on top to form a 'sandwich'",
+          "The sandwiches are clamped and left to dry, then cut into nine separate pencils and shaped",
+          "Each pencil is painted with several coats of lacquer, stamped with the brand name and fitted with an eraser"
+        ]
+      },
+      "keyFeatures": [
+        "There are eight stages, with two separate strands (preparing the wooden slats and making the leads) that come together when the leads are fitted into the grooves",
+        "The wooden casing begins as cedar logs, which are sawn into slats, treated, kiln-dried and grooved",
+        "The leads are made from a paste of graphite, clay and water that is shaped into rods and baked at about 1,000°C",
+        "After assembly, the pencils are cut, shaped, lacquered, stamped and fitted with erasers"
+      ],
+      "model": "The diagram illustrates how wooden pencils are manufactured, from cedar logs and graphite to the finished product.\n\nOverall, the process consists of eight stages and involves two separate lines of work: preparing the wooden casing and making the leads. These come together when the leads are inserted into the wood, after which the pencils are cut, shaped and finished.\n\nTo begin with, cedar logs are sawn into thin rectangular boards known as slats. These are stained, waxed and kiln-dried, after which nine parallel grooves are cut into each one. Meanwhile, the leads are made separately. Powdered graphite and clay are combined with water to form a thick paste, which is forced through a narrow nozzle to create thin rods. These are cut to length and baked at around 1,000°C to harden them.\n\nIn the next stage, the leads are laid in the grooves of one slat and a second grooved slat is glued on top, forming a 'sandwich'. Once these have been clamped and dried, they are cut into nine individual pencils and shaped. Finally, each pencil is coated with several layers of lacquer, stamped with the brand name and fitted with an eraser.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "at1-10",
+      "visual": "map",
+      "prompt": "The maps below show an area on the northern edge of the town of Maddleton in 2000 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart": {
+        "type": "map",
+        "title": "Riverside area of Maddleton, 2000 and 2025 (north at top)",
+        "maps": [
+          {
+            "label": "2000",
+            "features": [
+              {
+                "kind": "water",
+                "x": 0,
+                "y": 0,
+                "w": 100,
+                "h": 9,
+                "label": "River Avel"
+              },
+              {
+                "kind": "field",
+                "x": 3,
+                "y": 13,
+                "w": 38,
+                "h": 15,
+                "label": "Farmland"
+              },
+              {
+                "kind": "building",
+                "x": 44,
+                "y": 13,
+                "w": 23,
+                "h": 15,
+                "label": "Paper mill"
+              },
+              {
+                "kind": "road",
+                "x": 70,
+                "y": 9,
+                "w": 6,
+                "h": 22,
+                "label": "Ash Lane"
+              },
+              {
+                "kind": "car_park",
+                "x": 79,
+                "y": 13,
+                "w": 18,
+                "h": 15,
+                "label": "Car park"
+              },
+              {
+                "kind": "road",
+                "x": 0,
+                "y": 31,
+                "w": 100,
+                "h": 5,
+                "label": "Mill Road"
+              },
+              {
+                "kind": "building",
+                "x": 3,
+                "y": 40,
+                "w": 22,
+                "h": 16,
+                "label": "Houses"
+              },
+              {
+                "kind": "building",
+                "x": 28,
+                "y": 40,
+                "w": 15,
+                "h": 9,
+                "label": "School"
+              },
+              {
+                "kind": "trees",
+                "x": 47,
+                "y": 39,
+                "w": 50,
+                "h": 18,
+                "label": "Woodland"
+              }
+            ]
+          },
+          {
+            "label": "2025",
+            "features": [
+              {
+                "kind": "water",
+                "x": 0,
+                "y": 0,
+                "w": 100,
+                "h": 9,
+                "label": "River Avel"
+              },
+              {
+                "kind": "road",
+                "x": 70,
+                "y": 0,
+                "w": 6,
+                "h": 9,
+                "label": "Bridge"
+              },
+              {
+                "kind": "path",
+                "x": 0,
+                "y": 9,
+                "w": 70,
+                "h": 3,
+                "label": "Riverside walk"
+              },
+              {
+                "kind": "building",
+                "x": 3,
+                "y": 13,
+                "w": 22,
+                "h": 15,
+                "label": "Housing estate"
+              },
+              {
+                "kind": "park",
+                "x": 27,
+                "y": 13,
+                "w": 14,
+                "h": 15,
+                "label": "Park"
+              },
+              {
+                "kind": "building",
+                "x": 44,
+                "y": 13,
+                "w": 23,
+                "h": 15,
+                "label": "Shopping centre"
+              },
+              {
+                "kind": "road",
+                "x": 70,
+                "y": 9,
+                "w": 6,
+                "h": 22,
+                "label": "Ash Lane"
+              },
+              {
+                "kind": "car_park",
+                "x": 79,
+                "y": 13,
+                "w": 18,
+                "h": 15,
+                "label": "Car park"
+              },
+              {
+                "kind": "road",
+                "x": 0,
+                "y": 31,
+                "w": 100,
+                "h": 5,
+                "label": "Mill Road"
+              },
+              {
+                "kind": "building",
+                "x": 3,
+                "y": 40,
+                "w": 22,
+                "h": 16,
+                "label": "Houses"
+              },
+              {
+                "kind": "building",
+                "x": 28,
+                "y": 40,
+                "w": 15,
+                "h": 18,
+                "label": "School"
+              },
+              {
+                "kind": "building",
+                "x": 47,
+                "y": 40,
+                "w": 20,
+                "h": 16,
+                "label": "Health centre"
+              },
+              {
+                "kind": "trees",
+                "x": 70,
+                "y": 39,
+                "w": 27,
+                "h": 18,
+                "label": "Woodland"
+              }
+            ]
+          }
+        ]
+      },
+      "keyFeatures": [
+        "Overall, the area changed from a largely rural and industrial landscape into a residential and commercial one, while the two main roads and the original houses stayed the same",
+        "North of Mill Road, the farmland was replaced by a housing estate and a park, and a shopping centre now stands on the site of the paper mill; the car park was kept",
+        "A bridge now carries Ash Lane across the river, and a riverside walk has been built along the southern bank",
+        "South of Mill Road, the school doubled in size and almost half of the woodland was cleared for a health centre"
+      ],
+      "model": "The two maps illustrate how an area on the northern edge of Maddleton, beside the River Avel, changed between 2000 and 2025.\n\nOverall, the district was transformed from a largely rural and industrial area into a residential and commercial one, with better transport links and new public facilities. However, the main roads and the existing houses remained the same.\n\nIn 2000, the western part of the land between the river and Mill Road was farmland, with a paper mill to the east of it and a car park on the far side of Ash Lane. By 2025, the farmland had made way for a housing estate and a small park, and the paper mill had been replaced by a shopping centre, while the car park was retained. In addition, a bridge had been built to carry Ash Lane across the river, and a riverside walk had been created along the southern bank, west of the bridge.\n\nSouth of Mill Road, the houses were unaffected, but the school was extended southwards, roughly doubling in size. The most significant change on this side, however, was the clearance of almost half of the woodland to make room for a health centre.",
+      "modelBand": "8.5"
+    }
+  ],
+  "generalTask1": [
+    {
+      "id": "gt1-1",
+      "tone": "formal",
+      "prompt": "You recently attended a weekend photography course run by a private company. Several things about the course were different from what was advertised. Write a letter to the company. In your letter",
+      "bullets": [
+        "describe what the advertisement for the course promised",
+        "explain how the course was different",
+        "say what you would like the company to do"
+      ],
+      "opening": "Dear Sir or Madam,",
+      "model": "Dear Sir or Madam,\n\nI am writing to express my disappointment with the weekend photography course I attended at your Westgate studio on 14–15 September.\n\nAccording to the advertisement on your website, the course was designed for beginners, with no more than eight participants, and included a full day of outdoor practice in the old harbour area. Lunch on both days was also promised, and the fee of £240 was said to cover all equipment.\n\nUnfortunately, the reality was quite different. There were nineteen people in the group, so the tutor had very little time to look at our work. Moreover, the outdoor session was replaced by a two-hour slideshow, apparently because no permit had been arranged. We were also asked to pay an extra £35 to hire tripods, and lunch was provided on the Saturday only.\n\nGiven that the course fell so far short of its description, I would be grateful if you could refund half of the fee. Alternatively, I would accept a free place on a properly organised outdoor session in the near future.\n\nI look forward to hearing from you.\n\nYours faithfully,\n\nDaniel Okoro",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "gt1-2",
+      "tone": "formal",
+      "prompt": "Your local council is planning to turn a small public garden near your home into a car park. Write a letter to the council. In your letter",
+      "bullets": [
+        "explain how local people use the garden at present",
+        "describe the problems a car park would cause",
+        "suggest a better solution"
+      ],
+      "opening": "Dear Sir or Madam,",
+      "model": "Dear Sir or Madam,\n\nI am writing in response to the council's proposal to replace Rowan Gardens on Mercer Street with a car park. As a resident of the street for over ten years, I would strongly urge you to reconsider.\n\nAlthough the garden is small, it is in constant use. Parents from the nursery opposite take their children there to play, older residents meet on the benches every morning, and volunteers have recently planted a vegetable patch which supplies the local community kitchen.\n\nBuilding a car park here would create several problems. Mercer Street is narrow and already congested, so extra traffic would make it more dangerous for the young children who cross it every day. Furthermore, removing the trees would increase noise and air pollution in a neighbourhood that has little green space.\n\nI appreciate that parking is limited, but there is a better solution. The council could reach an agreement with the supermarket on Hale Road, whose large car park is half empty most evenings and at weekends, so that residents could use it.\n\nThank you for considering my views.\n\nYours faithfully,\n\nMei Lin Tan",
+      "modelBand": "8.0"
+    },
+    {
+      "id": "gt1-3",
+      "tone": "formal",
+      "prompt": "An international athletics championship will take place in your city next summer, and the organisers are looking for volunteers. Write a letter to the organisers. In your letter",
+      "bullets": [
+        "say which volunteer role you would like to do",
+        "describe your relevant skills and experience",
+        "explain when you would be available"
+      ],
+      "opening": "Dear Sir or Madam,"
+    },
+    {
+      "id": "gt1-4",
+      "tone": "semi-formal",
+      "prompt": "You would like to change your working hours for the next few months so that you can attend a course. Write a letter to your manager. In your letter",
+      "bullets": [
+        "describe the course you want to take",
+        "explain how it would benefit your work",
+        "suggest how your working hours could be changed"
+      ],
+      "opening": "Dear Mr Lawson,",
+      "model": "Dear Mr Lawson,\n\nI am writing to ask whether it would be possible to adjust my working hours for the next four months so that I can attend a part-time course.\n\nThe course, a Certificate in Data Analysis at Kesterton College, runs from October to January and covers spreadsheet modelling, data visualisation and basic programming. Classes take place on Tuesday and Thursday afternoons from 2 to 5 p.m.\n\nI believe the qualification would be of real benefit to our team. At present, we rely on the finance department whenever we need sales figures analysed, which often delays our monthly reports. After completing the course, I would be able to prepare these analyses myself and pass on my new skills to colleagues.\n\nTo make up the time, I could start at 7.30 a.m. on those two days and leave at 1.30 p.m., and I would be happy to work later on Mondays and Wednesdays if necessary. I would make sure that none of my deadlines were affected.\n\nI would be grateful if we could discuss this at your convenience.\n\nYours sincerely,\n\nAmira Haddad",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "gt1-5",
+      "tone": "semi-formal",
+      "prompt": "You are going abroad for three months for work and need someone to keep an eye on your home while you are away. You have decided to ask a neighbour whom you do not know very well. Write a letter to your neighbour. In your letter",
+      "bullets": [
+        "explain why you will be away",
+        "describe what you would like your neighbour to do",
+        "offer something in return for their help"
+      ],
+      "opening": "Dear Mrs Kowalski,"
+    },
+    {
+      "id": "gt1-6",
+      "tone": "semi-formal",
+      "prompt": "You are applying for a place on a postgraduate course and need a reference. You would like to ask one of your former university lecturers to write it. Write a letter to the lecturer. In your letter",
+      "bullets": [
+        "remind the lecturer who you are",
+        "give details of the course you are applying for",
+        "explain why you are asking this lecturer in particular"
+      ],
+      "opening": "Dear Dr Romero,",
+      "model": "Dear Dr Romero,\n\nI hope you are keeping well. You may remember me from your Environmental Policy seminars in 2021–22; I was the student who wrote the dissertation on water pricing in small farming communities, which you supervised.\n\nI am now applying for a one-year master's degree in Sustainable Resource Management at Westmere University, which starts next September. The programme combines fieldwork with research training, and applicants must submit two academic references by 15 January.\n\nI am writing to ask whether you would be willing to act as one of my referees. As you supervised my dissertation, you are in the best position to comment on my research skills and my ability to work independently. Your feedback at the time also played a large part in my decision to pursue this field, so it would mean a great deal to me if you could support my application.\n\nI have attached my CV and personal statement, and I would be happy to send any further information you might need.\n\nThank you very much for considering my request.\n\nYours sincerely,\n\nKarim Mansour",
+      "modelBand": "9.0"
+    },
+    {
+      "id": "gt1-7",
+      "tone": "informal",
+      "prompt": "A friend of yours has been offered a job in the city where you live and will be moving there soon. Write a letter to your friend. In your letter",
+      "bullets": [
+        "recommend an area of the city to live in",
+        "give some advice about getting around the city",
+        "suggest how you could help when your friend arrives"
+      ],
+      "opening": "Dear Lina,"
+    },
+    {
+      "id": "gt1-8",
+      "tone": "informal",
+      "prompt": "You were invited to a close friend's birthday celebration last weekend, but you were unable to go. Write a letter to your friend. In your letter",
+      "bullets": [
+        "apologise and explain why you could not attend",
+        "ask about the celebration",
+        "suggest a way to celebrate together soon"
+      ],
+      "opening": "Dear Jo,",
+      "model": "Dear Jo,\n\nI'm so sorry I missed your birthday dinner on Saturday – I'd been looking forward to it for weeks. Just as I was getting ready to leave, my brother rang to say his car had broken down on the motorway with the kids in the back, so I drove out to pick them up. By the time we'd sorted everything out, it was nearly midnight, and I didn't want to phone and interrupt the party.\n\nAnyway, I want to hear all about it! Did everyone turn up? Was the food at that new Lebanese place as good as people say? And most importantly, did you like the present I left with Sara?\n\nTo make up for it, I'd love to take you out to celebrate properly. How about a day trip to the coast next month? We could have lunch at that little fish restaurant we went to years ago and walk along the cliffs if the weather's decent. My treat, of course!\n\nLet me know which weekend suits you.\n\nLots of love,\n\nMaya",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "gt1-9",
+      "tone": "informal",
+      "prompt": "You have recently joined a walking club, and the club is organising a weekend trip. Write a letter to an old friend inviting them to come with you. In your letter",
+      "bullets": [
+        "tell your friend about the club",
+        "give details of the trip",
+        "explain why you think your friend would enjoy it"
+      ],
+      "opening": "Dear Rob,"
+    }
+  ],
+  "task2": [
+    {
+      "id": "t2-1",
+      "essayType": "opinion",
+      "topic": "Education",
+      "prompt": "Some educators argue that secondary schools should set aside one full day each week for students to work on independent projects of their own choosing, instead of following the normal timetable. To what extent do you agree or disagree?",
+      "ideas": {
+        "for": [
+          "develops independence, research and time-management skills",
+          "lets students explore interests that the curriculum ignores",
+          "can renew motivation among students bored by routine lessons"
+        ],
+        "against": [
+          "a fifth of teaching time would be lost from core subjects",
+          "less organised students may waste the day without close guidance",
+          "projects are hard to assess fairly and need extra staff and resources"
+        ]
+      },
+      "model": "In most secondary schools, almost every hour of the week is devoted to a fixed curriculum, leaving students little opportunity to pursue their own interests. Some educators therefore propose that one day a week should be given over entirely to self-chosen projects. While I agree that independent project work deserves a place in the timetable, I believe that devoting a full day to it every week would be a mistake.\n\nThere are strong arguments for giving students more freedom. When teenagers choose a project themselves, whether it is building a simple app or researching the history of their neighbourhood, they tend to work with a level of commitment that routine lessons rarely inspire. Such projects also develop abilities that conventional classes often neglect, such as planning a task over several weeks, finding reliable information and presenting results to an audience.\n\nHowever, a whole day each week represents a fifth of all teaching time. For students preparing for national examinations, losing this much instruction in mathematics, languages and science could seriously affect their results. Furthermore, independent work suits some learners far better than others. Highly motivated students may flourish, but those who struggle with organisation could easily drift through the day without making real progress, widening the gap between stronger and weaker students rather than narrowing it.\n\nA more balanced approach would be to set aside a shorter period, perhaps one afternoon a week, for supervised projects with clear milestones and regular feedback from a teacher. This would preserve most of the benefits of independent study while protecting core subjects and ensuring that less confident students receive the support they need.\n\nIn conclusion, project-based learning has genuine value, but it should complement the curriculum rather than replace a significant part of it.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "t2-2",
+      "essayType": "opinion",
+      "topic": "Sport",
+      "prompt": "In many countries, sport for young children is organised around leagues, trophies and rankings. Some people believe that sport for children under the age of twelve should not involve competition at all. To what extent do you agree or disagree?",
+      "ideas": {
+        "for": [
+          "removes the pressure and fear of failure that make many children give up",
+          "lets coaches focus on skills and enjoyment rather than results",
+          "avoids early selection that leaves out late developers"
+        ],
+        "against": [
+          "competition teaches children to cope with both winning and losing",
+          "many children are motivated by goals, scores and challenges",
+          "children compete naturally in play, so adults should guide it rather than ban it"
+        ]
+      }
+    },
+    {
+      "id": "t2-3",
+      "essayType": "opinion",
+      "topic": "Government spending",
+      "prompt": "Some people believe that governments should spend more money on maintaining existing public buildings, roads and parks, rather than on building new ones. To what extent do you agree or disagree?",
+      "ideas": {
+        "for": [
+          "repairs usually cost far less than new construction",
+          "neglected infrastructure becomes unsafe and more expensive to fix later",
+          "existing facilities already serve established communities"
+        ],
+        "against": [
+          "growing populations need new schools, hospitals and transport links",
+          "some old buildings are inefficient and costly to keep running",
+          "new projects create jobs and can revive struggling areas"
+        ]
+      }
+    },
+    {
+      "id": "t2-4",
+      "essayType": "opinion",
+      "topic": "Ageing",
+      "prompt": "In many countries, an increasing proportion of the population is over the age of 65. Some people think that the best way to care for older people is to help them live in their own homes for as long as possible, rather than moving them into care homes. To what extent do you agree or disagree?",
+      "ideas": {
+        "for": [
+          "older people keep their independence, routines and links with neighbours",
+          "home care is often cheaper for families and governments than residential care",
+          "familiar surroundings support mental well-being"
+        ],
+        "against": [
+          "people with serious illnesses may need round-the-clock professional care",
+          "living alone can lead to isolation and loneliness",
+          "adapting homes and arranging visits can place a heavy burden on relatives"
+        ]
+      },
+      "model": "As life expectancy rises, societies must decide how best to support their oldest members. Some people argue that older people should be helped to remain in their own homes for as long as possible rather than moving into care homes. I largely agree with this view, although I accept that for some individuals residential care is the safer and kinder option.\n\nThe strongest argument for supporting older people at home is that it allows them to keep control over their own lives. Someone who has lived in the same house for decades knows the neighbours, the local shops and the bus routes, and these familiar routines give structure and meaning to each day. Moving into an institution, however comfortable, often means giving up this independence. There is also a financial case: with simple adaptations such as handrails and stairlifts, and regular visits from carers, many people can live safely at home for considerably less than a care-home place costs.\n\nNevertheless, home care has clear limits. A person with advanced dementia or complex medical needs may require supervision day and night, which visiting carers cannot provide. In such cases, insisting on independence can expose the individual to real danger and place an exhausting burden on relatives. Loneliness is another serious risk, particularly for those who have lost a partner and rarely leave the house.\n\nFor these reasons, I believe that staying at home should be the starting point, backed by well-funded community services, but not an absolute rule. Each decision should be made on an individual basis, with the wishes of the older person at its centre.\n\nIn short, helping older people to remain in their own homes is generally the best approach, provided that good care homes remain available for those whose needs cannot be met in any other way.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "t2-5",
+      "essayType": "discussion",
+      "topic": "Work",
+      "prompt": "Some people think that employees should be judged only on the results they achieve, regardless of when or where they do their work. Others believe that fixed hours in a shared workplace are essential for an effective team. Discuss both these views and give your own opinion.",
+      "ideas": {
+        "for": [
+          "trusts staff and rewards what they produce rather than how long they are seen at a desk",
+          "lets people work when they are most productive and fit work around family life",
+          "cuts commuting time and office costs"
+        ],
+        "against": [
+          "face-to-face contact builds trust and speeds up problem-solving",
+          "new employees learn by watching experienced colleagues",
+          "results are hard to measure in roles such as customer care or teamwork"
+        ]
+      }
+    },
+    {
+      "id": "t2-6",
+      "essayType": "discussion",
+      "topic": "Cities",
+      "prompt": "As cities run short of housing, some people argue that empty offices, shops and factories should be converted into homes. Others believe that building new neighbourhoods on the edge of the city is a better solution. Discuss both these views and give your own opinion.",
+      "ideas": {
+        "for": [
+          "reuses existing buildings, which is quicker and creates less waste than building from scratch",
+          "brings residents back to city centres, supporting local shops and services",
+          "protects green space on the edge of the city from development"
+        ],
+        "against": [
+          "new neighbourhoods can be planned with schools, parks and transport from the start",
+          "purpose-built homes are usually larger, brighter and more energy-efficient",
+          "large sites can provide many more family homes than scattered conversions"
+        ]
+      }
+    },
+    {
+      "id": "t2-7",
+      "essayType": "discussion",
+      "topic": "Science",
+      "prompt": "Some people believe that scientific research should focus mainly on solving practical problems, such as disease and climate change. Others argue that research driven purely by curiosity is just as important. Discuss both these views and give your own opinion.",
+      "ideas": {
+        "for": [
+          "urgent problems such as epidemics and food shortages need solutions now",
+          "taxpayers expect visible returns on public money",
+          "clear goals make funding easier to justify and progress easier to measure"
+        ],
+        "against": [
+          "many major breakthroughs began as research with no obvious use",
+          "nobody can predict which knowledge will prove useful",
+          "open-ended research attracts and trains talented scientists"
+        ]
+      },
+      "model": "Governments and universities have limited funds for research, so they must decide what kind of science to support. Some argue that the priority should be work that tackles pressing practical problems, while others maintain that research motivated simply by curiosity is equally valuable. In my view, both kinds of research are essential, and prioritising one at the expense of the other would be short-sighted.\n\nThose who favour applied research point to the scale of the challenges facing the world. Diseases such as malaria still kill hundreds of thousands of people every year, and rising temperatures threaten harvests and coastal cities. When problems are this urgent, it seems reasonable to direct scientists towards finding solutions. Moreover, most research is funded by taxpayers, who are more likely to support such spending if they can see clear benefits, such as a new vaccine or a cheaper solar panel.\n\nOn the other hand, many of the most important practical advances have grown out of research that had no obvious use at the time. The physicists who first studied the strange behaviour of electrons in the early twentieth century could not have imagined that their work would one day make computers and smartphones possible. Since no one can predict which discoveries will prove useful, restricting funding to projects with immediate applications risks cutting off the source of future breakthroughs.\n\nI believe the most sensible approach is to fund both. Applied research is clearly needed to address current crises, but a significant share of funding should still be reserved for open-ended investigation, because this is the foundation on which practical solutions are eventually built.\n\nUltimately, although it is understandable that people want science to deliver tangible results, curiosity-driven research is not a luxury but a long-term investment, and it deserves continued support alongside work on practical problems.",
+      "modelBand": "9.0"
+    },
+    {
+      "id": "t2-8",
+      "essayType": "discussion",
+      "topic": "Family",
+      "prompt": "Some people believe that parents should make important family decisions, such as moving to a new city or choosing a school, without involving their children. Others think that children should have a say in decisions of this kind. Discuss both these views and give your own opinion.",
+      "ideas": {
+        "for": [
+          "parents understand the full picture, such as finances and job prospects",
+          "children tend to focus on short-term wishes, such as staying near friends",
+          "protects children from adult worries and responsibility"
+        ],
+        "against": [
+          "children who are consulted feel respected and adapt better to change",
+          "children may know things parents miss, such as their real interests or problems at school",
+          "taking part in family discussions teaches decision-making skills"
+        ]
+      },
+      "model": "Choices such as moving to another city or selecting a secondary school can shape a child's life for years. Some people feel that such decisions are for parents alone, while others argue that children should be given a voice. In my view, children should be consulted, although the final responsibility must remain with their parents.\n\nThose who favour leaving children out of these decisions make some valid points. Parents generally have a much fuller picture of the situation, including the family's finances and job prospects, whereas a ten-year-old is likely to focus on short-term concerns, such as staying close to friends. There is also an argument that children should be protected from adult worries. Asking a child to help decide whether the family can afford to move, for example, may cause unnecessary anxiety and place an unfair burden on them.\n\nOn the other hand, there are strong reasons for involving children. Young people who are asked for their opinion are more likely to feel respected, and they tend to adapt more easily to a change they have helped to shape. A teenager who has visited a new school and discussed it with their parents will probably start there with a more positive attitude than one who is simply told where to go. Children may also know things that their parents do not, such as which subjects they are passionate about or whether a particular school has a problem with bullying. Moreover, taking part in such discussions teaches them to weigh up options, a skill they will need as adults.\n\nIn conclusion, while parents should have the final say on major family matters, I believe that children's views deserve to be heard, and that they should carry more weight as children grow older. This approach respects young people's feelings without burdening them with responsibilities they are not yet ready to bear.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "t2-9",
+      "essayType": "advantages",
+      "topic": "Technology",
+      "prompt": "Many everyday tasks, such as paying bills, booking appointments and ordering food, can increasingly be done only through smartphone apps. Do the advantages of this development outweigh the disadvantages?",
+      "ideas": {
+        "for": [
+          "services are available at any time, without queues",
+          "lower running costs for businesses can mean lower prices",
+          "digital records make payments and bookings easy to track"
+        ],
+        "against": [
+          "excludes people without smartphones or digital skills, often older or poorer people",
+          "increases the risk of fraud and data breaches",
+          "removes human help when something goes wrong"
+        ]
+      }
+    },
+    {
+      "id": "t2-10",
+      "essayType": "advantages",
+      "topic": "Tourism",
+      "prompt": "One way of reducing overcrowding in popular tourist destinations is to charge day visitors a fee to enter the historic centre. Do the advantages of this policy outweigh the disadvantages?",
+      "ideas": {
+        "for": [
+          "reduces overcrowding in fragile historic areas",
+          "raises money for conservation and local services",
+          "encourages longer, more considered visits instead of rushed day trips"
+        ],
+        "against": [
+          "may make famous sites unaffordable for less wealthy visitors",
+          "can harm small businesses that depend on day-trippers",
+          "treats a living town like a theme park, alienating residents"
+        ]
+      }
+    },
+    {
+      "id": "t2-11",
+      "essayType": "advantages",
+      "topic": "Transport",
+      "prompt": "Some cities have stopped charging passengers to use buses and trams. Do the advantages of this policy outweigh the disadvantages?",
+      "ideas": {
+        "for": [
+          "encourages people to leave their cars at home, cutting congestion and pollution",
+          "helps people on low incomes reach jobs, education and healthcare",
+          "saves the cost of ticket machines, inspectors and fare collection"
+        ],
+        "against": [
+          "the lost fare income has to be replaced through taxes",
+          "services may become overcrowded without extra investment",
+          "some new passengers switch from walking or cycling rather than from cars"
+        ]
+      },
+      "model": "In an effort to reduce traffic and help residents with the cost of living, a number of cities have abolished fares on their buses and trams. Although this policy has some drawbacks, I believe that its benefits are greater, provided that it is properly funded.\n\nThe most obvious disadvantage is cost. Fares usually cover a substantial share of the expense of running a transport network, so when they disappear, the money has to be found elsewhere, typically through higher local taxes. Critics also point out that free travel can lead to overcrowding, as services designed for a certain number of paying passengers are suddenly used by many more. In addition, some of the new passengers may be people who previously walked or cycled, which does little to benefit the environment.\n\nOn the other hand, the advantages are considerable. Free public transport makes a real difference to people on low incomes, for whom travel costs can be a barrier to finding work, attending college or seeing a doctor. Cities also save the money they previously spent on ticket machines, inspectors and fare collection. Most importantly, when the policy is combined with measures such as dedicated bus lanes and higher parking charges, it can persuade drivers to leave their cars at home, which reduces congestion and improves air quality for everyone.\n\nOn balance, I believe the advantages outweigh the disadvantages, but only if the city is prepared to invest in more frequent services and to discourage car use at the same time. A free network that is slow and overcrowded will not change people's habits, whereas one that is free, frequent and reliable can transform the way a city moves.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "t2-12",
+      "essayType": "advantages",
+      "topic": "Education",
+      "prompt": "Some secondary schools have stopped giving marks or grades for students' everyday work and instead give only written comments on how it could be improved. What are the advantages and disadvantages of this approach?",
+      "ideas": {
+        "for": [
+          "students focus on how to improve rather than on a number",
+          "reduces anxiety and unhelpful comparison between classmates",
+          "weaker students are less likely to lose confidence and give up"
+        ],
+        "against": [
+          "students and parents lack a clear measure of progress",
+          "some students are motivated by marks and work less hard without them",
+          "detailed written comments take teachers much longer than giving a mark"
+        ]
+      }
+    },
+    {
+      "id": "t2-13",
+      "essayType": "problem_solution",
+      "topic": "Health",
+      "prompt": "Surveys in many countries suggest that a large proportion of adults regularly sleep for less than seven hours a night. What problems does this cause, and what can be done to address them?",
+      "ideas": {
+        "for": [
+          "poor concentration leads to mistakes and accidents at work and on the roads",
+          "a higher risk of long-term health problems such as obesity and heart disease",
+          "irritability and stress that damage relationships and mental health"
+        ],
+        "against": [
+          "public campaigns on the importance of sleep and screen-free bedtimes",
+          "later school start times for teenagers",
+          "employers limiting late-night emails and excessively long shifts"
+        ]
+      }
+    },
+    {
+      "id": "t2-14",
+      "essayType": "problem_solution",
+      "topic": "Crime",
+      "prompt": "In many places, online crimes such as fraud and identity theft are now more common than traditional crimes such as burglary. Why is this happening, and what can be done to protect people?",
+      "ideas": {
+        "for": [
+          "more of people's money, shopping and personal data is now online",
+          "criminals can target thousands of victims from another country with little risk of being caught",
+          "many people do not know how to recognise a scam"
+        ],
+        "against": [
+          "teaching online safety in schools and to older adults",
+          "banks and platforms detecting and blocking suspicious payments and messages",
+          "closer international cooperation between police forces"
+        ]
+      }
+    },
+    {
+      "id": "t2-15",
+      "essayType": "problem_solution",
+      "topic": "Environment",
+      "prompt": "Large quantities of clothing are thrown away every year, often after being worn only a few times. What are the causes of this problem, and what measures could be taken to reduce it?",
+      "ideas": {
+        "for": [
+          "cheap, fast-changing fashion encourages frequent buying",
+          "social media pressure not to be seen in the same outfit twice",
+          "low-quality garments wear out quickly and are rarely repaired"
+        ],
+        "against": [
+          "making manufacturers pay for collecting and recycling their products",
+          "promoting repair, clothes swaps and second-hand shops",
+          "labels showing how long a garment is designed to last"
+        ]
+      },
+      "model": "In many parts of the world, clothes are bought, worn a handful of times and then thrown away, creating vast quantities of textile waste. This problem has both economic and social causes, but there are practical steps that could reduce it.\n\nThe principal cause is the rise of so-called fast fashion. Large retailers now release new collections every few weeks, and garments are so cheap that a new top can cost less than a sandwich and a coffee. When clothes are this inexpensive, people come to see them as disposable. Social media has intensified the problem, since many young people feel under pressure not to be photographed in the same outfit twice. Finally, much of this clothing is poorly made, so seams split and colours fade after a few washes, and few people have the skills or the inclination to mend it.\n\nTackling the problem requires action from both governments and consumers. Governments could make manufacturers financially responsible for their products at the end of their life, for instance by requiring them to fund collection and recycling schemes. This would give companies a strong incentive to design clothes that last longer and are easier to recycle. At the same time, campaigns in schools and the media could promote alternatives to buying new, such as clothes-swapping events, second-hand shops and basic sewing skills. Labels showing how many washes a garment is designed to withstand might also help shoppers make better-informed choices.\n\nTo sum up, the throwaway culture surrounding clothing is driven largely by low prices, social pressure and poor quality. Holding producers responsible for waste, while encouraging consumers to repair, share and reuse, offers the most realistic way of reducing it.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "t2-16",
+      "essayType": "problem_solution",
+      "topic": "Cities",
+      "prompt": "Surveys suggest that young adults who have recently moved to a large city for work or study are among the loneliest people in society. What are the causes of this, and what could be done to help them?",
+      "ideas": {
+        "for": [
+          "they live far from family and old friends and have no local network yet",
+          "long hours and high city prices leave little time or money for socialising",
+          "short-term rented flats and online lives mean little contact with neighbours"
+        ],
+        "against": [
+          "employers and universities running social events and buddy schemes for newcomers",
+          "councils funding cheap clubs, sports leagues and volunteering projects",
+          "shared spaces such as community gardens and co-working cafés in new housing"
+        ]
+      }
+    },
+    {
+      "id": "t2-17",
+      "essayType": "two_part",
+      "topic": "Media",
+      "prompt": "Many people now get most of their news from social media rather than from newspapers or television. Why is this the case? How might it affect the way people understand current events?",
+      "ideas": {
+        "for": [
+          "news on social media is free, instant and on the phone people already carry",
+          "feeds are personalised and use short, engaging formats such as video clips",
+          "people trust stories shared by friends and like to comment on them"
+        ],
+        "against": [
+          "algorithms mainly show people views they already agree with",
+          "false or misleading stories spread widely before they are corrected",
+          "short posts leave out context, encouraging a shallow understanding"
+        ]
+      },
+      "model": "Over the past decade, social media platforms have overtaken newspapers and television as the main source of news for many people, especially the young. There are several clear reasons for this shift, and in my view its effects on public understanding of current events are more harmful than helpful.\n\nThe most obvious explanation is convenience. Most people now carry a smartphone at all times, and social media apps deliver news instantly and free of charge, whereas newspapers increasingly require a subscription and television bulletins are broadcast at fixed times. In addition, news on these platforms comes in short, eye-catching formats, such as videos lasting less than a minute, which suit people who are busy or easily distracted. Finally, many users trust stories shared by friends more than those presented by traditional media organisations, which they may regard as distant or biased.\n\nHowever, this change has worrying consequences. Because platforms use algorithms that show users more of what they have already clicked on, people tend to see mainly views they already agree with, and they may come to believe that their opinions are more widely held than they really are. False or exaggerated stories can also reach millions of people within hours, long before any correction appears. Moreover, a thirty-second clip rarely provides the background needed to understand complex issues such as an economic crisis or a war, so audiences may form strong opinions on the basis of very little information.\n\nTo conclude, people have turned to social media for news mainly because it is fast, free and personal. Unfortunately, these same qualities can leave them with a narrower and less accurate picture of the world, which is why teaching people to question what they see online has become so important.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "t2-18",
+      "essayType": "two_part",
+      "topic": "Culture",
+      "prompt": "In many countries, traditional crafts such as weaving, pottery and woodwork are practised by fewer people every year. Why is this happening? Should anything be done to keep these skills alive?",
+      "ideas": {
+        "for": [
+          "factory-made goods are cheaper and quicker to produce",
+          "young people see little income or status in craft careers",
+          "skills were passed down within families, and that chain is breaking"
+        ],
+        "against": [
+          "crafts are part of a community's identity and history, so they are worth protecting",
+          "grants, apprenticeships and evening classes can attract new learners",
+          "tourism and online marketplaces can give craftspeople new customers"
+        ]
+      }
+    },
+    {
+      "id": "t2-19",
+      "essayType": "two_part",
+      "topic": "Work",
+      "prompt": "Growing numbers of people in their forties and fifties are leaving established careers to retrain in completely different fields. Why do people make such a change at this stage of life? What difficulties might they face?",
+      "ideas": {
+        "for": [
+          "a wish for more meaningful work once children have grown up and finances are more secure",
+          "technology has made some jobs disappear and created new ones",
+          "people expect to work into their late sixties, leaving time for a second career"
+        ],
+        "against": [
+          "a drop in salary and status when starting again",
+          "the cost and time of retraining, often alongside family responsibilities",
+          "employers may prefer younger candidates with directly relevant experience"
+        ]
+      }
+    },
+    {
+      "id": "t2-20",
+      "essayType": "two_part",
+      "topic": "Health",
+      "prompt": "People today spend more money than ever on gym memberships, fitness trackers and health supplements, yet obesity rates continue to rise in many countries. Why do you think this is? Who should be mainly responsible for improving public health: individuals or governments?",
+      "ideas": {
+        "for": [
+          "spending is concentrated among people who are already fairly healthy",
+          "inactive jobs and cheap processed food outweigh occasional exercise",
+          "buying products can feel like progress without any change in habits"
+        ],
+        "against": [
+          "individuals control their own diet and activity",
+          "governments shape the environment through food rules, taxes and town planning",
+          "schools and employers can make healthy choices the easy option"
+        ]
+      }
+    },
+    {
+      "id": "t2-21",
+      "essayType": "positive_negative",
+      "topic": "Technology",
+      "prompt": "Computer programs are increasingly being used to make decisions that were previously made by people, such as who should receive a bank loan or be invited to a job interview. Is this a positive or negative development?",
+      "ideas": {
+        "for": [
+          "decisions are faster and cheaper to make",
+          "the same rules are applied to everyone, unaffected by tiredness or mood",
+          "programs can process far more information than a human reviewer"
+        ],
+        "against": [
+          "programs can repeat biases hidden in past data",
+          "applicants often cannot find out why they were rejected or how to appeal",
+          "it becomes unclear who is responsible for mistakes"
+        ]
+      },
+      "model": "Banks, employers and even public agencies now rely on software to make choices that were once made by trained staff, such as approving a loan or shortlisting job applicants. While this offers some clear benefits, I believe that, in its current form, the trend is more negative than positive.\n\nSupporters of automated decision-making emphasise its efficiency. A program can assess thousands of applications in the time it would take a person to read a few, which reduces costs and shortens waiting times. It is also argued that software is fairer, because it applies the same criteria to every applicant and is not influenced by tiredness, mood or personal prejudice.\n\nHowever, the claim that such programs are neutral is often mistaken. Most of them learn from historical data, so if past decisions were biased against certain groups, such as women or people from particular neighbourhoods, the software is likely to reproduce that bias on a far larger scale. A further problem is transparency. When a human rejects an application, the applicant can usually ask for an explanation, but automated systems are frequently unable to justify their conclusions in terms that ordinary people can understand. As a result, individuals may be refused a job interview or a mortgage without knowing why or how to appeal.\n\nFor these reasons, I consider the growing reliance on automated decisions to be a largely negative development at present. It could become a positive one if organisations were legally required to explain their decisions and to allow a human to review any outcome that is challenged. Until such safeguards are widespread, however, the risks to fairness outweigh the gains in speed and cost.",
+      "modelBand": "8.5"
+    },
+    {
+      "id": "t2-22",
+      "essayType": "positive_negative",
+      "topic": "Crime",
+      "prompt": "In some cities, police now use cameras with facial-recognition software in streets and stations to identify people suspected of crimes. Is this a positive or negative development?",
+      "ideas": {
+        "for": [
+          "helps police find wanted suspects and missing people quickly",
+          "may deter crime in busy public places",
+          "saves officers hours of watching recorded footage"
+        ],
+        "against": [
+          "constant monitoring threatens privacy and freedom of movement",
+          "recognition errors can lead to innocent people being stopped",
+          "the data could be misused by the authorities or stolen by hackers"
+        ]
+      }
+    },
+    {
+      "id": "t2-23",
+      "essayType": "positive_negative",
+      "topic": "Culture",
+      "prompt": "In many parts of the world, traditional festivals are increasingly organised to attract tourists rather than for the benefit of local people. Is this a positive or negative development?",
+      "ideas": {
+        "for": [
+          "tourist income can fund festivals that might otherwise disappear",
+          "raises international awareness of local culture",
+          "creates jobs and business for local residents"
+        ],
+        "against": [
+          "traditions may be shortened or changed to suit visitors",
+          "local people can be priced out or crowded out of their own celebrations",
+          "the religious or community meaning of the event may be lost"
+        ]
+      }
+    },
+    {
+      "id": "t2-24",
+      "essayType": "positive_negative",
+      "topic": "Science",
+      "prompt": "Space exploration, once carried out almost entirely by governments, is increasingly being led by private companies. Is this a positive or negative development?",
+      "ideas": {
+        "for": [
+          "competition has driven down the cost of launches",
+          "frees public money for other priorities",
+          "speeds up innovation in technology that can be used on Earth"
+        ],
+        "against": [
+          "profit may come before safety or scientific value",
+          "space activity could be dominated by a few very wealthy individuals",
+          "more launches add to space debris with little international regulation"
+        ]
+      }
+    }
+  ]
+}

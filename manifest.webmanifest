@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "Bandwise – IELTS Practice",
+  "short_name": "Bandwise",
+  "description": "Prepare for IELTS Academic and General Training with four-skill practice, an adaptive study coach, spaced mistake reviews, vocabulary and local progress tracking.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "background_color": "#F4F6F3",
+  "theme_color": "#17233B",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Listening test", "url": "./#/listening", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Reading test", "url": "./#/reading", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Writing practice", "url": "./#/writing", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Speaking practice", "url": "./#/speaking", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

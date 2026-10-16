@@ -1,0 +1,1671 @@
+{
+  "kind": "guide",
+  "version": 1,
+  "lastReviewed": "2026-10-10",
+  "notice": {
+    "en": "IELTS is moving to computer delivery: in 2026 its partners began withdrawing the paper-based test, with dates that differ from one market to another, and selected countries now offer a Writing on Paper option.",
+    "ar": "ينتقل آيلتس إلى الاختبار على الحاسوب؛ فقد بدأ شركاؤه في عام 2026 سحب النسخة الورقية بمواعيد تختلف من سوق إلى آخر، وتتيح دول مختارة الآن خيار «الكتابة على الورق»."
+  },
+  "testTypes": [
+    {
+      "id": "academic",
+      "name": {
+        "en": "IELTS Academic",
+        "ar": "آيلتس الأكاديمي (IELTS Academic)"
+      },
+      "for": {
+        "en": "People applying for university or other higher-education study in English, and professionals seeking registration with a professional body.",
+        "ar": "الطلاب المتقدمون إلى الجامعات وبرامج التعليم العالي التي تُدرَّس بالإنجليزية، والمهنيون الساعون إلى التسجيل في هيئات مهنهم."
+      },
+      "notes": {
+        "en": "Reading and Writing use academic-style texts and tasks; Listening and Speaking are identical to General Training. In some countries it can also be taken at home as IELTS Online.",
+        "ar": "يعتمد قسما القراءة والكتابة على نصوص ومهام ذات طابع أكاديمي، أما الاستماع والمحادثة فمتطابقان مع اختبار التدريب العام. ويمكن في بعض الدول أداؤه من المنزل عبر IELTS Online."
+      }
+    },
+    {
+      "id": "general",
+      "name": {
+        "en": "IELTS General Training",
+        "ar": "آيلتس للتدريب العام (IELTS General Training)"
+      },
+      "for": {
+        "en": "People migrating to English-speaking countries such as Australia, Canada, New Zealand or the UK, and anyone seeking work experience, training or study below degree level.",
+        "ar": "الراغبون في الهجرة إلى دول ناطقة بالإنجليزية مثل أستراليا وكندا ونيوزيلندا والمملكة المتحدة، ومن يسعون إلى خبرة عمل أو تدريب أو دراسة دون المستوى الجامعي."
+      },
+      "notes": {
+        "en": "Reading and Writing focus on everyday and workplace English, and Writing Task 1 is a letter; Listening and Speaking are the same as in Academic.",
+        "ar": "يركّز قسما القراءة والكتابة على لغة الحياة اليومية وبيئة العمل، والمهمة الأولى في الكتابة رسالة، أما الاستماع والمحادثة فهما نفسهما في الاختبار الأكاديمي."
+      }
+    },
+    {
+      "id": "ukvi",
+      "name": {
+        "en": "IELTS for UKVI",
+        "ar": "آيلتس لتأشيرات المملكة المتحدة (IELTS for UKVI)"
+      },
+      "for": {
+        "en": "People applying for a UK visa or British citizenship who need a Home Office-approved Secure English Language Test (SELT) as proof of their English.",
+        "ar": "المتقدمون للحصول على تأشيرة أو جنسية بريطانية ممن يُطلب منهم إثبات مستواهم في الإنجليزية عبر اختبار لغة آمن (SELT) معتمد من وزارة الداخلية البريطانية."
+      },
+      "notes": {
+        "en": "Comes in Academic and General Training versions with the same content, format and scoring as the standard tests, but you sit it at an approved UKVI centre with extra security, and the report form looks slightly different. Under the 2026 changes it is offered only in the fully digital format, so the Writing on Paper option cannot be chosen. Check the level your visa route needs on GOV.UK; for UK visas the minimum normally has to be met in each skill, not just overall.",
+        "ar": "يتوفر بنسختين أكاديمية وتدريب عام بالمحتوى والشكل وطريقة التقييم نفسها، لكنه يُؤدّى في مركز معتمد لدى UKVI بإجراءات أمنية إضافية، ويختلف نموذج تقرير نتيجته قليلًا. وبموجب تغييرات 2026 لا يُقدَّم إلا بالصيغة الرقمية الكاملة، فلا يمكن فيه اختيار الكتابة على الورق. راجع موقع GOV.UK لمعرفة المستوى المطلوب لمسار تأشيرتك، إذ يُشترط الحد الأدنى في التأشيرات البريطانية عادةً في كل مهارة على حدة لا في الدرجة الكلية وحدها."
+      }
+    },
+    {
+      "id": "lifeskills",
+      "name": {
+        "en": "IELTS Life Skills",
+        "ar": "آيلتس لمهارات الحياة (IELTS Life Skills)"
+      },
+      "for": {
+        "en": "UK visa routes, such as family, settlement and citizenship, that require proof of speaking and listening only, at CEFR level A1, A2 or B1.",
+        "ar": "مسارات التأشيرة البريطانية، كتأشيرات الأسرة والإقامة الدائمة والجنسية، التي تتطلب إثبات مهارتي التحدث والاستماع فقط بالمستوى A1 أو A2 أو B1 وفق الإطار الأوروبي المرجعي (CEFR)."
+      },
+      "notes": {
+        "en": "You take it with an examiner and one other candidate, and it lasts about 16 to 22 minutes depending on the level. The result is Pass or Fail rather than a band score, and level A2 can be taken only inside the UK.",
+        "ar": "يُؤدّى الاختبار بحضور ممتحِن ومرشح آخر، ويستغرق نحو 16 إلى 22 دقيقة بحسب المستوى. والنتيجة «ناجح» أو «غير ناجح» دون درجة رقمية، ولا يُقدَّم مستوى A2 إلا داخل المملكة المتحدة."
+      }
+    }
+  ],
+  "format": {
+    "order": {
+      "en": "Listening, Reading and Writing are taken in that order in a single sitting with no scheduled breaks, about 2 hours 40 minutes in total. Speaking (11 to 14 minutes) is scheduled separately by the test centre: either that day or within roughly a week before or after it.",
+      "ar": "تُؤدّى أقسام الاستماع ثم القراءة ثم الكتابة بهذا الترتيب في جلسة واحدة دون استراحات مجدولة، وتستغرق نحو ساعتين و40 دقيقة إجمالًا. أما المحادثة (من 11 إلى 14 دقيقة) فيحدد مركز الاختبار موعدها على حدة: في اليوم نفسه أو خلال أسبوع تقريبًا قبله أو بعده."
+    },
+    "sections": [
+      {
+        "id": "listening",
+        "name": {
+          "en": "Listening",
+          "ar": "الاستماع"
+        },
+        "time": {
+          "en": "About 30 minutes. On computer there is no transfer time: you type answers while you listen, then get 2 minutes at the end to check them (the old paper test allowed 10 minutes to copy answers onto a sheet).",
+          "ar": "نحو 30 دقيقة. ولا يوجد على الحاسوب وقت لنقل الإجابات، إذ تكتب إجاباتك أثناء الاستماع، ثم تحصل على دقيقتين في النهاية لمراجعتها (وكان الاختبار الورقي السابق يمنح 10 دقائق لنقل الإجابات إلى ورقة الإجابة)."
+        },
+        "questions": {
+          "en": "40 questions in 4 parts (10 per part), one mark each",
+          "ar": "40 سؤالًا في 4 أجزاء (10 أسئلة لكل جزء)، ولكل إجابة صحيحة درجة واحدة"
+        },
+        "structure": [
+          {
+            "en": "Part 1: two people talk in an everyday social situation, for example while making travel plans.",
+            "ar": "الجزء الأول: حوار بين شخصين في موقف اجتماعي يومي، كالترتيب لرحلة سفر."
+          },
+          {
+            "en": "Part 2: one main speaker talks about an everyday subject, for example the facilities in a local area.",
+            "ar": "الجزء الثاني: متحدث رئيسي واحد يتناول موضوعًا يوميًا، كالمرافق المتاحة في منطقة ما."
+          },
+          {
+            "en": "Part 3: a discussion in an education or training setting, usually between two main speakers such as students, sometimes with a tutor.",
+            "ar": "الجزء الثالث: نقاش في سياق تعليمي أو تدريبي، غالبًا بين متحدثَين رئيسيين كطالبين، وقد يشارك فيه أستاذ مشرف."
+          },
+          {
+            "en": "Part 4: a single speaker gives a talk on an academic subject.",
+            "ar": "الجزء الرابع: محاضرة يلقيها متحدث واحد في موضوع أكاديمي."
+          },
+          {
+            "en": "You hear each recording only once, and the questions follow the order of the information. Expect a mix of accents, for example from Britain, Australia, New Zealand and North America.",
+            "ar": "تسمع كل تسجيل مرة واحدة فقط، وتأتي الأسئلة بترتيب ورود المعلومات فيه. وتوقّع لهجات متنوعة، منها مثلًا البريطانية والأسترالية والنيوزيلندية والأمريكية الشمالية."
+          },
+          {
+            "en": "Question types: multiple choice, matching, labelling a plan, map or diagram, completing a form, notes, table or flow chart, sentence completion and short answers.",
+            "ar": "أنواع الأسئلة: الاختيار من متعدد، والمطابقة، وتسمية أجزاء مخطط أو خريطة أو رسم، وإكمال النماذج والملاحظات والجداول والمخططات الانسيابية، وإكمال الجمل، والإجابات القصيرة."
+          }
+        ],
+        "skills": {
+          "en": "Grasping main ideas and specific details, following a conversation, seeing how pieces of information connect, following directions on a plan or map, and catching precise facts such as places and times.",
+          "ar": "فهم الأفكار الرئيسية والتفاصيل المحددة، ومتابعة الحوار، وإدراك الروابط بين المعلومات، واتباع الإرشادات على مخطط أو خريطة، والتقاط المعلومات الدقيقة كالأماكن والأوقات."
+        }
+      },
+      {
+        "id": "reading_academic",
+        "name": {
+          "en": "Reading (Academic)",
+          "ar": "القراءة (الأكاديمي)"
+        },
+        "time": {
+          "en": "60 minutes, with no extra time to transfer answers",
+          "ar": "60 دقيقة، دون وقت إضافي لنقل الإجابات"
+        },
+        "questions": {
+          "en": "40 questions on 3 long texts, one mark each",
+          "ar": "40 سؤالًا على 3 نصوص طويلة، ولكل إجابة صحيحة درجة واحدة"
+        },
+        "structure": [
+          {
+            "en": "Three long texts of roughly 2,150 to 2,750 words in total, taken from newspapers, magazines, journals, books and websites and written for a non-specialist reader.",
+            "ar": "ثلاثة نصوص طويلة يبلغ مجموعها نحو 2150 إلى 2750 كلمة، مأخوذة من كتب ودوريات ومجلات وصحف ومصادر إلكترونية، ومكتوبة لقارئ غير متخصص."
+          },
+          {
+            "en": "Topics suit people entering undergraduate or postgraduate study; texts can be descriptive, narrative or argumentative, and at least one builds a detailed logical argument.",
+            "ar": "تناسب الموضوعات الملتحقين بالدراسة الجامعية الأولى أو العليا، وقد تكون النصوص وصفية أو سردية أو جدلية، ويبني نص واحد على الأقل حجة منطقية مفصّلة."
+          },
+          {
+            "en": "Texts may contain diagrams, graphs or illustrations, and a short definition is given for any technical term.",
+            "ar": "قد تتضمن النصوص رسومًا توضيحية أو بيانية، ويُرفق بأي مصطلح تقني تعريف موجز."
+          },
+          {
+            "en": "Question types: multiple choice, True/False/Not Given, Yes/No/Not Given, matching (information, headings, features, sentence endings), completion of sentences, summaries, notes, tables or flow charts, diagram labels and short answers.",
+            "ar": "أنواع الأسئلة: الاختيار من متعدد، وصح/خطأ/غير مذكور، ونعم/لا/غير مذكور، والمطابقة (المعلومات والعناوين والخصائص ونهايات الجمل)، وإكمال الجمل والملخصات والملاحظات والجداول والمخططات الانسيابية، وتسمية أجزاء الرسوم، والإجابات القصيرة."
+          }
+        ],
+        "skills": {
+          "en": "Skimming and scanning, reading for overall meaning and for detail, telling main ideas from supporting ones, recognising opinions and claims, and following how ideas relate.",
+          "ar": "القراءة السريعة لالتقاط الفكرة العامة والبحث عن معلومات بعينها، والفهم الإجمالي والتفصيلي، والتمييز بين الأفكار الرئيسية والداعمة، وتمييز الآراء والادعاءات، وتتبّع العلاقات بين الأفكار."
+        }
+      },
+      {
+        "id": "reading_general",
+        "name": {
+          "en": "Reading (General Training)",
+          "ar": "القراءة (التدريب العام)"
+        },
+        "time": {
+          "en": "60 minutes, with no extra time to transfer answers",
+          "ar": "60 دقيقة، دون وقت إضافي لنقل الإجابات"
+        },
+        "questions": {
+          "en": "40 questions in 3 sections that get harder, one mark each",
+          "ar": "40 سؤالًا في 3 أقسام تزداد صعوبتها تدريجيًا، ولكل إجابة صحيحة درجة واحدة"
+        },
+        "structure": [
+          {
+            "en": "Section 1: a handful of brief everyday texts (usually two or three, sometimes more), such as notices, advertisements and timetables.",
+            "ar": "القسم الأول: عدد من النصوص اليومية القصيرة (نصان أو ثلاثة غالبًا، وقد تزيد)، كالإشعارات والإعلانات وجداول المواعيد."
+          },
+          {
+            "en": "Section 2: two work-related texts, such as job descriptions, contracts and staff training material.",
+            "ar": "القسم الثاني: نصان عن بيئة العمل، كالأوصاف الوظيفية والعقود ومواد تدريب الموظفين."
+          },
+          {
+            "en": "Section 3: one longer, more complex text on a topic of general interest, usually descriptive or narrative.",
+            "ar": "القسم الثالث: نص أطول وأكثر تعقيدًا في موضوع ذي اهتمام عام، يغلب عليه الطابع الوصفي أو السردي."
+          },
+          {
+            "en": "The texts total roughly 2,150 to 2,375 words, and the question types come from the same family as Academic Reading: multiple choice, True/False/Not Given, matching, completion tasks, diagram labels and short answers.",
+            "ar": "يبلغ مجموع النصوص نحو 2150 إلى 2375 كلمة، وتنتمي أنواع الأسئلة إلى العائلة نفسها في القراءة الأكاديمية: الاختيار من متعدد، وصح/خطأ/غير مذكور، والمطابقة، ومهام الإكمال، وتسمية أجزاء الرسوم، والإجابات القصيرة."
+          }
+        ],
+        "skills": {
+          "en": "Finding specific information quickly, understanding main and supporting ideas, recognising opinions and relationships, and making sense of everyday and workplace texts.",
+          "ar": "العثور على المعلومات المحددة بسرعة، وفهم الأفكار الرئيسية والداعمة، وتمييز الآراء والعلاقات، واستيعاب نصوص الحياة اليومية وبيئة العمل."
+        }
+      },
+      {
+        "id": "writing_academic",
+        "name": {
+          "en": "Writing (Academic)",
+          "ar": "الكتابة (الأكاديمي)"
+        },
+        "time": {
+          "en": "60 minutes for both tasks: about 20 for Task 1 and 40 for Task 2",
+          "ar": "60 دقيقة للمهمتين: نحو 20 دقيقة للأولى و40 دقيقة للثانية"
+        },
+        "questions": {
+          "en": "2 tasks with minimum lengths of 150 words (Task 1) and 250 words (Task 2)",
+          "ar": "مهمتان: الأولى 150 كلمة على الأقل، والثانية 250 كلمة على الأقل"
+        },
+        "structure": [
+          {
+            "en": "Task 1: in your own words, report the main features of visual data such as one or more graphs, tables or charts, or a diagram of a process, object or event.",
+            "ar": "المهمة الأولى: عرض السمات الرئيسية لبيانات مرئية بأسلوبك الخاص، كرسم بياني أو جدول أو مخطط أو أكثر، أو رسم يوضح عملية أو جهازًا أو حدثًا."
+          },
+          {
+            "en": "Task 2: an essay responding to a viewpoint, argument or problem set out in the question, backed by reasons and relevant examples.",
+            "ar": "المهمة الثانية: مقال يتناول رأيًا أو حجة أو مشكلة يطرحها السؤال، مدعومًا بالأسباب والأمثلة المناسبة."
+          },
+          {
+            "en": "Keep the register academic, or at least semi-formal and neutral, in both tasks; Task 2 carries twice the weight of Task 1.",
+            "ar": "استخدم في المهمتين أسلوبًا أكاديميًا أو شبه رسمي محايدًا، ووزن المهمة الثانية ضعف وزن المهمة الأولى."
+          },
+          {
+            "en": "Answers must be continuous prose: notes, bullet points and off-topic writing lose marks, and plagiarism is punished heavily.",
+            "ar": "يجب أن تكون الإجابة نصًا متصلًا؛ فالملاحظات والنقاط والخروج عن الموضوع تُفقدك درجات، ويُعاقَب على الانتحال بشدة."
+          }
+        ],
+        "skills": {
+          "en": "Choosing and comparing key data, describing stages or trends, explaining how something works, and presenting, justifying and weighing up ideas in a clear argument.",
+          "ar": "اختيار البيانات الرئيسية ومقارنتها، ووصف المراحل والاتجاهات، وشرح آلية عمل شيء ما، وعرض الأفكار وتبريرها وتقييمها ضمن حجة واضحة."
+        }
+      },
+      {
+        "id": "writing_general",
+        "name": {
+          "en": "Writing (General Training)",
+          "ar": "الكتابة (التدريب العام)"
+        },
+        "time": {
+          "en": "60 minutes for both tasks: about 20 for Task 1 and 40 for Task 2",
+          "ar": "60 دقيقة للمهمتين: نحو 20 دقيقة للأولى و40 دقيقة للثانية"
+        },
+        "questions": {
+          "en": "2 tasks with minimum lengths of 150 words (Task 1) and 250 words (Task 2)",
+          "ar": "مهمتان: الأولى 150 كلمة على الأقل، والثانية 250 كلمة على الأقل"
+        },
+        "structure": [
+          {
+            "en": "Task 1: a letter about an everyday situation that covers three given bullet points; its tone is personal, semi-formal or formal depending on the reader, and no addresses are needed.",
+            "ar": "المهمة الأولى: رسالة عن موقف يومي تغطي ثلاث نقاط محددة، ويكون أسلوبها شخصيًا أو شبه رسمي أو رسميًا بحسب المرسَل إليه، ولا حاجة إلى كتابة العناوين."
+          },
+          {
+            "en": "Task 2: a semi-formal or neutral essay on a general-interest topic that responds to an opinion, an argument or a problem.",
+            "ar": "المهمة الثانية: مقال شبه رسمي أو محايد في موضوع ذي اهتمام عام، يتناول رأيًا أو حجة أو مشكلة."
+          },
+          {
+            "en": "Task 2 carries twice the weight of Task 1.",
+            "ar": "وزن المهمة الثانية ضعف وزن المهمة الأولى."
+          },
+          {
+            "en": "Answers must be continuous prose: notes, bullet points and off-topic writing lose marks, and plagiarism is punished heavily.",
+            "ar": "يجب أن تكون الإجابة نصًا متصلًا؛ فالملاحظات والنقاط والخروج عن الموضوع تُفقدك درجات، ويُعاقَب على الانتحال بشدة."
+          }
+        ],
+        "skills": {
+          "en": "Asking for or giving information, expressing needs, preferences, opinions or complaints in a suitable tone, and putting forward and supporting a position.",
+          "ar": "طلب المعلومات أو تقديمها، والتعبير عن الاحتياجات والتفضيلات والآراء والشكاوى بنبرة ملائمة، وطرح موقف ودعمه بالحجج."
+        }
+      },
+      {
+        "id": "speaking",
+        "name": {
+          "en": "Speaking",
+          "ar": "المحادثة"
+        },
+        "time": {
+          "en": "11 to 14 minutes",
+          "ar": "من 11 إلى 14 دقيقة"
+        },
+        "questions": {
+          "en": "3 parts, spoken live with an examiner and recorded",
+          "ar": "3 أجزاء، تُؤدّى مباشرة مع ممتحِن وتُسجَّل"
+        },
+        "structure": [
+          {
+            "en": "Part 1 (4 to 5 minutes): after checking your identity, the examiner asks general questions on familiar subjects, for example your home town, family, job, studies or hobbies.",
+            "ar": "الجزء الأول (من 4 إلى 5 دقائق): بعد التحقق من هويتك، يطرح الممتحِن أسئلة عامة في موضوعات مألوفة، كمدينتك وأسرتك وعملك ودراستك وهواياتك."
+          },
+          {
+            "en": "Part 2 (3 to 4 minutes): you get a task card and one minute to prepare, with pencil and paper for notes, then talk for about 2 minutes; the examiner may follow up with one or two questions.",
+            "ar": "الجزء الثاني (من 3 إلى 4 دقائق): تتسلم بطاقة موضوع ودقيقة واحدة للتحضير مع قلم وورقة لتدوين الملاحظات، ثم تتحدث نحو دقيقتين، وقد يطرح الممتحِن بعدها سؤالًا أو سؤالين."
+          },
+          {
+            "en": "Part 3 (4 to 5 minutes): a discussion of wider, more abstract questions connected to the Part 2 topic.",
+            "ar": "الجزء الثالث (من 4 إلى 5 دقائق): نقاش حول قضايا أعم وأكثر تجريدًا ترتبط بموضوع الجزء الثاني."
+          },
+          {
+            "en": "The Speaking test is identical for Academic and General Training.",
+            "ar": "اختبار المحادثة واحد في الاختبارين الأكاديمي والتدريب العام."
+          }
+        ],
+        "skills": {
+          "en": "Giving information and opinions on everyday topics, speaking at length in an organised way, and explaining, analysing and speculating about broader issues.",
+          "ar": "تقديم المعلومات والآراء في موضوعات يومية، والتحدث بإسهاب وبصورة منظمة، وشرح القضايا الأعم وتحليلها وطرح التوقعات بشأنها."
+        }
+      }
+    ]
+  },
+  "delivery": [
+    {
+      "id": "computer",
+      "name": {
+        "en": "IELTS on computer",
+        "ar": "آيلتس على الحاسوب"
+      },
+      "status": {
+        "en": "Now the main format, taking over from paper during 2026 on dates that vary by country",
+        "ar": "الصيغة الرئيسية حاليًا، وتحل محل الورق خلال 2026 بمواعيد تختلف من بلد إلى آخر"
+      },
+      "points": [
+        {
+          "en": "Listening, Reading and Writing are done on screen at an official test centre, while Speaking remains a live interview with an examiner.",
+          "ar": "تُؤدّى أقسام الاستماع والقراءة والكتابة على الشاشة في مركز اختبار رسمي، بينما تبقى المحادثة مقابلة مباشرة مع ممتحِن."
+        },
+        {
+          "en": "Content, question types, timing and scoring match the former paper test.",
+          "ar": "المحتوى وأنواع الأسئلة والتوقيت وطريقة التقييم مطابقة للاختبار الورقي السابق."
+        },
+        {
+          "en": "Most results are released within 1 to 2 days.",
+          "ar": "تصدر معظم النتائج خلال يوم إلى يومين."
+        },
+        {
+          "en": "If one section falls short, One Skill Retake lets you resit just that section.",
+          "ar": "إذا لم تحقق المطلوب في قسم واحد، يتيح لك خيار «إعادة مهارة واحدة» إعادة ذلك القسم وحده."
+        },
+        {
+          "en": "Screen tools include a countdown clock, highlighting, note-taking, a word counter in Writing, and adjustable text size and colours.",
+          "ar": "تشمل أدوات الشاشة ساعة عدّ تنازلي، والتظليل، وتدوين الملاحظات، وعدّاد الكلمات في الكتابة، وإمكانية تعديل حجم الخط والألوان."
+        },
+        {
+          "en": "IELTS for UKVI is offered only in this fully digital format.",
+          "ar": "لا يُقدَّم IELTS for UKVI إلا بهذه الصيغة الرقمية الكاملة."
+        }
+      ]
+    },
+    {
+      "id": "writing_on_paper",
+      "name": {
+        "en": "Writing on Paper (computer test, handwritten Writing)",
+        "ar": "الكتابة على الورق (اختبار حاسوبي بكتابة يدوية)"
+      },
+      "status": {
+        "en": "New option in selected countries since mid-2026",
+        "ar": "خيار جديد في دول مختارة منذ منتصف 2026"
+      },
+      "points": [
+        {
+          "en": "Listening and Reading are on computer; the Writing tasks appear on screen, but you handwrite your answers on an answer sheet with a pen the centre gives you.",
+          "ar": "يُؤدّى الاستماع والقراءة على الحاسوب، وتظهر مهام الكتابة على الشاشة، لكنك تكتب إجاباتك بخط يدك على ورقة إجابة وبقلم يوفّره المركز."
+        },
+        {
+          "en": "Writing still lasts 60 minutes, with the same tasks and marking as the typed version.",
+          "ar": "تبقى مدة الكتابة 60 دقيقة، بالمهام وطريقة التصحيح نفسها المعتمدة عند الكتابة على الحاسوب."
+        },
+        {
+          "en": "It is available for Academic and General Training, but not for IELTS for UKVI.",
+          "ar": "يتاح للاختبارين الأكاديمي والتدريب العام، لكنه غير متاح لاختبار IELTS for UKVI."
+        },
+        {
+          "en": "Results arrive within five days, and the report form does not reveal that you chose this option.",
+          "ar": "تصدر النتائج خلال خمسة أيام، ولا يُظهر نموذج النتيجة أنك اخترت هذا الخيار."
+        },
+        {
+          "en": "If you use One Skill Retake for Writing, the retake must also be on paper.",
+          "ar": "إذا استخدمت «إعادة مهارة واحدة» لقسم الكتابة، فيجب أن تكون الإعادة على الورق أيضًا."
+        },
+        {
+          "en": "A field trial in November 2025 found that its scores line up with those of the old paper test.",
+          "ar": "أظهرت تجربة ميدانية أُجريت في نوفمبر 2025 أن درجاته تتوافق مع درجات الاختبار الورقي السابق."
+        },
+        {
+          "en": "Availability depends on the country and centre, so confirm it when you book.",
+          "ar": "يختلف توافره باختلاف البلد والمركز، فتأكد منه عند الحجز."
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "name": {
+        "en": "IELTS on paper",
+        "ar": "آيلتس الورقي"
+      },
+      "status": {
+        "en": "Being withdrawn in 2026; dates vary by country",
+        "ar": "يُسحب تدريجيًا خلال 2026، وتختلف المواعيد من بلد إلى آخر"
+      },
+      "points": [
+        {
+          "en": "On 5 March 2026 the IELTS partners announced that paper-based IELTS would end from mid-2026, with each market setting its own dates.",
+          "ar": "أعلن شركاء آيلتس في 5 مارس 2026 انتهاء الاختبار الورقي اعتبارًا من منتصف 2026، على أن يحدد كل سوق مواعيده الخاصة."
+        },
+        {
+          "en": "Examples: the British Council in Jordan announced computer delivery for all tests from 8 February 2026, Australia kept paper dates only until 28 June 2026, and India's final paper sessions were set for July and August 2026.",
+          "ar": "من الأمثلة: أعلن المجلس الثقافي البريطاني في الأردن تقديم جميع الاختبارات على الحاسوب اعتبارًا من 8 فبراير 2026، وأبقت أستراليا المواعيد الورقية حتى 28 يونيو 2026 فقط، وحُدِّدت آخر الجلسات الورقية في الهند في يوليو وأغسطس 2026."
+        },
+        {
+          "en": "Results already issued on paper remain valid for the usual recommended two years.",
+          "ar": "تبقى النتائج الورقية الصادرة سابقًا صالحة طوال مدة السنتين الموصى بها عادةً."
+        },
+        {
+          "en": "According to IDP, IELTS Life Skills (a speaking and listening test) remains available on paper; check with your centre.",
+          "ar": "وفقًا لمؤسسة IDP، ما زال اختبار «مهارات الحياة» (وهو اختبار للتحدث والاستماع) متاحًا ورقيًا؛ فتحقق من ذلك لدى مركزك."
+        },
+        {
+          "en": "Access arrangements such as large print, braille and lip-reading support continue; ask your centre how they are delivered.",
+          "ar": "تستمر الترتيبات الخاصة كالطباعة بخط كبير وطريقة برايل ودعم قراءة الشفاه؛ فاسأل مركزك عن كيفية تقديمها."
+        }
+      ]
+    },
+    {
+      "id": "online",
+      "name": {
+        "en": "IELTS Online (at home)",
+        "ar": "آيلتس عبر الإنترنت من المنزل (IELTS Online)"
+      },
+      "status": {
+        "en": "IELTS Academic only, in selected countries",
+        "ar": "للاختبار الأكاديمي فقط، وفي دول مختارة"
+      },
+      "points": [
+        {
+          "en": "You take IELTS Academic at home or in another private room with a stable internet connection, and you must be 18 or older.",
+          "ar": "تؤدي اختبار آيلتس الأكاديمي في منزلك أو في غرفة خاصة أخرى مع اتصال مستقر بالإنترنت، ويُشترط أن يكون عمرك 18 عامًا فأكثر."
+        },
+        {
+          "en": "Speaking is a video call with an examiner, normally before the other sections, which follow the computer format under live remote supervision.",
+          "ar": "تكون المحادثة عبر مكالمة فيديو مع ممتحِن، وتسبق عادةً الأقسام الأخرى التي تتبع صيغة الحاسوب تحت مراقبة مباشرة عن بُعد."
+        },
+        {
+          "en": "One 5-minute bathroom break is allowed, and the session is recorded.",
+          "ar": "يُسمح باستراحة واحدة مدتها 5 دقائق لدورة المياه، وتُسجَّل الجلسة."
+        },
+        {
+          "en": "Results take 6 to 8 days and are electronic only.",
+          "ar": "تصدر النتائج خلال 6 إلى 8 أيام، وبصيغة إلكترونية فقط."
+        },
+        {
+          "en": "It is not valid for immigration, visa or professional-registration purposes, and you should confirm that your chosen institution accepts it before booking.",
+          "ar": "لا يُعتدّ به لأغراض الهجرة أو التأشيرات أو التسجيل المهني، وينبغي أن تتأكد من قبول المؤسسة التي تقصدها له قبل الحجز."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "bands": [
+      {
+        "band": 9,
+        "label": {
+          "en": "Expert",
+          "ar": "خبير"
+        },
+        "desc": {
+          "en": "Has complete control of English and uses it appropriately, accurately and fluently, with full understanding.",
+          "ar": "يتمتع بتمكّن تام من اللغة، فيستخدمها استخدامًا ملائمًا ودقيقًا وطليقًا مع فهم كامل."
+        }
+      },
+      {
+        "band": 8,
+        "label": {
+          "en": "Very good",
+          "ar": "جيد جدًا"
+        },
+        "desc": {
+          "en": "Has complete control apart from occasional, unsystematic errors and slips in usage; may misread unfamiliar situations but copes well with complex, detailed argument.",
+          "ar": "يتمكن من اللغة تمكنًا تامًا باستثناء أخطاء عارضة غير منتظمة وهفوات في الاستخدام، وقد يسيء فهم بعض المواقف غير المألوفة، لكنه يحسن التعامل مع الحجج المعقدة والمفصلة."
+        }
+      },
+      {
+        "band": 7,
+        "label": {
+          "en": "Good",
+          "ar": "جيد"
+        },
+        "desc": {
+          "en": "Has a working command of English, though errors, slips and misunderstandings occur now and then in some contexts; generally manages complex language and follows detailed reasoning.",
+          "ar": "يمتلك قدرة عملية على استخدام اللغة، مع أخطاء وهفوات وسوء فهم أحيانًا في بعض المواقف، ويتعامل عمومًا مع اللغة المعقدة ويتابع الاستدلال المفصل."
+        }
+      },
+      {
+        "band": 6,
+        "label": {
+          "en": "Competent",
+          "ar": "كفء"
+        },
+        "desc": {
+          "en": "Communicates effectively in spite of some errors, unsuitable usage and misunderstandings; can use and follow fairly complex language, above all in familiar situations.",
+          "ar": "يتواصل بفاعلية رغم بعض الأخطاء والاستخدام غير الملائم وسوء الفهم، ويستطيع استخدام لغة معقدة نسبيًا وفهمها، ولا سيما في المواقف المألوفة."
+        }
+      },
+      {
+        "band": 5,
+        "label": {
+          "en": "Modest",
+          "ar": "متواضع"
+        },
+        "desc": {
+          "en": "Has partial control: understands the general meaning in most situations but makes many mistakes, and can manage basic communication within their own area of work or study.",
+          "ar": "يمتلك تمكنًا جزئيًا؛ يدرك المعنى العام في معظم المواقف لكنه يرتكب أخطاء كثيرة، ويستطيع التواصل الأساسي في مجال تخصصه."
+        }
+      },
+      {
+        "band": 4,
+        "label": {
+          "en": "Limited",
+          "ar": "محدود"
+        },
+        "desc": {
+          "en": "Basic ability that works only in familiar situations, with frequent difficulty understanding and expressing ideas.",
+          "ar": "قدرة أساسية لا تتجاوز المواقف المألوفة، مع صعوبات متكررة في الفهم والتعبير."
+        }
+      },
+      {
+        "band": 3,
+        "label": {
+          "en": "Extremely limited",
+          "ar": "محدود جدًا"
+        },
+        "desc": {
+          "en": "Can get across and grasp only the broad meaning, and only in very familiar contexts; communication often breaks down.",
+          "ar": "لا يفهم ولا ينقل إلا المعنى العام في المواقف المألوفة جدًا، ويكثر انقطاع التواصل."
+        }
+      },
+      {
+        "band": 2,
+        "label": {
+          "en": "Intermittent",
+          "ar": "متقطع"
+        },
+        "desc": {
+          "en": "Finds spoken and written English very hard to understand.",
+          "ar": "يجد صعوبة كبيرة في فهم الإنجليزية المنطوقة والمكتوبة."
+        }
+      },
+      {
+        "band": 1,
+        "label": {
+          "en": "Non-user",
+          "ar": "غير مستخدم للغة"
+        },
+        "desc": {
+          "en": "Cannot use English beyond a few isolated words.",
+          "ar": "لا يستطيع استخدام الإنجليزية إلا في كلمات معدودة متفرقة."
+        }
+      },
+      {
+        "band": 0,
+        "label": {
+          "en": "Did not attempt the test",
+          "ar": "لم يؤدِّ الاختبار"
+        },
+        "desc": {
+          "en": "Gave no answers to the questions.",
+          "ar": "لم يُجب عن الأسئلة."
+        }
+      }
+    ],
+    "overallRule": {
+      "en": "Your overall band is the mean of your four section bands, rounded to the closest 0.5. A mean with .25 at the end is raised to the half band above, while one with .75 at the end is raised to the whole band above: 6.25 becomes 6.5, 6.75 becomes 7.0, 3.875 becomes 4.0 and 6.125 becomes 6.0.",
+      "ar": "الدرجة الكلية هي متوسط درجات الأقسام الأربعة مقرّبًا إلى أقرب نصف درجة؛ فإذا كان الكسر العشري للمتوسط 0.25 رُفع إلى نصف الدرجة التالي، وإذا كان 0.75 رُفع إلى الدرجة الكاملة التالية. فمثلًا: المتوسط 6.25 يصبح 6.5، و6.75 يصبح 7.0، و3.875 يصبح 4.0، و6.125 يصبح 6.0."
+    },
+    "examples": [
+      {
+        "l": 6.5,
+        "r": 6.5,
+        "w": 5.0,
+        "s": 7.0,
+        "avg": 6.25,
+        "overall": 6.5
+      },
+      {
+        "l": 4.0,
+        "r": 3.5,
+        "w": 4.0,
+        "s": 4.0,
+        "avg": 3.875,
+        "overall": 4.0
+      },
+      {
+        "l": 6.5,
+        "r": 6.5,
+        "w": 5.5,
+        "s": 6.0,
+        "avg": 6.125,
+        "overall": 6.0
+      },
+      {
+        "l": 7.0,
+        "r": 7.5,
+        "w": 6.0,
+        "s": 6.5,
+        "avg": 6.75,
+        "overall": 7.0
+      }
+    ],
+    "officialAverages": {
+      "listening": [
+        [
+          5,
+          16
+        ],
+        [
+          6,
+          23
+        ],
+        [
+          7,
+          30
+        ],
+        [
+          8,
+          35
+        ]
+      ],
+      "academicReading": [
+        [
+          5,
+          15
+        ],
+        [
+          6,
+          23
+        ],
+        [
+          7,
+          30
+        ],
+        [
+          8,
+          35
+        ]
+      ],
+      "generalReading": [
+        [
+          4,
+          15
+        ],
+        [
+          5,
+          23
+        ],
+        [
+          6,
+          30
+        ],
+        [
+          7,
+          35
+        ]
+      ]
+    },
+    "tableNote": {
+      "en": "These figures are the average raw marks out of 40 that IELTS publishes for a few bands. The exact number of correct answers needed changes slightly from one test version to another, so the app's full conversion tables are indicative estimates, not official cut-offs. General Training Reading usually needs more correct answers than Academic Reading for the same band, because Academic texts can use harder vocabulary and a more complex style.",
+      "ar": "هذه الأرقام متوسطات للدرجات الخام (من 40) تنشرها آيلتس لعدد من الدرجات. ويتغير عدد الإجابات الصحيحة المطلوب تغيرًا طفيفًا من نسخة اختبار إلى أخرى، لذا فجداول التحويل الكاملة في التطبيق تقديرية استرشادية وليست حدودًا رسمية. وعادةً ما تتطلب القراءة في التدريب العام إجابات صحيحة أكثر مما تتطلبه القراءة الأكاديمية للدرجة نفسها، لأن النصوص الأكاديمية قد تتضمن مفردات أصعب وأسلوبًا أكثر تعقيدًا."
+    },
+    "writingCriteria": [
+      {
+        "id": "TA",
+        "name": {
+          "en": "Task Achievement / Task Response",
+          "ar": "إنجاز المهمة (المهمة الأولى) / الاستجابة للمهمة (المهمة الثانية)"
+        },
+        "desc": {
+          "en": "This criterion (named differently for each task) judges how fully and relevantly you answer. Academic Task 1: pick out the key features, give a clear overview and support it with data. General Training Task 1: cover all three bullet points with a clear purpose and a fitting tone. Task 2: deal with every part of the question, hold a clear position throughout, and develop your ideas with relevant support.",
+          "ar": "يحمل هذا المعيار اسمًا مختلفًا في كل مهمة، ويقيس مدى اكتمال إجابتك وصلتها بالمطلوب. في المهمة الأولى الأكاديمية: انتقاء السمات الرئيسية وتقديم نظرة عامة واضحة تدعمها البيانات. وفي المهمة الأولى للتدريب العام: تغطية النقاط الثلاث بغرض واضح ونبرة مناسبة. وفي المهمة الثانية: معالجة جميع أجزاء السؤال، والثبات على موقف واضح، وتطوير الأفكار ودعمها بما يناسبها."
+        }
+      },
+      {
+        "id": "CC",
+        "name": {
+          "en": "Coherence and Cohesion",
+          "ar": "الترابط والتماسك"
+        },
+        "desc": {
+          "en": "How logically your ideas are organised and how easily a reader can follow them: clear progression, paragraphing, linking words, and reference and substitution to avoid repetition.",
+          "ar": "مدى منطقية تنظيم أفكارك وسهولة متابعة القارئ لها: التسلسل الواضح، وتقسيم الفقرات، وأدوات الربط، والإحالة والاستبدال لتجنّب التكرار."
+        }
+      },
+      {
+        "id": "LR",
+        "name": {
+          "en": "Lexical Resource",
+          "ar": "الثروة اللغوية (المفردات)"
+        },
+        "desc": {
+          "en": "The range and precision of your vocabulary: word choice and collocation, appropriate style, less common words, and accurate spelling and word formation.",
+          "ar": "تنوع مفرداتك ودقتها: اختيار الكلمات والمتلازمات اللفظية، وملاءمة الأسلوب، واستخدام الكلمات الأقل شيوعًا، وصحة الإملاء وبنية الكلمات."
+        }
+      },
+      {
+        "id": "GRA",
+        "name": {
+          "en": "Grammatical Range and Accuracy",
+          "ar": "تنوع القواعد ودقتها"
+        },
+        "desc": {
+          "en": "The variety of sentence structures, especially complex ones, the share of sentences without errors, and your control of grammar and punctuation.",
+          "ar": "تنوع تراكيب الجمل ولا سيما المعقدة منها، ونسبة الجمل الخالية من الأخطاء، وإحكامك للقواعد وعلامات الترقيم."
+        }
+      }
+    ],
+    "speakingCriteria": [
+      {
+        "id": "FC",
+        "name": {
+          "en": "Fluency and Coherence",
+          "ar": "الطلاقة والترابط"
+        },
+        "desc": {
+          "en": "Keeping going at length without too much hesitation, repetition or self-correction, and linking ideas logically with suitable connectives and discourse markers.",
+          "ar": "القدرة على الاسترسال في الكلام دون إفراط في التردد أو التكرار أو تصحيح الذات، وربط الأفكار منطقيًا بأدوات الربط وعلامات الخطاب المناسبة."
+        }
+      },
+      {
+        "id": "LR",
+        "name": {
+          "en": "Lexical Resource",
+          "ar": "الثروة اللغوية (المفردات)"
+        },
+        "desc": {
+          "en": "The range and precision of vocabulary across topics, including less common and idiomatic language, and the ability to paraphrase when needed.",
+          "ar": "تنوع المفردات ودقتها في موضوعات مختلفة، بما في ذلك التعابير الأقل شيوعًا والاصطلاحية، والقدرة على إعادة الصياغة عند الحاجة."
+        }
+      },
+      {
+        "id": "GRA",
+        "name": {
+          "en": "Grammatical Range and Accuracy",
+          "ar": "تنوع القواعد ودقتها"
+        },
+        "desc": {
+          "en": "The range of structures, from simple to complex, and how often your sentences are free of errors.",
+          "ar": "تنوع التراكيب من البسيطة إلى المعقدة، ومدى خلوّ جملك من الأخطاء."
+        }
+      },
+      {
+        "id": "P",
+        "name": {
+          "en": "Pronunciation",
+          "ar": "النطق"
+        },
+        "desc": {
+          "en": "How easily you are understood: control of sounds, word and sentence stress, intonation, rhythm and chunking. An accent matters only when it makes you harder to understand.",
+          "ar": "مدى سهولة فهم كلامك: إحكام الأصوات، والنبر في الكلمة والجملة، والتنغيم، والإيقاع، وتقسيم الكلام إلى وحدات. ولا تُحتسب اللكنة إلا إذا صعّبت فهمك."
+        }
+      }
+    ],
+    "taskWeighting": {
+      "en": "Writing: within each task the four criteria count equally, and Task 2 carries double the weight of Task 1 in your Writing band. Speaking: the four criteria count equally and are averaged. Listening and Reading: one mark for each correct answer out of 40, converted to a band.",
+      "ar": "في الكتابة: للمعايير الأربعة وزن متساوٍ داخل كل مهمة، ووزن المهمة الثانية ضعف وزن الأولى في درجة الكتابة. وفي المحادثة: للمعايير الأربعة وزن متساوٍ ويُحسب متوسطها. أما في الاستماع والقراءة: فلكل إجابة صحيحة درجة من 40، ثم تُحوَّل النتيجة إلى درجة على المقياس."
+    }
+  },
+  "results": [
+    {
+      "id": "timing",
+      "title": {
+        "en": "When results arrive",
+        "ar": "موعد صدور النتائج"
+      },
+      "text": {
+        "en": "On computer, most results are out within 1 to 2 days. Writing on Paper results come within five days, IELTS Online results take 6 to 8 days and IELTS Life Skills results take up to 9 days. You see them online in your test provider's portal, and timing can vary by centre.",
+        "ar": "تصدر معظم نتائج الاختبار على الحاسوب خلال يوم إلى يومين، ونتائج خيار الكتابة على الورق خلال خمسة أيام، ونتائج IELTS Online خلال 6 إلى 8 أيام، ونتائج اختبار مهارات الحياة خلال مدة تصل إلى 9 أيام. وتطّلع عليها إلكترونيًا عبر بوابة الجهة المنظِّمة لاختبارك، وقد يختلف التوقيت من مركز إلى آخر."
+      }
+    },
+    {
+      "id": "validity",
+      "title": {
+        "en": "How long results are valid",
+        "ar": "مدة صلاحية النتائج"
+      },
+      "text": {
+        "en": "IELTS recommends treating results as valid for two years after the test, based on research into how language skills fade. Some organisations accept older results, so check with each one. For UK visa applications, the test must have been awarded within the two years before you apply.",
+        "ar": "توصي آيلتس باعتبار النتائج صالحة لمدة سنتين من تاريخ الاختبار، استنادًا إلى أبحاث حول تراجع المهارات اللغوية. وقد تقبل بعض الجهات نتائج أقدم، لذا تحقق من كل جهة على حدة. أما في طلبات التأشيرة البريطانية فيجب أن تكون النتيجة قد صدرت خلال السنتين السابقتين لتاريخ التقديم."
+      }
+    },
+    {
+      "id": "osr",
+      "title": {
+        "en": "One Skill Retake",
+        "ar": "إعادة مهارة واحدة (One Skill Retake)"
+      },
+      "text": {
+        "en": "If one section lets you down, you can resit just that skill instead of the whole test. Your full test must have been taken on computer at a centre that offers the option, the retake must happen within 60 days, and each test allows only one retake. The retake has the same format and timing as that section, and Writing on Paper candidates must retake Writing on paper. You receive a new report form combining the retake score with your other three original scores, you choose which form to use, and results take about 3 to 5 days. Not every organisation accepts retake results, so check before booking.",
+        "ar": "إذا لم تحقق المطلوب في قسم واحد، يمكنك إعادة تلك المهارة وحدها بدلًا من الاختبار كاملًا. ويُشترط أن يكون اختبارك الكامل قد أُدّي على الحاسوب في مركز يقدّم هذا الخيار، وأن تتم الإعادة خلال 60 يومًا، ولا يُسمح إلا بإعادة واحدة لكل اختبار. وتتبع الإعادة شكل القسم الأصلي وتوقيته، ومن اختار الكتابة على الورق يعيد الكتابة على الورق. وتحصل على نموذج نتيجة جديد يجمع درجة الإعادة مع درجاتك الثلاث الأصلية، ولك أن تختار أي النموذجين تستخدم، وتصدر النتيجة خلال 3 إلى 5 أيام تقريبًا. ولا تقبل جميع الجهات نتائج الإعادة، فتحقق قبل الحجز."
+      }
+    },
+    {
+      "id": "eor",
+      "title": {
+        "en": "Enquiry on Results (re-mark)",
+        "ar": "طلب إعادة التصحيح (Enquiry on Results)"
+      },
+      "text": {
+        "en": "Within six weeks of your test date, you can ask through your test centre or online portal for one or more sections to be re-marked. A senior examiner re-marks them without seeing your original scores, and the outcome takes anywhere from the same day to 21 days. A fee applies and is refunded if any of your band scores goes up; a re-mark never lowers a score, and any change appears on an updated report form.",
+        "ar": "يمكنك خلال ستة أسابيع من تاريخ الاختبار أن تطلب، عبر مركز الاختبار أو البوابة الإلكترونية، إعادة تصحيح قسم أو أكثر. ويتولى ذلك ممتحِن أول دون الاطلاع على درجاتك الأصلية، وتصدر النتيجة خلال مدة تتراوح بين اليوم نفسه و21 يومًا. ويُستوفى رسم يُرَدّ إليك إذا ارتفعت أي من درجاتك، ولا تؤدي إعادة التصحيح إلى خفض الدرجة أبدًا، ويظهر أي تغيير في نموذج نتيجة مُحدَّث."
+      }
+    },
+    {
+      "id": "retake",
+      "title": {
+        "en": "Retaking the whole test",
+        "ar": "إعادة الاختبار كاملًا"
+      },
+      "text": {
+        "en": "There is no compulsory waiting period, so you can book another full test whenever you are ready. IELTS warns that a better score is unlikely without further study, so plan your preparation first.",
+        "ar": "لا توجد فترة انتظار إلزامية، إذ يمكنك حجز اختبار كامل جديد متى شعرت بالاستعداد. وتنبّه آيلتس إلى أن تحسّن الدرجة غير مرجّح دون مزيد من الدراسة، فخطط لاستعدادك أولًا."
+      }
+    },
+    {
+      "id": "trf",
+      "title": {
+        "en": "Test Report Form (TRF)",
+        "ar": "نموذج تقرير النتيجة (TRF)"
+      },
+      "text": {
+        "en": "Your TRF shows your overall band and your four section bands, and organisations can verify results online. It does not mention whether you chose Writing on Paper. Since 15 July 2026 TRFs display Ofqual's logo and the regulated title of the qualification; earlier forms stay valid and need not be resent. IELTS for UKVI forms also give a CEFR level for each skill. Whether you get an electronic or a paper TRF, and how many copies can go to organisations, depends on your country and centre.",
+        "ar": "يبيّن النموذج درجتك الكلية ودرجات الأقسام الأربعة، ويمكن للجهات التحقق من النتائج إلكترونيًا. ولا يذكر النموذج إن كنت قد اخترت الكتابة على الورق. ومنذ 15 يوليو 2026 يحمل النموذج شعار هيئة Ofqual والاسم الرسمي للمؤهل، وتبقى النماذج السابقة صالحة دون حاجة إلى إعادة إرسالها. كما تُظهر نماذج IELTS for UKVI مستوى CEFR لكل مهارة. ويتوقف كون النموذج إلكترونيًا أو ورقيًا، وعدد النسخ التي تُرسل إلى الجهات، على بلدك ومركز اختبارك."
+      }
+    }
+  ],
+  "testDay": {
+    "before": [
+      {
+        "en": "Check your confirmation email for the venue, start time and check-in time, which differ between centres.",
+        "ar": "راجع رسالة التأكيد لمعرفة المكان وموعد البدء ووقت تسجيل الحضور، إذ تختلف من مركز إلى آخر."
+      },
+      {
+        "en": "Plan your journey with time to spare, because latecomers may not be admitted.",
+        "ar": "خطط لطريقك واترك هامشًا من الوقت، فقد لا يُسمح للمتأخرين بالدخول."
+      },
+      {
+        "en": "Eat and drink before you arrive, as no food is allowed in the test room.",
+        "ar": "تناول طعامك وشرابك قبل الوصول، إذ لا يُسمح بالطعام في قاعة الاختبار."
+      },
+      {
+        "en": "Use the bathroom beforehand, since Listening, Reading and Writing run without scheduled breaks.",
+        "ar": "استخدم دورة المياه مسبقًا، لأن الاستماع والقراءة والكتابة تُؤدّى دون استراحات مجدولة."
+      },
+      {
+        "en": "Try the official computer familiarisation tests so the screens feel familiar.",
+        "ar": "جرّب اختبارات التعرّف الرسمية على الحاسوب لتألف شاشات الاختبار."
+      },
+      {
+        "en": "Request access arrangements, such as large print or braille, well ahead of time; some centres ask for six weeks' notice.",
+        "ar": "اطلب الترتيبات الخاصة، كالطباعة بخط كبير أو طريقة برايل، قبل وقت كافٍ؛ فبعض المراكز تطلب إشعارًا قبل ستة أسابيع."
+      },
+      {
+        "en": "Rules differ by country and centre, so read your own centre's test-day instructions.",
+        "ar": "تختلف القواعد باختلاف البلد والمركز، فاقرأ تعليمات يوم الاختبار الخاصة بمركزك."
+      }
+    ],
+    "bring": [
+      {
+        "en": "The same valid passport or national ID card that you used to book the test.",
+        "ar": "جواز السفر أو بطاقة الهوية الوطنية نفسها التي استخدمتها في الحجز، على أن تكون سارية المفعول."
+      },
+      {
+        "en": "That same ID again for Speaking, because the examiner checks it too.",
+        "ar": "الهوية نفسها لاختبار المحادثة، لأن الممتحِن يتحقق منها أيضًا."
+      },
+      {
+        "en": "Water in a clear, unlabelled bottle, where your centre permits it.",
+        "ar": "ماء في زجاجة شفافة بلا ملصق، إن كان مركزك يسمح بذلك."
+      },
+      {
+        "en": "Nothing else: the centre takes your photo and supplies the pencils, pens and paper you need.",
+        "ar": "لا شيء آخر؛ فالمركز يلتقط صورتك ويوفّر ما تحتاجه من أقلام وأوراق."
+      }
+    ],
+    "notAllowed": [
+      {
+        "en": "Mobile phones, smartwatches, smart glasses or other electronic devices, which must be switched off and stored.",
+        "ar": "الهواتف المحمولة والساعات والنظارات الذكية وسائر الأجهزة الإلكترونية، ويجب إغلاقها وحفظها."
+      },
+      {
+        "en": "Any kind of watch, since a clock or on-screen timer is provided.",
+        "ar": "أي نوع من ساعات اليد، إذ تتوفر ساعة في القاعة أو مؤقّت على الشاشة."
+      },
+      {
+        "en": "Food, bags, wallets, keys and other belongings, which stay in the lockers or storage area.",
+        "ar": "الطعام والحقائب والمحافظ والمفاتيح وسائر المتعلقات، وتُترك في الخزائن أو مكان الحفظ."
+      },
+      {
+        "en": "Your own pens, pencils or other stationery.",
+        "ar": "أقلامك أو أدوات القرطاسية الخاصة بك."
+      },
+      {
+        "en": "An expired ID, or any document other than the one you booked with; without valid ID you may be turned away.",
+        "ar": "هوية منتهية الصلاحية، أو أي وثيقة غير التي حجزت بها؛ وقد تُمنع من أداء الاختبار دون هوية سارية."
+      },
+      {
+        "en": "Family or friends inside the venue; they have to wait outside.",
+        "ar": "دخول الأهل أو الأصدقاء إلى مكان الاختبار، إذ عليهم الانتظار في الخارج."
+      }
+    ],
+    "during": [
+      {
+        "en": "Staff check your ID and take your photo, and some centres also scan your fingerprints.",
+        "ar": "يتحقق الموظفون من هويتك ويلتقطون صورتك، وتأخذ بعض المراكز بصمة الإصبع أيضًا."
+      },
+      {
+        "en": "Listening, Reading and Writing follow one another in a single sitting.",
+        "ar": "تتوالى أقسام الاستماع والقراءة والكتابة في جلسة واحدة."
+      },
+      {
+        "en": "Raise your hand for help, a question or a bathroom visit, and do not call out.",
+        "ar": "ارفع يدك لطلب المساعدة أو طرح سؤال أو الذهاب إلى دورة المياه، ولا تنادِ بصوت مرتفع."
+      },
+      {
+        "en": "You may not leave during Listening, and if you leave during Reading or Writing the clock keeps running.",
+        "ar": "لا يُسمح بالخروج أثناء الاستماع، وإذا خرجت أثناء القراءة أو الكتابة يستمر احتساب الوقت."
+      },
+      {
+        "en": "Tell an invigilator at once about anything that affects your performance, such as not hearing the audio clearly.",
+        "ar": "أبلغ المراقب فورًا بأي أمر يؤثر في أدائك، كعدم سماع التسجيل بوضوح."
+      },
+      {
+        "en": "At the end, stay in your seat until the invigilator says you may go.",
+        "ar": "عند الانتهاء ابقَ في مقعدك حتى يأذن لك المراقب بالمغادرة."
+      }
+    ],
+    "computer": [
+      {
+        "en": "Test your headphones and set the volume before Listening starts; you can also adjust it on screen.",
+        "ar": "اختبر سماعات الرأس واضبط مستوى الصوت قبل بدء الاستماع، ويمكنك تعديله أيضًا من الشاشة."
+      },
+      {
+        "en": "In Listening, type each answer as you hear it, because you get only 2 minutes at the end to review.",
+        "ar": "في الاستماع اكتب كل إجابة فور سماعها، لأنك لا تحصل إلا على دقيقتين في النهاية للمراجعة."
+      },
+      {
+        "en": "A clock on screen shows the time left and flashes in the last 10 and last 5 minutes of Reading and Writing.",
+        "ar": "تُظهر ساعة على الشاشة الوقت المتبقي، وتومض في آخر 10 دقائق وآخر 5 دقائق من القراءة والكتابة."
+      },
+      {
+        "en": "You can highlight text, make notes on screen and flag questions to come back to.",
+        "ar": "يمكنك تظليل النص وتدوين الملاحظات على الشاشة ووضع علامة على الأسئلة للعودة إليها."
+      },
+      {
+        "en": "Writing shows a live word count, saves automatically and lets you do the tasks in either order.",
+        "ar": "يعرض قسم الكتابة عدد الكلمات أولًا بأول ويحفظ عملك تلقائيًا، ويتيح لك إنجاز المهمتين بأي ترتيب."
+      },
+      {
+        "en": "Spelling counts, so check typed answers: misspelt words are marked wrong.",
+        "ar": "الإملاء محسوب، فراجع إجاباتك المكتوبة؛ إذ تُعدّ الكلمات الخاطئة إملائيًا إجابات خاطئة."
+      },
+      {
+        "en": "You can change the text size and background colour in the settings.",
+        "ar": "يمكنك تغيير حجم الخط ولون الخلفية من الإعدادات."
+      },
+      {
+        "en": "When time runs out, the system keeps what you have entered and closes the section automatically.",
+        "ar": "عند انتهاء الوقت يحتفظ النظام بما أدخلته ويُغلق القسم تلقائيًا."
+      },
+      {
+        "en": "With Writing on Paper, the tasks stay on screen while you handwrite legibly on the answer sheets, and you may ask for extra paper.",
+        "ar": "في خيار الكتابة على الورق تبقى المهام ظاهرة على الشاشة بينما تكتب بخط واضح على أوراق الإجابة، ويمكنك طلب أوراق إضافية."
+      }
+    ],
+    "speaking": [
+      {
+        "en": "You talk one to one with an examiner in a private room, and the conversation is recorded.",
+        "ar": "تتحدث منفردًا مع ممتحِن في غرفة خاصة، وتُسجَّل المحادثة."
+      },
+      {
+        "en": "It may fall on the same day as the other sections or up to about a week before or after.",
+        "ar": "قد تُعقد في يوم الأقسام الأخرى نفسه، أو قبله أو بعده بأسبوع تقريبًا."
+      },
+      {
+        "en": "Bring the same ID, because the examiner checks it at the start.",
+        "ar": "أحضر الهوية نفسها، لأن الممتحِن يتحقق منها في البداية."
+      },
+      {
+        "en": "In Part 2 you are given pencil and paper and one minute to make notes before you speak.",
+        "ar": "في الجزء الثاني تُعطى قلمًا وورقة ودقيقة واحدة لتدوين ملاحظاتك قبل أن تتحدث."
+      },
+      {
+        "en": "The examiner tells you when to begin your Part 2 talk and will stop you once your two minutes are over.",
+        "ar": "يخبرك الممتحِن متى تبدأ حديثك في الجزء الثاني، ويوقفك عند انقضاء الدقيقتين."
+      },
+      {
+        "en": "Some centres hold Speaking by secure video call with the examiner, but you still attend the test centre.",
+        "ar": "تُجري بعض المراكز المحادثة عبر مكالمة فيديو آمنة مع الممتحِن، لكنك تحضر إلى مركز الاختبار في جميع الأحوال."
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1965",
+      "title": {
+        "en": "The EPTB comes into use",
+        "ar": "بدء استخدام اختبار EPTB"
+      },
+      "text": {
+        "en": "The British Council started using the English Proficiency Test Battery (EPTB), built at the University of Birmingham in 1963-65, to assess overseas students; it stayed in service until 1980.",
+        "ar": "بدأ المجلس الثقافي البريطاني استخدام «مجموعة اختبارات الكفاءة في اللغة الإنجليزية» (EPTB) التي طُوِّرت في جامعة برمنغهام بين عامي 1963 و1965 لتقييم الطلاب القادمين من الخارج، وظل مستخدمًا حتى عام 1980."
+      },
+      "sources": [
+        "davies-2008"
+      ]
+    },
+    {
+      "date": "1980",
+      "title": {
+        "en": "ELTS replaces the EPTB",
+        "ar": "اختبار ELTS يحل محل EPTB"
+      },
+      "text": {
+        "en": "ELTS (the English Language Testing Service), created by the British Council together with Cambridge's exam board UCLES, took over from the EPTB. It offered six academic modules, five of them tied to particular subject areas.",
+        "ar": "حلّت «خدمة اختبار اللغة الإنجليزية» (ELTS)، التي أعدّها المجلس الثقافي البريطاني بالتعاون مع هيئة امتحانات كامبريدج (UCLES)، محل اختبار EPTB، وكانت تضم ست وحدات أكاديمية، خمس منها مرتبطة بمجالات دراسية بعينها."
+      },
+      "sources": [
+        "read-2022",
+        "davies-2008"
+      ]
+    },
+    {
+      "date": "1989",
+      "title": {
+        "en": "IELTS is launched",
+        "ar": "انطلاق آيلتس"
+      },
+      "text": {
+        "en": "After a revision project that IDP joined from 1987, the test was relaunched as IELTS, run jointly by the British Council, Cambridge and IDP. The academic modules were cut from six to three, and a General Training module was added for candidates not heading to degree study.",
+        "ar": "بعد مشروع مراجعة انضمت إليه مؤسسة IDP منذ عام 1987، أُعيد إطلاق الاختبار باسم آيلتس بإدارة مشتركة بين المجلس الثقافي البريطاني وكامبريدج وIDP، وقُلِّصت الوحدات الأكاديمية من ست إلى ثلاث، وأضيفت وحدة التدريب العام لمن لا يتجهون إلى الدراسة الجامعية."
+      },
+      "sources": [
+        "read-2022",
+        "davies-2008",
+        "ielts-about"
+      ]
+    },
+    {
+      "date": "1995",
+      "title": {
+        "en": "One Academic version for everyone",
+        "ar": "نسخة أكاديمية واحدة للجميع"
+      },
+      "text": {
+        "en": "The subject-specific modules gave way to a single Academic version, and Writing tasks no longer had to build on the Reading texts, so each skill came to be measured on its own.",
+        "ar": "حلّت نسخة أكاديمية واحدة محل الوحدات المرتبطة بالمجالات الدراسية، ولم تعد مهام الكتابة مبنية على نصوص القراءة، فأصبحت كل مهارة تُقاس على حدة."
+      },
+      "sources": [
+        "read-2022",
+        "rn18-2004"
+      ]
+    },
+    {
+      "date": "2001-07",
+      "title": {
+        "en": "A new three-part Speaking test",
+        "ar": "اختبار محادثة جديد من ثلاثة أجزاء"
+      },
+      "text": {
+        "en": "A revised Speaking test came into full use: a three-part interview in which examiners follow a set script in the first two parts, with one overall rating replaced by four separate criteria covering fluency, vocabulary, grammar and pronunciation.",
+        "ar": "دخل اختبار المحادثة المعدَّل حيّز التطبيق الكامل: مقابلة من ثلاثة أجزاء يلتزم فيها الممتحِن بنص محدد في الجزأين الأولين، واستُبدل بالتقدير الإجمالي الواحد أربعة معايير مستقلة تشمل الطلاقة والمفردات والقواعد والنطق."
+      },
+      "sources": [
+        "rn6-2001",
+        "read-2022"
+      ]
+    },
+    {
+      "date": "2005",
+      "title": {
+        "en": "New Writing criteria and a first computer version",
+        "ar": "معايير كتابة جديدة وأول نسخة حاسوبية"
+      },
+      "text": {
+        "en": "The four analytic Writing criteria still used today came into use, with reworded descriptors and retrained examiners. A computer-based version (CB IELTS) was also offered at some centres from 2005 to 2008, with few takers.",
+        "ar": "بدأ العمل بمعايير الكتابة التحليلية الأربعة المعتمدة حتى اليوم، مع إعادة صياغة الواصفات وإعادة تدريب الممتحِنين. كما قُدِّمت نسخة حاسوبية (CB IELTS) في بعض المراكز من عام 2005 حتى عام 2008، لكن الإقبال عليها كان محدودًا."
+      },
+      "sources": [
+        "read-2022",
+        "rn18-2004"
+      ]
+    },
+    {
+      "date": "2007-07-01",
+      "title": {
+        "en": "Writing and Speaking get half bands",
+        "ar": "أنصاف الدرجات في الكتابة والمحادثة"
+      },
+      "text": {
+        "en": "Writing and Speaking started to be reported in half bands, such as 6.5, as well as whole bands.",
+        "ar": "بدأ إعلان درجات الكتابة والمحادثة بأنصاف الدرجات، مثل 6.5، إلى جانب الدرجات الكاملة."
+      },
+      "sources": [
+        "craven-2012"
+      ]
+    },
+    {
+      "date": "2009",
+      "title": {
+        "en": "General Training updated",
+        "ar": "تحديث اختبار التدريب العام"
+      },
+      "text": {
+        "en": "General Training was revised partly at the request of immigration authorities, and its Reading test gained a section built around work-related texts.",
+        "ar": "عُدِّل اختبار التدريب العام استجابةً جزئيًا لطلبات سلطات الهجرة، وأضيف إلى قسم القراءة فيه جزء يقوم على نصوص بيئة العمل."
+      },
+      "sources": [
+        "read-2022"
+      ]
+    },
+    {
+      "date": "2015-04",
+      "title": {
+        "en": "IELTS for UKVI and IELTS Life Skills",
+        "ar": "آيلتس لتأشيرات المملكة المتحدة ومهارات الحياة"
+      },
+      "text": {
+        "en": "Under new UK visa arrangements, IELTS was approved for every UK visa category needing proof of English. Tests for visa purposes had to be sat at authorised centres, and IELTS Life Skills, a speaking and listening test at CEFR A1 and B1, was added, with the first sessions in late April 2015.",
+        "ar": "مع الترتيبات البريطانية الجديدة للتأشيرات، اعتُمد آيلتس لجميع فئات التأشيرة التي تتطلب إثبات اللغة الإنجليزية، وأصبح لزامًا أداء الاختبارات لأغراض التأشيرة في مراكز معتمدة، وطُرح اختبار «مهارات الحياة» الجديد للتحدث والاستماع (المستويان A1 وB1)، وعُقدت أولى جلساته أواخر أبريل 2015."
+      },
+      "sources": [
+        "cambridge-ukvi-2015",
+        "bc-sg-ukvi-2015"
+      ]
+    },
+    {
+      "date": "2017-12",
+      "title": {
+        "en": "IELTS on computer arrives",
+        "ar": "إطلاق آيلتس على الحاسوب"
+      },
+      "text": {
+        "en": "Computer-delivered IELTS launched in Australia and spread across the testing network during 2018 as an alternative to paper, with identical content, timing and scoring; Speaking stayed face to face.",
+        "ar": "أُطلق آيلتس على الحاسوب في أستراليا ثم انتشر في شبكة مراكز الاختبار خلال عام 2018 بديلًا اختياريًا للنسخة الورقية، بالمحتوى والتوقيت والتقييم نفسه، مع بقاء المحادثة وجهًا لوجه."
+      },
+      "sources": [
+        "bc-computer-launch",
+        "read-2022"
+      ]
+    },
+    {
+      "date": "2019-11",
+      "title": {
+        "en": "Speaking by video call",
+        "ar": "المحادثة عبر مكالمة الفيديو"
+      },
+      "text": {
+        "en": "A version of the Speaking test run by video call with a remote examiner became operational, aimed first at places where face-to-face testing was hard to arrange.",
+        "ar": "دخلت نسخة من اختبار المحادثة تُجرى عبر مكالمة فيديو مع ممتحِن عن بُعد حيّز التشغيل، ووُجِّهت في البداية إلى المناطق التي يصعب فيها ترتيب الاختبار وجهًا لوجه."
+      },
+      "sources": [
+        "read-2022"
+      ]
+    },
+    {
+      "date": "2020-04",
+      "title": {
+        "en": "IELTS Indicator during COVID-19",
+        "ar": "اختبار IELTS Indicator خلال جائحة كوفيد-19"
+      },
+      "text": {
+        "en": "In response to COVID-19 test-centre closures, IELTS launched IELTS Indicator, a temporary at-home test with a video-call Speaking section; each institution decided whether to accept it.",
+        "ar": "استجابةً لإغلاق مراكز الاختبار بسبب جائحة كوفيد-19، أطلقت آيلتس اختبار IELTS Indicator المؤقت الذي يُؤدّى من المنزل مع قسم محادثة عبر مكالمة فيديو، وتُرك لكل مؤسسة قرار قبوله."
+      },
+      "sources": [
+        "pie-indicator-2020",
+        "read-2022"
+      ]
+    },
+    {
+      "date": "2022",
+      "title": {
+        "en": "IELTS Online",
+        "ar": "آيلتس عبر الإنترنت"
+      },
+      "text": {
+        "en": "IELTS Online, a permanent at-home version of IELTS Academic with live remote supervision and a video-call Speaking test, became available in selected countries; immigration authorities do not accept it.",
+        "ar": "أصبح IELTS Online متاحًا في دول مختارة، وهو نسخة دائمة من آيلتس الأكاديمي تُؤدّى من المنزل تحت مراقبة مباشرة عن بُعد، مع اختبار محادثة عبر مكالمة فيديو، ولا يُقبل لأغراض الهجرة."
+      },
+      "sources": [
+        "bc-ielts-online-2022",
+        "read-2022"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": {
+        "en": "One Skill Retake goes global",
+        "ar": "تعميم خيار «إعادة مهارة واحدة»"
+      },
+      "text": {
+        "en": "One Skill Retake, first offered in a few Australian cities, was rolled out to other countries, letting candidates who sat the computer test resit a single section rather than the whole test.",
+        "ar": "بعد أن طُرح خيار «إعادة مهارة واحدة» أولًا في عدد من المدن الأسترالية، عُمِّم على دول أخرى، ليتيح لمن أدّوا الاختبار على الحاسوب إعادة قسم واحد بدلًا من الاختبار كاملًا."
+      },
+      "sources": [
+        "ielts-osr-2022",
+        "careers360-osr-2023",
+        "ielts-osr"
+      ]
+    },
+    {
+      "date": "2023-05",
+      "title": {
+        "en": "Writing band descriptors reworded",
+        "ar": "تنقيح صياغة واصفات درجات الكتابة"
+      },
+      "text": {
+        "en": "After a review that began in 2019, Writing band descriptors with clearer wording came into use, and IELTS published the full Writing assessment scales.",
+        "ar": "بعد مراجعة بدأت عام 2019، بدأ العمل بواصفات درجات للكتابة ذات صياغة أوضح، ونشرت آيلتس مقاييس تقييم الكتابة كاملة."
+      },
+      "sources": [
+        "ielts-writing-scales-2023",
+        "ielts-writing-bd-news-2023"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": {
+        "en": "Computer delivery for all",
+        "ar": "الحاسوب للجميع"
+      },
+      "text": {
+        "en": "In 2026 the IELTS partners started phasing out the paper-based test market by market, making computer delivery the norm and adding a Writing on Paper option in selected countries.",
+        "ar": "بدأ شركاء آيلتس في عام 2026 الإلغاء التدريجي للاختبار الورقي سوقًا بعد أخرى، فأصبح الاختبار على الحاسوب هو القاعدة، مع إضافة خيار «الكتابة على الورق» في دول مختارة."
+      },
+      "sources": [
+        "ielts-delivery-2026",
+        "ielts-wop"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-03-05",
+      "title": {
+        "en": "Paper-based IELTS withdrawn from mid-2026",
+        "ar": "سحب آيلتس الورقي اعتبارًا من منتصف 2026"
+      },
+      "text": {
+        "en": "The IELTS partners announced that from mid-2026 every test would be delivered on computer, with dates set country by country. Selected countries offer Writing on Paper, in which only the Writing section is handwritten, and a trial found its scores comparable with the paper test. Paper results stay valid for the recommended two years, and IELTS for UKVI is offered only in the fully digital format.",
+        "ar": "أعلن شركاء آيلتس أن جميع الاختبارات ستُقدَّم على الحاسوب اعتبارًا من منتصف عام 2026، بمواعيد يحددها كل بلد. وتتيح دول مختارة خيار «الكتابة على الورق» الذي يُكتب فيه قسم الكتابة وحده بخط اليد، وقد أظهرت تجربة ميدانية أن درجاته مماثلة لدرجات الاختبار الورقي. وتبقى النتائج الورقية صالحة طوال مدة السنتين الموصى بها، ولا يُقدَّم IELTS for UKVI إلا بالصيغة الرقمية الكاملة."
+      },
+      "sources": [
+        "ielts-delivery-2026",
+        "ielts-wop-orgs"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "title": {
+        "en": "IELTS pulls out of the UK HOELT tender",
+        "ar": "آيلتس ينسحب من مناقصة اختبار HOELT البريطاني"
+      },
+      "text": {
+        "en": "The IELTS partners withdrew from the Home Office tender for HOELT, a planned fully remote English test for UK immigration, citing security concerns. In September 2026 the government said HOELT was still in procurement, and GOV.UK guidance updated in October 2026 still lists IELTS for UKVI and IELTS Life Skills as approved SELTs.",
+        "ar": "انسحب شركاء آيلتس من مناقصة وزارة الداخلية البريطانية الخاصة باختبار HOELT، وهو اختبار مزمع للغة الإنجليزية لأغراض الهجرة يُؤدّى عن بُعد بالكامل، مستندين إلى مخاوف تتعلق بالأمان. وفي سبتمبر 2026 أفادت الحكومة بأن إجراءات التعاقد على الاختبار لا تزال جارية، وما زال دليل GOV.UK المحدَّث في أكتوبر 2026 يدرج IELTS for UKVI واختبار مهارات الحياة ضمن اختبارات SELT المعتمدة."
+      },
+      "sources": [
+        "ielts-hoelt",
+        "uk-parliament-23487",
+        "govuk-selt"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "title": {
+        "en": "Regulator acts on past marking errors",
+        "ar": "إجراء تنظيمي بشأن أخطاء تصحيح سابقة"
+      },
+      "text": {
+        "en": "In November 2025 IELTS reported that, from August 2023 to September 2025, a technical problem had given a small share of candidates wrong Listening and Reading results; those affected were emailed corrected results and offered refunds or resits. In June 2026 Ofqual, the qualifications regulator in England, issued a monetary penalty to Cambridge English over these errors. If you never received an email about it, your result was not affected.",
+        "ar": "أعلنت آيلتس في نوفمبر 2025 أن مشكلة تقنية أدت إلى حصول نسبة صغيرة من المرشحين على نتائج خاطئة في الاستماع والقراءة بين أغسطس 2023 وسبتمبر 2025، وأُبلغ المتأثرون بالبريد الإلكتروني بنتائجهم المصحَّحة وعُرض عليهم استرداد الرسوم أو إعادة الاختبار. وفي يونيو 2026 فرضت هيئة Ofqual، الجهة المنظِّمة للمؤهلات في إنجلترا، عقوبة مالية على Cambridge English بسبب هذه الأخطاء. وإن لم تصلك رسالة بهذا الشأن فنتيجتك لم تتأثر."
+      },
+      "sources": [
+        "ielts-score-corrections",
+        "pie-scores-2025",
+        "govuk-ofqual-2026"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "title": {
+        "en": "A new look for Test Report Forms",
+        "ar": "تصميم جديد لنموذج تقرير النتيجة"
+      },
+      "text": {
+        "en": "From 15 July 2026, both digital and paper TRFs show Ofqual's logo and the qualification's regulated title, to meet design rules set by the regulator. Every TRF issued before or after that date remains valid and does not need to be resent, and candidates whose TRF was issued from June 2024 up to 14 July 2026 can ask for a free updated copy if they want one.",
+        "ar": "اعتبارًا من 15 يوليو 2026 تحمل نماذج تقرير النتيجة الرقمية والورقية شعار هيئة Ofqual والاسم الرسمي للمؤهل، التزامًا بمتطلبات التصميم التي تفرضها الجهة المنظِّمة. وتبقى جميع النماذج الصادرة قبل هذا التاريخ أو بعده صالحة دون حاجة إلى إعادة إرسالها، ويمكن لمن صدر نموذجه بين يونيو 2024 و14 يوليو 2026 أن يطلب نسخة محدَّثة مجانًا إن رغب."
+      },
+      "sources": [
+        "ielts-trf-2026"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "title": {
+        "en": "India switches fully to computer",
+        "ar": "الهند تنتقل بالكامل إلى الحاسوب"
+      },
+      "text": {
+        "en": "IDP announced that from September 2026 IELTS in India would be delivered only on computer, with Writing on Paper as an option, after final paper sessions on 25 July, 6 August and 22 August 2026. The test pattern, difficulty and scoring are unchanged, and Speaking still takes place in person with a certified examiner.",
+        "ar": "أعلنت IDP أن آيلتس في الهند سيُقدَّم على الحاسوب فقط اعتبارًا من سبتمبر 2026، مع إتاحة خيار «الكتابة على الورق»، وذلك بعد آخر جلسات ورقية في 25 يوليو و6 أغسطس و22 أغسطس 2026. ولم يتغير نمط الاختبار ولا مستوى صعوبته ولا طريقة تقييمه، وما زالت المحادثة تُجرى حضوريًا مع ممتحِن معتمد."
+      },
+      "sources": [
+        "careers360-india-2026",
+        "dc-india-2026"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ielts-delivery-2026",
+      "title": "Updates to IELTS test delivery (IELTS, 5 March 2026)",
+      "url": "https://ielts.org/news-and-insights/updates-to-ielts-test-delivery",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-wop",
+      "title": "What is Writing on Paper? (IELTS)",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-on-computer-writing-on-paper",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-wop-orgs",
+      "title": "Updates to IELTS Writing test delivery mode (IELTS for organisations)",
+      "url": "https://ielts.org/organisations/ielts-for-organisations/test-types/ways-to-take-ielts/updates-to-ielts-writing-test-delivery-mode",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-wop",
+      "title": "IELTS on computer with Writing on Paper (British Council)",
+      "url": "https://takeielts.britishcouncil.org/what-is-ielts/how-it-works/test-modes/ielts-on-computer/writing-on-paper",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-computer",
+      "title": "IELTS on computer (British Council)",
+      "url": "https://takeielts.britishcouncil.org/what-is-ielts/how-it-works/test-modes/ielts-on-computer",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "idp-au-2026",
+      "title": "IELTS test delivery updates for 2026 (IELTS Australia / IDP, 30 March 2026)",
+      "url": "https://ielts.com.au/australia/about/news-and-articles/article-updates-to-ielts-test-delivery",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-jo-results",
+      "title": "IELTS results (British Council Jordan)",
+      "url": "https://www.britishcouncil.jo/en/exam/ielts/results",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "idp-sg-lifeskills",
+      "title": "Life Skills for UKVI: test format and who needs it (IDP IELTS Singapore)",
+      "url": "https://ielts.idp.com/singapore/about/which-test-do-i-take/life-skills-ukvi",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "careers360-india-2026",
+      "title": "IELTS exam in computer-based format only from September 2026: IDP Education (Careers360, 16 July 2026)",
+      "url": "https://news.careers360.com/ielts-exam-in-computer-based-test-format-only-september-2026-idp-education-same-pattern-difficulty-level-scoring-system",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "dc-india-2026",
+      "title": "IELTS goes digital in India: major changes explained for candidates (Deccan Chronicle, 18 July 2026)",
+      "url": "https://www.deccanchronicle.com/nation/ielts-goes-digital-in-india-what-changes-for-test-takers-from-september-2026-1972079",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-test-types",
+      "title": "IELTS test types (IELTS)",
+      "url": "https://ielts.org/take-a-test/test-types",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-about",
+      "title": "About IELTS (IELTS)",
+      "url": "https://ielts.org/about-ielts",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-uk",
+      "title": "IELTS tests for UK Visas and Immigration (IELTS)",
+      "url": "https://ielts.org/about-ielts/ielts-for-migration/united-kingdom",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "idp-ukvi",
+      "title": "Know everything about IELTS for UKVI (IDP IELTS UAE)",
+      "url": "https://ielts.idp.com/uae/about/ielts-ukvi",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-lifeskills",
+      "title": "IELTS for UKVI Life Skills (British Council)",
+      "url": "https://takeielts.britishcouncil.org/take-ielts/ukvi/life-skills",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "idp-lifeskills",
+      "title": "Prepare for Life Skills for UKVI (IDP IELTS)",
+      "url": "https://ielts.idp.com/prepare/ielts-for-ukvi/lifeskills",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "govuk-selt",
+      "title": "Prove your English language abilities with a secure English language test (SELT) (GOV.UK, last updated 5 October 2026)",
+      "url": "https://www.gov.uk/guidance/prove-your-english-language-abilities-with-a-secure-english-language-test-selt",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-listening",
+      "title": "IELTS Academic test format: Listening (IELTS)",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-listening",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-reading-ac",
+      "title": "IELTS Academic test format: Reading (IELTS)",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-reading-gt",
+      "title": "IELTS General Training test format: Reading (IELTS)",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-general-training-test/ielts-general-training-format-reading",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-writing-ac",
+      "title": "IELTS Academic test format: Writing (IELTS)",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-writing-gt",
+      "title": "IELTS General Training test format: Writing (IELTS)",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-general-training-test/ielts-general-training-format-writing",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-speaking",
+      "title": "IELTS Academic test format: Speaking (IELTS)",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-speaking",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "idp-computer",
+      "title": "How IELTS on computer works (IDP IELTS)",
+      "url": "https://ielts.idp.com/prepare/article-how-computer-delivered-ielts-works",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "idp-listening-cd",
+      "title": "Top tips to maximise your IELTS Listening score on computer (IDP IELTS)",
+      "url": "https://ielts.idp.com/nepal/about/news-and-articles/article-maximise-your-ielts-listening-score-on-computer",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-online",
+      "title": "IELTS Online (IELTS)",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-online",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-scoring",
+      "title": "IELTS scoring in detail (IELTS)",
+      "url": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-writing-bd",
+      "title": "IELTS Writing band descriptors, updated May 2023 (IELTS, PDF)",
+      "url": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-guidance-and-support/ielts-guides/ielts-writing-band-descriptors.pdf",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-speaking-bd",
+      "title": "IELTS Speaking band descriptors (IELTS, PDF)",
+      "url": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-guidance-and-support/ielts-guides/ielts-speaking-band-descriptors.pdf",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-fast-results",
+      "title": "Fast IELTS results and sharing (IELTS)",
+      "url": "https://ielts.org/take-a-test/your-results/fast-test-results-and-sharing",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-osr",
+      "title": "IELTS One Skill Retake (IELTS)",
+      "url": "https://ielts.org/take-a-test/booking-your-test/one-skill-retake",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-refunds",
+      "title": "Cancellations, refunds, remarks and transfers (IELTS)",
+      "url": "https://ielts.org/take-a-test/booking-your-test/cancellations-refunds-remarks-transfers",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-remark",
+      "title": "Request a remark (British Council)",
+      "url": "https://takeielts.britishcouncil.org/results/request-remark",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-trf-2026",
+      "title": "Changes to Test Report Forms (IELTS, 11 June 2026)",
+      "url": "https://ielts.org/news-and-insights/changes-to-test-report-forms",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-trf-ukvi-2024",
+      "title": "Important updates to IELTS Test Report Forms for UKVI (IELTS, 28 August 2024)",
+      "url": "https://ielts.org/news-and-insights/important-updates-to-ielts-test-report-forms-for-ukvi",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-test-day",
+      "title": "Know what to expect on IELTS test day (British Council)",
+      "url": "https://takeielts.britishcouncil.org/take-ielts/test-day-advice",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-jo-test-day",
+      "title": "IELTS test day (British Council Jordan)",
+      "url": "https://www.britishcouncil.jo/en/exam/ielts/test-day",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "idp-what-to-bring",
+      "title": "What to bring to an IELTS test (IDP IELTS)",
+      "url": "https://ielts.idp.com/about/test-day/what-to-bring",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "idp-wop-testday",
+      "title": "IELTS on computer (Writing on Paper): what to expect on test day (IDP IELTS, 23 September 2026)",
+      "url": "https://ielts.idp.com/about/news-and-articles/article-ielts-on-computer-wop-expect-on-test-day",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "idp-familiarisation",
+      "title": "Free IELTS on computer familiarisation test (IDP IELTS India)",
+      "url": "https://ieltsidpindia.com/information/computer-delivered-ielts-familiarisation-test",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "davies-2008",
+      "title": "Davies, A. (2008). Assessing Academic English: Testing English Proficiency 1950-1989, the IELTS Solution. Studies in Language Testing 23, Cambridge University Press",
+      "url": "https://www.cambridgeenglish.org/Images/734986-studies-in-language-testing-volume-23.pdf",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "read-2022",
+      "title": "Read, J. (2022). Test review: The International English Language Testing System (IELTS). Language Testing 39(4), 679-694",
+      "url": "https://journals.sagepub.com/doi/10.1177/02655322221086211",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "rn6-2001",
+      "title": "Research Notes, Issue 6 (Cambridge ESOL, November 2001)",
+      "url": "https://www.cambridgeenglish.org/Images/23117-research-notes-06.pdf",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "rn18-2004",
+      "title": "Research Notes, Issue 18 (Cambridge ESOL, November 2004)",
+      "url": "https://www.cambridgeenglish.org/Images/23135-research-notes-18.pdf",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "craven-2012",
+      "title": "Craven, E. (2012). The quest for IELTS Band 7.0. IELTS Research Reports, Volume 13",
+      "url": "https://ielts.org/cdn/Research/the-quest-for-ielts-band-7-craven-2012.pdf",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "cambridge-ukvi-2015",
+      "title": "Language testing for UK Visas and Immigration: IELTS recognised for all categories of visa (Cambridge English, 20 February 2015)",
+      "url": "https://cambridgeenglish.org/news/view/ielts-recognised-for-all-categories-of-visa-in-the-uk",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-sg-ukvi-2015",
+      "title": "IELTS approved for UK visas (British Council Singapore press release, 25 March 2015)",
+      "url": "https://www.britishcouncil.sg/about/press/ielts-uk-visas-and-immigration",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-computer-launch",
+      "title": "British Council launches IELTS on computer (British Council, 1 August 2018)",
+      "url": "https://takeielts.britishcouncil.org/press/british-council-launches-ielts-on-computer",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "pie-indicator-2020",
+      "title": "IELTS launches IELTS Indicator, a temporary at-home option (The PIE News, 17 April 2020)",
+      "url": "https://thepienews.com/news/ielts-launches-temporary-at-home-option/",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "bc-ielts-online-2022",
+      "title": "IELTS Online now available in select countries and territories around the world (British Council, 4 August 2022)",
+      "url": "https://takeielts.britishcouncil.org/about/press/ielts-online-now-available-select-countries-and-territories-around-world",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-osr-2022",
+      "title": "Update on IELTS One Skill Retake (IELTS, 30 November 2022)",
+      "url": "https://ielts.org/news-and-insights/update-on-ielts-one-skill-retake",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "careers360-osr-2023",
+      "title": "IELTS One Skill Retake: what changes in the English proficiency test (Careers360, 29 March 2023)",
+      "url": "https://news.careers360.com/ielts-one-skill-retake-what-changes-in-english-proficiency-test",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-writing-scales-2023",
+      "title": "Clark, T., Tasviri, R. & Bruce, E. (2023). IELTS writing scales review and update: summary overview (IELTS)",
+      "url": "https://ielts.org/researchers/our-research/research-reports/ielts-writing-scales-review-and-update-summary-overview",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-writing-bd-news-2023",
+      "title": "IELTS Writing band descriptors and key assessment criteria (IELTS, 3 May 2023)",
+      "url": "https://ielts.org/news-and-insights/ielts-writing-band-descriptors-and-key-assessment-criteria",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-hoelt",
+      "title": "IELTS withdraws from UK Home Office English Language Test tender (IELTS, 17 March 2026)",
+      "url": "https://ielts.org/news-and-insights/ielts-withdraws-from-uk-home-office-english-language-test-tender",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "uk-parliament-23487",
+      "title": "Written question UIN 23487 on the Home Office English Language Test (UK Parliament, answered 3 September 2026)",
+      "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/23487",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "ielts-score-corrections",
+      "title": "IELTS score corrections (IELTS)",
+      "url": "https://ielts.org/take-a-test/your-results/adjustments",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "pie-scores-2025",
+      "title": "IELTS apologises after technical issue leads to score changes (The PIE News, 13 November 2025)",
+      "url": "https://thepienews.com/ielts-apologises-after-technical-issue-leads-to-score-changes/",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "govuk-ofqual-2026",
+      "title": "Undertaking and notices of monetary penalty and costs recovery: Cambridge English (Ofqual, GOV.UK, 11 June 2026)",
+      "url": "https://www.gov.uk/government/publications/undertaking-and-notices-of-monetary-penalty-and-costs-recovery-cambridge-english",
+      "accessed": "2026-10-10"
+    }
+  ]
+}

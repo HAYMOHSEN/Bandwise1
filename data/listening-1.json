@@ -1,0 +1,1421 @@
+{
+  "kind": "listening",
+  "id": "listen-1",
+  "title": "Listening — Test 1",
+  "parts": [
+    {
+      "n": 1,
+      "context": "A woman phones a holiday letting agency to book a cottage for a family holiday.",
+      "speakers": {
+        "A": {
+          "name": "Martin",
+          "gender": "male",
+          "accent": "en-GB"
+        },
+        "C": {
+          "name": "Clare",
+          "gender": "female",
+          "accent": "en-IE"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 1. You will hear a woman telephoning a holiday letting agency to book a cottage. First, you have some time to look at questions 1 to 6."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 1 to 6."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Good morning, Heron Vale Cottages, Martin speaking. How can I help you?"
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Oh, hello there. I'm ringing about one of your cottages, Rowan Cottage. I saw it on your website, and I'd like to book it for a week in May, if it's still available."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Rowan Cottage, lovely. That's one of our most popular ones, so you've done well to ring early. Let me just open the booking system... Right. Could I start with your name, please?"
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Yes, it's Clare Gormley."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "And could you spell your surname for me?"
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Of course. It's G-O-R-M-L-E-Y.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Thank you, Mrs Gormley. And which dates were you thinking of?"
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Well, ideally we'd arrive on the 15th of May and stay for a week. Seven nights."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Let me check... Ah, I'm sorry, the 15th has just gone. Someone booked that week yesterday afternoon. But the following week is completely free, so you could arrive a week later instead."
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Oh, what a shame. Er, let me think... Actually, the later week suits my husband better anyway, because of his work. So yes, please put us down for the 22nd of May.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Lovely, that's done. Seven nights from the 22nd. And how many people will be staying?"
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Five of us. My husband and me, our two boys, and... well, my mother-in-law was going to come with us, but she's decided she'd rather stay at home. So my father's coming instead. And that's something I wanted to ask about, actually. He's eighty-one, and he really can't manage stairs any more."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "That's not a problem at all. Rowan Cottage has one bedroom on the ground floor, with its own shower room right next to it. I'll put a note on the booking that the downstairs room is for your father.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Oh, that's a relief. And how much will it come to for the week?"
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Let me see. Seven nights from the 22nd of May... that's £620. Oh, hang on, sorry, I'm looking at last year's price list. This year it's £675 for that week. That includes electricity, heating and bed linen.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "That's fine. It's about what I was expecting, to be honest."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Great. Now, just for our records, could I ask how you heard about us? We're trying to find out which of our adverts actually work."
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Well, I've seen your adverts in the local paper for years, but I never paid much attention to them. It was my neighbour who recommended you. She stayed in one of your cottages last autumn, and she hasn't stopped talking about it since.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "That's always nice to hear. Right, I'll email you a confirmation this afternoon, but let me give you your booking reference now, in case you need to ring us before then. Have you got a pen handy?"
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Yes, go ahead."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "It's H-V, then 3 8 2 5."
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Sorry, was that B for bravo, or V?"
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "V, as in Victor. So that's H-V, 3 8 2 5.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Got it, thanks."
+        },
+        {
+          "t": "narr",
+          "text": "Before you hear the rest of the conversation, you have some time to look at questions 7 to 10."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen and answer questions 7 to 10."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Now, before you go, can I tell you about a few extras we offer? Guests often find them useful."
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Yes, please do."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Well, first there's our welcome hamper. It costs £28, and it'll be waiting for you in the kitchen when you arrive, so you don't have to rush out to the shops after a long drive. There's fresh bread, eggs, butter, that sort of thing."
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "My neighbour said hers came with a bottle of wine. Is that still included?"
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Ah, not any more, I'm afraid. We've replaced the wine with cheese from a small dairy just down the road. It's become quite famous round here, actually.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "That sounds even better. Yes, I'll have one of those, please."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "I'll add it now. Then there's bike hire. The cycle paths around the village are very flat, so they're ideal for children."
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "How much does that cost?"
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "It's £9 a day for a child's bike, and for an adult bike it's £15 a day. That includes a helmet and a lock.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "I'll talk to the boys and let you know nearer the time."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "No problem at all. Next, even in May the evenings can get quite chilly, so you might want some firewood for the wood burner. That's £6 a basket."
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "And where would we find it?"
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "It's kept in the shed at the bottom of the garden. Not in the garage, though. That's always locked, because the owners store their own things in there.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Right. Oh, and one more thing. It's a long drive home for us. Is there any chance we could leave a bit later on the last day?"
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "Yes, you can have a late check-out until 2 pm, and there's no charge for that. But you'll need to arrange it with the housekeeper rather than with us here in the office, because it affects her cleaning timetable. Her number's in the welcome folder in the cottage.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "t": "say",
+          "who": "C",
+          "text": "Perfect. Thank you so much, Martin, you've been really helpful."
+        },
+        {
+          "t": "say",
+          "who": "A",
+          "text": "You're very welcome, Mrs Gormley. I hope you all have a lovely stay."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 1."
+        }
+      ],
+      "groups": [
+        {
+          "id": "listen1-p1-g1",
+          "type": "form_completion",
+          "range": [
+            1,
+            6
+          ],
+          "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "limit": "ONE WORD AND/OR A NUMBER",
+          "title": "Heron Vale Cottages – Booking Form",
+          "template": "Cottage: Rowan Cottage\nCustomer name: Clare {{1}}\nArrival date: {{2}}\nLength of stay: 7 nights\nNumber of guests: 5\nSpecial request: ground-floor bedroom for her {{3}}\nTotal cost: £{{4}}\nFound out about the agency through her {{5}}\nBooking reference: {{6}}",
+          "questions": [
+            {
+              "n": 1,
+              "text": "",
+              "answer": "Gormley",
+              "explanation": "The caller spells her surname G-O-R-M-L-E-Y."
+            },
+            {
+              "n": 2,
+              "text": "",
+              "answer": "22 May",
+              "accept": [
+                "22nd May",
+                "May 22",
+                "May 22nd",
+                "22/5"
+              ],
+              "explanation": "The 15th of May is already booked, so she agrees to arrive a week later, on the 22nd of May."
+            },
+            {
+              "n": 3,
+              "text": "",
+              "answer": "father",
+              "explanation": "Her mother-in-law is no longer coming; the downstairs room is for her father, who can't manage stairs."
+            },
+            {
+              "n": 4,
+              "text": "",
+              "answer": "675",
+              "accept": [
+                "£675"
+              ],
+              "explanation": "Martin first says £620 but corrects himself: that was last year's price, and this year it is £675."
+            },
+            {
+              "n": 5,
+              "text": "",
+              "answer": "neighbour",
+              "accept": [
+                "neighbor"
+              ],
+              "explanation": "She has seen adverts in the local paper, but it was her neighbour who recommended the agency."
+            },
+            {
+              "n": 6,
+              "text": "",
+              "answer": "HV3825",
+              "accept": [
+                "HV 3825",
+                "H V 3825",
+                "H-V 3825",
+                "HV-3825",
+                "H-V 3 8 2 5"
+              ],
+              "explanation": "The reference is H-V followed by 3 8 2 5; Martin confirms the second letter is 'V, as in Victor', not B."
+            }
+          ]
+        },
+        {
+          "id": "listen1-p1-g2",
+          "type": "table_completion",
+          "range": [
+            7,
+            10
+          ],
+          "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "limit": "ONE WORD AND/OR A NUMBER",
+          "title": "Optional extras",
+          "table": {
+            "headers": [
+              "Extra",
+              "Cost",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Welcome hamper",
+                "£28",
+                "contains bread, eggs, butter and local {{7}}"
+              ],
+              [
+                "Bike hire",
+                "£{{8}} per day for an adult bike",
+                "helmet and lock included"
+              ],
+              [
+                "Firewood",
+                "£6 per basket",
+                "kept in the {{9}} in the garden"
+              ],
+              [
+                "Late check-out (until 2 pm)",
+                "free",
+                "must be arranged with the {{10}}"
+              ]
+            ]
+          },
+          "questions": [
+            {
+              "n": 7,
+              "text": "",
+              "answer": "cheese",
+              "explanation": "The hamper no longer includes wine; it now has cheese from a local dairy."
+            },
+            {
+              "n": 8,
+              "text": "",
+              "answer": "15",
+              "accept": [
+                "£15"
+              ],
+              "explanation": "£9 is the daily price of a child's bike; an adult bike costs £15 a day."
+            },
+            {
+              "n": 9,
+              "text": "",
+              "answer": "shed",
+              "explanation": "Firewood is kept in the shed at the bottom of the garden, not in the locked garage."
+            },
+            {
+              "n": 10,
+              "text": "",
+              "answer": "housekeeper",
+              "explanation": "Late check-out is free but must be arranged with the housekeeper, not the office."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "context": "A ranger talks to a group of visitors at the start of a guided walk around a nature reserve.",
+      "speakers": {
+        "R": {
+          "name": "Kirsty (ranger)",
+          "gender": "female",
+          "accent": "en-NZ"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 2. You will hear a ranger talking to a group of visitors at the start of a guided walk around a nature reserve. First, you have some time to look at questions 11 to 15."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 11 to 15."
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "Good morning, everyone, and welcome to Elderbrook Nature Reserve. My name's Kirsty, and I'm one of the rangers here. Before we set off, I'd like to give you a quick idea of the route, and a few things to bear in mind."
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "If you look at your map, you'll see that we're at the visitor centre, at the bottom. The walk is a loop of about four kilometres, and it goes all the way round the lake. When we leave the building, we'll head north for about a hundred metres until we reach a fork, where the path divides. We're going round the lake anticlockwise this morning, so at the fork we'll take the right-hand path."
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "The path heads east at first and then gradually bends round to the north. Just before you get to the bridge, you'll see some wooden tables on your right, between the path and the stream. That's the picnic area. It's sheltered from the wind, so it's the best place for lunch.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "Then we'll cross the bridge over Elder Brook, the stream the reserve is named after. Just past the bridge, on your left, there's a wooden platform that sticks out over the edge of the lake. That's our pond-dipping platform. Children use nets to catch the tiny creatures that live in the shallow water there. Don't worry, everything goes back afterwards.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "From there, the path follows the lake round to the north. Some of you may remember the old bird hide, on the far side of the path next to the hedge. It was too far from the water to be much use, so last winter we replaced it. The new hide stands right at the water's edge, on the lake side of the path, and you can see the whole lake from there.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "After the hide, the path goes into Hawthorn Wood. It can get quite muddy in there, so watch your step. About halfway through the wood, there's a narrow track that leads off to the right, away from the lake. If you follow it up the hill, you'll come to the lookout tower. It's a bit of a climb, but on a clear day you can see the sea from the top.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "And finally, when you come out of the trees and head back towards the fork, you'll pass the wildflower meadow. It's on your right, in the corner between the path and the car park. There isn't much to see there yet, but in a month or so it'll be full of colour.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "t": "narr",
+          "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen and answer questions 16 to 20."
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "Right, a few other things before we go. A lot of visitors assume the lake is natural, but in fact it isn't. Fifty years ago this whole area was a gravel quarry, and when the digging stopped, the pit slowly filled up with water. It's actually very shallow, nowhere more than about two metres deep, which is one reason why so many wading birds come here to feed.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "When we get to the bird hide, there's no need to take turns at the windows. The new hide is much bigger than the old one, so there's room for everyone. And you're very welcome to take photographs. What I would ask, though, is that you keep your voices down. Sound carries a long way across water, and if the birds hear us, they'll fly off before we've had a chance to see them.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "Now, there's something new this year that I'm really excited about. At the top of the tallest trees in Hawthorn Wood there's a heronry, a group of herons' nests, and this spring, for the first time, we've put a camera up there. The pictures go straight to a big screen in the visitor centre, so you can watch the parents feeding their chicks. We'd hoped to open a nature trail for children this year as well, but sadly that's been delayed. And our evening bat walks start again in the summer, though we've been running those for years.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "You'll probably see some of our volunteers at work today. There are only three full-time rangers here, so we rely on them enormously. People tend to imagine they're all retired, but actually we have volunteers of all ages, including quite a few students from the local college. And they do nearly all the heavy practical jobs, like cutting back the reeds, mending fences and clearing the paths. If you'd like to join them, you can come as often or as rarely as you like.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "t": "say",
+          "who": "R",
+          "text": "Finally, when we get back here, I'll ask you all to spend a few minutes filling in a record sheet, ticking off the birds and animals you've seen. It all goes into our monthly survey, so it's really valuable to us. Normally I'd show you a short film after that, but the projector's being repaired, so not today, I'm afraid. The café's open until four, though. There's no discount for walkers, sorry, but the cakes are worth paying full price for. Right, if everyone's ready, let's go.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 2."
+        }
+      ],
+      "groups": [
+        {
+          "id": "listen1-p2-g1",
+          "type": "map_labelling",
+          "range": [
+            11,
+            15
+          ],
+          "instructions": "Label the map below. Write the correct letter, A–H, next to Questions 11–15.",
+          "title": "Elderbrook Nature Reserve",
+          "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 400\" role=\"img\" aria-label=\"Map of Elderbrook Nature Reserve\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"398\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><path d=\"M2,2 L238,2 C232,38 218,62 204,82 C192,104 182,128 177,152 C173,178 176,206 186,234 C170,250 150,258 120,262 C80,266 40,262 2,258 Z\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><line x1=\"25\" y1=\"36\" x2=\"25\" y2=\"42\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"25\" cy=\"30\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"75\" y1=\"30\" x2=\"75\" y2=\"36\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"75\" cy=\"24\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"125\" y1=\"36\" x2=\"125\" y2=\"42\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"125\" cy=\"30\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"180\" y1=\"30\" x2=\"180\" y2=\"36\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"180\" cy=\"24\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"30\" y1=\"88\" x2=\"30\" y2=\"94\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"82\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"92\" y1=\"68\" x2=\"92\" y2=\"74\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"92\" cy=\"62\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"150\" y1=\"68\" x2=\"150\" y2=\"74\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"62\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"28\" y1=\"146\" x2=\"28\" y2=\"152\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"28\" cy=\"140\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"80\" y1=\"164\" x2=\"80\" y2=\"170\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"80\" cy=\"158\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"157\" y1=\"156\" x2=\"157\" y2=\"162\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"157\" cy=\"150\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"40\" y1=\"242\" x2=\"40\" y2=\"248\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"40\" cy=\"236\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"100\" y1=\"248\" x2=\"100\" y2=\"254\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"100\" cy=\"242\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><line x1=\"168\" y1=\"232\" x2=\"168\" y2=\"238\" stroke=\"#222\" stroke-width=\"1.5\"/><circle cx=\"168\" cy=\"226\" r=\"7\" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><text x=\"62\" y=\"206\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" text-anchor=\"middle\" fill=\"#222\">Hawthorn Wood</text><path d=\"M262,20 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 a6,6 0 0 1 12,0 \" fill=\"#e8f3e4\" stroke=\"#222\" stroke-width=\"1.2\"/><text x=\"452\" y=\"20\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"13\" fill=\"#222\">Hedge</text><path d=\"M405,176 C450,182 520,178 600,200\" fill=\"none\" stroke=\"#222\" stroke-width=\"11\"/><path d=\"M405,176 C450,182 520,178 600,200\" fill=\"none\" stroke=\"#dfe8f1\" stroke-width=\"8\"/><text x=\"560\" y=\"222\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"13\" font-style=\"italic\" text-anchor=\"middle\" fill=\"#222\">Elder Brook</text><ellipse cx=\"300\" cy=\"175\" rx=\"115\" ry=\"62\" fill=\"#dfe8f1\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"300\" y=\"180\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"16\" font-weight=\"600\" text-anchor=\"middle\" fill=\"#222\">Lake</text><ellipse cx=\"300\" cy=\"175\" rx=\"175\" ry=\"112\" fill=\"none\" stroke=\"#222\" stroke-width=\"10\"/><line x1=\"300\" y1=\"287\" x2=\"300\" y2=\"332\" stroke=\"#222\" stroke-width=\"10\"/><line x1=\"148\" y1=\"358\" x2=\"242\" y2=\"358\" stroke=\"#222\" stroke-width=\"10\"/><ellipse cx=\"300\" cy=\"175\" rx=\"175\" ry=\"112\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"7\"/><line x1=\"300\" y1=\"287\" x2=\"300\" y2=\"332\" stroke=\"#ffffff\" stroke-width=\"7\"/><line x1=\"148\" y1=\"358\" x2=\"242\" y2=\"358\" stroke=\"#ffffff\" stroke-width=\"7\"/><line x1=\"131\" y1=\"135\" x2=\"62\" y2=\"104\" stroke=\"#222\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><rect x=\"466\" y=\"165\" width=\"18\" height=\"26\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"492\" y=\"170\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"13\" fill=\"#222\">Bridge</text><rect x=\"240\" y=\"330\" width=\"120\" height=\"52\" fill=\"#eef2f6\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"300\" y=\"352\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" text-anchor=\"middle\" fill=\"#222\">Visitor Centre</text><text x=\"300\" y=\"371\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"13\" text-anchor=\"middle\" fill=\"#222\">(you are here)</text><rect x=\"28\" y=\"336\" width=\"122\" height=\"46\" fill=\"#eef2f6\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"89\" y=\"364\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" text-anchor=\"middle\" fill=\"#222\">Car Park</text><polygon points=\"566,26 559,44 573,44\" fill=\"#222\"/><line x1=\"566\" y1=\"44\" x2=\"566\" y2=\"64\" stroke=\"#222\" stroke-width=\"2\"/><text x=\"566\" y=\"82\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#222\">N</text><circle cx=\"52\" cy=\"100\" r=\"11\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"52\" y=\"105\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#222\">A</text><circle cx=\"275\" cy=\"36\" r=\"11\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"275\" y=\"41\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#222\">B</text><circle cx=\"330\" cy=\"100\" r=\"11\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"330\" y=\"105\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#222\">C</text><circle cx=\"158\" cy=\"200\" r=\"11\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"158\" y=\"205\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#222\">D</text><circle cx=\"507\" cy=\"138\" r=\"11\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"507\" y=\"143\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#222\">E</text><circle cx=\"430\" cy=\"150\" r=\"11\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"430\" y=\"155\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#222\">F</text><circle cx=\"503\" cy=\"224\" r=\"11\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"503\" y=\"229\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#222\">G</text><circle cx=\"165\" cy=\"300\" r=\"11\" fill=\"#ffffff\" stroke=\"#222\" stroke-width=\"1.5\"/><text x=\"165\" y=\"305\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#222\">H</text></svg>",
+          "options": [
+            {
+              "key": "A",
+              "text": "A"
+            },
+            {
+              "key": "B",
+              "text": "B"
+            },
+            {
+              "key": "C",
+              "text": "C"
+            },
+            {
+              "key": "D",
+              "text": "D"
+            },
+            {
+              "key": "E",
+              "text": "E"
+            },
+            {
+              "key": "F",
+              "text": "F"
+            },
+            {
+              "key": "G",
+              "text": "G"
+            },
+            {
+              "key": "H",
+              "text": "H"
+            }
+          ],
+          "questions": [
+            {
+              "n": 11,
+              "text": "Picnic area",
+              "answer": "G",
+              "explanation": "Just before the bridge, on the right of the path 'between the path and the stream': that is G. E is past the bridge."
+            },
+            {
+              "n": 12,
+              "text": "Pond-dipping platform",
+              "answer": "F",
+              "explanation": "It is just past the bridge 'on your left', over the edge of the lake: F. E is on the right of the path, away from the water."
+            },
+            {
+              "n": 13,
+              "text": "Bird hide",
+              "answer": "C",
+              "explanation": "The new hide is 'right at the water's edge, on the lake side of the path': C. B, by the hedge, is where the old hide was."
+            },
+            {
+              "n": 14,
+              "text": "Lookout tower",
+              "answer": "A",
+              "explanation": "It is at the end of the narrow track that leads off to the right, away from the lake, in the wood: A. D is on the lake side of the path."
+            },
+            {
+              "n": 15,
+              "text": "Wildflower meadow",
+              "answer": "H",
+              "explanation": "On the way back to the fork it is 'in the corner between the path and the car park': H."
+            }
+          ]
+        },
+        {
+          "id": "listen1-p2-g2",
+          "type": "mcq",
+          "range": [
+            16,
+            20
+          ],
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 16,
+              "text": "What does the ranger say about the lake?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "It formed naturally a long time ago."
+                },
+                {
+                  "key": "B",
+                  "text": "It was created in a place where gravel used to be dug."
+                },
+                {
+                  "key": "C",
+                  "text": "It is deeper than it appears."
+                }
+              ],
+              "answer": "B",
+              "explanation": "The area 'was a gravel quarry' and the pit filled with rainwater. Visitors wrongly think it is natural, and it is 'very shallow'."
+            },
+            {
+              "n": 17,
+              "text": "What does the ranger ask the group to do in the bird hide?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "take turns at the windows"
+                },
+                {
+                  "key": "B",
+                  "text": "avoid taking photographs"
+                },
+                {
+                  "key": "C",
+                  "text": "talk quietly"
+                }
+              ],
+              "answer": "C",
+              "explanation": "She asks them to 'keep your voices down'. There is room for everyone at the windows, and photographs are welcome."
+            },
+            {
+              "n": 18,
+              "text": "What is new at the reserve this year?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "live pictures of birds on their nests"
+                },
+                {
+                  "key": "B",
+                  "text": "a nature trail for children"
+                },
+                {
+                  "key": "C",
+                  "text": "evening walks to see bats"
+                }
+              ],
+              "answer": "A",
+              "explanation": "A camera on the herons' nests sends pictures to a screen 'for the first time'. The trail has been delayed, and the bat walks have run for years."
+            },
+            {
+              "n": 19,
+              "text": "What does the ranger say about the volunteers?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "Most of them are retired."
+                },
+                {
+                  "key": "B",
+                  "text": "They do most of the physical work on the reserve."
+                },
+                {
+                  "key": "C",
+                  "text": "They are expected to help every week."
+                }
+              ],
+              "answer": "B",
+              "explanation": "They 'do nearly all the heavy practical jobs'. They are not all retired, and they can come 'as often or as rarely' as they like."
+            },
+            {
+              "n": 20,
+              "text": "What will the group do at the end of the walk?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "write down what they have seen"
+                },
+                {
+                  "key": "B",
+                  "text": "watch a short film"
+                },
+                {
+                  "key": "C",
+                  "text": "get a discount in the café"
+                }
+              ],
+              "answer": "A",
+              "explanation": "They will fill in 'a record sheet, ticking off the birds and animals'. The film is not possible today, and there is no discount."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "context": "Two university students meet their tutor and then plan a presentation on food packaging and waste.",
+      "speakers": {
+        "T": {
+          "name": "Dr Hollis (tutor)",
+          "gender": "female",
+          "accent": "en-GB"
+        },
+        "M": {
+          "name": "Maya",
+          "gender": "female",
+          "accent": "en-CA"
+        },
+        "J": {
+          "name": "Josh",
+          "gender": "male",
+          "accent": "en-AU"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 3. You will hear two students, Maya and Josh, talking to their tutor and then to each other about a presentation on food packaging and waste. First, you have some time to look at questions 21 to 25."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 21 to 25."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Come in, you two, have a seat. So, how's the presentation on food packaging coming along?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Well, we've found loads of material. Too much for fifteen minutes, really."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "That's normal at this stage. What were you planning to cover?"
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "We wanted to compare how three different countries deal with packaging waste. The laws, the recycling systems, that kind of thing."
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Hmm. It's interesting, but you'd need far more than fifteen minutes to do it justice. I'd pick just one kind of food, fresh fruit and vegetables, say, or ready meals, and look at all the packaging that goes with it. You'll go into far more depth that way.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "OK, that makes sense. Fresh produce, maybe?"
+        },
+        {
+          "t": "say",
+          "who": "T",
+          "text": "Good choice. Oh, and go easy on the statistics. Two or three well-chosen figures will stick in people's minds far better than slide after slide of numbers. Send me an outline by Friday, would you?"
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "Will do. Thanks, Dr Hollis."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "So, fresh fruit and veg. Josh, you've been reading about that, haven't you?"
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "Yeah, and it changed my mind a bit. I'd always assumed the plastic round fruit and vegetables was pointless. But a couple of studies showed that a thin wrapper can keep some vegetables fresh for days longer. So taking the packaging away could actually mean more food ends up in the bin.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Really? I'd never have guessed that."
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "Me neither. That was the big surprise for me. I sort of expected the low recycling rates, and it's hardly news that shoppers say they hate plastic."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "We should definitely include that. Now, what about collecting some data of our own? We could stand outside a supermarket and ask shoppers a few questions."
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "I actually asked the manager at the one on Kellett Road, and he said we'd need permission from head office. That could take weeks."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Oh. Well, what about an online questionnaire?"
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "Everyone's doing those. I've had five this week and haven't filled in a single one."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Fair point. What about something closer to home, then? There are twelve of us sharing the kitchen on our floor. We could ask everyone to put all their food packaging in a separate bin for a week, and then we weigh it and sort it by material."
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "I like that. It's real data, and it'd be easy to organise. I'm sure the others won't mind.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Great. Now, how can we make the presentation a bit livelier?"
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "We could show a video. There's a great clip online about a packaging factory."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Maybe, but the equipment in that seminar room is so unreliable. I'd rather bring in some actual packaging, like a wrapped cucumber or a plastic box of strawberries, and pass it round."
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "Yeah, that's better. OK, we'll do that.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "And what about a handout?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "In a talk about waste? Most people would just throw it away."
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "Ha, true. A chart of our results, then?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "I'm not sure. With only twelve people, a chart wouldn't really show much. We can just give the totals."
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "OK. Oh, I know! We could start with a quiz. Ask the audience to guess how long a cucumber stays fresh with and without its wrapper, that kind of thing. Just to get people involved."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "I love that idea. Put it on the list.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "t": "narr",
+          "text": "Before you hear the rest of the conversation, you have some time to look at questions 26 to 30."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen and answer questions 26 to 30."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Right, for the main section, we said we'd go through the different materials and pick out the key point about each one. Shall we start with glass?"
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "Sure. Now, I've heard people say that shoppers prefer glass."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "So had I, but actually, that survey I found showed that most shoppers don't really mind whether a jar is glass or plastic. No, the real issue with glass is the weight. It's so heavy that the trucks carrying it burn far more fuel than they would with lighter materials.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "OK. Then aluminium. Cans, foil trays, that sort of thing."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Aluminium's the success story, really. Making it from raw materials takes huge amounts of electricity, but recycling old cans uses only a tiny fraction of that.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "Cardboard next. I thought that would be the perfect material. It's cheap and easy to recycle."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "So did I. But fruit and vegetables are often kept somewhere cold and humid, and cardboard soaks up moisture and goes soft. Then the boxes collapse and the fruit underneath gets crushed.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "What about those plant-based plastics, the ones made from corn starch? Lots of people think you can just throw them on the compost heap at home."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "That's a common mistake. Most of them only break down at the high temperatures you get in industrial composting plants. On a garden compost heap they can last for years.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "And finally, the seaweed film. I read about a company that makes wrappers out of seaweed. You can even eat them."
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "It's a brilliant idea, and unlike those plant-based plastics, it breaks down almost anywhere. The problem is the price. At the moment it costs several times as much as ordinary plastic, so supermarkets won't be using it on a large scale any time soon.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "t": "say",
+          "who": "J",
+          "text": "Great. So I'll write the introduction and the quiz, and you do the materials?"
+        },
+        {
+          "t": "say",
+          "who": "M",
+          "text": "Deal."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 3."
+        }
+      ],
+      "groups": [
+        {
+          "id": "listen1-p3-g1",
+          "type": "mcq",
+          "range": [
+            21,
+            23
+          ],
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 21,
+              "text": "What does the tutor advise the students to do?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "compare the policies of different countries"
+                },
+                {
+                  "key": "B",
+                  "text": "concentrate on one category of food"
+                },
+                {
+                  "key": "C",
+                  "text": "include more statistics"
+                }
+              ],
+              "answer": "B",
+              "explanation": "Dr Hollis says 'pick just one kind of food'. Comparing countries was the students' idea, which she rejects, and she wants fewer statistics, not more."
+            },
+            {
+              "n": 22,
+              "text": "What surprised Josh in the research he read?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "that packaging can help to reduce food waste"
+                },
+                {
+                  "key": "B",
+                  "text": "how little packaging is recycled"
+                },
+                {
+                  "key": "C",
+                  "text": "how strongly shoppers dislike plastic"
+                }
+              ],
+              "answer": "A",
+              "explanation": "A wrapper can keep vegetables fresh longer, so removing it may mean 'more food ends up in the bin'. He expected the low recycling rates and shoppers' dislike of plastic."
+            },
+            {
+              "n": 23,
+              "text": "How will the students collect their own data?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "by interviewing customers at a supermarket"
+                },
+                {
+                  "key": "B",
+                  "text": "by sending out an online questionnaire"
+                },
+                {
+                  "key": "C",
+                  "text": "by measuring the packaging thrown away where they live"
+                }
+              ],
+              "answer": "C",
+              "explanation": "They will weigh the packaging that the twelve people on their floor put in a separate bin. The supermarket needs permission from head office, and people ignore online questionnaires."
+            }
+          ]
+        },
+        {
+          "id": "listen1-p3-g2",
+          "type": "mcq_multi",
+          "range": [
+            24,
+            25
+          ],
+          "instructions": "Choose TWO letters, A–E.",
+          "questions": [
+            {
+              "n": [
+                24,
+                25
+              ],
+              "text": "Which TWO things do the students agree to include in their presentation?",
+              "choices": [
+                {
+                  "key": "A",
+                  "text": "a video clip"
+                },
+                {
+                  "key": "B",
+                  "text": "examples of real packaging"
+                },
+                {
+                  "key": "C",
+                  "text": "a handout"
+                },
+                {
+                  "key": "D",
+                  "text": "a quiz for the audience"
+                },
+                {
+                  "key": "E",
+                  "text": "a chart of their results"
+                }
+              ],
+              "answer": [
+                "B",
+                "D"
+              ],
+              "explanation": "They agree to pass round actual packaging and to start with a quiz. The video depends on unreliable equipment, a handout would be wasteful, and a chart based on only twelve people would not show much."
+            }
+          ]
+        },
+        {
+          "id": "listen1-p3-g3",
+          "type": "matching",
+          "range": [
+            26,
+            30
+          ],
+          "instructions": "What do the students say about each of the following packaging materials? Choose FIVE answers from the box and write the correct letter, A–F, next to Questions 26–30.",
+          "title": "Comments",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is too expensive to be widely used at present."
+            },
+            {
+              "key": "B",
+              "text": "It needs special conditions in order to break down."
+            },
+            {
+              "key": "C",
+              "text": "It has a high environmental cost in transport."
+            },
+            {
+              "key": "D",
+              "text": "It performs poorly in damp conditions."
+            },
+            {
+              "key": "E",
+              "text": "Recycling it requires far less energy than producing it new."
+            },
+            {
+              "key": "F",
+              "text": "Most shoppers prefer it to the alternatives."
+            }
+          ],
+          "questions": [
+            {
+              "n": 26,
+              "text": "glass",
+              "answer": "C",
+              "explanation": "Glass is so heavy that 'the trucks carrying it burn far more fuel'. The idea that shoppers prefer it (F) is contradicted by Maya's survey."
+            },
+            {
+              "n": 27,
+              "text": "aluminium",
+              "answer": "E",
+              "explanation": "Making new aluminium takes huge amounts of electricity, but recycling old cans 'uses only a tiny fraction of that'."
+            },
+            {
+              "n": 28,
+              "text": "cardboard",
+              "answer": "D",
+              "explanation": "In cold, humid storage cardboard 'soaks up moisture and goes soft'. It is described as cheap, so A does not fit."
+            },
+            {
+              "n": 29,
+              "text": "plant-based plastic",
+              "answer": "B",
+              "explanation": "Most only break down at the high temperatures of industrial composting plants, not on a garden compost heap."
+            },
+            {
+              "n": 30,
+              "text": "seaweed film",
+              "answer": "A",
+              "explanation": "It 'costs several times as much as ordinary plastic', so it will not be used on a large scale soon. Unlike plant-based plastic, it breaks down almost anywhere (not B)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "context": "A university lecture on bioluminescence in marine animals: how the light is produced, what animals use it for, and how it is studied.",
+      "speakers": {
+        "L": {
+          "name": "Lecturer",
+          "gender": "male",
+          "accent": "en-US"
+        }
+      },
+      "script": [
+        {
+          "t": "narr",
+          "text": "Part 4. You will hear a lecture about bioluminescence in marine animals. First, you have some time to look at questions 31 to 40."
+        },
+        {
+          "t": "pause",
+          "s": 30
+        },
+        {
+          "t": "narr",
+          "text": "Now listen carefully and answer questions 31 to 40."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Good morning, everyone. Today we're looking at one of the most remarkable things in the ocean: bioluminescence, which is simply light produced by living organisms. You've probably seen fireflies on a summer evening, but on land, bioluminescence is actually quite rare. In the sea, it's a different story. Some surveys suggest that around three-quarters of the animals living in the deep open ocean can produce light of some kind. So today I'll explain how the light is produced, what animals use it for, and how scientists study it."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Let's start with the chemistry. In almost every case, the light comes from a reaction between a molecule called luciferin and oxygen. On its own, this reaction would be far too slow to be useful, so it's sped up by an enzyme known as luciferase.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "What's remarkable is that the reaction produces almost no heat. Compare that with an old-fashioned light bulb, which gives off most of its energy as heat rather than light. In bioluminescence, very little energy is wasted in that way, which is why it's often called 'cold light'.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Interestingly, not every glowing animal makes its own light. Many fish and squid don't produce the chemicals themselves at all. Instead, they keep colonies of bacteria inside special light organs. The animal gives the bacteria shelter and nutrients, and in return, they provide a steady glow.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "And a few species seem to obtain their luciferin through their diet, by eating smaller animals that already contain it.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "What about colour? Fireflies tend to produce yellow or green light, but in the ocean the great majority of light is blue. That's because blue light travels furthest through seawater, while red light is absorbed quite close to the surface. Not surprisingly, the eyes of most deep-sea animals are only sensitive to blue light, and that will be important later on.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "So, what do animals actually use their light for? One of the most important uses is camouflage. That might sound strange. Surely producing light makes you easier to see? But think about a predator in the deep, looking upwards. Even hundreds of metres down, a faint light filters down from the surface, so any animal swimming above shows up as a dark shape. The hatchetfish solves this problem with rows of light organs along its belly, pointing downwards. By matching the faint light from above, the fish makes its silhouette disappear.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Light can also be used for defence. Some deep-sea shrimps, when they're attacked, spit out a cloud of glowing liquid, rather like a squid releasing ink, which distracts the predator while the shrimp escapes."
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "And of course, light is used in hunting. The best-known example is the anglerfish, which dangles a glowing lure in front of its mouth. But my favourite is the dragonfish. Unlike almost every other deep-sea animal, it produces red light as well as blue. Since most of the animals it feeds on can't see red light, the dragonfish can light up its prey without them ever noticing. It's like hunting with a light that nobody else can see.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "The third major use is communication, particularly in finding a mate. Lanternfish are a good example. There are hundreds of species, and each one has its own distinctive pattern of light organs on its body, which probably helps the fish to recognise their own kind in the dark.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Finally, how is all this researched? It's surprisingly difficult. Deep-sea animals are extremely fragile, and many are damaged or stop glowing when they're brought to the surface in nets. So, where possible, scientists study the light where it's produced. One useful instrument is called a bathyphotometer. It pumps seawater through a dark chamber, and as the water flows through, any organisms in it are disturbed, so they flash. A sensor then measures how much light they give off.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Filming is another challenge, because the bright white lights on underwater vehicles tend to frighten animals away. But remember that most deep-sea animals can't see red light? Researchers now take advantage of this by using red lights on their cameras. One team went even further and built an electronic lure that copies the display a jellyfish produces when it's under attack: a spinning ring of blue light, which seems to attract bigger predators that may eat the attacker. The lure has had impressive results. It even helped to attract a giant squid, which was filmed in the deep ocean.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "t": "say",
+          "who": "L",
+          "text": "Next week, we'll look at how some of these light-producing chemicals are now being used in medical research."
+        },
+        {
+          "t": "narr",
+          "text": "That is the end of Part 4."
+        }
+      ],
+      "groups": [
+        {
+          "id": "listen1-p4-g1",
+          "type": "note_completion",
+          "range": [
+            31,
+            40
+          ],
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "limit": "ONE WORD ONLY",
+          "title": "Bioluminescence in marine animals",
+          "template": "# Introduction\n- Bioluminescence: light produced by living organisms\n- rare on land, but very common in the deep ocean\n# How the light is produced\n- a molecule called luciferin reacts with {{31}}\n- an enzyme (luciferase) makes the reaction faster\n- very little energy is lost as {{32}}, so it is known as 'cold light'\n- some animals depend on {{33}} that live in their light organs\n- a few species get luciferin from their {{34}}\n- most light in the ocean is {{35}}, as this colour travels furthest through seawater\n# Uses\n- Camouflage: the hatchetfish has light organs along its {{36}}, which hide its outline from predators below\n- Defence: some shrimps release a glowing cloud to confuse predators\n- Hunting: the dragonfish produces red light, which its {{37}} cannot see\n- Communication: lanternfish species can be identified by the {{38}} of their light organs\n# Research methods\n- many animals are damaged or stop glowing when they are brought to the surface\n- a bathyphotometer pumps seawater through a dark {{39}}, and a sensor measures the light produced\n- cameras use red light, which most deep-sea animals cannot see\n- an electronic lure that imitates a {{40}} under attack has attracted a giant squid",
+          "questions": [
+            {
+              "n": 31,
+              "text": "",
+              "answer": "oxygen",
+              "explanation": "The light comes from 'a reaction between a molecule called luciferin and oxygen'. Luciferase is the enzyme that speeds it up, not what luciferin reacts with."
+            },
+            {
+              "n": 32,
+              "text": "",
+              "answer": "heat",
+              "explanation": "Unlike an old light bulb, which gives off most of its energy as heat, the reaction wastes very little energy this way, hence 'cold light'."
+            },
+            {
+              "n": 33,
+              "text": "",
+              "answer": "bacteria",
+              "explanation": "Many fish and squid 'keep colonies of bacteria inside special light organs' instead of making the chemicals themselves."
+            },
+            {
+              "n": 34,
+              "text": "",
+              "answer": "diet",
+              "explanation": "A few species 'obtain their luciferin through their diet', by eating smaller animals that already contain it."
+            },
+            {
+              "n": 35,
+              "text": "",
+              "answer": "blue",
+              "explanation": "Yellow or green is the light of fireflies on land; in the ocean most light is blue, because blue travels furthest through seawater."
+            },
+            {
+              "n": 36,
+              "text": "",
+              "answer": "belly",
+              "explanation": "The hatchetfish has 'rows of light organs along its belly, pointing downwards', which make its silhouette disappear."
+            },
+            {
+              "n": 37,
+              "text": "",
+              "answer": "prey",
+              "explanation": "Most animals the dragonfish feeds on can't see red light, so it 'can light up its prey' unnoticed."
+            },
+            {
+              "n": 38,
+              "text": "",
+              "answer": "pattern",
+              "explanation": "Each lanternfish species has 'its own distinctive pattern of light organs', which helps the fish recognise their own kind."
+            },
+            {
+              "n": 39,
+              "text": "",
+              "answer": "chamber",
+              "explanation": "The bathyphotometer 'pumps seawater through a dark chamber', where disturbed organisms flash and a sensor measures the light."
+            },
+            {
+              "n": 40,
+              "text": "",
+              "answer": "jellyfish",
+              "explanation": "The lure copies 'the display a jellyfish produces when it's under attack', and it helped to attract a giant squid."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
